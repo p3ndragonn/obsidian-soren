@@ -29,8 +29,6 @@ tags:
 
 [[Kaelor Vargan]] · [[Narek]] · [[Torven]] · [[Vaeren Thalvyr]]
 
-> [!note] Type de présence
-> Certains personnages sont évoqués, contactés ou rappelés sans rencontre physique dans cette journée. Le déroulé ci-dessous fait foi pour distinguer ces situations.
 
 ## 3. Lieux et déplacements
 
@@ -43,8 +41,6 @@ tags:
 
 Aucune dépense ou recette consignée.
 
-> [!warning] Comptabilité
-> Les commandes ne sont pas traitées comme des paiements avant leur règlement ; les sommes proposées ou conditionnelles ne sont pas des gains acquis. En cas d'écart entre relevés, la source est conservée sans correction fictive.
 
 ## 5. Objets, équipement et ressources
 
@@ -54,29 +50,10 @@ Transfert des affaires personnelles chez Vaeren ; cabane vidée.
 
 Aucun gain d'EXP ou de statistiques enregistré.
 
-## 7. Déroulement détaillé conservé
+## 7. Récit complet
 
-**Le dernier entraînement et la cabane d'enfance**
+Lire [[J-2 — 10 Floréane 427|le journal narratif de cette journée]] pour le déroulement détaillé, les dialogues et le contexte.
 
-Soren effectue son dernier entraînement connu avant la cérémonie auprès de **Kaelor Vargan**, son maître depuis dix ans.
-
-Kaelor, ancien garde personnel royal de rang S, lui a enseigné le combat rapproché, les changements d'appui, l'observation, la survie et la discipline martiale. Cette séance ne donne lieu à aucun gain mécanique chiffré.
-
-Soren se rend ensuite à l'atelier de Torven pour retrouver Narek. Une plaisanterie concernant un toit à inspecter sert de prétexte à leur rendez-vous.
-
-Après avoir terminé une pièce de menuiserie, Narek est autorisé à partir avec lui.
-
-Les deux jeunes hommes rejoignent l'ancienne cabane de Soren, équipée d'un système de toit rétractable. Narek examine réellement le mécanisme et constate qu'il fonctionne, malgré la poussière accumulée sur certains rails.
-
-Après avoir passé un moment ensemble, Narek retourne travailler.
-
-Soren entreprend alors de nettoyer et de vider sa cabane. Il entretient les rails du toit, range ses dernières affaires et transporte ses effets personnels jusqu'à la maison de Vaeren.
-
-Il retrouve ainsi son ancienne chambre d'enfant.
-
-C'est la fin de sa vie quotidienne dans la cabane qui l'a accompagné pendant son adolescence.
-
-**Personnages intervenants :** Kaelor, Torven, Narek et Vaeren.
 
 ---
 
