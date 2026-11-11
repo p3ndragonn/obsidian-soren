@@ -17,7 +17,7 @@ tags:
 
 > [!info] Repères
 > **Jour :** J-7 · **Date :** 5 Floréane 427  
-> **Parcours :** [[Varkhûn]] → [[Marché de Varkhûn]]
+> **Parcours :** [[Varkhûn]] → Marché de Varkhûn
 
 ## 1. Événements importants
 
@@ -32,7 +32,7 @@ tags:
 ## 3. Lieux et déplacements
 
 - [[Varkhûn]]
-- [[Marché de Varkhûn]]
+- Marché de Varkhûn
 
 ## 4. Dépenses, gains et solde
 
