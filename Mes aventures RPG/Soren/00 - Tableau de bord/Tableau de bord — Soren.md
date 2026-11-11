@@ -35,6 +35,10 @@ cssclasses: "systeme-dashboard"
 - [[Index des illustrations]] — références visuelles
 - [[Références du SYSTÈME]] — canons et règles
 
+## Historique des événements
+
+- **[[Index — Historique]]** — 20 journées, événements, rencontres, lieux, recettes, dépenses, objets et évolutions.
+
 ## Journaux — 20 journées
 
 - [[J-7 — 5 Floréane 427]]
