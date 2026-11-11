@@ -1,69 +1,43 @@
 ---
-type: "dashboard"
-titre: "Tableau de bord — Soren"
-campagne: "Soren"
-source: "Chronique intégrale — arrêt J+12"
-cssclasses: "systeme-dashboard"
+type: dashboard
+campagne: Soren
+version: J+13
+cssclasses:
+  - systeme-dashboard
 ---
+# S Y S T È M E — Soren
 
-# S Y S T È M E
-## Tableau de bord — Soren
+> [!info] Partie en cours
+> **J+13 · 25 Floréane 427 · 6 h 06** — départ d'[[Aethérion]] vers les bois du nord-est. **Tévan dirige la chasse.**
 
-> [!info] Sauvegarde active
-> **J+13 — 25 Floréane 427, 6 h 06** · [[Aethérion]] · Chambre n° 3 · **232 Pièces** · 3 transferts disponibles sur le [[Cœur de mana des Trois Veilleurs]].
-
-| Fiche | Situation |
+| Soren | État actuel |
 |---|---|
-| Personnage | [[Soren Thalvyr]] |
-| Rang / Guilde | C / D |
-| Classe | Danseur des Griffes d’Acier [A], niveau 26 |
-| Profession | Éclaireur des Terres Sauvages [B], niveau 18 |
-| Compagnons | [[Tévan]], [[Hadrien]] |
-| Loups | [[Varkhan]], [[Aelkan]], [[Sylkan]] |
-| Dernier état | [[19 - Situation actuelle et objectifs]] |
+| Rang personnel / grade Guilde | **C / D** |
+| Classe / niveau | Danseur des Griffes d'Acier [A] — **26** |
+| Profession / niveau | Éclaireur des Terres Sauvages [B] — **18** |
+| Caractéristiques permanentes | **348 points** |
+| Fortune | **232 Pièces** |
+| Meute | [[Varkhan]], [[Aelkan]], [[Sylkan]] |
+| Artefact légendaire | **3 transferts disponibles**, non vendus |
 
-## Personnage principal
+## Reprendre la partie
 
-- **[[Fiche personnage — Soren Thalvyr]]** — dossier officiel J+13 et 20 sous-notes.
-- **[[00 - Sommaire de Soren]]** — accès aux 20 rubriques.
-- **[[19 - Situation actuelle et objectifs]]** — reprise J+13 à 6 h 06.
+- **[[État de reprise J+13]]** — dernière situation vérifiée.
+- **[[Fiche personnage — Soren Thalvyr]]** — présentation officielle du personnage.
+- [[00 - Sommaire de Soren]] — toutes les caractéristiques, compétences et possessions.
 
-## Accès aux archives
+## Consulter les archives
 
-- [[Chronologie générale]] — 20 journées archivées
-- [[Statut — Soren]] — évolution, compétences et inventaire
-- [[Comptabilité — Soren]] — dépenses, recettes et projets
-- [[Points de vigilance]] — chronologie et divergences
-- [[Index des illustrations]] — références visuelles
-- [[Références du SYSTÈME]] — canons et règles
+| Rubrique | Contenu |
+|---|---|
+| [[Chronologie générale]] | 20 jours d'aventure archivés (J−7 à J+12) |
+| [[Index — Historique]] | Synthèses quotidiennes : événements, rencontres, dépenses et objets |
+| [[Chronologie détaillée et index des PNJ]] | Accès au répertoire des personnages |
+| [[Statut — Soren]] | Récapitulatif mécanique actualisé |
+| [[Comptabilité — Soren]] | Historique des dépenses et gains déjà connus |
+| [[Points de vigilance]] | Écarts documentaires et règles de continuité |
+| [[Index des illustrations]] | Références visuelles et portraits |
+| [[Références du SYSTÈME]] | Documents de règles canoniques |
 
-## Historique des événements
-
-- **[[Index — Historique]]** — 20 journées, événements, rencontres, lieux, recettes, dépenses, objets et évolutions.
-
-## Journaux — 20 journées
-
-- [[J-7 — 5 Floréane 427]]
-- [[J-6 — 6 Floréane 427]]
-- [[J-5 — 7 Floréane 427]]
-- [[J-4 — 8 Floréane 427]]
-- [[J-3 — 9 Floréane 427]]
-- [[J-2 — 10 Floréane 427]]
-- [[J-1 — 11 Floréane 427]]
-- [[J0 — 12 Floréane 427]]
-- [[J+1 — 13 Floréane 427]]
-- [[J+2 — 14 Floréane 427]]
-- [[J+3 — 15 Floréane 427]]
-- [[J+4 — 16 Floréane 427]]
-- [[J+5 — 17 Floréane 427]]
-- [[J+6 — 18 Floréane 427]]
-- [[J+7 — 19 Floréane 427]]
-- [[J+8 — 20 Floréane 427]]
-- [[J+9 — 21 Floréane 427]]
-- [[J+10 — 22 Floréane 427]]
-- [[J+11 — 23 Floréane 427]]
-- [[J+12 — 24 Floréane 427]]
-
-
-> [!warning] État des informations
-> Les projets et ventes envisagées ne constituent pas des faits réalisés. Les secrets du Fondateur sont cloisonnés.
+> [!warning] Archivage
+> Ne pas confondre l'état **J+13** avec l'ancienne sauvegarde **J+12** ; les recettes potentielles ne sont pas des encaissements.
