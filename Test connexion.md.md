@@ -1,1 +1,0 @@
-`Test de synchronisation entre Obsidian, GitHub et ChatGPT.`
