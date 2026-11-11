@@ -16,7 +16,7 @@ Soren se montre charmeur, ce qui amuse beaucoup Tévan et Hadrien.
 
 Rhaegar vérifie ses armes et l'autorise à conserver ses Crocs en ville, à condition de respecter les règles de sécurité.
 
-#### L'admission à la Guilde
+## L'admission à la Guilde
 
 Soren rejoint la Guilde des Aventuriers et passe plusieurs épreuves :
 
@@ -33,19 +33,19 @@ Il rencontre **Maëlys**, responsable administrative, qui valide son inscription
 
 Le titre **Aventurier Grade D** lui est attribué ; dans son cas particulier, il s'accompagne d'un renforcement d'aura et d'un bonus de 10 % à toutes ses statistiques.
 
-#### Le premier logement
+## Le premier logement
 
 Soren découvre les services de la Guilde : missions, entraînement, bibliothèque, hébergement, bains et restauration.
 
 Il profite d'une offre de nouvel inscrit pour réserver trente nuits dans le **dortoir masculin n° 12, lit n° 5**, pour 30 Pièces, avec petit-déjeuner compris. Cette réservation sera ensuite prise en compte dans le calcul de ses crédits de logement.
 
-#### La première mission
+## La première mission
 
 Retrouvant Tévan et Hadrien, il leur annonce son grade D.
 
 Ils choisissent ensemble la mission **D-124**, consistant à chasser un sanglier cuirassé près de **Valcendre**, pour une récompense collective de 240 Pièces.
 
-#### La révélation des téléportations
+## La révélation des téléportations
 
 Pendant une séance d'entraînement en salle n° 6, Soren demande à Tévan et Hadrien de garder secrètes certaines capacités.
 
@@ -71,7 +71,7 @@ Sources de la première partie de l'aventure et des formalités à Aethérion : 
 
 ---
 
-**Navigation :** [[Tableau de bord — Soren]] · [[Chronologie générale]] · [[Soren Thalvyr]]
+**Navigation :** [[Tableau de bord — Soren]] · [[Chronologie générale]] · [[Soren Thalvyr]] · [[J+6 — 18 Floréane 427 — Historique|Bilan de la journée]]
 
 > [!note] Source et limites
 > Compte rendu repris du résumé de campagne. Les événements ou paroles non consignés ne sont pas inventés.

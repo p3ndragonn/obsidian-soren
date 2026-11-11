@@ -14,7 +14,7 @@ Vers 8 h 22, ils traversent prudemment le **pont de Brumecôte**, partiellement 
 
 Ils arrivent à **Rochebrune** vers 13 h 20 et s'installent à l'**Auberge du Marteau et de la Chope**, tenue par **Brunna**. Ils prennent une chambre triple pour deux nuits.
 
-#### Les artisans de Rochebrune
+## Les artisans de Rochebrune
 
 Soren rencontre **Dornak Barbe-de-Fer**, à l'Atelier des Trois Marteaux.
 
@@ -26,7 +26,7 @@ Soren consulte **Hilda**, spécialiste des matériaux inhabituels, au sujet du c
 
 Une analyse approfondie à 20 Pièces est proposée. Soren refuse pour préserver son budget.
 
-#### Le défi de Brunna
+## Le défi de Brunna
 
 De retour à l'auberge, l'appétit de Soren provoque un défi lancé par Brunna et le cuisinier nain **Brokk**.
 
@@ -38,7 +38,7 @@ Brunna lui accorde en récompense ses repas gratuits pendant les deux journées 
 
 Cette victoire donne naissance à la réputation locale du **« repas Soren »**.
 
-#### Une course sous la lune
+## Une course sous la lune
 
 Après le repas, Soren part courir dans les prairies sous la pleine lune. Il profite de ce moment pour réfléchir à son village et à ses proches.
 
@@ -52,7 +52,7 @@ Il retrouve enfin Tévan à l'auberge, et leur relation se poursuit.
 
 ---
 
-**Navigation :** [[Tableau de bord — Soren]] · [[Chronologie générale]] · [[Soren Thalvyr]]
+**Navigation :** [[Tableau de bord — Soren]] · [[Chronologie générale]] · [[Soren Thalvyr]] · [[J+3 — 15 Floréane 427 — Historique|Bilan de la journée]]
 
 > [!note] Source et limites
 > Compte rendu repris du résumé de campagne. Les événements ou paroles non consignés ne sont pas inventés.

@@ -12,7 +12,7 @@ Ils se renseignent sur l'animal et effectuent une reconnaissance du terrain.
 
 La cible est un vieux mâle solitaire, particulièrement massif, dont le poids est estimé à environ **1 530 kg**.
 
-#### L'affrontement
+## L'affrontement
 
 Le groupe choisit une clairière favorable au combat.
 
@@ -28,7 +28,7 @@ La créature est finalement abattue.
 
 **Les trois aventuriers sortent indemnes de l'affrontement.**
 
-#### Les récompenses
+## Les récompenses
 
 De retour à Aethérion, la mission est validée.
 
@@ -40,7 +40,7 @@ Les défenses sont également vendues à un acheteur nommé **Odran**, pour 155 
 
 La fortune de Soren atteint **935 Pièces** après ces transactions.
 
-#### Une nouvelle tenue chez Corvin
+## Une nouvelle tenue chez Corvin
 
 Soren découvre ensuite l'atelier **Les Cuirs de l'Épervier**, tenu par **Maître Corvin**.
 
@@ -52,7 +52,7 @@ Le prix total est de **265 Pièces**, réparti entre le harnais (55), le short (
 
 Corvin prend ses mesures et programme la fabrication.
 
-#### La mission suivante
+## La mission suivante
 
 Soren choisit également un contrat individuel de grade D : **D-142 — Les Crocs de la Ravine**, concernant plusieurs créatures lupines agressives à la Ravine de l'Aube.
 
@@ -66,7 +66,7 @@ Le départ est prévu pour le lendemain.
 
 ---
 
-**Navigation :** [[Tableau de bord — Soren]] · [[Chronologie générale]] · [[Soren Thalvyr]]
+**Navigation :** [[Tableau de bord — Soren]] · [[Chronologie générale]] · [[Soren Thalvyr]] · [[J+7 — 19 Floréane 427 — Historique|Bilan de la journée]]
 
 > [!note] Source et limites
 > Compte rendu repris du résumé de campagne. Les événements ou paroles non consignés ne sont pas inventés.

@@ -18,7 +18,7 @@ Hadrien prépare ensuite la truite, la vide et la fait cuire sur un feu. Les tro
 
 Soren raconte certaines de ses anciennes habitudes de survie, notamment sa manière de se nourrir sans toujours allumer de feu.
 
-#### Arrivée à Clairerive
+## Arrivée à Clairerive
 
 Vers 15 h 35, le groupe atteint Clairerive et s'installe à l'**Auberge du Cerf d'Argent**, dans une chambre triple.
 
@@ -40,7 +40,7 @@ Les trois compagnons se couchent en prévoyant un départ très matinal pour la 
 
 ---
 
-**Navigation :** [[Tableau de bord — Soren]] · [[Chronologie générale]] · [[Soren Thalvyr]]
+**Navigation :** [[Tableau de bord — Soren]] · [[Chronologie générale]] · [[Soren Thalvyr]] · [[J+5 — 17 Floréane 427 — Historique|Bilan de la journée]]
 
 > [!note] Source et limites
 > Compte rendu repris du résumé de campagne. Les événements ou paroles non consignés ne sont pas inventés.
