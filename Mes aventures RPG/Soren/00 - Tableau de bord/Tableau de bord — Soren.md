@@ -32,7 +32,11 @@ cssclasses:
 |---|---|
 | [[Chronologie générale]] | 20 jours d'aventure archivés (J−7 à J+12) |
 | [[Index — Historique]] | Synthèses quotidiennes : événements, rencontres, dépenses et objets |
-| [[Chronologie détaillée et index des PNJ]] | Accès au répertoire des personnages |
+| [[Index — Personnages et PNJ]] | Répertoire des personnages et compagnons |
+| [[Index — Lieux]] | Villes, régions et points importants |
+| [[Index — Équipements et possessions]] | Armes, objets et possessions |
+| [[Index — Quêtes]] | Missions et objectifs en cours |
+| [[Index — Relations]] | Liens, alliances et factions |
 | [[Statut — Soren]] | Récapitulatif mécanique actualisé |
 | [[Comptabilité — Soren]] | Historique des dépenses et gains déjà connus |
 | [[Points de vigilance]] | Écarts documentaires et règles de continuité |
