@@ -28,7 +28,7 @@ tags:
 
 ## 2. Personnages rencontrés ou présents
 
-[[Tévan]] · [[Hadrien]] · [[Marel]] · [[Odran]] · [[Maître Corvin]]
+[[Tévan]] · [[Hadrien]] · [[Marel]] · Odran · [[Maître Corvin]]
 
 
 ## 3. Lieux et déplacements

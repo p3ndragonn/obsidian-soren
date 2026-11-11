@@ -17,7 +17,7 @@ tags:
 
 > [!info] Repères
 > **Jour :** J+5 · **Date :** 17 Floréane 427  
-> **Parcours :** [[Route Rochebrune–Clairerive]] → [[Clairerive]] → [[Auberge du Cerf d'Argent]] → [[Cour des Lices]] → [[Bains des Deux Sources]]
+> **Parcours :** Route Rochebrune–Clairerive → [[Clairerive]] → Auberge du Cerf d'Argent → Cour des Lices → Bains des Deux Sources
 
 ## 1. Événements importants
 
@@ -34,11 +34,11 @@ tags:
 
 ## 3. Lieux et déplacements
 
-- [[Route Rochebrune–Clairerive]]
+- Route Rochebrune–Clairerive
 - [[Clairerive]]
-- [[Auberge du Cerf d'Argent]]
-- [[Cour des Lices]]
-- [[Bains des Deux Sources]]
+- Auberge du Cerf d'Argent
+- Cour des Lices
+- Bains des Deux Sources
 
 ## 4. Dépenses, gains et solde
 

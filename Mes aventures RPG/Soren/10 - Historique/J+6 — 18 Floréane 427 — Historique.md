@@ -17,7 +17,7 @@ tags:
 
 > [!info] Repères
 > **Jour :** J+6 · **Date :** 18 Floréane 427  
-> **Parcours :** [[Route Clairerive–Aethérion]] → [[Portes orientales d'Aethérion]] → [[Guilde des Aventuriers d’Aethérion]] → [[Dortoir n° 12]] → [[Salle d'entraînement n° 6]]
+> **Parcours :** Route Clairerive–Aethérion → Portes orientales d'Aethérion → [[Guilde des Aventuriers d’Aethérion]] → Dortoir n° 12 → Salle d'entraînement n° 6
 
 ## 1. Événements importants
 
@@ -34,11 +34,11 @@ tags:
 
 ## 3. Lieux et déplacements
 
-- [[Route Clairerive–Aethérion]]
-- [[Portes orientales d'Aethérion]]
+- Route Clairerive–Aethérion
+- Portes orientales d'Aethérion
 - [[Guilde des Aventuriers d’Aethérion]]
-- [[Dortoir n° 12]]
-- [[Salle d'entraînement n° 6]]
+- Dortoir n° 12
+- Salle d'entraînement n° 6
 
 ## 4. Dépenses, gains et solde
 

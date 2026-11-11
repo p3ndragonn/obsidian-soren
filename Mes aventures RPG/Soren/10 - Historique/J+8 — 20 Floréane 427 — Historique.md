@@ -17,7 +17,7 @@ tags:
 
 > [!info] Repères
 > **Jour :** J+8 · **Date :** 20 Floréane 427  
-> **Parcours :** [[Aethérion]] → [[Ravine de l’Aube]] → [[Les Cuirs de l’Épervier]] → [[Dortoir n° 12]]
+> **Parcours :** [[Aethérion]] → [[Ravine de l’Aube]] → [[Les Cuirs de l’Épervier]] → Dortoir n° 12
 
 ## 1. Événements importants
 
@@ -37,7 +37,7 @@ tags:
 - [[Aethérion]]
 - [[Ravine de l’Aube]]
 - [[Les Cuirs de l’Épervier]]
-- [[Dortoir n° 12]]
+- Dortoir n° 12
 
 ## 4. Dépenses, gains et solde
 
