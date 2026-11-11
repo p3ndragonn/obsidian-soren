@@ -6,7 +6,7 @@ campagne: Soren
 # Historique de Soren — Journées
 
 > [!info] Période archivée
-> **J−7 au J+12 · 5–24 Floréane 427**. Chaque page contient une synthèse structurée et les scènes du résumé officiel, sans ajouter d'événement.
+> **J−7 au J+13 · 5–25 Floréane 427**. Chaque page contient une synthèse structurée et les scènes du résumé officiel, sans ajouter d'événement.
 
 - [[J-7 — 5 Floréane 427 — Historique]] — La rencontre d'Erynn
 - [[J-6 — 6 Floréane 427 — Historique]] — Les premiers rapprochements
@@ -28,6 +28,7 @@ campagne: Soren
 - [[J+10 — 22 Floréane 427 — Historique]] — La Crypte des Trois Veilleurs — La découverte du laboratoire clandestin
 - [[J+11 — 23 Floréane 427 — Historique]] — Le premier véritable foyer à Aethérion
 - [[J+12 — 24 Floréane 427 — Historique]] — Les téléportations des loups, le noyau légendaire et les négociations royales
+- [[J+13 — 25 Floréane 427 — Historique]] — Le dragon de Borin, la forge runique et le contrat d'association
 
 ## Règles d'archivage
 
@@ -38,4 +39,4 @@ campagne: Soren
 - Les inconnues du monde restent inconnues, sans révélation de secrets par déduction.
 - Les données mécaniques ne sont pas recalculées lorsqu'elles n'apparaissent pas dans la source.
 
-**Dernier point de reprise :** [[État de reprise J+12]] — 24 Floréane 427 à 20 h 03, chambre 3 d'Aethérion, Soren et Tévan avec leurs familiers.
+**Dernier point de reprise :** [[État de reprise J+14]] — **fin J+13, 25 Floréane 427 à 19 h 46** : Soren dort en chambre n° 3 avec ses trois loups. Réveil programmé **3 h 50 J+14**, Borin attendu à **6 h** avec son générateur.
