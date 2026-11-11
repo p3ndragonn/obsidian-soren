@@ -1,15 +1,15 @@
 ---
 type: "index_fiche_soren"
 campagne: "Soren"
-version: "J+13"
+version: "fin J+13"
 date_univers: "25 Floréane 427"
-heure_reference: "06:06"
+heure_reference: "19:46"
 source: "Fiche officielle de Soren Thalvyr fournie par le Fondateur"
 ---
 
 # 00 - Sommaire de Soren
 
-**Fiche actualisée à J+13, le 25 Floréane 427, à 6 h 06.**
+**Fiche actualisée à la fin de J+13, le 25 Floréane 427, à 19 h 46.** Reprise narrative : [[État de reprise J+14]].
 
 [[Fiche personnage — Soren Thalvyr]] — vue générale et point de reprise.
 
@@ -35,4 +35,4 @@ source: "Fiche officielle de Soren Thalvyr fournie par le Fondateur"
 - [[20 - Points de continuité]] — Points de continuité à conserver
 
 > [!note] Hiérarchie documentaire
-> Cette version J+13 remplace la fiche J+12 lorsqu’une modification a été explicitement validée. Les journaux historiques restent des instantanés de leurs journées respectives.
+> Cette version de **fin J+13** complète la fiche J+12 et les premières heures de J+13 lorsqu'une modification a été explicitement jouée. Les journaux historiques restent des instantanés de leurs journées respectives.
