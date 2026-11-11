@@ -29,8 +29,6 @@ tags:
 
 [[Narek]] · [[Torven]] · [[Erynn]] · [[Vaeren Thalvyr]]
 
-> [!note] Type de présence
-> Certains personnages sont évoqués, contactés ou rappelés sans rencontre physique dans cette journée. Le déroulé ci-dessous fait foi pour distinguer ces situations.
 
 ## 3. Lieux et déplacements
 
@@ -42,8 +40,6 @@ tags:
 
 **Gain +1 000 Pièces** (don de Vaeren). Aucune dépense consignée.
 
-> [!warning] Comptabilité
-> Les commandes ne sont pas traitées comme des paiements avant leur règlement ; les sommes proposées ou conditionnelles ne sont pas des gains acquis. En cas d'écart entre relevés, la source est conservée sans correction fictive.
 
 ## 5. Objets, équipement et ressources
 
@@ -53,23 +49,10 @@ Acquisition du coffre de voyage et du matériel d'écriture / cartes ; [[Bracele
 
 Narek et Erynn restent des relations non exclusives ; préparation du départ.
 
-## 7. Déroulement détaillé conservé
+## 7. Récit complet
 
-**Narek, le départ d'Erynn et les cadeaux de Vaeren**
+Lire [[J-3 — 9 Floréane 427|le journal narratif de cette journée]] pour le déroulement détaillé, les dialogues et le contexte.
 
-Cette journée mêle relations personnelles, séparation et préparation au voyage.
-
-Soren retrouve **Narek**, jeune Lupin apprenti charpentier travaillant auprès de **Torven**. Ils passent du temps ensemble près du ruisseau de Varkhûn, se baignent, plaisantent et s'embrassent.
-
-Leur rapprochement se poursuit dans la cabane de Soren. Leur relation est affectueuse et intime, sans exclusivité. Narek sait que Soren compte quitter le village pour devenir aventurier.
-
-La caravane d'Erynn quitte également Varkhûn. Avant leur séparation, Erynn offre à Soren **un bracelet noir tressé de fils bleus et argentés**, souvenir de leur lien. La date exacte de remise du bracelet reste légèrement incertaine dans le récapitulatif, mais son départ est rattaché à cette journée.
-
-Vaeren Thalvyr, père de Soren, lui remet deux cadeaux essentiels pour ses premières aventures : un ancien coffre de voyage restauré, contenant notamment un journal vierge, du matériel d'écriture et des cartes, ainsi qu'une somme de **1 000 Pièces** pour financer son départ.
-
-Soren prévoit de conserver le coffre familial chez son père lorsqu'il voyagera.
-
-**Personnages intervenants :** Narek, Torven, Erynn et Vaeren.
 
 ---
 

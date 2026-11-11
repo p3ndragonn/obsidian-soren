@@ -28,8 +28,6 @@ tags:
 
 [[Erynn]]
 
-> [!note] Type de présence
-> Certains personnages sont évoqués, contactés ou rappelés sans rencontre physique dans cette journée. Le déroulé ci-dessous fait foi pour distinguer ces situations.
 
 ## 3. Lieux et déplacements
 
@@ -40,8 +38,6 @@ tags:
 
 Aucune transaction personnelle consignée.
 
-> [!warning] Comptabilité
-> Les commandes ne sont pas traitées comme des paiements avant leur règlement ; les sommes proposées ou conditionnelles ne sont pas des gains acquis. En cas d'écart entre relevés, la source est conservée sans correction fictive.
 
 ## 5. Objets, équipement et ressources
 
@@ -51,21 +47,10 @@ Aucun changement d’inventaire consigné.
 
 Début du lien sentimental avec Erynn.
 
-## 7. Déroulement détaillé conservé
+## 7. Récit complet
 
-**La rencontre d'Erynn**
+Lire [[J-7 — 5 Floréane 427|le journal narratif de cette journée]] pour le déroulement détaillé, les dialogues et le contexte.
 
-Lieu principal : Varkhûn
-
-L'histoire débute alors que Soren approche de son vingtième anniversaire. Il vit encore au village lupin de Varkhûn, auprès de son père Vaeren, et achève les dernières années de formation commencées à dix ans avec Kaelor Vargan.
-
-Sur le marché du village, il rencontre **Erynn**, un jeune Homme-bête Renard originaire de Lornac, venu avec une caravane marchande. Erynn est apprenti marchand et participe aux activités commerciales de son groupe.
-
-Les deux jeunes hommes font connaissance. Soren se montre curieux, charmeur et entreprenant. Erynn répond favorablement à son intérêt, et une attirance réciproque apparaît.
-
-C'est le début de leur relation romantique, sans engagement d'exclusivité. Erynn est le premier personnage extérieur à Varkhûn à prendre une place importante dans l'histoire jouée.
-
-**Personnage important :** Erynn.
 
 ---
 

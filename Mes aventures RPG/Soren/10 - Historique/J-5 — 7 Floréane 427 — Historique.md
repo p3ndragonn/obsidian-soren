@@ -28,8 +28,6 @@ tags:
 
 [[Erynn]]
 
-> [!note] Type de présence
-> Certains personnages sont évoqués, contactés ou rappelés sans rencontre physique dans cette journée. Le déroulé ci-dessous fait foi pour distinguer ces situations.
 
 ## 3. Lieux et déplacements
 
@@ -39,8 +37,6 @@ tags:
 
 Aucun achat ni gain consigné.
 
-> [!warning] Comptabilité
-> Les commandes ne sont pas traitées comme des paiements avant leur règlement ; les sommes proposées ou conditionnelles ne sont pas des gains acquis. En cas d'écart entre relevés, la source est conservée sans correction fictive.
 
 ## 5. Objets, équipement et ressources
 
@@ -50,17 +46,10 @@ Aucun changement consigné.
 
 Aucune progression mécanique consignée.
 
-## 7. Déroulement détaillé conservé
+## 7. Récit complet
 
-**Une relation qui s'affirme**
+Lire [[J-5 — 7 Floréane 427|le journal narratif de cette journée]] pour le déroulement détaillé, les dialogues et le contexte.
 
-Soren et Erynn poursuivent leur rapprochement. Ils échangent des baisers et développent une relation tendre, dans laquelle Erynn préfère avancer progressivement.
-
-Soren respecte ce rythme tout en conservant sa personnalité joueuse et affectueuse.
-
-Leur relation ne remet pas en question les autres attachements de Soren, notamment ceux qui le lient à Thorek et Narek.
-
-Cette journée prolonge donc la relation née à J−7. Aucun achat, combat, changement de statistiques ou événement supplémentaire précisément daté n'est conservé.
 
 ---
 

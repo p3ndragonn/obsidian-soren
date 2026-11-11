@@ -28,8 +28,6 @@ tags:
 
 [[Erynn]]
 
-> [!note] Type de présence
-> Certains personnages sont évoqués, contactés ou rappelés sans rencontre physique dans cette journée. Le déroulé ci-dessous fait foi pour distinguer ces situations.
 
 ## 3. Lieux et déplacements
 
@@ -40,8 +38,6 @@ tags:
 
 Aucune transaction consignée.
 
-> [!warning] Comptabilité
-> Les commandes ne sont pas traitées comme des paiements avant leur règlement ; les sommes proposées ou conditionnelles ne sont pas des gains acquis. En cas d'écart entre relevés, la source est conservée sans correction fictive.
 
 ## 5. Objets, équipement et ressources
 
@@ -51,25 +47,10 @@ Entretien des [[Crocs du Septième Pas]] ; aucun nouvel objet.
 
 Erynn découvre l'accès à la grotte, mais pas le souvenir de l'ombre profonde.
 
-## 7. Déroulement détaillé conservé
+## 7. Récit complet
 
-**Un dîner dans la grotte aux cristaux**
+Lire [[J-4 — 8 Floréane 427|le journal narratif de cette journée]] pour le déroulement détaillé, les dialogues et le contexte.
 
-Soren commence par entretenir ses **Crocs du Septième Pas**, ses armes à griffes rétractables.
-
-Il prépare ensuite une soirée particulière pour Erynn dans un lieu qu'il connaît depuis son enfance : une grotte secrète abritant un lac souterrain et des cristaux lumineux chargés de mana.
-
-Les deux jeunes hommes s'y retrouvent pour un dîner romantique.
-
-L'éclairage des cristaux et les reflets de la lune donnent à l'endroit une atmosphère exceptionnelle. Ils discutent, dansent, s'embrassent et partagent un moment d'intimité affectueuse.
-
-Erynn exprime son souhait de ne pas précipiter leur relation. Soren l'accepte.
-
-Cet événement est aussi important pour une autre raison : **Erynn devient la seule autre personne connue à avoir visité cette grotte avec Soren.**
-
-En revanche, Soren ne lui révèle pas son souvenir le plus mystérieux : à douze ans, il avait aperçu une immense ombre au-delà du lac, accompagnée d'une manifestation de mana exceptionnelle.
-
-La nature de cette présence reste inconnue.
 
 ---
 
