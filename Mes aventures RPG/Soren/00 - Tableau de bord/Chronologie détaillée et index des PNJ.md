@@ -15,7 +15,7 @@ campagne: Soren
 | **Enquête du Cercle** | [[Maître Veldran]], [[Deux techniciens]], [[Deux gardes]] |
 | **Familiers** | [[Varkhan]], [[Aelkan]], [[Sylkan]], [[Sahir]] |
 
-**Journal et parcours :** [[Chronologie générale]]. **État actuel :** [[État de reprise J+13]].
+**Journal et parcours :** [[Chronologie générale]]. **État actuel :** [[État de reprise J+14]]. **Association fondée :** [[Association artisanale Soren–Borin]].
 
 > [!note] Homonymie
 > Les deux fiches **Maëdrik** correspondent à des personnes distinctes ; ne pas les fusionner.
