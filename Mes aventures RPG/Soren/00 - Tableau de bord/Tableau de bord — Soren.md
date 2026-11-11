@@ -22,6 +22,10 @@ cssclasses: "systeme-dashboard"
 | Loups | [[Varkhan]], [[Aelkan]], [[Sylkan]] |
 | Dernier état | [[État de reprise J+12]] |
 
+## Personnage principal
+
+- **[[Fiche personnage — Soren Thalvyr]]** — identité, statut, capacités, équipement, relations et évolution au J+12.
+
 ## Accès aux archives
 
 - [[Chronologie générale]] — 20 journées archivées
