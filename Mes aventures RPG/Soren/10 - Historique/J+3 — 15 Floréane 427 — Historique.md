@@ -17,7 +17,7 @@ tags:
 
 > [!info] Repères
 > **Jour :** J+3 · **Date :** 15 Floréane 427  
-> **Parcours :** [[Route Valbois–Rochebrune]] → [[Pont de Brumecôte]] → [[Rochebrune]] → [[Auberge du Marteau et de la Chope]] → [[Atelier des Trois Marteaux]] → [[Cuirs de Maître Orvik]]
+> **Parcours :** Route Valbois–Rochebrune → [[Pont de Brumecôte]] → [[Rochebrune]] → Auberge du Marteau et de la Chope → [[Atelier des Trois Marteaux]] → Cuirs de Maître Orvik
 
 ## 1. Événements importants
 
@@ -34,12 +34,12 @@ tags:
 
 ## 3. Lieux et déplacements
 
-- [[Route Valbois–Rochebrune]]
+- Route Valbois–Rochebrune
 - [[Pont de Brumecôte]]
 - [[Rochebrune]]
-- [[Auberge du Marteau et de la Chope]]
+- Auberge du Marteau et de la Chope
 - [[Atelier des Trois Marteaux]]
-- [[Cuirs de Maître Orvik]]
+- Cuirs de Maître Orvik
 
 ## 4. Dépenses, gains et solde
 

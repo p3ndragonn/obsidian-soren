@@ -17,7 +17,7 @@ tags:
 
 > [!info] Repères
 > **Jour :** J+4 · **Date :** 16 Floréane 427  
-> **Parcours :** [[Rochebrune]] → [[Bastion des Marteaux]] → [[Bains de Rochebrune]] → [[Atelier des Trois Marteaux]]
+> **Parcours :** [[Rochebrune]] → [[Bastion des Marteaux]] → Bains de Rochebrune → [[Atelier des Trois Marteaux]]
 
 ## 1. Événements importants
 
@@ -34,7 +34,7 @@ tags:
 
 - [[Rochebrune]]
 - [[Bastion des Marteaux]]
-- [[Bains de Rochebrune]]
+- Bains de Rochebrune
 - [[Atelier des Trois Marteaux]]
 
 ## 4. Dépenses, gains et solde

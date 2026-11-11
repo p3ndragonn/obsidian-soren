@@ -17,7 +17,7 @@ tags:
 
 > [!info] Repères
 > **Jour :** J+2 · **Date :** 14 Floréane 427  
-> **Parcours :** [[Route Varkhûn–Valbois]] → [[Valbois]] → [[Auberge du Cerf Doré]] → [[Jardins de Valbois]] → [[Terrain d'entraînement]]
+> **Parcours :** Route Varkhûn–Valbois → [[Valbois]] → Auberge du Cerf Doré → Jardins de Valbois → Terrain d'entraînement
 
 ## 1. Événements importants
 
@@ -34,11 +34,11 @@ tags:
 
 ## 3. Lieux et déplacements
 
-- [[Route Varkhûn–Valbois]]
+- Route Varkhûn–Valbois
 - [[Valbois]]
-- [[Auberge du Cerf Doré]]
-- [[Jardins de Valbois]]
-- [[Terrain d'entraînement]]
+- Auberge du Cerf Doré
+- Jardins de Valbois
+- Terrain d'entraînement
 
 ## 4. Dépenses, gains et solde
 

@@ -17,7 +17,7 @@ tags:
 
 > [!info] Repères
 > **Jour :** J+1 · **Date :** 13 Floréane 427  
-> **Parcours :** [[Varkhûn]] → [[Ruisseau]] → [[Maison de Vaeren]]
+> **Parcours :** [[Varkhûn]] → Ruisseau → Maison de Vaeren
 
 ## 1. Événements importants
 
@@ -34,8 +34,8 @@ tags:
 ## 3. Lieux et déplacements
 
 - [[Varkhûn]]
-- [[Ruisseau]]
-- [[Maison de Vaeren]]
+- Ruisseau
+- Maison de Vaeren
 
 ## 4. Dépenses, gains et solde
 
