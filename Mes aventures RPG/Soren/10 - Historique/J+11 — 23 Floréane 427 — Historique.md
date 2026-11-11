@@ -17,7 +17,7 @@ tags:
 
 > [!info] Repères
 > **Jour :** J+11 · **Date :** 23 Floréane 427  
-> **Parcours :** [[Guilde des Aventuriers d’Aethérion]] → [[Forêt autorisée au nord-est d’Aethérion]] → [[Annexe des Compagnons]] → [[Atelier de Guilde n° 7]] → [[Les Cuirs de l’Épervier]] → [[La Marmite des Clans]] → [[Bains de la Guilde]]
+> **Parcours :** [[Guilde des Aventuriers d’Aethérion]] → Forêt autorisée au nord-est d’Aethérion → [[Annexe des Compagnons]] → Atelier de Guilde n° 7 → [[Les Cuirs de l’Épervier]] → La Marmite des Clans → Bains de la Guilde
 
 ## 1. Événements importants
 
@@ -36,12 +36,12 @@ tags:
 ## 3. Lieux et déplacements
 
 - [[Guilde des Aventuriers d’Aethérion]]
-- [[Forêt autorisée au nord-est d’Aethérion]]
+- Forêt autorisée au nord-est d’Aethérion
 - [[Annexe des Compagnons]]
-- [[Atelier de Guilde n° 7]]
+- Atelier de Guilde n° 7
 - [[Les Cuirs de l’Épervier]]
-- [[La Marmite des Clans]]
-- [[Bains de la Guilde]]
+- La Marmite des Clans
+- Bains de la Guilde
 
 ## 4. Dépenses, gains et solde
 

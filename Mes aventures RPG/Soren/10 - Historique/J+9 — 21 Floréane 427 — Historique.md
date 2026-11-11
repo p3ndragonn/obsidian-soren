@@ -17,7 +17,7 @@ tags:
 
 > [!info] Repères
 > **Jour :** J+9 · **Date :** 21 Floréane 427  
-> **Parcours :** [[Aethérion]] → [[La Matrice d’Azur]] → [[Atelier de Guilde n° 7]] → [[Les Cuirs de l’Épervier]]
+> **Parcours :** [[Aethérion]] → [[La Matrice d’Azur]] → Atelier de Guilde n° 7 → [[Les Cuirs de l’Épervier]]
 
 ## 1. Événements importants
 
@@ -36,7 +36,7 @@ tags:
 
 - [[Aethérion]]
 - [[La Matrice d’Azur]]
-- [[Atelier de Guilde n° 7]]
+- Atelier de Guilde n° 7
 - [[Les Cuirs de l’Épervier]]
 
 ## 4. Dépenses, gains et solde

@@ -17,7 +17,7 @@ tags:
 
 > [!info] Repères
 > **Jour :** J+12 · **Date :** 24 Floréane 427  
-> **Parcours :** [[Aethérion]] → [[Guilde des Aventuriers d’Aethérion]] → [[Salle et parcours d'entraînement]] → [[Annexe des Compagnons]] → [[La Marmite des Clans]]
+> **Parcours :** [[Aethérion]] → [[Guilde des Aventuriers d’Aethérion]] → Salle et parcours d'entraînement → [[Annexe des Compagnons]] → La Marmite des Clans
 
 ## 1. Événements importants
 
@@ -38,9 +38,9 @@ tags:
 
 - [[Aethérion]]
 - [[Guilde des Aventuriers d’Aethérion]]
-- [[Salle et parcours d'entraînement]]
+- Salle et parcours d'entraînement
 - [[Annexe des Compagnons]]
-- [[La Marmite des Clans]]
+- La Marmite des Clans
 
 ## 4. Dépenses, gains et solde
 

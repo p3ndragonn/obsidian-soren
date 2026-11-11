@@ -17,7 +17,7 @@ tags:
 
 > [!info] Repères
 > **Jour :** J+10 · **Date :** 22 Floréane 427  
-> **Parcours :** [[Crypte des Trois Veilleurs]] → [[Laboratoire clandestin des Trois Traits]] → [[Aethérion]]
+> **Parcours :** [[Crypte des Trois Veilleurs]] → Laboratoire clandestin des Trois Traits → [[Aethérion]]
 
 ## 1. Événements importants
 
@@ -35,7 +35,7 @@ tags:
 ## 3. Lieux et déplacements
 
 - [[Crypte des Trois Veilleurs]]
-- [[Laboratoire clandestin des Trois Traits]]
+- Laboratoire clandestin des Trois Traits
 - [[Aethérion]]
 
 ## 4. Dépenses, gains et solde
