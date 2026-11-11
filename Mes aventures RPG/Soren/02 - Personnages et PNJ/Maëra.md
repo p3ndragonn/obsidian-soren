@@ -1,15 +1,14 @@
 ---
-type: "personnage"
-source: "Chronique intégrale de Soren Thalvyr — J+12"
+type: personnage
+campagne: Soren
+source: "Chronique intégrale J+12 ; état J+13 pour les mentions de situation actuelle"
 ---
 
 # Maëra
 
-> [!info] Groupe
-> Le voyage — Valbois, Rochebrune et Clairerive
+> [!info] Rôle dans l'aventure
+> Responsable d'un terrain d'entraînement à Valbois.
 
-Responsable d'un terrain d'entraînement à Valbois.
+**Contexte :** Le voyage — Valbois, Rochebrune et Clairerive
 
-**Source :** répertoire de la chronique intégrale. Toute valeur mécanique, information privée ou suite inconnue reste non définie.
-
-**Repères :** [[Chronologie générale]] · [[Tableau de bord — Soren]].
+**Navigation :** [[Chronologie détaillée et index des PNJ|Répertoire des personnages]] · [[Chronologie générale]]

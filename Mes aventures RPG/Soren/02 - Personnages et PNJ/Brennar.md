@@ -1,13 +1,14 @@
 ---
-type: "personnage"
-source: "Chronique intégrale de Soren Thalvyr — J+12"
+type: personnage
+campagne: Soren
+source: "Chronique intégrale J+12 ; état J+13 pour les mentions de situation actuelle"
 ---
 
 # Brennar
 
-> [!info] Rôle et lien avec Soren
+> [!info] Rôle dans l'aventure
 > Bûcheron expérimenté, mentor choisi par Aëron.
 
 **Contexte :** Varkhûn — Famille, proches et habitants
 
-**Voir aussi :** [[Chronologie générale]] · [[Chronologie détaillée et index des PNJ]]
+**Navigation :** [[Chronologie détaillée et index des PNJ|Répertoire des personnages]] · [[Chronologie générale]]

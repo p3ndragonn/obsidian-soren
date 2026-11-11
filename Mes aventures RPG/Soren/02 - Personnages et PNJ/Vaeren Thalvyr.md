@@ -1,15 +1,14 @@
 ---
-type: "personnage"
-source: "Chronique intégrale de Soren Thalvyr — J+12"
+type: personnage
+campagne: Soren
+source: "Chronique intégrale J+12 ; état J+13 pour les mentions de situation actuelle"
 ---
 
 # Vaeren Thalvyr
 
-> [!info] Groupe
-> Varkhûn — Famille, proches et habitants
+> [!info] Rôle dans l'aventure
+> Père de Soren, ancien voyageur et pisteur. Lui offre son coffre, 1 000 Pièces et le pendentif familial.
 
-Père de Soren, ancien voyageur et pisteur. Lui offre son coffre, 1 000 Pièces et le pendentif familial.
+**Contexte :** Varkhûn — Famille, proches et habitants
 
-**Source :** répertoire de la chronique intégrale. Toute valeur mécanique, information privée ou suite inconnue reste non définie.
-
-**Repères :** [[Chronologie générale]] · [[Tableau de bord — Soren]].
+**Navigation :** [[Chronologie détaillée et index des PNJ|Répertoire des personnages]] · [[Chronologie générale]]

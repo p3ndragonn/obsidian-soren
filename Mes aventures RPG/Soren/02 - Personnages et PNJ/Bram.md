@@ -1,13 +1,14 @@
 ---
-type: "personnage"
-source: "Chronique intégrale de Soren Thalvyr — J+12"
+type: personnage
+campagne: Soren
+source: "Chronique intégrale J+12 ; état J+13 pour les mentions de situation actuelle"
 ---
 
 # Bram
 
-> [!info] Rôle et lien avec Soren
+> [!info] Rôle dans l'aventure
 > Adversaire de l'épreuve d'admission à mains nues.
 
 **Contexte :** Aethérion — Guilde, artisans et nouvelles connaissances
 
-**Voir aussi :** [[Chronologie générale]] · [[Répertoire des personnages — Soren]]
+**Navigation :** [[Chronologie détaillée et index des PNJ|Répertoire des personnages]] · [[Chronologie générale]]

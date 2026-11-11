@@ -1,15 +1,14 @@
 ---
-type: "personnage"
-source: "Chronique intégrale de Soren Thalvyr — J+12"
+type: personnage
+campagne: Soren
+source: "Chronique intégrale J+12 ; état J+13 pour les mentions de situation actuelle"
 ---
 
 # Darian
 
-> [!info] Groupe
-> Aethérion — Guilde, artisans et nouvelles connaissances
+> [!info] Rôle dans l'aventure
+> Humain sarcastique, ancien colocataire.
 
-Humain sarcastique, ancien colocataire.
+**Contexte :** Aethérion — Guilde, artisans et nouvelles connaissances
 
-**Source :** répertoire de la chronique intégrale. Toute valeur mécanique, information privée ou suite inconnue reste non définie.
-
-**Repères :** [[Chronologie générale]] · [[Tableau de bord — Soren]].
+**Navigation :** [[Chronologie détaillée et index des PNJ|Répertoire des personnages]] · [[Chronologie générale]]

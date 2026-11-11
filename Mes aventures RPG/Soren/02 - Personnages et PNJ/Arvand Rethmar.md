@@ -1,13 +1,14 @@
 ---
-type: "personnage"
-source: "Chronique intégrale de Soren Thalvyr — J+12"
+type: personnage
+campagne: Soren
+source: "Chronique intégrale J+12 ; état J+13 pour les mentions de situation actuelle"
 ---
 
 # Arvand Rethmar
 
-> [!info] Rôle et lien avec Soren
+> [!info] Rôle dans l'aventure
 > Maître de Guilde d'Aethérion, intermédiaire potentiel auprès de la Couronne et acheteur envisagé d'un transfert de mana.
 
 **Contexte :** Aethérion — Guilde, artisans et nouvelles connaissances
 
-**Voir aussi :** [[Chronologie générale]] · [[Répertoire des personnages — Soren]]
+**Navigation :** [[Chronologie détaillée et index des PNJ|Répertoire des personnages]] · [[Chronologie générale]]
