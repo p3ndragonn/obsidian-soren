@@ -1,31 +1,21 @@
 ---
 type: statut
-campagne: Soren
-jour: J+12
-date: 24 Floréane 427
+campagne: "Soren"
+version: "J+13"
+date_univers: "25 Floréane 427"
+heure_reference: "06:06"
+source: "Fiche officielle de Soren Thalvyr fournie par le Fondateur"
 ---
-# Statut — Soren
 
-Fiche complète et à jour : [[Fiche personnage — Soren Thalvyr]] dans **000 - Soren**.
+# Statut — Soren (J+13)
 
-| Donnée | Valeur |
-|---|---|
-| Rang personnel | C |
-| Classe | Danseur des Griffes d'Acier [A], **niveau 26** |
-| Profession | Éclaireur des Terres Sauvages [B], **niveau 18** |
-| Grade de Guilde | D |
-| Titres actifs | **Adulte de Varkhûn**, **Savant runique**, **Maître de familier [B]** (3/5) |
-| Autre titre acquis | Aventurier Grade D |
-| Compétences martiales | 7 de rang S |
-| Compétences runiques | 4 de rang A |
-| Compétences de familier | 3 de rang B |
-| Téléportation | 3 compétences de rang SS |
-| Nouvelle compétence | **Partage des compétences [S]**, J+12 |
-| Mana | Maximum augmenté de plus de 50 % par le Cœur légendaire ; valeurs chiffrées non sauvegardées |
-| Partage actif avec les loups | **Aucun** : révoqué après essais |
-| Argent | **232 Pièces** |
-| Position | Aethérion, chambre 3, J+12 à 20 h 03 |
+**Source officielle mise à jour :** [[Fiche personnage — Soren Thalvyr]]
 
-**Attention :** les bonus de titres ne doivent pas être confondus avec des valeurs de statistiques permanentes. Ne pas inventer HP, MP, EP ou EXP numériques.
+- Rang personnel C ; grade Guilde D ; Classe [A] niveau **26** ; Profession [B] niveau **18**.
+- FOR **55**, VIT **48**, END **64**, AGI **82**, SAG **33**, PER **66** ; total **348**.
+- HP max **480**, EP max **640**, MP naturel max **330**, MP max après fragment **strictement supérieur à 495**.
+- Titres actifs **3/5** : Adulte de Varkhûn, Savant runique, Maître de familier [B]. Aventurier Grade D **inactif**, bonus 10 % non appliqué.
+- Fortune **232 Pièces**, aucun gain/dépense depuis le dîner J+12.
+- Trois loups liés, partage de téléportation révoqué ; 3 transferts du Cœur restants.
 
-Voir [[Fiche personnage — Soren Thalvyr]], [[Comptabilité — Soren]] et [[État de reprise J+12]].
+**Détails :** [[03 - Caractéristiques permanentes]] · [[04 - Titres]] · [[05 - Compétences de Classe]] · [[09 - Capacités exceptionnelles et secrètes]] · [[19 - Situation actuelle et objectifs]].

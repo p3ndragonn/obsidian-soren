@@ -10,7 +10,7 @@ cssclasses: "systeme-dashboard"
 ## Tableau de bord — Soren
 
 > [!info] Sauvegarde active
-> **J+12 — 24 Floréane 427, 20 h 03** · [[Aethérion]] · Chambre n° 3 · **232 Pièces** · 3 transferts disponibles sur le [[Cœur de mana des Trois Veilleurs]].
+> **J+13 — 25 Floréane 427, 6 h 06** · [[Aethérion]] · Chambre n° 3 · **232 Pièces** · 3 transferts disponibles sur le [[Cœur de mana des Trois Veilleurs]].
 
 | Fiche | Situation |
 |---|---|
@@ -20,11 +20,13 @@ cssclasses: "systeme-dashboard"
 | Profession | Éclaireur des Terres Sauvages [B], niveau 18 |
 | Compagnons | [[Tévan]], [[Hadrien]] |
 | Loups | [[Varkhan]], [[Aelkan]], [[Sylkan]] |
-| Dernier état | [[État de reprise J+12]] |
+| Dernier état | [[19 - Situation actuelle et objectifs]] |
 
 ## Personnage principal
 
-- **[[Fiche personnage — Soren Thalvyr]]** — identité, statut, capacités, équipement, relations et évolution au J+12.
+- **[[Fiche personnage — Soren Thalvyr]]** — dossier officiel J+13 et 20 sous-notes.
+- **[[00 - Sommaire de Soren]]** — accès aux 20 rubriques.
+- **[[19 - Situation actuelle et objectifs]]** — reprise J+13 à 6 h 06.
 
 ## Accès aux archives
 
