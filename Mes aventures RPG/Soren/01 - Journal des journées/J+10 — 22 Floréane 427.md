@@ -10,7 +10,7 @@ Mission D-156 · Équipe : Soren, Tévan, Hadrien
 
 C'est l'une des journées les plus importantes de toute la campagne.
 
-#### Arrivée à la crypte
+## Arrivée à la crypte
 
 Les trois aventuriers arrivent aux ruines des Trois Veilleurs vers **10 h 18**.
 
@@ -24,7 +24,7 @@ Soren utilise ses connaissances runiques pour comprendre les connexions, isoler 
 
 Le groupe découvre également des dispositifs de communication et d'alerte, ainsi qu'un accès technique conduisant à des installations cachées.
 
-#### Le laboratoire du Cercle des Trois Traits
+## Le laboratoire du Cercle des Trois Traits
 
 L'exploration révèle finalement un laboratoire clandestin exploité par une organisation utilisant le symbole des trois traits verticaux dans un cercle.
 
@@ -38,7 +38,7 @@ Parmi ces références figurent **Station 07** et **Lot III**, ce dernier étant
 
 Le laboratoire n'est donc pas un événement isolé.
 
-#### Les responsables
+## Les responsables
 
 Le responsable identifié du laboratoire est **Maître Veldran**.
 
@@ -48,7 +48,7 @@ Les responsables sont maîtrisés et remis aux autorités, avec les éléments n
 
 Le déroulement précis de chaque échange tactique n'est pas intégralement conservé dans les résumés disponibles ; je ne rajoute donc pas de coups, de blessures ou de dialogues non vérifiés.
 
-#### Le sauvetage des quatre animaux
+## Le sauvetage des quatre animaux
 
 Le groupe découvre quatre animaux retenus dans des cuves d'expérimentation : **trois loups et un lynx**.
 
@@ -74,7 +74,7 @@ Le lynx de Tévan, brun doré, ne reçoit pas immédiatement de nom.
 
 Il sera plus tard appelé **Sahir**.
 
-#### Le Cœur de mana des Trois Veilleurs
+## Le Cœur de mana des Trois Veilleurs
 
 Soren découvre également une puissante source énergétique ancienne, d'environ vingt centimètres : le **Cœur de mana des Trois Veilleurs**.
 
@@ -84,7 +84,7 @@ L'objet est récupéré par Soren, mais son rang, sa valeur et son statut juridi
 
 Trois bourses monétaires provenant du coffre de Veldran sont également récupérées. Elles seront remises à la Guilde pour vérification avant attribution.
 
-#### Les conséquences
+## Les conséquences
 
 La mission dépasse largement son objectif initial.
 
@@ -100,7 +100,7 @@ La mission D-156 sera officiellement réglée le lendemain. Les trois bourses ne
 
 ---
 
-**Navigation :** [[Tableau de bord — Soren]] · [[Chronologie générale]] · [[Soren Thalvyr]]
+**Navigation :** [[Tableau de bord — Soren]] · [[Chronologie générale]] · [[Soren Thalvyr]] · [[J+10 — 22 Floréane 427 — Historique|Bilan de la journée]]
 
 > [!note] Source et limites
 > Compte rendu repris du résumé de campagne. Les événements ou paroles non consignés ne sont pas inventés.

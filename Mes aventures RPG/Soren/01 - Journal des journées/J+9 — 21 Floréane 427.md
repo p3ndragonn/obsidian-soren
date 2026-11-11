@@ -8,7 +8,7 @@ source: "Chronique intégrale de Soren Thalvyr — J+12"
 
 Cette journée marque l'émergence d'une seconde spécialité importante de Soren : son savoir runique.
 
-#### Une commande d'équipement complexe
+## Une commande d'équipement complexe
 
 Borin possède un **générateur d'arène modulaire**, équipement destiné à créer des environnements d'entraînement et des adversaires simulés.
 
@@ -26,7 +26,7 @@ Deux éléments de rang S sont obtenus pour le générateur : un **cristal de gr
 
 Ces dépenses, totalisant **570 Pièces**, sont financées par Borin et ne doivent pas être confondues avec la fortune personnelle de Soren.
 
-#### Les premiers travaux runiques
+## Les premiers travaux runiques
 
 Soren loue l'atelier n° 7 de la Guilde pour deux heures, moyennant 10 Pièces.
 
@@ -44,7 +44,7 @@ Le Fondateur confirme également que Soren possède déjà le titre **Savant run
 
 Il s'agit de connaissances reconnues par directive du Fondateur, pas d'une progression artificiellement obtenue après quelques heures d'apprentissage.
 
-#### L'essayage chez Corvin
+## L'essayage chez Corvin
 
 Soren retourne à l'atelier des Cuirs de l'Épervier pour essayer sa nouvelle tenue.
 
@@ -54,7 +54,7 @@ Le travail de Corvin est validé.
 
 Ces vêtements deviennent ensuite la tenue caractéristique de Soren à Aethérion.
 
-#### Une nouvelle mission inquiétante
+## Une nouvelle mission inquiétante
 
 Soren et Tévan s'intéressent à une mission d'exploration concernant des perturbations magiques dans une ancienne crypte.
 
@@ -70,7 +70,7 @@ Cette mission apparaît d'abord comme une exploration ordinaire, mais les décou
 
 ---
 
-**Navigation :** [[Tableau de bord — Soren]] · [[Chronologie générale]] · [[Soren Thalvyr]]
+**Navigation :** [[Tableau de bord — Soren]] · [[Chronologie générale]] · [[Soren Thalvyr]] · [[J+9 — 21 Floréane 427 — Historique|Bilan de la journée]]
 
 > [!note] Source et limites
 > Compte rendu repris du résumé de campagne. Les événements ou paroles non consignés ne sont pas inventés.

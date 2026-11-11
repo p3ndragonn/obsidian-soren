@@ -6,11 +6,11 @@ source: "Chronique intégrale de Soren Thalvyr — J+12"
 # J+12 — 24 Floréane 427
 **Les téléportations des loups, le noyau légendaire et les négociations royales**
 
-Jour du Repos · Dernière journée jouée
+Jour du Repos
 
-C'est la journée actuelle de la campagne.
+Cette journée constitue le dernier récit détaillé de la chronique arrêtée à J+12.
 
-#### 4 h 30 — Un réveil très matinal
+## 4 h 30 — Un réveil très matinal
 
 Soren se lève à 4 h 30.
 
@@ -24,7 +24,7 @@ Les quatre descendent prendre le petit-déjeuner à la Guilde.
 
 Soren fait également préparer une petite brioche au miel pour chacun de ses compagnons, en complément de leur repas.
 
-#### Le programme d'entraînement
+## Le programme d'entraînement
 
 Soren décide de consacrer la matinée à l'entraînement de Tévan et à la coordination de sa meute.
 
@@ -42,7 +42,7 @@ Il travaille notamment les changements de position, les rappels et l'évitement 
 
 Soren et ses loups effectuent pendant ce temps des déplacements collectifs, des changements de formation et des attaques contrôlées contre des mannequins.
 
-#### Une heure de parcours d'obstacles
+## Une heure de parcours d'obstacles
 
 Tévan doit ensuite réaliser trente minutes de parcours seul, vingt minutes accompagné de Sahir, puis dix minutes avec un obstacle mobile supplémentaire.
 
@@ -50,7 +50,7 @@ Soren exige qu'il conserve sa concentration malgré les mouvements de la meute d
 
 Tévan progresse et finit par réussir le passage le plus difficile en coordonnant correctement son déplacement avec celui de Sahir.
 
-#### L'autonomie des trois loups
+## L'autonomie des trois loups
 
 Après une courte pause, Soren construit un parcours destiné à ses familiers.
 
@@ -68,7 +68,7 @@ Ils réussissent à attendre leurs compagnons, à se répartir les cibles et à 
 
 Soren confirme ainsi leur capacité à prendre progressivement leurs propres décisions.
 
-#### La première téléportation de Sylkan
+## La première téléportation de Sylkan
 
 À la fin de l'exercice, Sylkan veut rejoindre Soren pour recevoir des caresses.
 
@@ -88,7 +88,7 @@ Après ces essais, Soren **révoque le partage**.
 
 À l'état actuel de l'aventure, aucun des trois loups ne conserve un accès actif à la téléportation.
 
-#### La résolution administrative de D-156
+## La résolution administrative de D-156
 
 Soren, Tévan et Hadrien se retrouvent ensuite au comptoir de la Guilde.
 
@@ -111,7 +111,7 @@ La Guilde reconnaît donc officiellement son droit de conservation, sous réserv
 
 L'enquête révèle que les activités de Veldran s'inscrivent dans une organisation plus vaste. Les pistes concernant d'autres installations ne sont pas encore suffisamment précises pour permettre une intervention.
 
-#### Tévan réserve sa nouvelle chambre
+## Tévan réserve sa nouvelle chambre
 
 Soren rappelle à Tévan qu'il doit prendre une chambre individuelle à l'Annexe des Compagnons.
 
@@ -121,7 +121,7 @@ Tévan accepte et prévoit trente nuits, au tarif résidentiel de 8 Pièces chac
 
 Il pourra utiliser le crédit restant de son dortoir pour réduire le paiement.
 
-#### La surprise de la cape
+## La surprise de la cape
 
 Soren invite ensuite Tévan et Hadrien dans sa chambre.
 
@@ -135,7 +135,7 @@ Tévan est particulièrement séduit. Hadrien admire également la qualité du t
 
 Cette scène confirme que la cape est devenue un équipement particulièrement apprécié de Soren.
 
-#### La révélation du Cœur légendaire
+## La révélation du Cœur légendaire
 
 Soren sort ensuite le Cœur des Trois Veilleurs de son coffre.
 
@@ -155,7 +155,7 @@ Les sept bénéficiaires obtiennent l'amélioration.
 
 Il reste désormais **trois transferts disponibles**.
 
-#### Un potentiel de 750 000 Pièces
+## Un potentiel de 750 000 Pièces
 
 Soren révèle également qu'un transfert de ce type peut valoir **250 000 Pièces**.
 
@@ -165,7 +165,7 @@ Soren envisage de les proposer directement au roi.
 
 Il promet à Tévan et Hadrien **55 000 Pièces chacun si les trois ventes aboutissent**, en reconnaissance de leur participation à la récupération de l'artefact.
 
-#### La rencontre avec Arvand Rethmar
+## La rencontre avec Arvand Rethmar
 
 Les trois aventuriers se rendent à la Guilde et demandent un entretien avec son dirigeant.
 
@@ -179,7 +179,7 @@ Il offre également à Arvand la possibilité d'acheter personnellement l'un de 
 
 Arvand se montre intéressé, mais précise qu'il ne possède pas immédiatement une telle somme disponible.
 
-#### L'expertise confidentielle
+## L'expertise confidentielle
 
 Avec l'accord de Tévan et Hadrien, Arvand fait venir Odrien.
 
@@ -191,7 +191,7 @@ Il ne peut pas encore vérifier directement les effets de la progression future 
 
 Arvand accepte alors d'engager deux démarches parallèles : examiner les possibilités de financement de son propre transfert et transmettre une demande d'audience confidentielle à la Couronne.
 
-#### Une troisième possibilité : vendre le noyau
+## Une troisième possibilité : vendre le noyau
 
 Soren révèle encore une propriété importante.
 
@@ -207,7 +207,7 @@ Le prix n'est pas encore fixé.
 
 Soren décide d'attendre une proposition d'achat fondée sur cette expertise.
 
-#### Une répartition au bénéfice de ses proches et de Varkhûn
+## Une répartition au bénéfice de ses proches et de Varkhûn
 
 Soren annonce comment il souhaite répartir l'argent d'une éventuelle vente du noyau à la Guilde.
 
@@ -219,7 +219,7 @@ Arvand accepte de préparer les expertises et les démarches nécessaires.
 
 À ce stade, **aucune des trois ventes de transferts n'a été conclue et aucun prix n'a été établi pour le noyau**.
 
-#### Le déjeuner à la cantine
+## Le déjeuner à la cantine
 
 Soren, Tévan et Hadrien quittent ensuite le bureau d'Arvand pour déjeuner.
 
@@ -229,7 +229,7 @@ Sa fortune passe à **259 Pièces**.
 
 Ils discutent d'une possible chasse le lendemain, sous réserve qu'aucune nouvelle importante de la Guilde ou de la Couronne ne modifie leur programme.
 
-#### Le déménagement de Tévan
+## Le déménagement de Tévan
 
 Les trois amis décident d'aider Tévan à quitter le dortoir n° 14.
 
@@ -247,7 +247,7 @@ Tévan et Soren deviennent ainsi voisins, leurs deux chambres donnant accès à 
 
 Hadrien prend ensuite congé.
 
-#### Une après-midi avec Tévan
+## Une après-midi avec Tévan
 
 Soren et Tévan décident de laisser leurs quatre familiers profiter de la cour.
 
@@ -261,7 +261,7 @@ Les deux compagnons retrouvent leurs familiers dans la cour vers 18 h 38.
 
 Tous les quatre se sont bien comportés pendant leur absence.
 
-#### Le programme du lendemain
+## Le programme du lendemain
 
 Soren propose à Tévan d'aller chercher un repas à emporter.
 
@@ -271,7 +271,7 @@ Soren compte le laisser choisir le terrain, préparer l'approche, organiser le p
 
 Tévan accepte avec enthousiasme, tout en plaisantant sur son nouveau statut de chef de chasse.
 
-#### Le dernier dîner
+## Le dernier dîner
 
 Les deux hommes rejoignent La Marmite des Clans.
 
@@ -328,7 +328,7 @@ Les deux hommes rentrent à l'Annexe des Compagnons et retrouvent leurs quatre f
 
 ---
 
-**Navigation :** [[Tableau de bord — Soren]] · [[Chronologie générale]] · [[Soren Thalvyr]]
+**Navigation :** [[Tableau de bord — Soren]] · [[Chronologie générale]] · [[Soren Thalvyr]] · [[J+12 — 24 Floréane 427 — Historique|Bilan de la journée]]
 
 > [!note] Source et limites
 > Compte rendu repris du résumé de campagne. Les événements ou paroles non consignés ne sont pas inventés.

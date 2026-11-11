@@ -12,7 +12,7 @@ Tévan le rejoint et lui souhaite bonne chance pour sa mission individuelle.
 
 Soren part ensuite vers la **Ravine de l'Aube**, où des loups particulièrement agressifs ont été signalés.
 
-#### La confrontation avec les loups
+## La confrontation avec les loups
 
 Dans la ravine, Soren effectue une reconnaissance prudente avant d'affronter les créatures.
 
@@ -28,7 +28,7 @@ Soren récupère notamment une plaque de cargaison, deux fioles, des documents e
 
 C'est la première piste importante menant vers ce qui sera identifié plus tard comme le **Cercle des Trois Traits**.
 
-#### Le retour à la Guilde
+## Le retour à la Guilde
 
 Soren rapporte les événements, les anomalies runiques et les objets trouvés.
 
@@ -40,7 +40,7 @@ Trois peaux grises sont vendues pour un total de **80 Pièces**.
 
 Il conserve celle du grand loup noir.
 
-#### Une cape exceptionnelle
+## Une cape exceptionnelle
 
 Soren retourne voir Corvin.
 
@@ -50,7 +50,7 @@ Le travail est commandé pour **126 Pièces**, payées à l'avance.
 
 La livraison est prévue quelques jours plus tard.
 
-#### Les habitants du dortoir
+## Les habitants du dortoir
 
 Pendant cette période, Soren fait également connaissance avec les autres aventuriers du dortoir n° 12 :
 
@@ -66,7 +66,7 @@ Les relevés intermédiaires de cette journée ne sont pas entièrement concorda
 
 ---
 
-**Navigation :** [[Tableau de bord — Soren]] · [[Chronologie générale]] · [[Soren Thalvyr]]
+**Navigation :** [[Tableau de bord — Soren]] · [[Chronologie générale]] · [[Soren Thalvyr]] · [[J+8 — 20 Floréane 427 — Historique|Bilan de la journée]]
 
 > [!note] Source et limites
 > Compte rendu repris du résumé de campagne. Les événements ou paroles non consignés ne sont pas inventés.

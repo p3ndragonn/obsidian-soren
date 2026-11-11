@@ -10,7 +10,7 @@ Jour de la Lune
 
 Cette journée est particulièrement riche : elle voit Soren devenir maître de familiers, déménager et poursuivre la restauration du générateur de Borin.
 
-#### 6 h — La Guilde règle la mission
+## 6 h — La Guilde règle la mission
 
 Après le petit-déjeuner, Soren se rend au comptoir de la Guilde avec Tévan.
 
@@ -26,7 +26,7 @@ Il constate notamment une matrice ancienne de récupération et de distribution 
 
 Il déconseille toute activation avant une expertise approfondie.
 
-#### La chasse avec les familiers
+## La chasse avec les familiers
 
 Soren et Tévan organisent une première chasse dans une forêt autorisée au nord-est d'Aethérion.
 
@@ -44,7 +44,7 @@ Soren récupère soigneusement **trois peaux** avant que les animaux mangent : c
 
 Les quatre familiers reviennent en bonne santé.
 
-#### Un titre accordé par le Fondateur
+## Un titre accordé par le Fondateur
 
 À 10 h 18, Soren et Tévan reçoivent le titre **Maître de familier [B]**.
 
@@ -56,7 +56,7 @@ Soren dispose de douze points de maîtrise initiale répartis entre ces compéte
 
 Soren active trois titres parmi les cinq emplacements disponibles : **Adulte de Varkhûn**, **Savant runique** et **Maître de familier [B]**.
 
-#### Le déménagement
+## Le déménagement
 
 Soren décide de quitter le dortoir n° 12 et de louer une véritable chambre individuelle dans l'**Annexe des Compagnons**.
 
@@ -80,7 +80,7 @@ Les trois loups découvrent leurs nouveaux coussins.
 
 Sylkan s'approprie immédiatement une bonne partie du lit.
 
-#### Le générateur de Borin
+## Le générateur de Borin
 
 Dans l'après-midi, Soren loue de nouveau l'atelier n° 7.
 
@@ -98,7 +98,7 @@ Soren conserve l'équipement dans sa chambre, où il est rangé en sécurité.
 
 Sa rémunération convenue pour la restauration est de **15 % du prix brut de vente final**, payable uniquement si Borin vend le générateur.
 
-#### La vente des peaux
+## La vente des peaux
 
 En fin d'après-midi, après avoir quitté Tévan, Soren repart avec Sylkan pour faire expertiser les trois peaux de chasse.
 
@@ -106,7 +106,7 @@ Au comptoir des matériaux, il rencontre **Maëdrik**, expert en matières organ
 
 Ce dernier propose 19 Pièces pour les trois peaux. Soren négocie et obtient **20 Pièces**, que la Guilde lui verse.
 
-#### Le premier sac dimensionnel
+## Le premier sac dimensionnel
 
 Soren visite la boutique d'équipement magique, où il rencontre **Lysandra**, une vendeuse elfe.
 
@@ -120,7 +120,7 @@ Soren se renseigne sur les possibilités d'y ajouter des runes d'indexation, mai
 
 Il l'achète et le fait enregistrer à son nom.
 
-#### Le retour chez Corvin
+## Le retour chez Corvin
 
 Soren retrouve Corvin, qui vient de terminer sa cape en fourrure de loup noir.
 
@@ -130,7 +130,7 @@ L'artisan lui fabrique également, pour **5 Pièces**, un support de ceinture am
 
 Cette adaptation ne modifie pas l'enchantement.
 
-#### Dîner et soirée aux bains
+## Dîner et soirée aux bains
 
 Soren se rend à **La Marmite des Clans**, son restaurant favori, et achète une Assiette du Grand Chasseur et trois portions de viande nature pour ses loups, moyennant **19 Pièces**.
 
@@ -148,7 +148,7 @@ Soren leur raconte notamment comment il a rencontré Tévan et Hadrien et commen
 
 Il leur explique vouloir rester aventurier jusqu'à sa retraite.
 
-#### La fin de soirée
+## La fin de soirée
 
 Soren retourne dans sa chambre, où les trois loups l'accueillent.
 
@@ -162,7 +162,7 @@ Il se couche vers **22 h 35**, avec Sylkan près de lui et Varkhan et Aelkan sur
 
 ---
 
-**Navigation :** [[Tableau de bord — Soren]] · [[Chronologie générale]] · [[Soren Thalvyr]]
+**Navigation :** [[Tableau de bord — Soren]] · [[Chronologie générale]] · [[Soren Thalvyr]] · [[J+11 — 23 Floréane 427 — Historique|Bilan de la journée]]
 
 > [!note] Source et limites
 > Compte rendu repris du résumé de campagne. Les événements ou paroles non consignés ne sont pas inventés.
