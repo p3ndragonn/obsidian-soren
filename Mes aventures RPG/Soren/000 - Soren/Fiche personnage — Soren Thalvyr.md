@@ -1,9 +1,9 @@
 ---
 type: "personnage_principal"
 campagne: "Soren"
-version: "J+13"
+version: "fin J+13"
 date_univers: "25 Floréane 427"
-heure_reference: "06:06"
+heure_reference: "19:46"
 source: "Fiche officielle de Soren Thalvyr fournie par le Fondateur"
 nom: "Soren Thalvyr"
 rang_personnel: C
@@ -12,7 +12,7 @@ classe: "Danseur des Griffes d’Acier [A]"
 niveau_classe: 26
 profession: "Éclaireur des Terres Sauvages [B]"
 niveau_profession: 18
-fortune_pieces: 232
+fortune_pieces: 228
 caracteristiques_total: 348
 cssclasses:
   - systeme-personnage
@@ -21,7 +21,7 @@ cssclasses:
 # Soren Thalvyr
 
 > [!info] SYSTÈME — Version officielle la plus récente
-> **J+13 · 25 Floréane 427 · 6 h 06** — Départ d’[[Aethérion]] vers les bois du nord-est avec [[Tévan]], [[Varkhan]], [[Aelkan]], [[Sylkan]] et [[Sahir]]. **Tévan dirige la chasse.**
+> **J+13 · 25 Floréane 427 · 19 h 46** — Soren **dort en chambre n° 3** à l'Annexe des Compagnons auprès de Varkhan, Aelkan et Sylkan. **J+14 à 6 h : Borin doit venir avec son générateur pour une surprise annoncée.**
 
 ## Références visuelles officielles
 
@@ -42,7 +42,7 @@ Ces planches illustrent **deux états d'équipement différents** du même perso
 | Classe | **Danseur des Griffes d’Acier [A] — niveau 26** |
 | Profession | **Éclaireur des Terres Sauvages [B] — niveau 18** |
 | Titres actifs | Adulte de Varkhûn ; Savant runique ; Maître de familier [B] — **3/5** |
-| Fortune | **232 Pièces** |
+| Fortune | **228 Pièces** |
 
 ## Caractéristiques permanentes — 348 points
 
@@ -81,9 +81,9 @@ Ces planches illustrent **deux états d'équipement différents** du même perso
 - **Partage des compétences [S]** conservé par Soren ; partage vers les loups **révoqué**.
 - Trois familiers permanents : Varkhan, Aelkan et Sylkan ; Sahir appartient à Tévan.
 - **Cœur des Trois Veilleurs** : 7 transferts utilisés, **3 disponibles**, non vendus, rangé dans la chambre n° 3.
-- **Générateur de Borin** : objet confié, non propriété de Soren, encore hors tension.
-- **Deux lettres** écrites J+13 pour Vaeren et Kaelor, **non expédiées**.
-- **Jour de l’Aube J+13** : jeûne alimentaire de Soren, eau autorisée ; chasse commencée, pas encore résolue.
+- **Générateur de Borin** : propriété de Borin, repris par celui-ci après réparations et essais J+13 ; hors tension. Association **55 % Borin / 45 % Soren** signée par le SYSTÈME, sans cession du Cœur.
+- **Deux lettres** pour Vaeren et Kaelor **expédiées J+13** (4 Pièces) ; acheminement prévu J+14.
+- **Jour de l’Aube J+13** : jeûne respecté ; chasse achevée (ourse [B] signalée, sanglier abattu), générateur réparé et expérimenté ; Soren dort après une soirée avec ses loups. Voir [[État de reprise J+14]] et [[Association artisanale Soren–Borin]].
 
 > [!warning] Connaissances réservées
 > La rubrique [[18 - Dossier confidentiel du Fondateur]] est une archive réservée à la continuité du Fondateur. Elle ne confère aucune connaissance nouvelle aux PNJ.
