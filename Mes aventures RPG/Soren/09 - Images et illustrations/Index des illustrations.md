@@ -1,15 +1,21 @@
 ---
-type: "index"
-titre: "Index des illustrations"
-campagne: "Soren"
-source: "Chronique intégrale — arrêt J+12"
+type: index_illustrations
+campagne: Soren
 ---
+# Index des illustrations — Soren
 
-# Index des illustrations
+## Références officielles du personnage
 
-Les portraits officiels et autres images existant dans les fichiers du projet ne sont pas encore joints physiquement à ce coffre GitHub. Éviter de les remplacer par des images nouvelles sans nécessité.
+| Époque | Fiche visuelle | Équipement |
+|---|---|---|
+| **J+2 — départ de Varkhûn** | [[Soren — Départ de Varkhûn]] | Tenue légère, avant acquisition de la cape noire |
+| **J+11 — réception de la cape** | [[Soren — Cape noire de Corvin]] | Cape noire et tenue complète |
 
-- **Soren Thalvyr** : portrait officiel disponible dans les fichiers du projet (`Portrait Soren.png`) ; conserver l’apparence validée.
-- **PNJ et lieux** : réserver les emplacements, réutiliser les visuels antérieurement validés lorsqu’ils sont effectivement accessibles.
+Les **deux planches techniques originales** sont conservées en fichiers PNG distincts. Elles ne doivent pas être remplacées par des visages ou des tenues inventés.
 
-> [!note] Aucune illustration inventée ni lien fictif n'a été ajouté à l'archive.
+> [!warning] Fichiers images à importer
+> Les liens d'images sont prêts, mais les PNG doivent être placés dans `09 - Images et illustrations/Personnages/Soren/`. Les fiches Markdown sont déjà enregistrées dans GitHub. Une archive contenant les deux PNG originaux a été préparée pour l’import.
+
+## Autres illustrations
+
+Pour les futurs personnages et lieux, réutiliser les illustrations établies lorsqu'elles sont disponibles ; ne pas présenter les images indicatives comme des portraits canoniques.

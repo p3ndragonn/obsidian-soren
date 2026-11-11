@@ -23,6 +23,15 @@ cssclasses:
 > [!info] SYSTÈME — Version officielle la plus récente
 > **J+13 · 25 Floréane 427 · 6 h 06** — Départ d’[[Aethérion]] vers les bois du nord-est avec [[Tévan]], [[Varkhan]], [[Aelkan]], [[Sylkan]] et [[Sahir]]. **Tévan dirige la chasse.**
 
+## Références visuelles officielles
+
+| Époque | Référence |
+|---|---|
+| Départ de Varkhûn | [[Soren — Départ de Varkhûn]] |
+| Cape noire de Corvin | [[Soren — Cape noire de Corvin]] |
+
+Ces planches illustrent **deux états d'équipement différents** du même personnage. Les PNG originaux seront affichés après leur import dans Obsidian.
+
 ## Identité et progression
 
 | Élément | Valeur |
