@@ -1,14 +1,14 @@
 ---
 type: dashboard
 campagne: Soren
-version: J+13
+version: fin-J+13
 cssclasses:
   - systeme-dashboard
 ---
 # S Y S T È M E — Soren
 
 > [!info] Partie en cours
-> **J+13 · 25 Floréane 427 · 6 h 06** — départ d'[[Aethérion]] vers les bois du nord-est. **Tévan dirige la chasse.**
+> **J+13 · 25 Floréane 427 · 19 h 46** — Soren dort dans sa **chambre n° 3**, entouré de Varkhan, Aelkan et Sylkan. **J+14 à 6 h : Borin arrive avec son générateur pour une surprise annoncée.**
 
 | Soren | État actuel |
 |---|---|
@@ -16,13 +16,13 @@ cssclasses:
 | Classe / niveau | Danseur des Griffes d'Acier [A] — **26** |
 | Profession / niveau | Éclaireur des Terres Sauvages [B] — **18** |
 | Caractéristiques permanentes | **348 points** |
-| Fortune | **232 Pièces** |
+| Fortune | **228 Pièces** |
 | Meute | [[Varkhan]], [[Aelkan]], [[Sylkan]] |
 | Artefact légendaire | **3 transferts disponibles**, non vendus |
 
 ## Reprendre la partie
 
-- **[[État de reprise J+13]]** — dernière situation vérifiée.
+- **[[État de reprise J+14]]** — dernière situation vérifiée (fin J+13, veille du J+14).
 - **[[Fiche personnage — Soren Thalvyr]]** — présentation officielle du personnage.
 - [[00 - Sommaire de Soren]] — toutes les caractéristiques, compétences et possessions.
 
@@ -30,7 +30,7 @@ cssclasses:
 
 | Rubrique | Contenu |
 |---|---|
-| [[Chronologie générale]] | 20 jours d'aventure archivés (J−7 à J+12) |
+| [[Chronologie générale]] | 21 jours d'aventure archivés (J−7 à J+13) |
 | [[Index — Historique]] | Synthèses quotidiennes : événements, rencontres, dépenses et objets |
 | [[Index — Personnages et PNJ]] | Répertoire des personnages et compagnons |
 | [[Index — Lieux]] | Villes, régions et points importants |
@@ -44,4 +44,4 @@ cssclasses:
 | [[Références du SYSTÈME]] | Documents de règles canoniques |
 
 > [!warning] Archivage
-> Ne pas confondre l'état **J+13** avec l'ancienne sauvegarde **J+12** ; les recettes potentielles ne sont pas des encaissements.
+> La nouvelle sauvegarde est [[État de reprise J+14]] ; [[État de reprise J+13]] est une situation historique du matin. **Société Borin 55 % / Soren 45 % signée** ; le Cœur reste propriété de Soren ; aucune recette future n'est encaissée.
