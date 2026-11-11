@@ -24,15 +24,35 @@ cssclasses: "systeme-dashboard"
 
 ## Accès aux archives
 
-- [[Chronologie générale]] — 0 journées archivées
+- [[Chronologie générale]] — 20 journées archivées
 - [[Statut — Soren]] — évolution, compétences et inventaire
 - [[Comptabilité — Soren]] — dépenses, recettes et projets
 - [[Points de vigilance]] — chronologie et divergences
 - [[Index des illustrations]] — références visuelles
 - [[Références du SYSTÈME]] — canons et règles
 
-## Journaux
+## Journaux — 20 journées
 
+- [[J-7 — 5 Floréane 427]]
+- [[J-6 — 6 Floréane 427]]
+- [[J-5 — 7 Floréane 427]]
+- [[J-4 — 8 Floréane 427]]
+- [[J-3 — 9 Floréane 427]]
+- [[J-2 — 10 Floréane 427]]
+- [[J-1 — 11 Floréane 427]]
+- [[J0 — 12 Floréane 427]]
+- [[J+1 — 13 Floréane 427]]
+- [[J+2 — 14 Floréane 427]]
+- [[J+3 — 15 Floréane 427]]
+- [[J+4 — 16 Floréane 427]]
+- [[J+5 — 17 Floréane 427]]
+- [[J+6 — 18 Floréane 427]]
+- [[J+7 — 19 Floréane 427]]
+- [[J+8 — 20 Floréane 427]]
+- [[J+9 — 21 Floréane 427]]
+- [[J+10 — 22 Floréane 427]]
+- [[J+11 — 23 Floréane 427]]
+- [[J+12 — 24 Floréane 427]]
 
 
 > [!warning] État des informations
