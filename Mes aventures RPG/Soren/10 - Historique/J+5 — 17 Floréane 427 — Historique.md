@@ -31,8 +31,6 @@ tags:
 
 [[Tévan]] · [[Hadrien]]
 
-> [!note] Type de présence
-> Certains personnages sont évoqués, contactés ou rappelés sans rencontre physique dans cette journée. Le déroulé ci-dessous fait foi pour distinguer ces situations.
 
 ## 3. Lieux et déplacements
 
@@ -46,8 +44,6 @@ tags:
 
 **Dépenses : −7 Pièces** hébergement, **−3** entraînement, **−6** bains, **−35** dîner ; **total −51**, **solde 537**.
 
-> [!warning] Comptabilité
-> Les commandes ne sont pas traitées comme des paiements avant leur règlement ; les sommes proposées ou conditionnelles ne sont pas des gains acquis. En cas d'écart entre relevés, la source est conservée sans correction fictive.
 
 ## 5. Objets, équipement et ressources
 
@@ -57,41 +53,10 @@ Truite pêchée et consommée ; aucun objet durable acquis.
 
 Progrès tactiques de Tévan durant l'entraînement.
 
-## 7. Déroulement détaillé conservé
+## 7. Récit complet
 
-**De Rochebrune à Clairerive**
+Lire [[J+5 — 17 Floréane 427|le journal narratif de cette journée]] pour le déroulement détaillé, les dialogues et le contexte.
 
-Soren et ses deux compagnons quittent Rochebrune à l'aube, après un dernier petit-déjeuner offert par Brunna.
-
-Ils prennent la direction de Clairerive.
-
-Sur la route, ils aperçoivent des sangliers, mais poursuivent leur marche sans combattre.
-
-Près d'un vieux pont, Soren décide de pêcher une truite directement avec son Croc droit. Il réussit à capturer le poisson.
-
-Hadrien prépare ensuite la truite, la vide et la fait cuire sur un feu. Les trois hommes partagent un repas composé de poisson grillé et de leurs provisions.
-
-Soren raconte certaines de ses anciennes habitudes de survie, notamment sa manière de se nourrir sans toujours allumer de feu.
-
-#### Arrivée à Clairerive
-
-Vers 15 h 35, le groupe atteint Clairerive et s'installe à l'**Auberge du Cerf d'Argent**, dans une chambre triple.
-
-Les compagnons rejoignent ensuite la **Cour des Lices** pour s'entraîner.
-
-La séance porte particulièrement sur les techniques de Tévan à la rapière : appuis, feintes, placement, déplacements et protection de son flanc gauche.
-
-Hadrien et Soren l'aident à corriger une ouverture régulièrement exploitable par ses adversaires.
-
-Après l'entraînement, ils passent aux **Bains des Deux Sources**, puis dînent à l'auberge.
-
-Soren commande un plateau particulièrement copieux, deux tartes et une bière.
-
-Les trois compagnons se couchent en prévoyant un départ très matinal pour la capitale.
-
-**Dépenses connues :** 7 Pièces d'hébergement, 3 Pièces d'entraînement, 6 Pièces de bains et 35 Pièces de dîner.
-
-**Fortune restante : 537 Pièces.**
 
 ---
 
