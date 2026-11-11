@@ -1,60 +1,34 @@
 ---
-type: "fiche_soren_section"
-campagne: "Soren"
-version: "J+13"
+type: fiche_soren_section
+campagne: Soren
+version: J+13
 date_univers: "25 Floréane 427"
-source: "Fiche officielle du Fondateur"
-section: 11
+source: "Fiche officielle fournie par le Fondateur"
 ---
 
 # 11 — Familiers liés
 
-Trois liens familiers permanents · Tous liés volontairement à Soren lors de la mission D-156
+> [!info] Meute de Soren
+> Trois loups liés **volontairement** pendant la mission D-156. Tous possèdent un lien permanent avec Soren et un renforcement légendaire permanent de mana.
 
-## Varkhan
+| Familier | Apparence | Tempérament | Lien |
+|---|---|---|---|
+| [[Varkhan]] | Grand loup noir, yeux bleu glacier | Calme, protecteur, prudent et défenseur | **Actif** |
+| [[Aelkan]] | Grand loup blanc, yeux ambrés | Observateur, précis, méthodique | **Actif** |
+| [[Sylkan]] | Grand loup gris argenté | Joueur, énergique, affectueux et attaché à Soren | **Actif** |
 
-Grand loup noir
+## Capacités et entraînement
 
-Yeux bleu glacier. Le plus posé et protecteur du trio. Privilégie la prudence, la stabilité et les positions défensives. Il agit souvent comme gardien de la meute.
+La meute sait chasser, franchir des obstacles, travailler individuellement et se coordonner sans consignes constantes. Les règles de chasse de Soren excluent les humains, les familiers, le bétail, les jeunes et les femelles allaitantes.
 
-Lien actif · Renforcement légendaire du mana permanent
+- **Mana :** maximum accru de plus de 50 % pour chacun ; valeur exacte inconnue.
+- **Téléportation :** essais réussis avec *Danse téléporter [SS]*, puis **partage révoqué**.
+- **Rang, niveaux et statistiques individuels :** non documentés.
 
-[\[700+\] Wolf In Autumn Wallpapers | Wallpapers.com](https://images.openai.com/static-rsc-4/PIm-5C0athAJijvMm5dcdbJCxrgKeq-xyrlVtC1bS9SsxCp8QrFyFpzp3G4aVOURWrvWHfRFYGyI_5FaOFwRIiiVRgeoh0ZShb3uQrf-Zi8hhvjJM-odi0JNm3C4zXVP6rOiC_kfgJTVMXEJvT-X8FL4qul8o1Iltp2rsbm1vG0?purpose=inline)
+## Sahir — familier de Tévan
 
-## Aelkan
-
-Grand loup blanc
-
-Yeux ambrés. Observateur, précis et méthodique. Il examine son environnement avant d'agir et se distingue par ses choix tactiques.
-
-Lien actif · Renforcement légendaire du mana permanent
-
-## Sylkan
-
-Grand loup gris argenté
-
-Joueur, affectueux, énergique et particulièrement attaché à Soren. Très demandeur de caresses, il apprend progressivement à devenir plus autonome.
-
-Lien actif · Renforcement légendaire du mana permanent
-
-### Capacités et état de la meute
-
-Les trois loups ont démontré leur capacité à chasser, reconnaître des obstacles, travailler séparément et se coordonner sans directives permanentes. Ils sont soumis aux consignes établies par Soren : ne pas attaquer les humains, familiers, animaux domestiques, jeunes animaux ni femelles allaitantes dans le cadre de la chasse ordinaire.
-
-Derniers changements : les trois familiers ont reçu chacun une augmentation permanente de leur réserve maximale de mana supérieure à 50 %. Leur réserve chiffrée exacte n'a pas été déterminée. Leur accès temporaire à Danse téléporter a été révoqué.
-
-### Familiar associé à Tévan
-
-Sahir — Grand lynx fauve doré
-
-Yeux ambrés et longues houppes noires au bout des oreilles.
-
-Propriétaire du lien : Tévan. Sahir n'est pas un quatrième familier de Soren.
-
-Il bénéficie lui aussi du renforcement permanent de mana provenant du Cœur légendaire.
-
-Les niveaux, rangs personnels et caractéristiques numériques individuels de ces animaux ne sont pas documentés. Aucun chiffre supplémentaire ne leur est attribué.
+[[Sahir]] est un grand lynx fauve doré, aux yeux ambrés et aux longues houppes noires. Son lien appartient à **[[Tévan]]**, pas à Soren. Il bénéficie également du renforcement légendaire permanent de mana.
 
 ---
 
-[[00 - Sommaire de Soren|Retour au sommaire]] · [[Fiche personnage — Soren Thalvyr|Fiche générale]]
+[[00 - Sommaire de Soren|Sommaire]] · [[Fiche personnage — Soren Thalvyr|Fiche générale]]
