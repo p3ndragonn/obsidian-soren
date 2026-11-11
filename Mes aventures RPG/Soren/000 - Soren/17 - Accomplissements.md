@@ -22,7 +22,7 @@ section: 17
 | J+10      | Mission D-156 : Crypte des Trois Veilleurs, sauvetage des animaux, arrestation de Veldran, récupération du Cœur                                  |
 | J+11      | Premier entraînement et première chasse des familiers, titre Maître de familier, installation en chambre n° 3                                    |
 | J+12      | Partage des compétences, amélioration permanente de mana des sept bénéficiaires, négociations avec Arvand, installation de Tévan en chambre n° 5 |
-| J+13      | Réveil à 4 h 30, jeûne hebdomadaire, deux lettres rédigées, départ matinal avec Tévan et les familiers                                           |
+| J+13      | Jeûne du Jour de l'Aube ; chasse avec Tévan, ourse [B] signalée et sanglier ; lettres expédiées ; générateur de Borin réparé, dragon et forge testés ; association **Borin 55 % / Soren 45 %** signée ; distorsion runique stabilisée ; soirée avec la meute                                           |
 
 ---
 
