@@ -5,11 +5,9 @@ source: "Chronique intégrale de Soren Thalvyr — J+12"
 
 # Brunna
 
-> [!info] Groupe
-> Le voyage — Valbois, Rochebrune et Clairerive
+> [!info] Rôle et lien avec Soren
+> Aubergiste de Rochebrune, organisatrice du défi culinaire.
 
-Aubergiste de Rochebrune, organisatrice du défi culinaire.
+**Contexte :** Le voyage — Valbois, Rochebrune et Clairerive
 
-**Source :** répertoire de la chronique intégrale. Toute valeur mécanique, information privée ou suite inconnue reste non définie.
-
-**Repères :** [[Chronologie générale]] · [[Tableau de bord — Soren]].
+**Voir aussi :** [[Chronologie générale]] · [[Chronologie détaillée et index des PNJ]]
