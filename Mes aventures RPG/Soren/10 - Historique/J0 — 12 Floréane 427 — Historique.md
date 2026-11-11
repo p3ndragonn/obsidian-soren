@@ -17,7 +17,7 @@ tags:
 
 > [!info] Repères
 > **Jour :** J0 · **Date :** 12 Floréane 427  
-> **Parcours :** [[Place de Varkhûn]] → [[Ancienne cabane de Soren]] → [[Bains de Varkhûn]] → [[Maison de cérémonie]]
+> **Parcours :** Place de Varkhûn → Ancienne cabane de Soren → Bains de Varkhûn → Maison de cérémonie
 
 ## 1. Événements importants
 
@@ -32,10 +32,10 @@ tags:
 
 ## 3. Lieux et déplacements
 
-- [[Place de Varkhûn]]
-- [[Ancienne cabane de Soren]]
-- [[Bains de Varkhûn]]
-- [[Maison de cérémonie]]
+- Place de Varkhûn
+- Ancienne cabane de Soren
+- Bains de Varkhûn
+- Maison de cérémonie
 
 ## 4. Dépenses, gains et solde
 

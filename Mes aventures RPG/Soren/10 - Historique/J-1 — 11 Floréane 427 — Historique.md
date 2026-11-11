@@ -17,7 +17,7 @@ tags:
 
 > [!info] Repères
 > **Jour :** J-1 · **Date :** 11 Floréane 427  
-> **Parcours :** [[Thermes de Varkhûn]] → [[Promontoire des départs]] → [[Atelier de Torven]] → [[Cabane de Narek]] → [[Grotte cristalline]] → [[Maison de Vaeren]]
+> **Parcours :** Thermes de Varkhûn → Promontoire des départs → Atelier de Torven → Cabane de Narek → [[Grotte cristalline]] → Maison de Vaeren
 
 ## 1. Événements importants
 
@@ -33,12 +33,12 @@ tags:
 
 ## 3. Lieux et déplacements
 
-- [[Thermes de Varkhûn]]
-- [[Promontoire des départs]]
-- [[Atelier de Torven]]
-- [[Cabane de Narek]]
+- Thermes de Varkhûn
+- Promontoire des départs
+- Atelier de Torven
+- Cabane de Narek
 - [[Grotte cristalline]]
-- [[Maison de Vaeren]]
+- Maison de Vaeren
 
 ## 4. Dépenses, gains et solde
 

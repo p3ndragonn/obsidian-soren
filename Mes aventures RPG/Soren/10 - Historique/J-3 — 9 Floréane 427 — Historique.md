@@ -17,7 +17,7 @@ tags:
 
 > [!info] Repères
 > **Jour :** J-3 · **Date :** 9 Floréane 427  
-> **Parcours :** [[Varkhûn]] → [[Ruisseau]] → [[Cabane de Soren]]
+> **Parcours :** [[Varkhûn]] → Ruisseau → Cabane de Soren
 
 ## 1. Événements importants
 
@@ -33,8 +33,8 @@ tags:
 ## 3. Lieux et déplacements
 
 - [[Varkhûn]]
-- [[Ruisseau]]
-- [[Cabane de Soren]]
+- Ruisseau
+- Cabane de Soren
 
 ## 4. Dépenses, gains et solde
 

@@ -17,7 +17,7 @@ tags:
 
 > [!info] Repères
 > **Jour :** J-2 · **Date :** 10 Floréane 427  
-> **Parcours :** [[Varkhûn]] → [[Atelier de Torven]] → [[Ancienne cabane de Soren]] → [[Maison de Vaeren]]
+> **Parcours :** [[Varkhûn]] → Atelier de Torven → Ancienne cabane de Soren → Maison de Vaeren
 
 ## 1. Événements importants
 
@@ -33,9 +33,9 @@ tags:
 ## 3. Lieux et déplacements
 
 - [[Varkhûn]]
-- [[Atelier de Torven]]
-- [[Ancienne cabane de Soren]]
-- [[Maison de Vaeren]]
+- Atelier de Torven
+- Ancienne cabane de Soren
+- Maison de Vaeren
 
 ## 4. Dépenses, gains et solde
 
