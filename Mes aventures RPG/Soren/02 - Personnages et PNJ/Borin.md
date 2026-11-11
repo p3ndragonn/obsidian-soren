@@ -5,11 +5,9 @@ source: "Chronique intégrale de Soren Thalvyr — J+12"
 
 # Borin
 
-> [!info] Groupe
-> Aethérion — Guilde, artisans et nouvelles connaissances
+> [!info] Rôle et lien avec Soren
+> Nain, ancien colocataire et propriétaire du générateur d'arène modulaire.
 
-Nain, ancien colocataire et propriétaire du générateur d'arène modulaire.
+**Contexte :** Aethérion — Guilde, artisans et nouvelles connaissances
 
-**Source :** répertoire de la chronique intégrale. Toute valeur mécanique, information privée ou suite inconnue reste non définie.
-
-**Repères :** [[Chronologie générale]] · [[Tableau de bord — Soren]].
+**Voir aussi :** [[Chronologie générale]] · [[Répertoire des personnages — Soren]]
