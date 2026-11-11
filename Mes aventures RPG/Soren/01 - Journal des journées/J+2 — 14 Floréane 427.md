@@ -16,7 +16,7 @@ Plus loin, il découvre la charrette de **Garric**, marchand accompagné de sa f
 
 Soren les aide à dégager leur véhicule. Garric lui propose 20 Pièces, mais il refuse cette récompense.
 
-#### Arrivée à Valbois
+## Arrivée à Valbois
 
 Soren rejoint l'**Auberge du Cerf Doré**, où **Mira** s'occupe notamment de son accueil. Il réserve la chambre n° 4 avec une formule comprenant l'hébergement et les repas, pour 65 Pièces.
 
@@ -30,7 +30,7 @@ Hadrien explique à Soren comment fonctionnent les groupes et les missions de la
 
 Soren découvre également **Rosalie**, une pâtissière, et lui achète trois moelleux aux amandes pour les partager avec ses nouveaux compagnons. Rosalie lui offre un biscuit supplémentaire.
 
-#### Les premiers entraînements à Valbois
+## Les premiers entraînements à Valbois
 
 Dans les jardins proches de la rivière, Soren rencontre **Bromdur**, qui examine ses Crocs du Septième Pas.
 
@@ -44,7 +44,7 @@ Il remporte un premier duel d'entraînement au bâton contre Goram par trois tou
 
 Soren démontre plusieurs techniques de combat et l'utilisation de ses Crocs.
 
-#### Une relation naissante
+## Une relation naissante
 
 Le soir, Soren retrouve Tévan et Hadrien autour d'un dîner.
 
@@ -60,7 +60,7 @@ La décision de poursuivre le voyage à trois est prise.
 
 ---
 
-**Navigation :** [[Tableau de bord — Soren]] · [[Chronologie générale]] · [[Soren Thalvyr]]
+**Navigation :** [[Tableau de bord — Soren]] · [[Chronologie générale]] · [[Soren Thalvyr]] · [[J+2 — 14 Floréane 427 — Historique|Bilan de la journée]]
 
 > [!note] Source et limites
 > Compte rendu repris du résumé de campagne. Les événements ou paroles non consignés ne sont pas inventés.

@@ -16,7 +16,7 @@ Ils installent le banquet, déplacent les tables et les bancs et préparent les 
 
 Les quatre amis évoquent leur avenir. Thorek veut rejoindre les patrouilles de chasse et de protection du village ; Maëlan souhaite devenir herboriste ; Rhovan se dirige vers les métiers de la construction ; Soren annonce publiquement son ambition de devenir aventurier, d'explorer le monde et de revenir raconter ses découvertes.
 
-#### La reconnaissance des adultes
+## La reconnaissance des adultes
 
 Le chef de Varkhûn et ses conseillers président la cérémonie.
 
@@ -34,7 +34,7 @@ Le jeune garçon explique avoir choisi Brennar comme mentor pour apprendre le tr
 
 Soren lui conseille de trouver sa propre voie plutôt que d'essayer de l'imiter. Aëron lui demande de revenir un jour raconter ses aventures.
 
-#### Le banquet et la dernière tradition
+## Le banquet et la dernière tradition
 
 Soren retrouve Vaeren, Kaelor, Narek, Darek et les habitants autour du banquet.
 
@@ -52,7 +52,7 @@ Cette journée est un tournant : **Soren devient officiellement adulte et reçoi
 
 ---
 
-**Navigation :** [[Tableau de bord — Soren]] · [[Chronologie générale]] · [[Soren Thalvyr]]
+**Navigation :** [[Tableau de bord — Soren]] · [[Chronologie générale]] · [[Soren Thalvyr]] · [[J0 — 12 Floréane 427 — Historique|Bilan de la journée]]
 
 > [!note] Source et limites
 > Compte rendu repris du résumé de campagne. Les événements ou paroles non consignés ne sont pas inventés.
