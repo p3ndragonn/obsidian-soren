@@ -3,12 +3,11 @@ type: "fiche_soren_section"
 campagne: "Soren"
 version: "J+13"
 date_univers: "25 Floréane 427"
-heure_reference: "06:06"
-source: "Fiche officielle de Soren Thalvyr fournie par le Fondateur"
+source: "Fiche officielle du Fondateur"
 section: 13
 ---
 
-## 13. Inventaire et possessions
+# 13 — Inventaire et possessions
 
 ### Objets personnels
 
@@ -45,9 +44,7 @@ Propriété reconnue de Soren, sous réserve d'éventuels droits démontrés par
 
 Objet d'environ 20 cm, doté d'une réserve de mana considérée comme inépuisable selon ses propriétés établies par le Fondateur.
 
-Transferts permanents effectués
-
-7 / 10
+**Transferts effectués : 7 / 10**
 
 Transferts restants
 
@@ -82,4 +79,4 @@ Rémunération de Soren : 15 % du prix brut de vente si Borin revend le généra
 
 ---
 
-**Navigation :** [[Fiche personnage — Soren Thalvyr]] · [[00 - Sommaire de Soren]]
+[[00 - Sommaire de Soren|Retour au sommaire]] · [[Fiche personnage — Soren Thalvyr|Fiche générale]]

@@ -3,15 +3,13 @@ type: "fiche_soren_section"
 campagne: "Soren"
 version: "J+13"
 date_univers: "25 Floréane 427"
-heure_reference: "06:06"
-source: "Fiche officielle de Soren Thalvyr fournie par le Fondateur"
+source: "Fiche officielle du Fondateur"
 section: 11
 ---
 
-## 11. Familiers liés
+# 11 — Familiers liés
 
 Trois liens familiers permanents · Tous liés volontairement à Soren lors de la mission D-156
-
 
 ## Varkhan
 
@@ -31,7 +29,6 @@ Yeux ambrés. Observateur, précis et méthodique. Il examine son environnement 
 
 Lien actif · Renforcement légendaire du mana permanent
 
-
 ## Sylkan
 
 Grand loup gris argenté
@@ -48,7 +45,6 @@ Derniers changements : les trois familiers ont reçu chacun une augmentation per
 
 ### Familiar associé à Tévan
 
-
 Sahir — Grand lynx fauve doré
 
 Yeux ambrés et longues houppes noires au bout des oreilles.
@@ -61,4 +57,4 @@ Les niveaux, rangs personnels et caractéristiques numériques individuels de ce
 
 ---
 
-**Navigation :** [[Fiche personnage — Soren Thalvyr]] · [[00 - Sommaire de Soren]]
+[[00 - Sommaire de Soren|Retour au sommaire]] · [[Fiche personnage — Soren Thalvyr|Fiche générale]]

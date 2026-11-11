@@ -3,12 +3,11 @@ type: "fiche_soren_section"
 campagne: "Soren"
 version: "J+13"
 date_univers: "25 Floréane 427"
-heure_reference: "06:06"
-source: "Fiche officielle de Soren Thalvyr fournie par le Fondateur"
+source: "Fiche officielle du Fondateur"
 section: 20
 ---
 
-## 20. Points de continuité à conserver
+# 20 — Points de continuité
 
 La fiche est jouable dans son état actuel, avec les réserves suivantes :
 
@@ -26,4 +25,4 @@ SYSTÈME — Fiche de Soren Thalvyr actualisée au J+13. Les caractéristiques, 
 
 ---
 
-**Navigation :** [[Fiche personnage — Soren Thalvyr]] · [[00 - Sommaire de Soren]]
+[[00 - Sommaire de Soren|Retour au sommaire]] · [[Fiche personnage — Soren Thalvyr|Fiche générale]]

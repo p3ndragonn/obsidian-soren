@@ -3,18 +3,15 @@ type: "fiche_soren_section"
 campagne: "Soren"
 version: "J+13"
 date_univers: "25 Floréane 427"
-heure_reference: "06:06"
-source: "Fiche officielle de Soren Thalvyr fournie par le Fondateur"
+source: "Fiche officielle du Fondateur"
 section: 19
 ---
 
-## 19. Situation actuelle et objectifs
+# 19 — Situation actuelle et objectifs
 
-Point de reprise officiel
+**Point de reprise officiel : 25 Floréane 427 · J+13 · 6 h 06.**
 
-25 Floréane 427 · J+13 · 6 h 06
-
-Aethérion, départ vers les bois du nord-est.
+**Lieu :** Aethérion, départ vers les bois du nord-est.
 
 | Élément                         | Situation                                                                      |
 | ------------------------------- | ------------------------------------------------------------------------------ |
@@ -35,4 +32,4 @@ Objectif immédiat : laisser Tévan organiser sa chasse et prendre les décision
 
 ---
 
-**Navigation :** [[Fiche personnage — Soren Thalvyr]] · [[00 - Sommaire de Soren]] · [[État de reprise J+12]]
+[[00 - Sommaire de Soren|Retour au sommaire]] · [[Fiche personnage — Soren Thalvyr|Fiche générale]]

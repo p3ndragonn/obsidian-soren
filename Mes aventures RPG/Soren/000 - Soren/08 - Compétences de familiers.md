@@ -3,12 +3,11 @@ type: "fiche_soren_section"
 campagne: "Soren"
 version: "J+13"
 date_univers: "25 Floréane 427"
-heure_reference: "06:06"
-source: "Fiche officielle de Soren Thalvyr fournie par le Fondateur"
+source: "Fiche officielle du Fondateur"
 section: 8
 ---
 
-## 8. Compétences de maître de familier
+# 08 — Compétences de familiers
 
 ## Maître de familier [B]
 
@@ -30,4 +29,4 @@ La communication ne transforme pas les loups en humains parlants. Elle permet de
 
 ---
 
-**Navigation :** [[Fiche personnage — Soren Thalvyr]] · [[00 - Sommaire de Soren]]
+[[00 - Sommaire de Soren|Retour au sommaire]] · [[Fiche personnage — Soren Thalvyr|Fiche générale]]

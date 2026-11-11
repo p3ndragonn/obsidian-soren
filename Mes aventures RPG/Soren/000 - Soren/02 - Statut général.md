@@ -3,52 +3,27 @@ type: "fiche_soren_section"
 campagne: "Soren"
 version: "J+13"
 date_univers: "25 Floréane 427"
-heure_reference: "06:06"
-source: "Fiche officielle de Soren Thalvyr fournie par le Fondateur"
+source: "Fiche officielle du Fondateur"
 section: 2
 ---
 
-## 2. Statut général du SYSTÈME
+# 02 — Statut général
 
-Rang personnel
+| Donnée | État officiel à J+13 |
+|---|---|
+| Rang personnel | **C** (né D, puis progression vers C) |
+| Grade de Guilde | **D** |
+| Classe | **Danseur des Griffes d’Acier [A] — niveau 26** |
+| Profession | **Éclaireur des Terres Sauvages [B] — niveau 18** |
+| Titres actifs | **3 / 5** |
+| Titres équipés | Adulte de Varkhûn, Savant runique, Maître de familier [B] |
+| EXP de Classe | Non établie |
+| EXP de Profession | Non établie |
+| Blessures persistantes / états anormaux | Aucun confirmé |
 
-# C
-
-Né D, progression réelle vers C
-
-Grade de Guilde
-
-# D
-
-Inscription officielle à Aethérion
-
-Niveau de Classe
-
-# 26
-
-Rareté [A]
-
-Niveau de Profession
-
-# 18
-
-Rareté [B]
-
-Titres équipés\
-3 / 5
-
-Adulte de Varkhûn
-
-Savant runique
-
-Maître de familier [B]
-
-- EXP exacte de Classe : non établie.
-- EXP exacte de Profession : non établie.
-- Deux emplacements de titre restent libres.
-- Aucun état anormal ou blessure persistante n'est actuellement confirmé.
-- Le grade de Guilde D et le rang personnel C sont deux notions distinctes.
+> [!note] Rangs distincts
+> Le rang personnel, le grade de Guilde, la rareté de Classe et celle de Profession ne désignent pas la même chose.
 
 ---
 
-**Navigation :** [[Fiche personnage — Soren Thalvyr]] · [[00 - Sommaire de Soren]]
+[[00 - Sommaire de Soren|Retour au sommaire]] · [[Fiche personnage — Soren Thalvyr|Fiche générale]]

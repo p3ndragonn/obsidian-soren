@@ -3,12 +3,11 @@ type: "fiche_soren_section"
 campagne: "Soren"
 version: "J+13"
 date_univers: "25 Floréane 427"
-heure_reference: "06:06"
-source: "Fiche officielle de Soren Thalvyr fournie par le Fondateur"
+source: "Fiche officielle du Fondateur"
 section: 17
 ---
 
-## 17. Historique des accomplissements
+# 17 — Accomplissements
 
 | Période   | Événements majeurs                                                                                                                               |
 | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -27,4 +26,4 @@ section: 17
 
 ---
 
-**Navigation :** [[Fiche personnage — Soren Thalvyr]] · [[00 - Sommaire de Soren]]
+[[00 - Sommaire de Soren|Retour au sommaire]] · [[Fiche personnage — Soren Thalvyr|Fiche générale]]

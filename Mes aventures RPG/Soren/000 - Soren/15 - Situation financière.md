@@ -3,17 +3,13 @@ type: "fiche_soren_section"
 campagne: "Soren"
 version: "J+13"
 date_univers: "25 Floréane 427"
-heure_reference: "06:06"
-source: "Fiche officielle de Soren Thalvyr fournie par le Fondateur"
+source: "Fiche officielle du Fondateur"
 section: 15
 ---
 
-## 15. Situation financière
+# 15 — Situation financière
 
-Fortune personnelle disponible — J+13
-
-# 232 Pièces
-
+> [!info] Fortune disponible : **232 Pièces**
 Aucune nouvelle dépense depuis le dîner du 24 Floréane
 
 ### Dernières opérations
@@ -59,4 +55,4 @@ Aucun revenu de ces projets n'a encore été encaissé.
 
 ---
 
-**Navigation :** [[Fiche personnage — Soren Thalvyr]] · [[00 - Sommaire de Soren]]
+[[00 - Sommaire de Soren|Retour au sommaire]] · [[Fiche personnage — Soren Thalvyr|Fiche générale]]

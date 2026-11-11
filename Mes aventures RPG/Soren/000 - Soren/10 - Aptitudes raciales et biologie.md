@@ -3,12 +3,11 @@ type: "fiche_soren_section"
 campagne: "Soren"
 version: "J+13"
 date_univers: "25 Floréane 427"
-heure_reference: "06:06"
-source: "Fiche officielle de Soren Thalvyr fournie par le Fondateur"
+source: "Fiche officielle du Fondateur"
 section: 10
 ---
 
-## 10. Aptitudes raciales et particularités biologiques
+# 10 — Aptitudes raciales et biologie
 
 Le Codex universel reconnaît pour les Hommes-bêtes deux compétences raciales :
 
@@ -39,4 +38,4 @@ Situation actuelle : aujourd'hui, 25 Floréane 427, Soren observe son jeûne heb
 
 ---
 
-**Navigation :** [[Fiche personnage — Soren Thalvyr]] · [[00 - Sommaire de Soren]]
+[[00 - Sommaire de Soren|Retour au sommaire]] · [[Fiche personnage — Soren Thalvyr|Fiche générale]]

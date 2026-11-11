@@ -3,16 +3,15 @@ type: "fiche_soren_section"
 campagne: "Soren"
 version: "J+13"
 date_univers: "25 Floréane 427"
-heure_reference: "06:06"
-source: "Fiche officielle de Soren Thalvyr fournie par le Fondateur"
+source: "Fiche officielle du Fondateur"
 section: 9
 ---
 
-## 9. Capacités exceptionnelles et secrètes
+# 09 — Capacités exceptionnelles et secrètes
 
 ### Trois compétences de téléportation [SS]
 
-Danse téléporter [SS]
+### Danse téléporter [SS]
 
 Secret
 
@@ -20,11 +19,11 @@ Téléportation instantanée de Soren sur une distance allant de 1 millimètre �
 
 La directive du Fondateur valide également la possibilité d'enchaîner exceptionnellement plusieurs centaines de microdéplacements en environ cinq secondes.
 
-Mouvements téléporter [SS]
+### Mouvements téléporter [SS]
 
 Repositionnement instantané du corps ou de sa posture, permettant notamment de changer ses appuis, son orientation ou sa position dans un enchaînement.
 
-Danse téléporter à deux [SS]
+### Danse téléporter à deux [SS]
 
 Téléportation de Soren accompagné d'une autre personne ou créature avec laquelle il maintient le contact.
 
@@ -54,4 +53,4 @@ Dernière décision : le partage a été révoqué par Soren.
 
 ---
 
-**Navigation :** [[Fiche personnage — Soren Thalvyr]] · [[00 - Sommaire de Soren]]
+[[00 - Sommaire de Soren|Retour au sommaire]] · [[Fiche personnage — Soren Thalvyr|Fiche générale]]

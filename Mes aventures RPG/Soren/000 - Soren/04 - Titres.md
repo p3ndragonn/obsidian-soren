@@ -3,12 +3,11 @@ type: "fiche_soren_section"
 campagne: "Soren"
 version: "J+13"
 date_univers: "25 Floréane 427"
-heure_reference: "06:06"
-source: "Fiche officielle de Soren Thalvyr fournie par le Fondateur"
+source: "Fiche officielle du Fondateur"
 section: 4
 ---
 
-## 4. Titres possédés
+# 04 — Titres
 
 | Titre                  | État    | Effet confirmé                                                                                                 |
 | ---------------------- | ------- | -------------------------------------------------------------------------------------------------------------- |
@@ -21,4 +20,4 @@ Titres équipés : 3 sur 5. Aucun bonus du titre de Guilde inactif ne doit être
 
 ---
 
-**Navigation :** [[Fiche personnage — Soren Thalvyr]] · [[00 - Sommaire de Soren]]
+[[00 - Sommaire de Soren|Retour au sommaire]] · [[Fiche personnage — Soren Thalvyr|Fiche générale]]
