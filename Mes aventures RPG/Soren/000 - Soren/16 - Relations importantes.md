@@ -21,7 +21,7 @@ section: 16
 | Arvand Rethmar    | Maître de la Guilde d'Aethérion, interlocuteur commercial pour le Cœur légendaire                                                    |
 | Odrien            | Expert magique de la Guilde, a examiné le Cœur et les renforcements de mana                                                          |
 | Méliane           | Interlocutrice de l'administration et de l'hébergement de la Guilde                                                                  |
-| Borin             | Artisan nain, propriétaire du générateur runique confié à Soren                                                                      |
+| Borin             | Artisan nain, propriétaire du générateur runique ; **associé commercial de Soren depuis J+13** (Borin 55 %, Soren 45 %)                                                                      |
 | Corvin            | Artisan du cuir, créateur de la tenue et de la cape de Soren                                                                         |
 | Elandir           | Elfe et ancien colocataire, intéressé par les runes                                                                                  |
 | Garrik et Nérel   | Aventuriers rencontrés aux bains, contacts potentiels pour de futures missions                                                       |
