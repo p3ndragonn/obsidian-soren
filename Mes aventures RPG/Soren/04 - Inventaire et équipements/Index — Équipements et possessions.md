@@ -16,5 +16,5 @@ campagne: Soren
 | Argent | [[Comptabilité — Soren]] · [[15 - Situation financière]] |
 
 > [!info] Inventaire officiel le plus récent
-> Pour les quantités, emplacements et états exacts au **J+13**, consulter [[13 - Inventaire et possessions]] : cette note prévaut sur les anciennes descriptions ponctuelles.
+> Pour les quantités, emplacements et états exacts à la **fin J+13**, consulter [[13 - Inventaire et possessions]] : cette note prévaut sur les anciennes descriptions ponctuelles.
 
