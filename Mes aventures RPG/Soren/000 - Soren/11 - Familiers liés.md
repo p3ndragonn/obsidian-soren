@@ -1,8 +1,8 @@
 ---
 type: fiche_soren_section
 campagne: Soren
-version: J+13
-date_univers: "25 Floréane 427"
+version: J+14
+date_univers: "26 Floréane 427"
 source: "Fiche officielle fournie par le Fondateur"
 ---
 
@@ -24,6 +24,15 @@ La meute sait chasser, franchir des obstacles, travailler individuellement et se
 - **Mana :** maximum accru de plus de 50 % pour chacun ; valeur exacte inconnue.
 - **Téléportation :** essais réussis avec *Danse téléporter [SS]*, puis **partage révoqué**.
 - **Rang, niveaux et statistiques individuels :** non documentés.
+
+## J+14 — Parole mentale et foyer
+
+- **Communion familière [B] maîtrise 6**, grâce à **+1 maîtrise accordée par le Fondateur J+14** : Varkhan (voix grave, posée, protectrice), Aelkan (voix précise, réfléchie, humour sec), Sylkan (voix spontanée, joueuse, très friande de brioches) **parlent maintenant directement dans l'esprit de Soren**, qui leur répond par pensée ; inaudible pour les tiers.
+- Essai en plaines : claire jusqu'à **2 km**, brouillée autour de **3 km**, portée maximum inconnue ; liaison entre loups sans Soren non démontrée.
+- Les **trois signatures ajoutées** à l'accès privé du [[Domaine privé de Soren et Borin]]. Ils peuvent désormais explorer la maison et le jardin de Soren indépendamment, pas entrer dans les arènes dangereuses.
+- Centre thermal privé testé : douche, bain chaud et séchage. Varkhan préfère calme et chaleur modérée ; Aelkan bain tranquille ; Sylkan le jeu dans l'eau.
+- **Fin J+14** : **trois paniers séparés** en chambre n° 3, non le lit de Soren.
+- Téléportation partagée **toujours révoquée**.
 
 ## Sahir — familier de Tévan
 
