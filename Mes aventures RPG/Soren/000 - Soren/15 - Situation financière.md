@@ -1,15 +1,15 @@
 ---
 type: fiche_soren_section
 campagne: Soren
-version: J+13
-date_univers: "25 Floréane 427"
+version: J+14
+date_univers: "26 Floréane 427"
 source: "Fiche officielle fournie par le Fondateur"
 ---
 
 # 15 — Situation financière
 
-> [!info] Fortune disponible de référence : **228 Pièces**
-> État fin J+13, 25 Floréane 427 : affranchissement de deux lettres pour 4 Pièces.
+> [!info] Fortune J+14 : dernier montant arithmétique vérifiable **142 Pièces AVANT dîner**
+> Début J+14 : **228 Pièces** ; **86 Pièces versées** pour le local commercial (**43 de loyer + 43 de caution**), somme personnellement avancée à la société. **Dîner payé ensuite, montant non précisé : solde exact à 23 h 52 INCONNU.**
 
 ## Dernières opérations
 
@@ -21,6 +21,20 @@ source: "Fiche officielle fournie par le Fondateur"
 | Dîner et portions de viande | **−27** | **232** |
 | Matin J+13 | **0** | **232** |
 | Lettres à Vaeren et Kaelor expédiées J+13 | **−4** | **228** |
+
+## Mouvements J+14
+
+| Opération | Pièces | Effet |
+|---|---:|---|
+| Solde début de journée | 228 | Référence fin J+13 |
+| Bail local D — premier loyer | −43 | Avance personnelle à l'association |
+| Bail local D — dépôt de garantie | −43 | Dépôt remboursable selon bail, avancé à l'association |
+| **Sous-total avant dîner** | **142** | **Pas un solde final** |
+| Dîner du soir avec les 3 loups | Montant **inconnu** | **Payé** ; impossible de calculer le reste |
+| Ventes des trois bénédictions | **0** | Toujours en négociation |
+| Revenus de La Porte de l'Aube | **0** | Établissement pas ouvert |
+
+**Ne pas inventer le prix du dîner, ni retrancher des frais supposés, ni attribuer l'avance au capital avec une modification de parts (55/45 inchangé).** Les deux sceaux destinés à la Couronne et celui pressenti pour Arvand sont conservés séparément par Soren depuis J+14.
 
 ## Négociations non réalisées
 
