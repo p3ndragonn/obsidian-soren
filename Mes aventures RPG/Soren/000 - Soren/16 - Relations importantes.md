@@ -1,8 +1,8 @@
 ---
 type: "fiche_soren_section"
 campagne: "Soren"
-version: "J+13"
-date_univers: "25 Floréane 427"
+version: "J+14"
+date_univers: "26 Floréane 427"
 source: "Fiche officielle du Fondateur"
 section: 16
 ---
@@ -13,7 +13,7 @@ section: 16
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
 | Vaeren Thalvyr    | Père biologique, affectueux et protecteur ; ancien voyageur et pisteur                                                               |
 | Kaelor Vargan [S] | Maître martial depuis ses dix ans, ancien garde personnel royal, exigeant en toutes circonstances                                    |
-| Tévan             | Compagnon amoureux, duelliste aventurier grade E, rang personnel D, profession marchande ; relation tendre, joueuse et non exclusive |
+| Tévan             | Ami cher / proximité passée ; **Soren affirme à J+14 n'éprouver que de l'amitié pour Tévan et ne souhaiter aucun couple actuellement** ; Tévan n'en est pas encore informé ; duelliste grade E, rang D, marchand |
 | Hadrien           | Ami proche, ancien mercenaire, aventurier grade D, rang personnel C, partenaire de missions                                          |
 | Thorek            | Ami d'enfance de Varkhûn, relation affective et romantique ancienne                                                                  |
 | Narek             | Apprenti charpentier de Varkhûn, relation tendre et intime passée                                                                    |
@@ -26,7 +26,7 @@ section: 16
 | Elandir           | Elfe et ancien colocataire, intéressé par les runes                                                                                  |
 | Garrik et Nérel   | Aventuriers rencontrés aux bains, contacts potentiels pour de futures missions                                                       |
 
-Soren et Tévan ont une relation amoureuse établie, fondée sur la complicité et une grande proximité physique. Tévan aime notamment caresser les oreilles lupines de Soren.
+**Évolution J+14 :** la description précédente d'une relation romantique rend compte de la proximité antérieure, mais **Soren a déclaré à ses trois loups qu'il aime Tévan seulement en ami et ne souhaite pas être en couple**. Le surnom « mon cœur » le touche mais le dérange. **Il n'en a pas parlé à Tévan** ; ne pas inférer les sentiments précis, une rupture officielle ni la réaction de Tévan. Sa proximité et leurs souvenirs restent historiques.
 
 Soren conserve une forte affection pour les habitants de Varkhûn, malgré son désir de parcourir le monde pendant au moins un an avant d'y retourner.
 
