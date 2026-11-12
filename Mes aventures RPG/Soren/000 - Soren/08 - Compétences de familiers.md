@@ -1,8 +1,8 @@
 ---
 type: "fiche_soren_section"
 campagne: "Soren"
-version: "J+13"
-date_univers: "25 Floréane 427"
+version: "J+14"
+date_univers: "26 Floréane 427"
 source: "Fiche officielle du Fondateur"
 section: 8
 ---
@@ -15,17 +15,17 @@ Acquis J+11
 
 | Compétence              | Maîtrise | Effet                                                                                               |
 | ----------------------- | -------- | --------------------------------------------------------------------------------------------------- |
-| Communion familière [B] | 5        | Communication réciproque d'images, d'émotions, d'intentions et de consignes avec les familiers liés |
+| Communion familière [B] | 6        | Images, émotions, intentions et **depuis J+14 paroles mentales réciproques** avec chaque familier lié |
 | Harmonie de meute [B]   | 4        | Favorise la synchronisation des déplacements et comportements collectifs                            |
 | Instinct du gardien [B] | 3        | Facilite la perception de fatigue, détresse, douleur ou blessures chez les familiers                |
 
 Points de maîtrise attribués
 
-12 / 12
+13 / 13
 
-Communion 5Harmonie 4Gardien 3
+Communion 6 · Harmonie 4 · Gardien 3
 
-La communication ne transforme pas les loups en humains parlants. Elle permet de partager des représentations mentales et des intentions, tout en respectant leurs perceptions et leur intelligence animales.
+**Intervention du Fondateur J+14 : +1 point de maîtrise à Communion familière (5 → 6).** Nouvelle faculté « Parole de meute » : Soren entend les voix mentales distinctes de Varkhan, Aelkan et Sylkan, et peut leur répondre par pensée. Les voix ne sont pas audibles par des tiers ; les loups ne parlent pas physiquement comme des humains. **Portée constatée** : fiable jusqu'à ~2 km, dégradée à ~3 km en terrain ouvert ; portée maximale inconnue. Une conversation directe entre loups sans Soren n'est pas établie. Les autres compétences restent **Harmonie de meute 4, Instinct du gardien 3**. Respecter leur cognition lupine et leurs tempéraments.
 
 ---
 
