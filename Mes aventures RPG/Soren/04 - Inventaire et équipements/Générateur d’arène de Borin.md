@@ -7,6 +7,12 @@ source: "Chronique intégrale J+12 ; narration J+13"
 
 # Générateur d’arène de Borin
 
+> [!success] État J+14 — générateur opérationnel en essai, pas encore installé en boutique
+> Propriété personnelle de **Borin**. Arrivé 6 h chambre n° 3 ; raccordé au **Cœur de Soren** par régulateur protégé. **11 espaces testés simultanément** (5 ateliers + 5 salles intermédiaires + 1 arène experte), sécurité et évacuations éprouvées en conditions contrôlées. Forge naine monumentale, dragon rouge simulé non agressif et souffle de fournaise ; fer réel chauffé. **33 espaces restent hypothétiques** (composants [SS] non acquis).
+>
+> Le [[Domaine privé de Soren et Borin]] est **désormais alimenté séparément et indépendant du générateur**, mais reste dépendant du Cœur de Soren. [[La Porte de l'Aube]] est **louée**, pas ouverte : installation du générateur **sous comptoir** encore à faire après **accord écrit du propriétaire Orven**. Double signature Soren/Borin et verrou gravitationnel antivol **testés en chambre**, non posés au local. **Fin J+14 : générateur éteint, dans la chambre n° 3**.
+
+
 Appareil de Borin en réparation par Soren. Deux composants S financés par Borin (180 et 390 Pièces). Cœur de récupération installé J+11, réglages de modules de simulation et essais encore en cours. Rémunération envisagée : 15 % du prix brut de vente.
 
 **État précédent :** état historique J+12, remplacé par la mise à jour ci-dessous.
