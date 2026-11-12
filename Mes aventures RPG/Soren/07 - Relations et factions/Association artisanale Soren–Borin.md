@@ -12,6 +12,12 @@ tags:
 
 # Association artisanale Soren–Borin
 
+> [!success] État actuel J+14 — La Porte de l'Aube
+> [[La Porte de l'Aube]] est le nom adopté. Local D **loué passage des Compagnons, quartier de la Guilde**, **16 m²**, **43 Pièces/mois**, bail **12 mois**, **86 Pièces versées personnellement par Soren** (43 loyer + 43 garantie). Les deux associés disposent des clés. **Aucun client ni recette** ; ouverture espérée **J+17 seulement si contrôles et travaux terminés**. Borin prépare comptoir, enseigne et dossier d'[[Orven|autorisation du propriétaire Maître Orven]] ; **accord écrit pas encore obtenu**. Grille horaire [[La Porte de l'Aube — Grille tarifaire]] proposée par Soren, **pas encore validée par Borin**.
+>
+> Générateur (toujours **Borin**) : **11 espaces simultanés testés** et forge naine/dragon simulé ; en chambre n° 3 à la fin J+14, pas en boutique. Cœur (toujours **Soren**) : **3 bénédictions extraites et conservées en sceaux**, **aucune vente**, matrice millénaire déverrouillée dans la narration, alimentation reliée au générateur et **séparément** au [[Domaine privé de Soren et Borin]], autonome du générateur. **Secret absolu : matrice cérébrale ancestrale de Varkhûn** partagée uniquement avec Borin qui a juré le silence envers tous, y compris ses proches. Borin connaît le nom du Cœur, **pas les conditions exactes d'activation**. Les sections ci-dessous restent la **situation historique J+13**.
+
+
 > [!success] Contrat du SYSTÈME signé à J+13
 > **[[Borin]] : 55 %** · **[[Soren Thalvyr]] : 45 %**. La nouvelle entreprise a été annoncée aux anciens camarades, **sans révélation publique des conditions** ni de la source d'alimentation.
 
