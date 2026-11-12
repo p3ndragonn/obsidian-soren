@@ -1,13 +1,28 @@
 ---
 type: "fiche_soren_section"
 campagne: "Soren"
-version: "J+13"
-date_univers: "25 Floréane 427"
+version: "J+14"
+date_univers: "26 Floréane 427"
 source: "Fiche officielle du Fondateur"
 section: 20
 ---
 
 # 20 — Points de continuité
+
+## Priorité J+14 — Fin de journée, 26 Floréane 427
+
+- Référence à utiliser **d'abord** : [[État de reprise J+15]] et [[J+14 — 26 Floréane 427]]. Les consignes et rendez-vous J+14 plus bas sont **historiques**, déjà joués.
+- **Communion familière [B] maîtrise 6**, +1 octroyé par le Fondateur : voix mentales des trois loups ; **Harmonie 4, Gardien 3** ; portée observée fiable jusqu'à 2 km, dégradée à 3 km, maximum inconnu.
+- **Trois derniers transferts sortis du Cœur J+14**, conservés en **trois sceaux personnels non consommés, invendus** ; les **sept autres attribués**. Alimentation millénaire déverrouillée selon récit, endurance de mille ans non mesurée.
+- **Générateur appartenant à Borin dans la chambre n° 3**, couplé au Cœur de Soren, **éteint au coucher** ; **11 espaces testés simultanément**, pas 33. Sécurité testée en laboratoire ; boutique à équiper.
+- **Domaine résidentiel propre** : deux maisons et jardins, fontaine, sous-sol thermal de Soren ; alimentation indépendante du générateur mais dépendant du Cœur ; cinq signatures : Soren, Borin et les trois loups. **Seuil fermé la nuit**, non déménagés.
+- **La Porte de l'Aube : bail signé** pour local D 16 m², 43 Pièces/mois, 86 Pièces avancées par Soren ; autorisation écrite d'Orven pour installations **pas encore donnée**, pas de clients ; tarifs préparés non validés.
+- **142 Pièces avant dîner** (228−86), dîner payé à prix inconnu, **solde final inconnu** ; zéro revenu société / zéro vente de bénédictions.
+- **Matrice cérébrale : secret ancestral de Varkhûn**, réservé à Soren et Borin ; Borin a juré le silence même auprès de ses proches.
+- **Tévan : Soren lui porte des sentiments d'amitié, sans souhait de couple pour le moment**, Tévan non informé ; ne pas le présenter comme couple voulu par Soren. Le lynx Sahir est à Tévan.
+- Fin scène : Soren **nu dans son lit**, trois loups **chacun dans un panier**, dans la chambre n° 3 ; **J+15 pas commencé**.
+
+## Contexte historique J+13
 
 La fiche est jouable dans son état actuel, avec les réserves suivantes :
 
