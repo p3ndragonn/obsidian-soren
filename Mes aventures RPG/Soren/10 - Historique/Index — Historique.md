@@ -6,7 +6,7 @@ campagne: Soren
 # Historique de Soren — Journées
 
 > [!info] Période archivée
-> **J−7 au J+13 · 5–25 Floréane 427**. Chaque page contient une synthèse structurée et les scènes du résumé officiel, sans ajouter d'événement.
+> **J−7 au J+14 · 5–26 Floréane 427**. Chaque page contient une synthèse structurée et les scènes du résumé officiel, sans ajouter d'événement.
 
 - [[J-7 — 5 Floréane 427 — Historique]] — La rencontre d'Erynn
 - [[J-6 — 6 Floréane 427 — Historique]] — Les premiers rapprochements
@@ -29,6 +29,7 @@ campagne: Soren
 - [[J+11 — 23 Floréane 427 — Historique]] — Le premier véritable foyer à Aethérion
 - [[J+12 — 24 Floréane 427 — Historique]] — Les téléportations des loups, le noyau légendaire et les négociations royales
 - [[J+13 — 25 Floréane 427 — Historique]] — Le dragon de Borin, la forge runique et le contrat d'association
+- [[J+14 — 26 Floréane 427 — Historique]] — La Porte de l'Aube, la dimension résidentielle et la Parole de meute
 
 ## Règles d'archivage
 
@@ -39,4 +40,4 @@ campagne: Soren
 - Les inconnues du monde restent inconnues, sans révélation de secrets par déduction.
 - Les données mécaniques ne sont pas recalculées lorsqu'elles n'apparaissent pas dans la source.
 
-**Dernier point de reprise :** [[État de reprise J+14]] — **fin J+13, 25 Floréane 427 à 19 h 46** : Soren dort en chambre n° 3 avec ses trois loups. Réveil programmé **3 h 50 J+14**, Borin attendu à **6 h** avec son générateur.
+**Dernier point de reprise :** [[État de reprise J+15]] — **fin J+14, 26 Floréane 427 à 23 h 52**. Soren dort nu dans son lit en chambre n° 3 ; Varkhan, Aelkan et Sylkan dorment chacun dans un panier. Passage résidentiel fermé, dimension alimentée. J+15 à jouer au réveil.
