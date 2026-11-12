@@ -1,9 +1,9 @@
 ---
 type: "personnage_principal"
 campagne: "Soren"
-version: "fin J+13"
-date_univers: "25 Floréane 427"
-heure_reference: "19:46"
+version: "fin J+14"
+date_univers: "26 Floréane 427"
+heure_reference: "23:52"
 source: "Fiche officielle de Soren Thalvyr fournie par le Fondateur"
 nom: "Soren Thalvyr"
 rang_personnel: C
@@ -12,13 +12,24 @@ classe: "Danseur des Griffes d’Acier [A]"
 niveau_classe: 26
 profession: "Éclaireur des Terres Sauvages [B]"
 niveau_profession: 18
-fortune_pieces: 228
+fortune_pieces: null
 caracteristiques_total: 348
 cssclasses:
   - systeme-personnage
 ---
 
 # Soren Thalvyr
+
+> [!success] ÉTAT OFFICIEL DE REPRISE — FIN J+14
+> **26 Floréane 427 · J+14 · 23 h 52**. Soren dort **nu dans le lit de sa chambre n° 3** ; **Varkhan, Aelkan et Sylkan dans trois paniers séparés**. [[État de reprise J+15]] est le point actuel ; les paragraphes J+13 ci-dessous restent historiques.
+>
+> **Progression canonique :** Maître de familier [B], **Communion familière 6** après **+1 maîtrise du Fondateur**, **Harmonie 4**, **Instinct 3**. Parole mentale réciproque avec ses trois loups, fiable jusqu'à 2 km observés, brouillée vers 3 km.
+>
+> **Cœur des Trois Veilleurs :** 7 bénédictions déjà attribuées, **3 dernières extraites sous sceaux conservés et invendus** ; matrice millénaire déverrouillée dans la narration, ancrage résidentiel autonome du générateur. Générateur **à Borin**, appareil en chambre, éteint à la fin J+14.
+>
+> **La Porte de l'Aube :** local D 16 m² loué 43 Pièces/mois, 86 Pièces avancées par Soren, sans client ni recette, sous réserve de travaux/accord écrit d'Orven. **Fortune : 142 Pièces avant le dîner payé, montant inconnu, solde final inconnu**. **Soren veut seulement une amitié avec Tévan et aucun couple** ; Tévan pas encore informé.
+>
+> **Résidence privée :** [[Domaine privé de Soren et Borin]] avec deux maisons, jardins, place/fontaine, centre thermal au sous-sol de Soren, cinq accès (Soren, Borin et les 3 loups). Matrice cérébrale ancestrale de Varkhûn strictement secrète entre Soren et Borin.
 
 > [!info] SYSTÈME — Version officielle la plus récente
 > **J+13 · 25 Floréane 427 · 19 h 46** — Soren **dort en chambre n° 3** à l'Annexe des Compagnons auprès de Varkhan, Aelkan et Sylkan. **J+14 à 6 h : Borin doit venir avec son générateur pour une surprise annoncée.**
