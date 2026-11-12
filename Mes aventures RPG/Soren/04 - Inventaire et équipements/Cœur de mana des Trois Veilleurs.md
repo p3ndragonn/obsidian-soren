@@ -7,6 +7,11 @@ source: "Chronique intégrale J+12 ; narration J+13"
 
 # Cœur de mana des Trois Veilleurs
 
+> [!success] ÉTAT PRIORITAIRE — FIN J+14 (26 Floréane 427)
+> **Propriété personnelle de Soren** (toujours). **7 des 10 bénédictions ont été attribuées**, les **3 dernières ont été extraites sans attribution et conservées comme 3 sceaux personnels distincts**, **non vendus**. Le SYSTÈME a reconnu en J+14 le cycle comme **achevé par 7 attributions et 3 extractions**, débloquant le **circuit énergétique millénaire** : **1 000 ans non testés en durée réelle**. Le Cœur est raccordé sous régulateur sécurisé, depuis la chambre n° 3, à **deux circuits indépendants** : le [[Générateur d’arène de Borin]] et le [[Domaine privé de Soren et Borin]], ce dernier demeurant utilisable quand le générateur est éteint. **Aucune vente** ; négociations Arvand 250 000 Pièces et Couronne 500 000 Pièces en attente. Borin ne connaît pas les conditions précises de l'ancien verrouillage.
+>
+> **Le dossier ci-dessous décrit l'état historique de J+12/J+13, avant cette extraction.**
+
 Artefact légendaire obtenu J+10. Dix transferts possibles, sept déjà utilisés pour Soren, Tévan, Hadrien, Varkhan, Aelkan, Sylkan, Sahir ; trois disponibles. Hausse permanente de MP maximum supérieure à 50 % pour les bénéficiaires. Propriété reconnue par la Guilde, aucune vente conclue. Projets de valorisation non encaissés.
 
 **État précédent :** rappel historique J+12 ; la situation J+13 est précisée ci-dessous.
