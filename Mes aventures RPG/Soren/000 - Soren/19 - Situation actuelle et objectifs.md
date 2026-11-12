@@ -1,13 +1,20 @@
 ---
 type: fiche_soren_section
 campagne: Soren
-version: "fin J+13"
-date_univers: "25 Floréane 427"
+version: "fin J+14"
+date_univers: "26 Floréane 427"
 source: "Fiche officielle du Fondateur ; narration jouée J+13"
 section: 19
 ---
 
 # 19 — Situation actuelle et objectifs
+
+> [!success] MISE À JOUR COURANTE — FIN J+14
+> **26 Floréane 427, 23 h 52** : Soren **dort nu dans son lit chambre n° 3**, Varkhan, Aelkan, Sylkan **chacun dans leur panier**. Prochaine scène J+15 au réveil. [[État de reprise J+15]] est prioritaire sur l'ancien contexte ci-dessous, qui reste une **archive J+13**.
+>
+> **J+14 :** nouvelle **Communion familière [B] maîtrise 6 / Parole de meute**, 11 espaces commerciaux testés, Cœur couplé, 3 sceaux de bénédiction extraits et conservés, deux maisons dans un [[Domaine privé de Soren et Borin]] désormais autonome du générateur, 3 loups autorisés, centre thermal privé. **[[La Porte de l'Aube]]** local D loué 43 Pièces/mois et 86 avancées, **pas ouvert** ; grille horaire proposée non approuvée. Solde exact final inconnu (142 Pièces avant dîner payé à prix non précisé). **Tévan n'a pas encore entendu de Soren que ses sentiments sont amicaux seulement**.
+
+## Situation précédente — Archive J+13
 
 > [!info] Point de reprise officiel
 > **J+13, 25 Floréane 427, 19 h 46.** Soren **dort** en chambre n° 3 de l'[[Annexe des Compagnons]] à [[Aethérion]], entouré de ses trois loups. Réveil prévu **J+14 à 3 h 50**.
