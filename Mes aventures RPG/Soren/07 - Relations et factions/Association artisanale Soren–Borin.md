@@ -12,6 +12,10 @@ tags:
 
 # Association artisanale Soren–Borin
 
+> [!success] Actualisation prioritaire J+15
+> **Accord écrit de Maître Orven SIGNÉ J+15 à 15 h 26**, portail réversible autorisé. Les clauses d'attente J+14 ci-dessous sont historiques. **Boutique [[La Porte de l'Aube]] non ouverte**, derniers essais de sûreté nécessaires ; **zéro client, zéro recette**. **Borin 55 % / Soren 45 %** bénéfices nets inchangés ; générateur appartient à Borin, Cœur de mana à Soren. Configuration : 5 ateliers × 3 artisans, 5 entraînements × 7 aventuriers, arène × (25 combattants+5 spectateurs) = **80 places** ; arène seule **75 combattants et 50 spectateurs** ; idée de conversion en 125 spectateurs **à éprouver**, pas encore validée. **Inauguration visée J+17, 29 Floréane**, essais gratuits et duel simulé dragon [A] contre Soren en finale, sous réserve de sécurité. **Matrice cérébrale ancestrale de Varkhûn : secret entre Soren et Borin seulement**, ce dernier tenu au silence.
+
+
 > [!success] État actuel J+14 — La Porte de l'Aube
 > [[La Porte de l'Aube]] est le nom adopté. Local D **loué passage des Compagnons, quartier de la Guilde**, **16 m²**, **43 Pièces/mois**, bail **12 mois**, **86 Pièces versées personnellement par Soren** (43 loyer + 43 garantie). Les deux associés disposent des clés. **Aucun client ni recette** ; ouverture espérée **J+17 seulement si contrôles et travaux terminés**. Borin prépare comptoir, enseigne et dossier d'[[Orven|autorisation du propriétaire Maître Orven]] ; **accord écrit pas encore obtenu**. Grille horaire [[La Porte de l'Aube — Grille tarifaire]] proposée par Soren, **pas encore validée par Borin**.
 >

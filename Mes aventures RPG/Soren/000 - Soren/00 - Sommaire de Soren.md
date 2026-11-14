@@ -9,6 +9,10 @@ source: "Fiche officielle de Soren Thalvyr fournie par le Fondateur"
 
 # 00 - Sommaire de Soren
 
+> [!success] Reprise actuelle
+> **[[État de reprise J+16]]** et **[[J+15 — 27 Floréane 427]]** sont prioritaires pour l'aventure. À **23 h 45 du J+15**, Soren est **au lit mais toujours éveillé**. Les chiffres mécaniques de la fiche J+13 restent valables sauf actualisations officielles des rubriques (notamment **Partage [S] des 7 compétences de Classe actif chez les loups**, téléportations [SS] non partagées, ressources et argent). **Ne pas interpréter ce sommaire ancien comme une consigne de reprendre J+14.**
+
+
 **Fiche actualisée à la fin de J+13, le 25 Floréane 427, à 19 h 46.** Reprise narrative : [[État de reprise J+14]].
 
 [[Fiche personnage — Soren Thalvyr]] — vue générale et point de reprise.

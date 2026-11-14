@@ -6,6 +6,10 @@ source: "Chronique intégrale J+12 ; état J+13 pour les mentions de situation a
 
 # Borin
 
+> [!success] Situation J+15
+> **[[La Porte de l'Aube]]** : associés **Borin 55 % / Soren 45 %** inchangés, local D 16 m². **Accord écrit d'Orven signé à 15 h 26 J+15** pour accès réversible. Les derniers essais de sécurité, la préparation technique et l'organisation des artisans demeurent à effectuer ; **aucune ouverture ni recette**. **Inauguration envisagée J+17 (29 Floréane)**, configuration 11 espaces (5 ateliers×3, 5 entraînements×7, arène 25+5, total 80 personnes), arène seule 75 combattants+50 spectateurs ; conversion en spectateurs non certifiée. Finale prévue : Soren contre dragon [A] simulé, non encore joué. Borin **n'a pas encore reçu** le butin [[Matériaux des Crocs de Pierre]] de Soren. Générateur [S] **à Borin**, Cœur **à Soren** et matrice cérébrale de Varkhûn **tenue secrète**.
+
+
 > [!info] Rôle dans l'aventure
 > Nain, ancien colocataire et propriétaire du générateur d'arène modulaire.
 

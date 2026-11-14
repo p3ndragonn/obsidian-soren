@@ -5,6 +5,10 @@ campagne: Soren
 
 # Équipements et possessions
 
+> [!success] Butin actuel J+15
+> [[Matériaux des Crocs de Pierre]] : **3 noyaux lithiques, 17 plaques minérales et 24 crocs/griffes** conservés, **469–690 Pièces estimées mais non encaissées** ; rapport d'expertise d'[[Edric (Aethérion)]] détenu. Les **3 crocs de preuve** ont été remis à la Guilde et ne figurent plus à l'inventaire. Voir [[État de reprise J+16]] ; les mentions « inventaire fin J+13 » plus bas sont historiques.
+
+
 | Nature | Fiches |
 |---|---|
 | Armes | [[Crocs du Septième Pas]] |

@@ -8,6 +8,10 @@ statut: "loué, non ouvert"
 
 # La Porte de l'Aube
 
+> [!success] ÉTAT COURANT J+15 — Autorisation écrite obtenue, commerce NON ouvert
+> **Maître Orven a signé l'accord écrit d'installation du portail réversible J+15 à 15 h 26** après avoir vérifié que le mur est intact. Les expressions J+14 « autorisation pas encore obtenue » en dessous sont **historiques**. Derniers essais de sécurité à achever ; aucune validation définitive d'ouverture, aucun client ou revenu. **Onze espaces** : cinq ateliers (3 artisans chacun), cinq salles (7 aventuriers chacune), grande arène (25 combattants+5 spectateurs), soit **80 personnes simultanées** en cette configuration. Arène seule : **75 combattants+50 spectateurs** ; conversion de places vacantes en spectateurs jusqu'à **125 théoriques** non éprouvée. **Inauguration envisagée J+17, 29 Floréane**, essais gratuits et démonstration de **dragon de feu simulé de rang A** contre Soren, non jouée. L'accès au domaine résidentiel et la matrice cérébrale restent secrets.
+
+
 **Nom commercial de l'association Soren–Borin**, adopté J+14. **Activités projetées** : ateliers artisanaux et forges, salles d'entraînement et arène à programmation standard ou spécifique. **Borin 55 %**, **Soren 45 % des bénéfices nets**, Borin responsable principal.
 
 **Adresse :** **Passage des Compagnons**, quartier de la Guilde, [[Aethérion]]. **Local D**, boutique d'accueil **16 m²** ; porte en chêne, petite vitrine sur rue, sol dallé. Commerces et aventuriers proches.
