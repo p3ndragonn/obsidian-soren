@@ -9,6 +9,10 @@ section: 19
 
 # 19 — Situation actuelle et objectifs
 
+> [!success] ACTUALISATION PRIORITAIRE FIN J+15
+> **[[État de reprise J+16]] : Soren éveillé au lit à 23 h 45, J+15 27 Floréane 427.** Trois loups en paniers, aucun blessé ; sept compétences de Classe [S] **partagées et actives** sur eux, téléportations [SS] **non partagées**. [[D-221 — Les Crocs de Pierre]] validée, **340 Pièces encaissées**, lot **469–690 P. estimées, non vendues**. Accord écrit d'installation obtenu de Maître Orven, boutique **non ouverte**. **Tévan informé J+15** qu'il s'agit d'une amitié sans couple/exclusivité ; anciens états « pas informé » caducs. **Arvand J+16 8 h : vente d'un sceau 250 000 P. à conclure**, audience roi **J+20** pour 2 sceaux. Trois sceaux détenus. Solde exact inconnu ; aucun nouveau niveau ou stat. Ce qui suit dans cette fiche est historique J+14/J+13.
+
+
 > [!success] MISE À JOUR COURANTE — FIN J+14
 > **26 Floréane 427, 23 h 52** : Soren **dort nu dans son lit chambre n° 3**, Varkhan, Aelkan, Sylkan **chacun dans leur panier**. Prochaine scène J+15 au réveil. [[État de reprise J+15]] est prioritaire sur l'ancien contexte ci-dessous, qui reste une **archive J+13**.
 >

@@ -9,6 +9,10 @@ section: 17
 
 # 17 — Accomplissements
 
+> [!success] Accomplissements J+15 — VALIDÉS
+> [[D-221 — Les Crocs de Pierre]] : **3 créatures tuées** (niveaux identifiés 23, 21, 25), meute indemne, **340 Pièces de récompense encaissées**, matériaux conservés évalués **469–690 P.** et invendus. Premier combat avec les **sept compétences de Classe [S] partagées aux trois loups** (état actif). Accord écrit d'installation réversible signé par [[Maître Orven]] pour [[La Porte de l'Aube]]. **Aucune montée de niveau, rang ni caractéristique attribuée.**
+
+
 | Période   | Événements majeurs                                                                                                                               |
 | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Enfance   | Formation auprès de Kaelor à partir de dix ans                                                                                                   |

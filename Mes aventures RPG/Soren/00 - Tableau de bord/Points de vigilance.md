@@ -5,6 +5,10 @@ version: J+13
 ---
 # Points de vigilance — continuité
 
+> [!warning] Référence prioritaire après J+15
+> **[[État de reprise J+16]] : J+15 27 Floréane 427 23 h 45, Soren couché mais encore éveillé**, loups dans trois paniers. **Partage [S] des sept compétences de Classe [S] actif** sur les 3 loups ; téléportations [SS] non partagées. **[[D-221 — Les Crocs de Pierre]] validée (+340 P. encaissées)**, matériaux **469–690 P. non vendus**. **[[Maître Orven]] a signé son accord écrit J+15**, boutique pas ouverte. **Tévan est désormais informé** des limites amicales. **Arvand a réuni 250 000 P. mais rendez-vous de transaction J+16 à 8 h non joué**. **[[Narek (Aethérion)]] félin ≠ [[Narek]] Lupin de Varkhûn** ; **[[Edric (Aethérion)]] expert ≠ [[Edrik]] de Valbois. Solde inconnu, ni niveau ni stat nouvellement attribués.
+
+
 | Sujet | Règle de conservation |
 |---|---|
 | **Thorek / Tharok** | La chronique récente utilise **Thorek** ; *Tharok* apparaît dans d'anciennes archives. Pas de correction rétroactive sans validation. |

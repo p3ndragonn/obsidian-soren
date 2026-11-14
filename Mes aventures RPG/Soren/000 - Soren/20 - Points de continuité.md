@@ -9,6 +9,10 @@ section: 20
 
 # 20 — Points de continuité
 
+> [!warning] FIN J+15 — RÈGLES PRIORITAIRES
+> **Reprise [[État de reprise J+16]] ; Soren couché, encore éveillé à 23 h 45** (J+15), trois loups dans trois paniers. **Partage [S] des sept compétences de Classe [S] ACTIF** chez Varkhan/Aelkan/Sylkan ; ancien partage de téléportation [SS] **TOUJOURS RÉVOQUÉ**. Compétences de familiers Communion 6/Harmonie 4/Gardien 3 inchangées ; aucun niveau ou gain de stat inventé. **D-221 terminée, +340 P. encaissées, butin 469–690 P. non vendu**. **Orven a signé l'accord écrit J+15** ; boutique non ouverte. **Tévan a été informé en personne des limites amicales**, ne pas répéter la situation obsolète J+14. **Arvand : fonds 250 000 P. réunis, vente de 1 sceau à jouer J+16 8 h, pas encaissée** ; deux autres au roi J+20. **[[Narek (Aethérion)]] félin ≠ [[Narek]] Lupin de Varkhûn** ; **[[Edric (Aethérion)]] expert ≠ [[Edrik]] de Valbois. Solde personnel exact inconnu.
+
+
 ## Priorité J+14 — Fin de journée, 26 Floréane 427
 
 - Référence à utiliser **d'abord** : [[État de reprise J+15]] et [[J+14 — 26 Floréane 427]]. Les consignes et rendez-vous J+14 plus bas sont **historiques**, déjà joués.

@@ -9,6 +9,10 @@ section: 16
 
 # 16 — Relations importantes
 
+> [!success] RELATIONS ACTUALISÉES J+15
+> **[[Tévan]] a été informé personnellement** que Soren souhaite **uniquement une amitié, sans couple ni exclusivité**, et préfère éviter les surnoms romantiques ; Tévan a exprimé des sentiments amoureux, respecte la limite et a besoin de temps. **[[Narek]]** est le **Lupin charpentier de Varkhûn**, relation ancienne ; **[[Narek (Aethérion)]]** est un **nouveau félin adulte aventurier grade C**, rencontré aux bains J+15, moment intime consenti sans engagement. Personnes **distinctes**. [[Arvand Rethmar]] a réuni 250 000 P. pour un sceau mais rendez-vous de conclusion J+16 8 h ; [[Maître Orven]] a signé l'accord écrit pour la boutique. [[Edric (Aethérion)]] a évalué les matériaux, distinct d'[[Edrik]] de Valbois. Les renseignements J+14 plus bas ont leur valeur historique uniquement.
+
+
 | Personnage        | Relation avec Soren                                                                                                                  |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
 | Vaeren Thalvyr    | Père biologique, affectueux et protecteur ; ancien voyageur et pisteur                                                               |

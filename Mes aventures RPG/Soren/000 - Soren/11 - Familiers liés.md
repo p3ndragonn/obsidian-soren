@@ -8,6 +8,10 @@ source: "Fiche officielle fournie par le Fondateur"
 
 # 11 — Familiers liés
 
+> [!success] J+15 — État de la meute
+> Les **sept compétences de Classe [S] de Soren** sont partagées aux trois loups via **Partage [S]**, **toujours actives** en fin J+15 ; **téléportation [SS] non partagée**. [[D-221 — Les Crocs de Pierre]] : Varkhan et Aelkan ont abattu ensemble le Croc de Pierre de niveau **21** ; Sylkan a tué celui de niveau **25** d'un coup de patte sous le menton tandis que Soren faisait diversion. Tous **indemnes**, pas de nouveau rang/niveau officiel de loup. **23 h 45 :** tous les trois dans leurs paniers séparés en chambre n° 3, Soren au lit encore éveillé.
+
+
 > [!info] Meute de Soren
 > Trois loups liés **volontairement** pendant la mission D-156. Tous possèdent un lien permanent avec Soren et un renforcement légendaire permanent de mana.
 

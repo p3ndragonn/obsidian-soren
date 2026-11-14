@@ -1,9 +1,9 @@
 ---
 type: "personnage_principal"
 campagne: "Soren"
-version: "fin J+14"
-date_univers: "26 Floréane 427"
-heure_reference: "23:52"
+version: "fin J+15"
+date_univers: "27 Floréane 427"
+heure_reference: "23:45"
 source: "Fiche officielle de Soren Thalvyr fournie par le Fondateur"
 nom: "Soren Thalvyr"
 rang_personnel: C
@@ -20,7 +20,11 @@ cssclasses:
 
 # Soren Thalvyr
 
-> [!success] ÉTAT OFFICIEL DE REPRISE — FIN J+14
+> [!success] ÉTAT PRIORITAIRE — FIN J+15
+> **J+15 · 27 Floréane 427 · 23 h 45** : Soren **est dans son lit encore éveillé**, chambre n° 3, trois loups dans leurs paniers ; point de reprise : **[[État de reprise J+16]]**. Rang personnel **C**, Guilde **D**, classe **[A] 26**, profession **[B] 18**, **348 statistiques permanentes**, aucun changement de niveau/stat validé. **Partage [S] des 7 compétences de Classe actif chez les 3 loups** ; téléportations [SS] NON partagées. **D-221 achevée, +340 Pièces encaissées**, matériaux **469–690 P. estimés, non vendus**, solde exact inconnu. **Accord écrit d'Orven signé J+15**, La Porte de l'Aube non ouverte. **Tévan informé personnellement des limites amicales**. Rendez-vous avec Arvand **J+16 à 8 h** pour finaliser l'achat d'1 sceau **250 000 P., non encore payé** ; audience du roi **J+20** pour les 2 autres. Les états J+14/J+13 ci-dessous sont des **archives**, non la dernière reprise.
+
+
+> [!note] ARCHIVE — FIN J+14
 > **26 Floréane 427 · J+14 · 23 h 52**. Soren dort **nu dans le lit de sa chambre n° 3** ; **Varkhan, Aelkan et Sylkan dans trois paniers séparés**. [[État de reprise J+15]] est le point actuel ; les paragraphes J+13 ci-dessous restent historiques.
 >
 > **Progression canonique :** Maître de familier [B], **Communion familière 6** après **+1 maîtrise du Fondateur**, **Harmonie 4**, **Instinct 3**. Parole mentale réciproque avec ses trois loups, fiable jusqu'à 2 km observés, brouillée vers 3 km.

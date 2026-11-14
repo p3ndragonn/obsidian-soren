@@ -8,6 +8,10 @@ source: "Fiche officielle fournie par le Fondateur"
 
 # 13 — Inventaire et possessions
 
+> [!success] MOUVEMENTS J+15
+> [[Matériaux des Crocs de Pierre]] : **3 noyaux lithiques, 17 plaques minérales, 24 crocs/griffes exploitables** conservés par Soren (**469–690 Pièces estimées, invendues**) ; **rapport écrit d'Edric** en sa possession. Les **3 crocs de preuve ont été remis à la Guilde** et ne sont donc plus dans son stock. **340 Pièces** de récompense D-221 encaissées ; solde global exact inconnu. **Trois sceaux de transfert toujours détenus et invendus**, générateur à Borin, Cœur à Soren. Les chiffres J+13 en dessous sont historiques, pas un recomptage courant.
+
+
 ## Effets personnels
 
 | Objet | Situation au J+13 |

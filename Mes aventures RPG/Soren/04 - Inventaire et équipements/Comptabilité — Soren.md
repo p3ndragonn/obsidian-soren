@@ -7,6 +7,10 @@ source: "Chronique intégrale J+12 ; événements J+13"
 
 # Comptabilité et projets de transactions
 
+> [!success] Opérations J+15 — 27 Floréane 427
+> **−36 Pièces** pour le déjeuner personnel de Soren au Chaudron d'Ambre ; **+340 Pièces effectivement encaissées** après mission [[D-221 — Les Crocs de Pierre]]. Le repas de la meute avant chasse provient de viande de sanglier récupérée gratuitement à la Guilde. **[[Matériaux des Crocs de Pierre]] : 469–690 P. estimées, non vendues**, trois crocs de preuve remis à la Guilde. **Solde exact inconnu** (dîner J+14 payé pour montant non communiqué). **250 000 P. réunies par Arvand mais pas versées**, rendez-vous J+16 8 h ; 3 sceaux de transfert conservés/invendus. Boutique sans recette.
+
+
 > [!warning] Solde J+14 : exact au coucher inconnu
 > Début J+14 : **228 Pièces** ; bail de [[La Porte de l'Aube]] **−86 Pièces versées par Soren** (**43 premier loyer + 43 dépôt remboursable selon bail**) → **142 Pièces AVANT dîner**. Le dîner du soir avec les trois loups a été **payé, montant non narré**, donc **solde final indéterminé**. Les 86 Pièces sont une **avance personnelle à la société**, sans modifier les parts 55/45. Les trois bénédictions ont été extraites en **sceaux séparés conservés par Soren**, **aucune vente/recette** (Arvand 250 000 en attente ; Couronne 500 000 en attente).
 

@@ -8,6 +8,10 @@ source: "Fiche officielle fournie par le Fondateur"
 
 # 15 — Situation financière
 
+> [!success] FIN J+15 — TRANSACTIONS RÉELLES
+> Solde total **impossible à établir exactement** : base de **142 Pièces avant dîner J+14** dont le **prix payé reste inconnu**. Transactions J+15 documentées : **−36 Pièces** (déjeuner de Soren au Chaudron d'Ambre), **+340 Pièces encaissées** (mission [[D-221 — Les Crocs de Pierre]]). Repas pris avant la chasse, viande récupérée **sans frais**. Butin **469–690 Pièces estimées**, non vendu, donc **pas de monnaie encaissée**. **Arvand dispose maintenant des fonds de 250 000 Pièces**, mais paiement et cession d'un sceau **à jouer J+16 à 8 h**, pas encore réalisés ; audience roi J+20 pour les deux autres. La Porte de l'Aube sans recette, parts Borin 55/Soren 45.
+
+
 > [!info] Fortune J+14 : dernier montant arithmétique vérifiable **142 Pièces AVANT dîner**
 > Début J+14 : **228 Pièces** ; **86 Pièces versées** pour le local commercial (**43 de loyer + 43 de caution**), somme personnellement avancée à la société. **Dîner payé ensuite, montant non précisé : solde exact à 23 h 52 INCONNU.**
 

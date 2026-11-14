@@ -9,6 +9,10 @@ section: 8
 
 # 08 — Compétences de familiers
 
+> [!success] J+15 — Chasse en meute
+> **Communion familière [B] maîtrise 6, Harmonie de meute 4, Instinct du gardien 3** sans nouvelle progression officielle. Utilisées pendant la mission [[D-221 — Les Crocs de Pierre]] pour transmettre les ordres et coordonner les loups. En parallèle, **Partage des compétences [S]** a transmis les **sept compétences de Classe [S]** aux trois loups, état **actif au coucher J+15**, sans téléportation [SS] partagée. Aucune nouvelle maîtrise ou niveau accordé.
+
+
 ## Maître de familier [B]
 
 Acquis J+11
