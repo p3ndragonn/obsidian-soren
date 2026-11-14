@@ -7,6 +7,10 @@ source: "Chronique intégrale J+12 ; narration J+13"
 
 # Cœur de mana des Trois Veilleurs
 
+> [!success] ÉTAT COURANT FIN J+15
+> Cœur légendaire toujours **propriété personnelle de Soren**, et son alimentation de la boutique/domaine résidentiel ne transfère pas cette propriété. **Sept bénédictions anciennement attribuées + trois dernières extraites J+14 en trois sceaux distincts, conservés et TOUJOURS INVENDUS**. **[[Arvand Rethmar]] a réuni 250 000 Pièces pour 1 sceau**, avec rendez-vous de transfert et paiement **J+16, 28 Floréane à 8 h** ; **aucune cession ni encaissement J+15**. Audience privée **J+20** avec le roi pour 2 autres sceaux (potentiel 500 000 P.), aucune conclusion encore. Le noyau lui-même ne fait l'objet d'aucune vente. Deux circuits distincts : générateur de Borin et domaine privé ; fonction millénaire annoncée par le SYSTÈME, durée réelle non éprouvée. **Secret de la matrice ancestrale de Varkhûn** conservé entre Soren et Borin.
+
+
 > [!success] ÉTAT PRIORITAIRE — FIN J+14 (26 Floréane 427)
 > **Propriété personnelle de Soren** (toujours). **7 des 10 bénédictions ont été attribuées**, les **3 dernières ont été extraites sans attribution et conservées comme 3 sceaux personnels distincts**, **non vendus**. Le SYSTÈME a reconnu en J+14 le cycle comme **achevé par 7 attributions et 3 extractions**, débloquant le **circuit énergétique millénaire** : **1 000 ans non testés en durée réelle**. Le Cœur est raccordé sous régulateur sécurisé, depuis la chambre n° 3, à **deux circuits indépendants** : le [[Générateur d’arène de Borin]] et le [[Domaine privé de Soren et Borin]], ce dernier demeurant utilisable quand le générateur est éteint. **Aucune vente** ; négociations Arvand 250 000 Pièces et Couronne 500 000 Pièces en attente. Borin ne connaît pas les conditions précises de l'ancien verrouillage.
 >

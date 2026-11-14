@@ -6,6 +6,10 @@ source: "Chronique intégrale J+12 ; narration J+13"
 ---
 # Générateur de Borin
 
+> [!success] ACTUALISATION J+15 — État commercial du générateur
+> Réparations achevées J+13, **11 espaces commerciaux simultanés éprouvés J+14** ; la liste J+13 des 11 espaces « théoriques non testés » ci-dessous est **historique**. J+15 : [[La Porte de l'Aube]] dispose d'une **autorisation écrite de Maître Orven signée à 15 h 26** pour accès réversible ; la boutique reste **fermée au public** dans l'attente de derniers contrôles et préparatifs. Capacités de configuration décrites dans [[La Porte de l'Aube]] : **80 personnes simultanées** en 5 ateliers ×3 +5 salles ×7 +arène (25 combattants+5 spectateurs) ; mode arène seule 75 combattants+50 spectateurs. Possibilité de conversion des places en spectateurs non testée pleinement. **Inauguration conditionnelle J+17**, dragon simulé [A] en finale envisagée ; aucun spectacle déjà joué. Générateur appartient à **Borin**, Cœur à **Soren**, matrice ancestrale confidentielle.
+
+
 **Phase de réparation : terminée J+13**, essais fondamentaux réussis. Voir [[Générateur d’arène de Borin]].
 
 ## Réalisé

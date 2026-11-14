@@ -9,6 +9,10 @@ section: 12
 
 # 12 — Équipement personnel
 
+> [!success] Description vestimentaire confirmée pour J+15
+> **Harnais en cuir noir avec capuche à ouvertures adaptées aux oreilles lupines**, **short en cuir noir**, **bottes noires en cuir**, le tout réalisés/adaptés par l'artisan ; **longue cape en 100 % fourrure noire tombant jusqu'aux pieds**, disponible. Soren est parti chasser avec son équipement de combat ; **ne pas supposer que la cape était portée**, ce détail n'ayant pas été explicitement joué. **Crocs du Septième Pas [C]**, commandés séparément au mana lunaire, inchangés. **Sac du Voyageur [C] : 2 m³ / 200 kg**, sans nouvelles propriétés. Les descriptions J+13 ci-dessous sont d'anciens états et ne doivent pas contredire cette tenue.
+
+
 | Équipement                    | Rang       | Description / état                                                                                                                                                                       |
 | ----------------------------- | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Crocs du Septième Pas         | [C]        | Deux armes de poing renforcées, chacune dotée de trois griffes d'acier rétractables. Déploiement et rétraction indépendants par mana lunaire depuis la modification effectuée par Dornak |

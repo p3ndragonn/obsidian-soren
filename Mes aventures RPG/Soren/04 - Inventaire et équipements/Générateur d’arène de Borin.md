@@ -7,6 +7,10 @@ source: "Chronique intégrale J+12 ; narration J+13"
 
 # Générateur d’arène de Borin
 
+> [!success] ÉTAT J+15 — La Porte de l'Aube
+> Générateur d'arène [S] **propriété de Borin**, raccordé aux circuits énergétiques du **Cœur de mana de Soren**, sans cession. Les 11 espaces simultanés ont été **testés J+14** ; à J+15, configuration 5 ateliers (jusqu'à 3 artisans chacun), 5 entraînements (7 aventuriers chacun), grande arène (25 combattants+5 spectateurs) = **80 personnes** en fonctionnement simultané selon cette organisation. Mode arène seule 75 combattants+50 spectateurs. Conversion totale en places de spectateurs **théorique, non éprouvée**. **Accord écrit de Maître Orven obtenu J+15 15 h 26** pour dispositif de portail réversible ; pas de validation finale de sécurité ou d'ouverture. **La Porte de l'Aube non ouverte à J+15, aucune recette**, inauguration J+17 conditionnelle et dragon [A] simulé en démonstration envisagée. Les détails de pose/mise en service finale ne doivent pas être inventés. Domaine résidentiel distinct, dépend du Cœur, mais **indépendant du générateur**.
+
+
 > [!success] État J+14 — générateur opérationnel en essai, pas encore installé en boutique
 > Propriété personnelle de **Borin**. Arrivé 6 h chambre n° 3 ; raccordé au **Cœur de Soren** par régulateur protégé. **11 espaces testés simultanément** (5 ateliers + 5 salles intermédiaires + 1 arène experte), sécurité et évacuations éprouvées en conditions contrôlées. Forge naine monumentale, dragon rouge simulé non agressif et souffle de fournaise ; fer réel chauffé. **33 espaces restent hypothétiques** (composants [SS] non acquis).
 >

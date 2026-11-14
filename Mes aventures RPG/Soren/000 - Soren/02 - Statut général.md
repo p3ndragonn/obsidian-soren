@@ -9,6 +9,10 @@ section: 2
 
 # 02 — Statut général
 
+> [!success] Contrôle J+15
+> Les rangs et niveaux officiels **restent ceux de J+13** : personnel **C**, Guilde **D**, Classe [A] 26, Profession [B] 18 ; **aucun nouveau niveau, grade ou EXP chiffré attribué** à J+15 après [[D-221 — Les Crocs de Pierre]]. **Partage des sept compétences de Classe [S] actif** chez les 3 loups mais aucune téléportation [SS] partagée. Le point de reprise courant est [[État de reprise J+16]].
+
+
 | Donnée | État officiel à J+13 |
 |---|---|
 | Rang personnel | **C** (né D, puis progression vers C) |
