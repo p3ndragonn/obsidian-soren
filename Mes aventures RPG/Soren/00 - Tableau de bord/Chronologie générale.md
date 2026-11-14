@@ -4,7 +4,7 @@ campagne: Soren
 ---
 # Chronologie générale — Soren
 
-**Monde :** Vaeloria · **Royaume :** Tharvélis · **Période archivée :** J−7 à J+14, du 5 au 26 Floréane 427.
+**Monde :** Vaeloria · **Royaume :** Tharvélis · **Période archivée :** J−7 à J+15, du 5 au 27 Floréane 427.
 
 | Jour | Date | Journal | Historique synthétique |
 |---|---|---|---|
@@ -31,9 +31,11 @@ campagne: Soren
 | **J+13** | 25 Floréane 427 | [[J+13 — 25 Floréane 427|Journal]] | [[J+13 — 25 Floréane 427 — Historique|Bilan]] |
 | **J+14** | 26 Floréane 427 | [[J+14 — 26 Floréane 427|Journal]] | [[J+14 — 26 Floréane 427 — Historique|Bilan]] |
 
+| **J+15** | 27 Floréane 427 | [[J+15 — 27 Floréane 427|Journal]] | [[J+15 — 27 Floréane 427 — Historique|Bilan]] |
+
 ## État présent
 
-**Point de reprise actuel : fin J+14, 26 Floréane 427 à 23 h 52**. Soren dort nu dans son lit, chambre n° 3, ses trois loups chacun dans un panier ; [[État de reprise J+15]]. L'ancien [[État de reprise J+14]] est une photographie historique de la fin J+13.
+**Dernier point de reprise : [[État de reprise J+16]]**, fin J+15, 27 Floréane 427 à **23 h 45**, Soren au lit **mais éveillé**, loups dans trois paniers. Les précédents points sont archivés.
 
 > [!note] Deux formats complémentaires
 > Le **journal** conserve le récit détaillé. L'**historique** présente la journée sous forme de rubriques faciles à consulter.

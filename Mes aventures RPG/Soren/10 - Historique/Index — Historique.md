@@ -6,7 +6,7 @@ campagne: Soren
 # Historique de Soren — Journées
 
 > [!info] Période archivée
-> **J−7 au J+14 · 5–26 Floréane 427**. Chaque page contient une synthèse structurée et les scènes du résumé officiel, sans ajouter d'événement.
+> **J−7 au J+15 · 5–27 Floréane 427**. Chaque page contient une synthèse structurée et les scènes du résumé officiel, sans ajouter d'événement.
 
 - [[J-7 — 5 Floréane 427 — Historique]] — La rencontre d'Erynn
 - [[J-6 — 6 Floréane 427 — Historique]] — Les premiers rapprochements
@@ -31,6 +31,8 @@ campagne: Soren
 - [[J+13 — 25 Floréane 427 — Historique]] — Le dragon de Borin, la forge runique et le contrat d'association
 - [[J+14 — 26 Floréane 427 — Historique]] — La Porte de l'Aube, la dimension résidentielle et la Parole de meute
 
+- [[J+15 — 27 Floréane 427 — Historique]] — La Porte de l'Aube, les Crocs de Pierre et le carnet du soir
+
 ## Règles d'archivage
 
 - Les événements sont conservés en ordre chronologique.
@@ -41,3 +43,6 @@ campagne: Soren
 - Les données mécaniques ne sont pas recalculées lorsqu'elles n'apparaissent pas dans la source.
 
 **Dernier point de reprise :** [[État de reprise J+15]] — **fin J+14, 26 Floréane 427 à 23 h 52**. Soren dort nu dans son lit en chambre n° 3 ; Varkhan, Aelkan et Sylkan dorment chacun dans un panier. Passage résidentiel fermé, dimension alimentée. J+15 à jouer au réveil.
+
+> [!success] Nouveau point de reprise
+> **[[État de reprise J+16]]** — fin J+15 à **23 h 45**, Soren au lit mais encore éveillé. Les mentions de J+14 ci-dessus sont historiques.

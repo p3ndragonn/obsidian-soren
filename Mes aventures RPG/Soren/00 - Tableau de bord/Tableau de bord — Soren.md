@@ -1,48 +1,39 @@
 ---
 type: dashboard
 campagne: Soren
-version: fin-J+14
+version: fin-J+15
 cssclasses:
   - systeme-dashboard
 ---
+
 # S Y S T È M E — Soren
 
-> [!info] Partie en cours
-> **J+14 · 26 Floréane 427 · 23 h 52** — Soren dort **nu dans son lit** chambre n° 3 ; Varkhan, Aelkan et Sylkan dorment **chacun dans leur panier**. [[Domaine privé de Soren et Borin]] alimenté et accès fermé pour la nuit. **Prochain réveil J+15, non encore joué.**
+> [!success] Partie en cours — FIN J+15
+> **27 Floréane 427 · J+15 · 23 h 45** — Soren **est au lit mais encore éveillé**, chambre n° 3 ; Varkhan, Aelkan, Sylkan chacun dans son panier. Carnet rédigé. **J+16 non commencé ; ne pas déclencher automatiquement le sommeil ou le réveil.**
 
-| Soren | État actuel |
+| Élément | État actuel |
 |---|---|
-| Rang personnel / grade Guilde | **C / D** |
-| Classe / niveau | Danseur des Griffes d'Acier [A] — **26** |
-| Profession / niveau | Éclaireur des Terres Sauvages [B] — **18** |
-| Caractéristiques permanentes | **348 points** |
-| Fortune | **142 Pièces avant dîner payé (montant inconnu) ; solde final non établi** |
-| Meute | [[Varkhan]], [[Aelkan]], [[Sylkan]] |
-| Artefact légendaire | **3 sceaux de bénédiction extraits, conservés et invendus** ; Cœur relié aux circuits |
+| Rang personnel / grade de Guilde | **C / D** |
+| Classe | Danseur des Griffes d'Acier **[A] 26** |
+| Profession | Éclaireur des Terres Sauvages **[B] 18** |
+| Stats permanentes | **348** (FOR55/VIT48/END64/AGI82/SAG33/PER66) |
+| Parole de meute | Communion **6**, Harmonie **4**, Gardien **3** |
+| Partage [S] | **7 compétences de Classe actives sur 3 loups**, téléportations [SS] non partagées |
+| Quête | [[D-221 — Les Crocs de Pierre]] validée ; **+340 Pièces** encaissées |
+| Butin | [[Matériaux des Crocs de Pierre]] : **469–690 Pièces estimées, non vendues** |
+| Solde total | **Inconnu** (dîner J+14 non chiffré, J+15 −36 +340) |
+| Sceaux | **3 détenus, invendus** ; un projet de vente à Arvand J+16 8 h |
 
 ## Reprendre la partie
+- **[[État de reprise J+16]]** — dernier état jouable (fin J+15).
+- [[J+15 — 27 Floréane 427]] — journal détaillé.
+- [[J+15 — 27 Floréane 427 — Historique]] — chronologie condensée.
+- [[Fiche personnage — Soren Thalvyr]] et [[00 - Sommaire de Soren]] — statistiques et fiches de référence.
 
-- **[[État de reprise J+15]]** — dernière situation vérifiée (fin J+14, veille du J+15).
-- [[J+14 — 26 Floréane 427]] — journal détaillé et [[J+14 — 26 Floréane 427 — Historique|historique]] de la dernière journée.
-- **[[Fiche personnage — Soren Thalvyr]]** — présentation officielle du personnage.
-- [[00 - Sommaire de Soren]] — toutes les caractéristiques, compétences et possessions.
+## Archives et index
+- [[Chronologie générale]] · [[Index — Historique]] · [[Index — Personnages et PNJ]] · [[Index — Lieux]].
+- [[Index — Quêtes]] · [[Index — Équipements et possessions]] · [[Index — Relations]].
+- [[Comptabilité — Soren]] · [[Statut — Soren]] · [[Points de vigilance]] · [[Index des illustrations]] · [[Références du SYSTÈME]].
 
-## Consulter les archives
-
-| Rubrique | Contenu |
-|---|---|
-| [[Chronologie générale]] | 22 jours d'aventure archivés (J−7 à J+14) |
-| [[Index — Historique]] | Synthèses quotidiennes : événements, rencontres, dépenses et objets |
-| [[Index — Personnages et PNJ]] | Répertoire des personnages et compagnons |
-| [[Index — Lieux]] | Villes, régions et points importants |
-| [[Index — Équipements et possessions]] | Armes, objets et possessions |
-| [[Index — Quêtes]] | Missions et objectifs en cours |
-| [[Index — Relations]] | Liens, alliances et factions |
-| [[Statut — Soren]] | Récapitulatif mécanique actualisé |
-| [[Comptabilité — Soren]] | Historique des dépenses et gains déjà connus |
-| [[Points de vigilance]] | Écarts documentaires et règles de continuité |
-| [[Index des illustrations]] | Références visuelles et portraits |
-| [[Références du SYSTÈME]] | Documents de règles canoniques |
-
-> [!warning] Archivage
-> La nouvelle sauvegarde est [[État de reprise J+15]] ; [[État de reprise J+14]] est historique. [[La Porte de l'Aube]] louée non ouverte, [[Domaine privé de Soren et Borin]] autonome du générateur, **Communion familière maîtrise 6** et parole mentale des loups. Aucune recette ou vente de bénédiction.
+> [!warning] Échéances non jouées
+> **J+16 28 Floréane à 8 h : vente d'1 sceau à Arvand pour 250 000 Pièces** (fonds réunis, mais rien encaissé/transféré). **J+17 29 Floréane : inauguration visée** de [[La Porte de l'Aube]], autorisation écrite d'Orven acquise mais derniers essais de sécurité requis ; boutique non ouverte. **J+20 : audience privée avec le roi** pour les 2 autres sceaux. **Narek félin d'Aethérion distinct de Narek Lupin de Varkhûn.**
