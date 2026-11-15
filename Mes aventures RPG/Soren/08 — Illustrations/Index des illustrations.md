@@ -68,6 +68,14 @@ Le portrait officiel d’Hadrien fixe son apparence de mercenaire humain expéri
 
 **Varkhûn — références visuelles :** les sept portraits ci-dessus correspondent à [[Vaeren Thalvyr]] (père de Soren), [[Kaelor Vargan]] (son maître), [[Narek]] (charpentier lupin), [[Darek]] (cuisinier-éclaireur), [[Thorek]] (protecteur lupin), [[Maëlan]] (herboriste) et [[Rhovan]] (bâtisseur). Ces images fixent leur apparence proposée sans ajouter de nouvelles actions à l'histoire. **Pour Darek, la race lupine reste une extrapolation à confirmer.** Attention : [[Narek]] de Varkhûn est distinct de [[Narek (Aethérion)]].
 
+## Lieux et domaines — plans et vues illustrées
+
+| Lieu | Fiches | Illustrations |
+|---|---|---|
+| **Maison dimensionnelle de Soren** | [[14 - Logement]] · [[Domaine privé de Soren et Borin]] · [[Description intégrale du domaine de Soren et Borin]] | [Plan conceptuel](Lieux/Maison%20de%20Soren/Maison%20de%20Soren%20%E2%80%94%20Plan%20conceptuel.webp) · [Vue extérieure](Lieux/Maison%20de%20Soren/Maison%20de%20Soren%20%E2%80%94%20Vue%20ext%C3%A9rieure.webp) |
+
+Les images représentent la résidence privée de Soren dans la sous-dimension partagée avec Borin. **Le plan est conceptuel**, non métrique : les mesures et positions exactes des pièces restent ouvertes. Les visuels ne prouvent pas un emménagement définitif à J+15.
+
 ## Objets et artefacts — illustrations officielles
 
 | Objet | Fiche | Illustration |

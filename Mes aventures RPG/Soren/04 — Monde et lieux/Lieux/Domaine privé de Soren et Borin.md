@@ -16,6 +16,16 @@ Créé et expérimenté à J+14 par [[Soren Thalvyr]] et [[Borin]] ; **résidenc
 - **Second circuit du [[Cœur de mana des Trois Veilleurs]]**, indépendant de l'allumage du générateur commercial ; la sécurité d'un fonctionnement sans le Cœur n'a pas été établie.
 - **Matrice cérébrale ancestrale de Varkhûn : strictement secrète** ; Borin est informé et lié au secret, Tévan et Hadrien non informés.
 
+## Représentations visuelles
+
+![Maison de Soren — Plan conceptuel](../../08%20%E2%80%94%20Illustrations/Lieux/Maison%20de%20Soren/Maison%20de%20Soren%20%E2%80%94%20Plan%20conceptuel.webp)
+
+*Plan conceptuel illustrant la distribution proposée du rez-de-chaussée, de l'étage privé, du sous-sol thermal et de la parcelle avec son jardin et son bâtiment d'entraînement. Les proportions et la position exacte des pièces ne sont pas des dimensions architecturales validées.*
+
+![Maison de Soren — Vue extérieure](../../08%20%E2%80%94%20Illustrations/Lieux/Maison%20de%20Soren/Maison%20de%20Soren%20%E2%80%94%20Vue%20ext%C3%A9rieure.webp)
+
+*Vue extérieure d'ambiance de la maison dimensionnelle de Soren : façade de pierre claire et bois sombre, trois statues de Varkhan, Aelkan et Sylkan, place à fontaine et accès au jardin. Cette illustration ne constitue pas une nouvelle scène jouée.*
+
 **Dossier canonique complet et aménagement pièce par pièce : [[Description intégrale du domaine de Soren et Borin]].** La fiche présente est l'index de ce lieu et non une deuxième description exhaustive.
 
 **Sources :** [[J+14 — 26 Floréane 427]] · [[État de reprise J+16]].

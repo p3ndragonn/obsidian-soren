@@ -8,6 +8,20 @@ source: "Description canonique du domaine initialement jointe à la fiche Logeme
 
 # Domaine privé de Soren Thalvyr et Borin
 
+## Illustrations de référence — Maison de Soren
+
+![Maison de Soren — Plan conceptuel](../../08%20%E2%80%94%20Illustrations/Lieux/Maison%20de%20Soren/Maison%20de%20Soren%20%E2%80%94%20Plan%20conceptuel.webp)
+
+*Plan conceptuel illustrant la distribution proposée du rez-de-chaussée, de l'étage privé, du sous-sol thermal et de la parcelle avec son jardin et son bâtiment d'entraînement. Les proportions et la position exacte des pièces ne sont pas des dimensions architecturales validées.*
+
+![Maison de Soren — Vue extérieure](../../08%20%E2%80%94%20Illustrations/Lieux/Maison%20de%20Soren/Maison%20de%20Soren%20%E2%80%94%20Vue%20ext%C3%A9rieure.webp)
+
+*Vue extérieure d'ambiance de la maison dimensionnelle de Soren : façade de pierre claire et bois sombre, trois statues de Varkhan, Aelkan et Sylkan, place à fontaine et accès au jardin. Cette illustration ne constitue pas une nouvelle scène jouée.*
+
+> [!note] Plan d'intention, non plan métrique
+> La superficie, les dimensions exactes, la disposition précise des ouvertures et les distances ne sont pas fixées. Les aménagements documentés dans les sections suivantes font foi en cas d'écart avec l'illustration.
+
+
 ## 1. Présentation générale
 
 Le domaine résidentiel est une **sous-dimension magique privée**, conçue par Soren Thalvyr en collaboration avec Borin, artisan nain d'Aethérion.
