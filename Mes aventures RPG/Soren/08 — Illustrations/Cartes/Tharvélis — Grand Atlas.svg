@@ -158,7 +158,7 @@
 <text x="2478" y="925" fill="#5c503d" font-size="36" font-weight="bold" font-family="Georgia">ITINÉRAIRE DE SOREN</text>
 <text x="2478" y="966" fill="#6e604d" font-size="23" font-family="Georgia">De l’est vers la capitale</text>
 <g font-size="27" fill="#4d4233" font-family="Georgia">
-<text x="2480" y="1030">1. Aethérion</text><text x="2480" y="1106">2. Clairerive</text><text x="2480" y="1182">3. Rochebrune</text><text x="2480" y="1258">4. Pont Brumecôte</text><text x="2480" y="1334">5. Valbois</text><text x="2480" y="1410">6. Varkhûn</text>
+<text x="2480" y="1030">1. Varkhûn</text><text x="2480" y="1106">2. Valbois</text><text x="2480" y="1182">3. Pont Brumecôte</text><text x="2480" y="1258">4. Rochebrune</text><text x="2480" y="1334">5. Clairerive</text><text x="2480" y="1410">6. Aethérion</text>
 </g>
 <line x1="2462" y1="1530" x2="2865" y2="1530" stroke="#b69a6c" stroke-width="3"/>
 <text x="2478" y="1581" fill="#4d4233" font-size="25" font-family="Georgia">Distances : vol d’oiseau</text>
