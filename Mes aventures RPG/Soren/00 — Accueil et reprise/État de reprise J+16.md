@@ -21,7 +21,7 @@ heure_reference: "23:45"
 - **[[D-221 — Les Crocs de Pierre]] terminée et validée**, trois monstres tués (Identification **niv. 23, 21, 25**, rang estimé D), **3 crocs de preuve remis à la Guilde**, **340 Pièces encaissées**, aucun blessé.
 - **[[Matériaux des Crocs de Pierre]]** conservés : **3 noyaux lithiques, 17 plaques minérales, 24 crocs/griffes exploitables**, expertise écrite **469–690 Pièces**, **aucun matériau vendu** ; 3 crocs de preuve **n'appartiennent plus à Soren**.
 - **J+15 −36 Pièces** pour le déjeuner de Soren au Chaudron d'Ambre ; **+340 Pièces encaissées** pour la mission. Repas de Soren et des 3 loups pris **avant la chasse**, gratuitement à partir du sanglier confié à la Guilde.
-- **Solde total exact inconnu**, le dîner J+14 ayant été payé pour un montant inconnu. **Estimation de butin ≠ argent encaissé**.
+- **Solde de fin J+15 : 446 Pièces − coût du dîner J+14**, non chiffré dans le récit ; **valeur exacte inconnue**. Vérification : 228 (fin J+13) − 86 (avance de bail/dépôt J+14) − dîner J+14 − 36 (déjeuner J+15) + 340 (prime D-221 encaissée) = **446 − dîner J+14**. Les 446 Pièces **ne sont pas** un montant disponible confirmé. **Estimation de butin ≠ argent encaissé**. Source unique : [[Comptabilité — Soren]].
 - **3 sceaux de transfert de mana** détenus, invendus ; le Cœur de mana est à Soren. Générateur [S] à Borin. Aucun sceau, Cœur ni générateur cédé.
 
 ## La Porte de l'Aube
