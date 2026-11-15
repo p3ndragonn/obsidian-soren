@@ -84,7 +84,7 @@ Les zones privées et militaires ne sont pas ouvertes au public ; entrées, cont
 
 ### 4.1. Démographie proposée
 
-Le tableau suivant est **un modèle de travail non officiel**, non un recensement canonique. La présence précise de chaque race doit respecter le [[SYSTEME_Codex_universel_des_races|codex racial]] et les découvertes futures ; les catégories supplémentaires sont ici des possibilités et non des rencontres déjà jouées.
+Le tableau suivant est **un modèle de travail non officiel**, non un recensement canonique. La présence précise de chaque race doit respecter le **Codex universel des races** (référencé dans [[Références du SYSTÈME]]) et les découvertes futures ; les catégories supplémentaires sont ici des possibilités et non des rencontres déjà jouées.
 
 | Race ou groupe racial | Part proposée | Habitants estimés |
 |---|---:|---:|
