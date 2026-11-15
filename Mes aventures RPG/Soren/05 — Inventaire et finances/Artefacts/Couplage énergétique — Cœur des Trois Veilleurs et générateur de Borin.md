@@ -187,6 +187,10 @@ L'arrêt du générateur commercial **n'entraîne plus la fermeture énergétiqu
 
 L'illustration ne montre que le **circuit Cœur–générateur**. Elle ne représente pas le deuxième départ résidentiel ; son absence dans l'image **ne signifie pas qu'il n'existe pas**.
 
+### Relais d'accès mobile ajouté par le Fondateur
+
+La **[[Baguette des Trois Veilleurs — Extension portative du Cœur]]** est un module détachable du Cœur qui fournit **une commande de portail distante** vers le domaine résidentiel. Elle se connecte **au circuit résidentiel déjà existant**, sans devenir une troisième source de mana et sans prendre l'énergie du générateur de Borin. Le Cœur principal et son cristal central restent en place ; **Soren seul peut actuellement activer la baguette**. L'ouverture peut être réalisée **où Soren se trouve**, sans ancrage local permanent dans le monde extérieur. Cette fonction vient d'être fixée par décision du Fondateur ; **aucune activation n'est réputée avoir eu lieu dans les récits déjà joués**.
+
 ## 16. Commandes et sécurité d'accès
 
 Les paramètres des espaces sont gérés par les commandes du générateur et les interventions runiques appropriées. Le dispositif ne lit pas librement les pensées de tous les utilisateurs.
