@@ -22,6 +22,6 @@ statut: archive
 - **[[Edric (Aethérion)]]**, expert adjoint : estimation écrite **469–690 Pièces** pour le butin, **aucune vente**. Edric est distinct de l'Edrik de Valbois.
 - **Nuit :** retour chambre, bains de la Guilde, rencontre et moment intime consenti avec **[[Narek (Aethérion)]]**, aventurier félin adulte de grade C, sans engagement ; **distinct de [[Narek]], Lupin de Varkhûn**. Retour en chambre **23 h 16** ; carnet de voyage rédigé **23 h 26–23 h 42**.
 - **23 h 45 :** Soren **couché mais encore éveillé**, trois loups dans leurs paniers. [[État de reprise J+16]].
-- **Finances :** −36 déjeuner et +340 quête, estimations de matériaux non encaissées ; **solde global inconnu**, coût du dîner J+14 non documenté. Aucun nouveau niveau, rang, maîtrise ou bonus attribué. Les trois sceaux restent invendus.
+- **Finances :** −36 déjeuner et +340 quête, estimations de matériaux non encaissées ; **solde personnel confirmé de 415 Pièces** à fin J+15, après déduction des **31 Pièces du dîner J+14** précisées ultérieurement par le Fondateur. Calcul : 228 − 86 − 31 − 36 + 340 = 415. Aucun nouveau niveau, rang, maîtrise ou bonus attribué. Les trois sceaux restent invendus.
 
 **Journal détaillé :** [[J+15 — 27 Floréane 427]] · **Reprise :** [[État de reprise J+16]].
