@@ -10,8 +10,11 @@ campagne: Soren
 |---|---|---|
 | **J+2 — départ de Varkhûn** | [[Soren — Départ de Varkhûn]] | Tenue légère, avant acquisition de la cape noire |
 | **J+11 — réception de la cape** | [[Soren — Cape noire de Corvin]] | Cape noire et tenue complète |
+| **Tenue actuelle — portrait de Soren** | [Portrait actuel de Soren](Personnages/Soren/Soren%20%E2%80%94%20Portrait%20actuel.webp) | Harnais et short en cuir noir, bottes noires, cape intégralement en fourrure noire jusqu'aux pieds |
 
 Les **deux planches techniques originales** sont conservées en fichiers PNG distincts. Elles ne doivent pas être remplacées par des visages ou des tenues inventés.
+
+Le **portrait actuel** complète les deux références antérieures sans les remplacer. Il illustre la tenue artisanale noire et la cape de fourrure de Soren.
 
 > [!WARNING] <!--easygit-callout:original=warning,collapse=--> Fichiers images à importer
 > Les liens d'images sont prêts, mais les PNG doivent être placés dans `09 - Images et illustrations/Personnages/Soren/`. Les fiches Markdown sont déjà enregistrées dans GitHub. Une archive contenant les deux PNG originaux a été préparée pour l’import.
