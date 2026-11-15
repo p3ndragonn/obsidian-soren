@@ -21,7 +21,7 @@ heure_reference: "23:45"
 - **[[D-221 — Les Crocs de Pierre]] terminée et validée**, trois monstres tués (Identification **niv. 23, 21, 25**, rang estimé D), **3 crocs de preuve remis à la Guilde**, **340 Pièces encaissées**, aucun blessé.
 - **[[Matériaux des Crocs de Pierre]]** conservés : **3 noyaux lithiques, 17 plaques minérales, 24 crocs/griffes exploitables**, expertise écrite **469–690 Pièces**, **aucun matériau vendu** ; 3 crocs de preuve **n'appartiennent plus à Soren**.
 - **J+15 −36 Pièces** pour le déjeuner de Soren au Chaudron d'Ambre ; **+340 Pièces encaissées** pour la mission. Repas de Soren et des 3 loups pris **avant la chasse**, gratuitement à partir du sanglier confié à la Guilde.
-- **Solde de fin J+15 : 446 Pièces − coût du dîner J+14**, non chiffré dans le récit ; **valeur exacte inconnue**. Vérification : 228 (fin J+13) − 86 (avance de bail/dépôt J+14) − dîner J+14 − 36 (déjeuner J+15) + 340 (prime D-221 encaissée) = **446 − dîner J+14**. Les 446 Pièces **ne sont pas** un montant disponible confirmé. **Estimation de butin ≠ argent encaissé**. Source unique : [[Comptabilité — Soren]].
+- **Solde personnel de fin J+15 : 415 Pièces confirmées.** Le dîner J+14 a coûté **31 Pièces**, précision transmise après coup par le Fondateur. Vérification : 228 (fin J+13) − 86 (avance de bail/dépôt J+14) − 31 (dîner J+14) − 36 (déjeuner J+15) + 340 (prime D-221 encaissée) = **415 Pièces**. **Estimation de butin ≠ argent encaissé**. Source unique : [[Comptabilité — Soren]].
 - **3 sceaux de transfert de mana** détenus, invendus ; le Cœur de mana est à Soren. Générateur [S] à Borin. Aucun sceau, Cœur ni générateur cédé.
 
 ## La Porte de l'Aube
@@ -43,6 +43,6 @@ heure_reference: "23:45"
 4. Butin des Crocs de Pierre à montrer éventuellement à Borin ; il **ne l'a pas encore examiné**.
 
 > [!warning] Fin de scène
-> **Soren est encore éveillé dans son lit à 23 h 45.** Attendre la décision du joueur avant de l'endormir, de déclencher son réveil ou de commencer J+16. Ne pas inventer de solde, progression ou règlement de la vente.
+> **Soren est encore éveillé dans son lit à 23 h 45.** Attendre la décision du joueur avant de l'endormir, de déclencher son réveil ou de commencer J+16. Solde confirmé **415 Pièces** ; ne pas inventer de progression, autre dépense ou règlement de la vente.
 
 [[J+15 — 27 Floréane 427]] · [[J+15 — 27 Floréane 427 — Historique]].
