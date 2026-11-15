@@ -94,6 +94,7 @@ Les images représentent la résidence privée de Soren dans la sous-dimension p
 |---|---|---|
 | **Générateur d’arène de Borin** | [[Générateur d’arène de Borin]] | [Illustration officielle du générateur](Objets/G%C3%A9n%C3%A9rateur%20d%E2%80%99ar%C3%A8ne%20de%20Borin%20%E2%80%94%20Portrait%20officiel.webp) |
 | **Cœur de mana des Trois Veilleurs** | [[Cœur de mana des Trois Veilleurs]] | [Illustration officielle du Cœur](Objets/C%C5%93ur%20de%20mana%20des%20Trois%20Veilleurs%20%E2%80%94%20Illustration%20officielle.webp) |
+| **Baguette des Trois Veilleurs** | [[Baguette des Trois Veilleurs — Extension portative du Cœur]] | [Planche illustrée de l'extension runique](Objets/Baguette%20des%20Trois%20Veilleurs%20%E2%80%94%20Planche%20runique.svg) |
 | **Couplage actif — Cœur et générateur** | [[Couplage énergétique — Cœur des Trois Veilleurs et générateur de Borin]] | [Illustration des deux appareils en fonctionnement](Objets/Couplage%20actif%20%E2%80%94%20C%C5%93ur%20des%20Trois%20Veilleurs%20et%20g%C3%A9n%C3%A9rateur%20de%20Borin.webp) |
 
 Le portrait du générateur de Borin le représente en position ouverte : disque de bronze et d'or à huit volets triangulaires, noyau cristallin lumineux.
