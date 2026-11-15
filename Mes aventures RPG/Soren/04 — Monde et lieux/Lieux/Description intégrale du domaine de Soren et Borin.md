@@ -562,6 +562,12 @@ Le seuil pouvait être fermé, occulté et verrouillé volontairement tout en co
 
 L'ancrage a ensuite fait l'objet de manipulations lors des travaux commerciaux. La possibilité de restaurer la configuration a été conservée, mais tous les états transitoires du dispositif ne doivent pas être confondus avec un accès continuellement ouvert.
 
+### Nouveau seuil mobile — baguette amovible du Cœur
+
+Par **décision explicite du Fondateur**, le [[Cœur de mana des Trois Veilleurs]] comprend la **[[Baguette des Trois Veilleurs — Extension portative du Cœur]]**, petit module runique détachable qui ouvre **un portail vers ce même domaine depuis n'importe quel endroit où Soren se trouve**. Il n'est donc plus nécessaire de rejoindre la chambre n° 3 pour créer l'entrée : cette chambre reste toutefois le **seuil historique**. Le Cœur principal reste physiquement en place et continue à alimenter le circuit résidentiel indépendant du générateur de Borin.
+
+**Soren est actuellement le seul maître de la baguette et de son activation.** Cette exclusivité **ne supprime pas les cinq signatures d'accès au domaine**, car autoriser le franchissement d'une porte déjà ouverte est distinct du droit de produire cette porte. Aucun tiers, y compris Borin et les loups, ne peut ouvrir le portail mobile avec la baguette sans une nouvelle décision du Fondateur. **Premier détachement et premier usage non encore joués à fin J+15** ; voir la fiche technique liée pour les étapes et précautions.
+
 ### Signatures autorisées
 
 Les cinq identités officiellement enregistrées pour accéder au domaine sont :
