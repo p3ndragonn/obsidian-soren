@@ -11,6 +11,13 @@ source: "Chronique intégrale J+12 ; état J+13 pour les mentions de situation a
 
 **Contexte :** Varkhûn — Famille, proches et habitants
 
+## Portrait officiel de Vaeren Thalvyr
+
+![Portrait officiel en pied de Vaeren Thalvyr, Homme-bête Lupin de Varkhûn](../09%20-%20Images%20et%20illustrations/Personnages/Vaeren%20Thalvyr/Vaeren%20Thalvyr%20%E2%80%94%20Portrait%20officiel.webp)
+
+*Référence visuelle de Vaeren Thalvyr : Père de Soren, ancien pisteur lupin, cheveux brun noir grisonnant aux tempes, yeux gris ambré et cape vert forêt. Le décor et les accessoires sont illustratifs ; cette image ne crée aucun nouvel événement ni équipement validé par le SYSTÈME.*
+
+
 ## Description physique, comportementale et biographique complète
 
 > [!NOTE] Référence de continuité et distinction des sources
