@@ -149,7 +149,7 @@ Ses oreilles mobiles et sa queue rendent son langage corporel plus expressif que
 
 ### 11. Tenue artisanale actuelle
 
-La tenue de Soren est conçue et adaptée par **[[Corvin]]** pour sa morphologie lupine et sa liberté de mouvement.
+La tenue de Soren est conçue et adaptée par **[[Maître Corvin]]** pour sa morphologie lupine et sa liberté de mouvement.
 
 **Harnais de cuir noir.** Il porte un harnais noir composé de plusieurs sangles ajustées à son buste. Il laisse visible une grande partie du torse et permet de bouger facilement les épaules et les bras. Sa configuration actuelle comprend une **capuche aménagée avec deux ouvertures pour les oreilles lupines**.
 

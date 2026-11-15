@@ -15,7 +15,7 @@ Ce tableau est l'**index principal** des personnages déjà documentés. Chaque 
 | **Compagnons de route** | [[Tévan]], [[Hadrien]] |
 | **Valbois et environs** | [[Odran et Lysa]], [[Garric et Nélya]], [[Mira]], [[Rosalie]], [[Bromdur]], [[Maëra]], [[Goram]], [[Lior]], [[Edrik]], [[Nessa]] |
 | **Rochebrune et artisans** | [[Brunna]], [[Brokk]], [[Dornak Barbe-de-Fer]], [[Maître Orvik]], [[Hilda]], [[Garrum Poing-de-Pierre]] |
-| **Aethérion — Guilde et commerces** |[[Rhaegar Tigris]], [[Maëlys]], [[Bram]], [[Gérol]], [[Méliane]], [[Borin]], [[Rhazek]], [[Elandir]], [[Darian]], [[Faëric]], [[Maître Corvin]], [[Maître Sylvaris]], [[Marel]], [[Odrien]], [[Maëdrik (Aethérion)]], [[Lysandra]], [[Garrik]], [[Nérel]], [[Arvand Rethmar]] , [[Maître Orven]], [[Edric (Aethérion)]], [[Narek (Aethérion)]], [[Garron]] |
+| **Aethérion — Guilde et commerces** | [[Rhaegar Tigris]], [[Maëlys]], [[Bram]], [[Gérol]], [[Méliane]], [[Borin]], [[Rhazek]], [[Elandir]], [[Darian]], [[Faëric]], [[Maître Corvin]], [[Maître Sylvaris]], [[Marel]], [[Odrien]], [[Maëdrik (Aethérion)]], [[Lysandra]], [[Garrik]], [[Nérel]], [[Arvand Rethmar]], [[Maître Orven]], [[Edric (Aethérion)]], [[Narek (Aethérion)]], [[Garron]] |
 | **Enquête du Cercle** | [[Maître Veldran]], [[Deux techniciens]], [[Deux gardes]] |
 | **Familiers** | [[Varkhan]], [[Aelkan]], [[Sylkan]], [[Sahir]] |
 

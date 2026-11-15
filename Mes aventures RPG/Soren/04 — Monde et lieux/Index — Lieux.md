@@ -15,5 +15,7 @@ campagne: Soren
 | Dimension privée | **[[Domaine privé de Soren et Borin]]** — 2 maisons, jardins, place, fontaine, centre thermal de Soren |
 | Zones de missions | [[Valcendre]], [[Ravine de l’Aube]], [[Crypte des Trois Veilleurs]] |
 
+**Carte :** [[Carte du Royaume de Tharvélis.png|Royaume de Tharvélis]] · **Illustrations :** [[Index des illustrations]].
+
 **Itinéraire chronologique :** [[Chronologie générale]]. Les petits lieux de passage sans fiche dédiée restent indiqués en texte simple dans l'historique.
 

@@ -26,6 +26,6 @@ Les descriptions canonisées, images validées, biens possédés et découvertes
 Les fiches [[18 - Dossier confidentiel du Fondateur]] et [[Registre Fondateur — secrets anciens J0]] contiennent des connaissances réservées ; un PNJ ne sait que ce qu'il a effectivement appris pendant la narration. Un secret du Fondateur n'est pas automatiquement connu du PJ.
 
 ## Présentation
-Éviter de recopier le même encadré de situation dans plusieurs fiches. Utiliser des liens Obsidian `[[Nom de note]]` et, si utile, l'inclusion `![[Nom de note]]`. Les présentations courtes donnent uniquement le rôle du sujet et renvoient à la fiche canonique.
+Éviter de recopier le même encadré de situation dans plusieurs fiches. Utiliser des liens Obsidian `[[Fiche personnage — Soren Thalvyr]]` et, si utile, l'inclusion `![[Statut — Soren]]`. Les présentations courtes donnent uniquement le rôle du sujet et renvoient à la fiche canonique.
 
 L'histoire n'avance qu'après une action du joueur et les évolutions mécaniques ne sont actées qu'après validation du SYSTÈME ou du Fondateur.

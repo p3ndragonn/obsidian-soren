@@ -16,8 +16,9 @@ Les **deux planches techniques originales** sont conservées en fichiers PNG dis
 
 Le **portrait actuel** complète les deux références antérieures sans les remplacer. Il illustre la tenue artisanale noire et la cape de fourrure de Soren.
 
-> [!WARNING] <!--easygit-callout:original=warning,collapse=--> Fichiers images à importer
-> Les liens d'images sont prêts, mais les PNG doivent être placés dans `09 - Images et illustrations/Personnages/Soren/`. Les fiches Markdown sont déjà enregistrées dans GitHub. Une archive contenant les deux PNG originaux a été préparée pour l’import.
+> [!note] Références visuelles déjà présentes
+> Les deux planches PNG historiques et le portrait actuel de Soren sont présents dans **08 — Illustrations/Personnages/Soren**. Ils correspondent à des périodes d'équipement différentes.
+
 
 ## Familiers — portraits officiels
 
@@ -28,7 +29,7 @@ Le **portrait actuel** complète les deux références antérieures sans les rem
 | **Sylkan** | [[Sylkan]] | [Portrait officiel de Sylkan](Personnages/Sylkan/Sylkan%20%E2%80%94%20Portrait%20officiel.webp) |
 | **Sahir** | [[Sahir]] | [Portrait officiel de Sahir](Personnages/Sahir/Sahir%20%E2%80%94%20Portrait%20officiel.webp) |
 
-Ces trois portraits constituent les références visuelles officielles des familiers : Varkhan (loup noir très massif aux yeux bleu glacier), Aelkan (grand loup blanc aux yeux ambrés et de stature équilibrée) et Sylkan (grand loup gris argenté, plus fin et élancé ; couleur exacte des yeux non fixée). Les futures illustrations doivent conserver leur anatomie naturelle de loups quadrupèdes.
+Ces trois portraits lupins constituent les références visuelles officielles des familiers : Varkhan (loup noir très massif aux yeux bleu glacier), Aelkan (grand loup blanc aux yeux ambrés et de stature équilibrée) et Sylkan (grand loup gris argenté, plus fin et élancé ; couleur exacte des yeux non fixée). Les futures illustrations doivent conserver leur anatomie naturelle de loups quadrupèdes.
 
 **Sahir**, le grand lynx brun doré de Tévan, possède désormais son portrait officiel distinct : 83 cm au garrot, yeux ambre doré, aigrettes noires, fourrure tachetée, queue courte à extrémité noire. Ne pas le représenter sous forme humaine : c'est un véritable lynx quadrupède.
 
@@ -80,6 +81,10 @@ Le portrait du générateur de Borin le représente en position ouverte : disque
 L'illustration du Cœur des Trois Veilleurs montre l'artefact légendaire cylindrique noir et argent, ses trois piliers et son cristal bleu glacier, posé sur un socle de présentation. Conserver ces deux identités visuelles distinctes.
 
 La **scène de couplage** montre les deux artefacts alimentés et reliés. Les effets lumineux et le décor monumental sont illustratifs ; la fiche technique distingue les éléments prouvés par les essais de J+14 et les détails visuels proposés.
+
+## Cartes
+
+[Carte du Royaume de Tharvélis](Cartes/Carte%20du%20Royaume%20de%20Tharv%C3%A9lis.png) — carte conservée comme illustration de référence, sans en déduire de nouveaux événements.
 
 ## Autres illustrations
 

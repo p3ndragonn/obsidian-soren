@@ -7,4 +7,4 @@
 
 **Sujet :** [[Fiche personnage — Soren Thalvyr]] · **Journal :** [[J+2 — 14 Floréane 427]].
 
-*Fiche technique fournie par le Fondateur. L’image est à importer dans le dossier `09 - Images et illustrations/Personnages/Soren` pour qu’elle s’affiche.*
+*Planche technique originale conservée dans `08 — Illustrations/Personnages/Soren`.*
