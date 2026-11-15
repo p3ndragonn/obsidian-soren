@@ -6,6 +6,10 @@ source: "Chronique intégrale J+12 ; état J+13 pour les mentions de situation a
 
 # Tévan
 
+> [!success] ÉTAT J+16 — ACTUEL
+> Duelliste à la **rapière**, marchand, ami de Soren ; **pas de couple ni d'exclusivité**, limites exprimées J+15 toujours respectées. Tévan aide à préparer l'inauguration [[La Porte de l'Aube]], visite avec [[Sahir]] le domaine privé de Soren **uniquement en invités accompagnés temporaires**, participe au test d'évacuation **4/4** (Soren, Borin, Tévan, Sahir). À l'entraînement, Soren constate un **flanc gauche mieux protégé**, un meilleur travail d'appui et une meilleure remise en garde ; points à corriger : retraits trop répétitifs, bras armé hors de l'axe, temps mort après estoc. Tévan **remporte la dernière passe d'escrime contre Hadrien**, sans blessure. Soren lui verse effectivement **18 000 Pièces sur 55 000 promises**, restent **37 000**. Dîner offert puis soirée entre amis. Tévan propose des **cours particuliers payants plus chers**, idée acceptée en principe mais non encore discutée/validée par Borin. **Participation prévue à l'inauguration J+17**. [[J+16 — 28 Floréane 427]].
+
+
 > [!NOTE] <!--easygit-callout:original=info,collapse=--> Rôle dans l'aventure
 > Duelliste humain et négociant, rencontré à Valbois. Compagnon de voyage, ancien partenaire romantique et voisin de Soren à l’Annexe des Compagnons. Depuis J+15, Soren souhaite seulement leur amitié et Tévan respecte cette limite.
 

@@ -6,6 +6,10 @@ source: "Chronique intégrale J+12 ; état J+13 pour les mentions de situation a
 
 # Hadrien
 
+> [!success] ÉTAT J+16 — ACTUEL
+> Ami de Soren, combattant expérimenté spécialisé dans les **épées lourdes**. Il reçoit **18 000 Pièces effectivement versées par Soren**, acompte sur promesse de 55 000 (reste **37 000**). Entraînement amical à la Guilde : Soren lui marque une touche au torse après lâcher de deux bâtons, puis dans le dos à l'épée lourde, **sans téléportation dans ces passes**. Hadrien travaille la fluidité, les appuis, l'inertie de l'épée habituelle, trois puis cinq gestes de parade/attaque ; aucune compétence exceptionnelle ne lui est donnée. Tévan remporte leur dernière passe d'entraînement. Soren lui offre le dîner et lui fait visiter **[[La Porte de l'Aube]]** le soir ; Hadrien s'enthousiasme pour les salles et l'arène, **sans apprendre que le duel final sera contre un dragon [A] simulé**. **Présence confirmée pour J+17 à 10 h**. [[J+16 — 28 Floréane 427]].
+
+
 > [!NOTE] <!--easygit-callout:original=info,collapse=--> Rôle dans l'aventure
 > Mercenaire humain expérimenté, rencontré à Valbois. Ami, conseiller tactique et compagnon de mission.
 

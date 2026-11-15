@@ -5,12 +5,16 @@ campagne: Soren
 artefact_parent: "[[Cœur de mana des Trois Veilleurs]]"
 proprietaire: Soren Thalvyr
 liaison: "Exclusive à Soren — révisable uniquement par décision du Fondateur"
-statut: "caractéristique canonique ajoutée par le Fondateur ; première extraction et première activation non jouées"
-date_de_reference: "fin J+15 — 27 Floréane 427"
+statut: "extension canonique — utilisation effective J+16, activation exclusive à Soren"
+date_de_reference: "fin J+16 — 28 Floréane 427"
 confidentialite: "technique privée — non connue automatiquement des PNJ"
 ---
 
 # ✧ Baguette des Trois Veilleurs
+
+> [!success] ÉTAT J+16 — ACTUEL
+> **Première utilisation effective jouée en J+16** pour ouvrir le portail vers [[Domaine privé de Soren et Borin]], dont la visite avec Tévan et Sahir comme **invités temporaires accompagnés**. **Seul Soren peut activer** la baguette ; le Cœur principal reste intact et fournit l'énergie. **Dimension évoquée dans la narration : environ 20 cm**, remplaçant la simple proposition visuelle initiale de 30–35 cm (non mesurée). Les passages anciens relatifs à une « première utilisation non encore jouée » concernent **l'état historique de J+15**, pas la situation présente. [[État de reprise J+17]].
+
 *Extension détachable du [[Cœur de mana des Trois Veilleurs]] · Clé runique portative du [[Domaine privé de Soren et Borin]]*
 
 ![Planche de référence — Baguette des Trois Veilleurs, éclat bleu glacier et portail vers la sous-dimension](../../08%20%E2%80%94%20Illustrations/Objets/Baguette%20des%20Trois%20Veilleurs%20%E2%80%94%20Planche%20runique.svg)

@@ -8,6 +8,10 @@ confidentialite: "matrice cérébrale réservée à Soren et Borin"
 
 # Domaine privé de Soren et Borin
 
+> [!success] ÉTAT PRIORITAIRE — FIN J+16
+> Le domaine résidentiel reste **privé, distinct de La Porte de l'Aube**, alimenté par le Cœur de Soren indépendamment du générateur commercial. Les **trois loups** ont reçu une permission de modification **limitée à leur jardin** (terre à creuser, obstacles, repos), ainsi qu'une salle grise d'entraînement adaptée. **Compétences partagées J+16 : 7 de classe [S], 8 de profession [B], 3 téléportations [SS], runes [A] RÉVOQUÉES.** [[Tévan]] et [[Sahir]] ont visité **en invités temporaires accompagnés** : ni accès permanent ni divulgation de la **matrice cérébrale ancestrale secrète**. **[[Baguette des Trois Veilleurs — Extension portative du Cœur]] utilisée J+16**, activable seulement par Soren. Les loups rentrent en chambre n° 3 au soir de J+16 et acceptent de venir à l'inauguration J+17. [[État de reprise J+17]].
+
+
 Créé et expérimenté à J+14 par [[Soren Thalvyr]] et [[Borin]] ; **résidences séparées** (une maison chacun), jardins privés, place à fontaine, centre thermal de Soren et espaces de travail. Aucun déménagement définitif n'était effectué au dernier relevé.
 
 ## Accès et alimentation

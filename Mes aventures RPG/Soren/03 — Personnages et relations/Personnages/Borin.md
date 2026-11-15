@@ -6,6 +6,10 @@ source: "Chronique intégrale J+12 ; état J+13 pour les mentions de situation a
 
 # Borin
 
+> [!success] ÉTAT J+16 — ACTUEL
+> Borin, **associé principal (55 % des bénéfices nets)** et gérant de [[La Porte de l'Aube]], réalise avec Soren les derniers essais sur les onze modules. Premier test plein feu d'un dragon [A] simulé : **3 mannequins calcinés** ; protections runiques corrigées, **2 % du flux aux boucliers** et second essai de 15 s à 100 % réussi ; **1 % du flux pour évacuation**, essai réel **4/4** avec Soren, Tévan et Sahir, **sans essai réel de masse à 80/125** ; **97 % à l'exploitation commerciale**. Feu vert des contrôles automatisés, boutique prête pour **J+17 à 10 h**, mais **pas encore ouverte et sans recettes J+16**. Générateur reste propriété de Borin, Cœur personnel de Soren. L'idée de cours particuliers payants proposée par Tévan **n'a pas encore reçu son approbation**. [[État de reprise J+17]].
+
+
 > [!NOTE] <!--easygit-callout:original=info,collapse=--> Rôle dans l'aventure
 > Nain, ancien colocataire et propriétaire du générateur d'arène modulaire.
 
