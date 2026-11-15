@@ -43,6 +43,13 @@ Ces trois portraits constituent les références visuelles officielles des famil
 | **Darian** | [[Darian]] | [Portrait officiel de Darian](Personnages/Darian/Darian%20%E2%80%94%20Portrait%20officiel.webp) |
 | **Faëric** | [[Faëric]] | [Portrait officiel de Faëric](Personnages/Fa%C3%ABric/Fa%C3%ABric%20%E2%80%94%20Portrait%20officiel.webp) |
 | **Hadrien** | [[Hadrien]] | [Portrait officiel d’Hadrien](Personnages/Hadrien/Hadrien%20%E2%80%94%20Portrait%20officiel.webp) |
+| **Vaeren Thalvyr** | [[Vaeren Thalvyr]] | [Portrait officiel de Vaeren Thalvyr](Personnages/Vaeren%20Thalvyr/Vaeren%20Thalvyr%20%E2%80%94%20Portrait%20officiel.webp) |
+| **Kaelor Vargan** | [[Kaelor Vargan]] | [Portrait officiel de Kaelor Vargan](Personnages/Kaelor%20Vargan/Kaelor%20Vargan%20%E2%80%94%20Portrait%20officiel.webp) |
+| **Narek** | [[Narek]] | [Portrait officiel de Narek](Personnages/Narek/Narek%20%E2%80%94%20Portrait%20officiel.webp) |
+| **Darek** | [[Darek]] | [Portrait officiel de Darek](Personnages/Darek/Darek%20%E2%80%94%20Portrait%20officiel.webp) |
+| **Thorek** | [[Thorek]] | [Portrait officiel de Thorek](Personnages/Thorek/Thorek%20%E2%80%94%20Portrait%20officiel.webp) |
+| **Maëlan** | [[Maëlan]] | [Portrait officiel de Maëlan](Personnages/Ma%C3%ABlan/Ma%C3%ABlan%20%E2%80%94%20Portrait%20officiel.webp) |
+| **Rhovan** | [[Rhovan]] | [Portrait officiel de Rhovan](Personnages/Rhovan/Rhovan%20%E2%80%94%20Portrait%20officiel.webp) |
 
 Le portrait officiel de Borin est la référence visuelle pour ses futures apparitions : nain forgeron à forte carrure, barbe brun cuivré tressée, tablier de cuir et vêtements de travail.
 
@@ -57,6 +64,8 @@ Le portrait officiel de Darian le représente comme un Humain robuste, aux cheve
 Le portrait officiel de Faëric montre un Homme-bête Renard élancé, aux cheveux roux cuivré, aux yeux ambrés, avec deux grandes oreilles vulpines et une longue queue rousse à pointe crème. Il porte des vêtements de voyage beige, vert olive et brun.
 
 Le portrait officiel d’Hadrien fixe son apparence de mercenaire humain expérimenté : carrure robuste, cheveux brun cendré aux tempes grisonnantes, yeux gris bleuté, barbe courte, veste de cuir brun usé et épée sobre au fourreau (équipement visuel proposé).
+
+**Varkhûn — références visuelles :** les sept portraits ci-dessus correspondent à [[Vaeren Thalvyr]] (père de Soren), [[Kaelor Vargan]] (son maître), [[Narek]] (charpentier lupin), [[Darek]] (cuisinier-éclaireur), [[Thorek]] (protecteur lupin), [[Maëlan]] (herboriste) et [[Rhovan]] (bâtisseur). Ces images fixent leur apparence proposée sans ajouter de nouvelles actions à l'histoire. **Pour Darek, la race lupine reste une extrapolation à confirmer.** Attention : [[Narek]] de Varkhûn est distinct de [[Narek (Aethérion)]].
 
 ## Objets et artefacts — illustrations officielles
 
