@@ -16,6 +16,15 @@ source: "Chronique intégrale J+12 ; narration J+13"
 
 *Référence visuelle de l’artefact entier, présenté sur un socle de pierre en vue de trois quarts. Le Cœur lui-même est un cylindre de 50 cm de diamètre et 50 cm de hauteur, avec trois piliers runiques, des fenêtres cristallines et un noyau central bleu glacier. Le socle de présentation n'appartient pas à l'artefact.*
 
+## Extension amovible — Baguette des Trois Veilleurs
+
+![Baguette des Trois Veilleurs — planche illustrée, cristal secondaire bleu glacier et portail vers le domaine privé](../../08%20%E2%80%94%20Illustrations/Objets/Baguette%20des%20Trois%20Veilleurs%20%E2%80%94%20Planche%20runique.svg)
+
+> [!success] Nouvelle caractéristique explicitement décidée par le Fondateur
+> Le Cœur possède une **[[Baguette des Trois Veilleurs — Extension portative du Cœur|baguette runique détachable]]** dans sa structure extérieure. Elle ouvre un **portail vers le domaine dimensionnel privé depuis n'importe quel lieu où Soren se trouve**, sans déplacement du Cœur. **Seul Soren Thalvyr peut actuellement l'activer** ; les cinq autorisations d'entrée au domaine et les circuits existants sont maintenus. **Aucune première extraction ni activation n'est ajoutée rétroactivement aux journées déjà jouées.**
+
+**Voir la fiche dédiée : [[Baguette des Trois Veilleurs — Extension portative du Cœur]]**, qui contient l'utilisation étape par étape, la liaison personnelle et ses limites. Cette extension **n'est ni le grand cristal central du Cœur ni l'un des trois sceaux de transfert**.
+
 ## Couplage énergétique en fonctionnement
 
 ![Cœur des Trois Veilleurs raccordé au générateur de Borin en fonctionnement](../../08%20%E2%80%94%20Illustrations/Objets/Couplage%20actif%20%E2%80%94%20C%C5%93ur%20des%20Trois%20Veilleurs%20et%20g%C3%A9n%C3%A9rateur%20de%20Borin.webp)
@@ -294,7 +303,7 @@ Ces éléments assurent son maintien au centre de la chambre.
 
 La mise en scène peut donner l'impression d'une suspension lumineuse, sans qu'il soit nécessaire d'attribuer au Cœur une capacité de lévitation générale.
 
-**Le cristal central appartient à l'artefact lui-même. Il ne constitue pas un deuxième Cœur de mana indépendant pouvant être retiré et utilisé séparément.**
+**Le cristal central appartient à l'artefact lui-même. Il ne constitue pas un deuxième Cœur de mana indépendant pouvant être retiré et utilisé séparément.** La **baguette amovible** ajoutée ultérieurement par décision du Fondateur se détache **d'un logement secondaire de la couronne extérieure**, et **non du cristal central** ; sa petite gemme n'est qu'un relais runique.
 
 ### 10. La chambre de stabilisation intérieure
 
@@ -805,6 +814,10 @@ La matrice cérébrale ancestrale de Varkhûn constitue un secret différent, co
 | Durée réelle de 1 000 ans | Non éprouvée |
 | Alimentation du générateur de Borin | Raccordement et essais réalisés |
 | Alimentation du domaine résidentiel | Circuit séparé opérationnel |
+| Extension portative | [[Baguette des Trois Veilleurs — Extension portative du Cœur]] ; module secondaire détachable |
+| Activation de la baguette | **Soren Thalvyr uniquement** (directive ultérieure du Fondateur) |
+| Accès mobile au domaine | Portail depuis le lieu où se trouve Soren, sans déplacement du Cœur |
+| Premier usage de la baguette en scène | Non joué à fin J+15 |
 | Débit énergétique maximal | Non établi |
 | Masse exacte antérieurement mesurée | Non établie |
 | Vente du Cœur | Aucune |
