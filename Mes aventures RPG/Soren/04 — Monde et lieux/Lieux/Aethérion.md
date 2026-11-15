@@ -4,17 +4,21 @@ titre: Aethérion
 campagne: Soren
 royaume: Tharvélis
 monde: Vaeloria
-statut_documentaire: "faits établis J+15 + conception urbaine proposée"
-population_proposee: 240000
-quartiers_proposes: 12
+statut_documentaire: "géographie officiellement fixée par le Fondateur ; scènes J+15 préservées"
+population_officielle: 240000
+quartiers_officiels: 12
 ---
 
 # Aethérion — Capitale royale de Tharvélis
 
-> [!important] Continuité : récit et proposition de conception
+> [!important] Continuité : géographie officielle de la capitale
 > **Confirmé par l'aventure :** [[Aethérion]] est la capitale de **Tharvélis**, siège de la [[Guilde des Aventuriers d’Aethérion]]. Soren entre par la **porte orientale à J+6 — 18 Floréane 427**, réside à la [[Annexe des Compagnons]] (chambre 3), connaît le **quartier de la Guilde** et le **passage des Compagnons**, et doit rencontrer personnellement le **roi à J+20**. Aucun événement futur n'est joué par ce dossier.
 >
-> **Conception ajoutée et non rétrospective :** la population de **240 000 habitants**, sa distribution par races, le découpage en **12 quartiers**, la topographie concentrique, la description détaillée du **château royal central**, les portes secondaires et le quartier fluvial sont des **propositions de géographie urbaine** pour développer la capitale. Les chiffres ne sont pas des recensements officiels et les lieux proposés ne créent pas automatiquement une rencontre, une quête ou une connaissance du PJ. La position de la rivière reste notamment à confirmer sur la [[Carte du Royaume de Tharvélis.png|carte du royaume]].
+> **Validation canonique du Fondateur :** les **240 000 habitants**, leur répartition par races, les **douze quartiers**, leurs positions, le **château central**, les cinq portes, les enceintes, la **Rivière des Bateliers navigable au sud-ouest** et le réseau des avenues sont désormais **des éléments officiels de la géographie d'Aethérion**. L'[[Atlas officiel d’Aethérion]] et la [[Aethérion — Carte officielle.webp|carte officielle]] en fixent les références. **La carte du royaume sera refaite pour s'y conformer.** La validation de ces lieux ne crée aucune scène déjà jouée ni connaissance automatique pour les personnages.
+
+**Carte officielle :** [[Atlas officiel d’Aethérion]] · [[Aethérion — Carte officielle.webp]] · [[Aethérion — Carte officielle.svg]]
+
+![Carte officielle d’Aethérion](../../08%20%E2%80%94%20Illustrations/Cartes/Aeth%C3%A9rion%20%E2%80%94%20Carte%20officielle.webp)
 
 **Renvois :** [[Château royal d’Aethérion]] · [[Guilde des Aventuriers d’Aethérion]] · [[La Porte de l'Aube]] · [[Annexe des Compagnons]] · [[Index — Lieux]].
 
@@ -24,13 +28,13 @@ Aethérion est la **capitale politique, économique, artisanale et aventurière*
 
 La cité ne se réduit pas à ses monuments : elle possède des logements modestes, marchés animés, rues étroites, tavernes, ateliers, jardins et places publiques. Les secteurs proches du château sont plus monumentaux, les faubourgs plus denses et les zones artisanales plus bruyantes.
 
-**Modèle démographique proposé : 240 000 habitants**, y compris les faubourgs immédiats. La population exacte n'avait pas encore été fixée dans la chronique.
+**Population officielle : 240 000 habitants**, y compris les faubourgs immédiats. Cette valeur est fixée par le Fondateur dans l’atlas ; elle n’a pas été obtenue par un recensement effectué par Soren.
 
 ---
 
 ## 2. Implantation géographique et organisation
 
-**Organisation proposée :** Aethérion se développe autour d'une large **élévation naturelle centrale**, occupée par le château royal, puis par plusieurs couronnes de quartiers jusqu'aux murailles et aux faubourgs.
+**Organisation officielle :** Aethérion se développe autour d'une large **élévation naturelle centrale**, occupée par le château royal, puis par plusieurs couronnes de quartiers jusqu'aux murailles et aux faubourgs.
 
 Les quatre grands ensembles sont :
 1. **Centre royal :** château, cours, jardins et annexes protégées.
@@ -40,22 +44,22 @@ Les quatre grands ensembles sont :
 
 Des **avenues radiales** relient le château aux portes, et des **boulevards circulaires** permettent de passer entre secteurs sans traverser constamment la citadelle. Les rues principales acceptent charrettes et convois ; les rues anciennes peuvent être étroites et sinueuses. Fontaines, caniveaux et évacuation des eaux sont imaginés comme infrastructures ordinaires, sans supposer une technologie magique omniprésente.
 
-**Carte non encore fixée :** la forme exacte des remparts, les dimensions, la rivière éventuelle et les distances de quartier à quartier demeurent ouvertes.
+**Carte officiellement fixée :** enceinte principale d’environ **7,8 km de diamètre**, cinq portes, douze secteurs et rivière navigable au sud-ouest. La disposition précise des rues et des immeubles reste schématique ; voir [[Atlas officiel d’Aethérion]].
 
 ---
 
 ## 3. Château royal — cœur d'Aethérion
 
-Le **[[Château royal d’Aethérion]]** constitue le **centre géographique, politique et symbolique proposé** de la ville. Construit sur une hauteur et des terrasses fortifiées, il domine les avenues, les toitures et une grande partie des remparts.
+Le **[[Château royal d’Aethérion]]** constitue le **centre géographique, politique et symbolique officiel** de la ville. Construit sur une hauteur et des terrasses fortifiées, il domine les avenues, les toitures et une grande partie des remparts.
 
 ### 3.1. Architecture extérieure
-C'est un ensemble monumental associant **citadelle médiévale et palais**. Les murs sont de pierre claire légèrement grisée, les soubassements en pierre plus sombre, les toitures en ardoise bleu nuit. Quatre grandes tours d'angle, plusieurs tours secondaires et un donjon-palais central dominent l'enceinte. Fenêtres élancées, balustrades, ferronneries, grandes portes et bannières donnent au bâtiment une ampleur royale. La palette **bleu nuit, argent et or** n'est qu'une proposition ; les **armoiries de la dynastie restent inconnues**.
+C'est un ensemble monumental associant **citadelle médiévale et palais**. Les murs sont de pierre claire légèrement grisée, les soubassements en pierre plus sombre, les toitures en ardoise bleu nuit. Quatre grandes tours d'angle, plusieurs tours secondaires et un donjon-palais central dominent l'enceinte. Fenêtres élancées, balustrades, ferronneries, grandes portes et bannières donnent au bâtiment une ampleur royale. La palette d'illustration **bleu nuit, argent et or** est retenue, sans fixer les **armoiries de la dynastie**, qui restent inconnues.
 
 ### 3.2. Fortifications
 Une première enceinte défend le domaine, une seconde protège les bâtiments les plus sensibles. Chemins de ronde, corps de garde, entrées de service et accès cérémoniels sont séparés. Une large voie monte depuis la cité jusqu'à une esplanade de contrôle.
 
 ### 3.3. Cour d'honneur
-Derrière l'entrée principale s'ouvre une grande cour pavée, bordée de galeries et d'escaliers monumentaux, avec une fontaine centrale proposée. Elle accueille les arrivées officielles et les cérémonies.
+Derrière l'entrée principale s'ouvre une grande cour pavée, bordée de galeries et d'escaliers monumentaux, avec une fontaine centrale. Elle accueille les arrivées officielles et les cérémonies.
 
 ### 3.4. Salle du trône
 La salle est haute de plafond, soutenue par de grandes colonnes de pierre. Fenêtres, tentures, tapis et décors historiques mènent à une estrade portant un trône de bois sombre et de métal précieux. **Aucune bataille, dynastie ou symbole historique précis n'est inventé** pour les décorations.
@@ -73,7 +77,7 @@ Une bibliothèque et des salles d'archives conservent potentiellement cartes, ch
 Des terrasses arborées, bassins, fontaines, allées de gravier et jardins privés complètent la résidence. Certains espaces peuvent recevoir des invités, d'autres restent fermés.
 
 ### 3.9. Quartiers de la garde
-Des dortoirs, une armurerie, une cour d'exercices, des écuries et des postes de surveillance servent à la protection royale. Certaines défenses runiques sont envisageables, **sans immunité absolue ni rang inventé**.
+Des dortoirs, une armurerie, une cour d'exercices, des écuries et des postes de surveillance servent à la protection royale. Le château comporte des protections et postes de garde ; la nature, l'étendue et le rang de ses **éventuels dispositifs runiques** ne sont pas établis.
 
 ### 3.10. Accès et audience de Soren
 Les zones privées et militaires ne sont pas ouvertes au public ; entrées, contrôles et escortes varient selon la fonction des visiteurs. **Fait confirmé à J+15 : une audience personnelle avec le roi est prévue à J+20** concernant deux sceaux de transfert de mana. **Nom du souverain, heure, modalités précises, décor réel de l'entretien et issue de la négociation restent inconnus.**
@@ -82,11 +86,11 @@ Les zones privées et militaires ne sont pas ouvertes au public ; entrées, cont
 
 ## 4. Population et races
 
-### 4.1. Démographie proposée
+### 4.1. Démographie officiellement fixée
 
-Le tableau suivant est **un modèle de travail non officiel**, non un recensement canonique. La présence précise de chaque race doit respecter le **Codex universel des races** (référencé dans [[Références du SYSTÈME]]) et les découvertes futures ; les catégories supplémentaires sont ici des possibilités et non des rencontres déjà jouées.
+Le tableau suivant donne la **répartition démographique officielle d'Aethérion**, validée par le Fondateur. Toutes les races citées appartiennent au **Codex universel des races** (voir [[Références du SYSTÈME]]). Il décrit l'ensemble des habitants, sans inventer l'identité ni les rencontres d'individus particuliers.
 
-| Race ou groupe racial | Part proposée | Habitants estimés |
+| Race ou groupe racial | Part officielle | Habitants de référence |
 |---|---:|---:|
 | Humains | 42 % | 100 800 |
 | Hommes-bêtes | 18 % | 43 200 |
@@ -103,7 +107,7 @@ Le tableau suivant est **un modèle de travail non officiel**, non un recensemen
 | **Total** | **100 %** | **240 000** |
 
 ### 4.2. Humains
-Groupe le plus nombreux dans la proposition, présent dans tous les métiers : agriculture, commerce, garde, artisanat, érudition, restauration et aventure. **Majorité démographique ne signifie pas exclusivité des pouvoirs ou métiers.**
+Groupe le plus nombreux dans la capitale, présent dans tous les métiers : agriculture, commerce, garde, artisanat, érudition, restauration et aventure. **Majorité démographique ne signifie pas exclusivité des pouvoirs ou métiers.**
 
 ### 4.3. Hommes-bêtes
 Deuxième ensemble démographique, avec lignées **lupines, félines, vulpines, ursines** et d'autres familles selon les catégories officielles du codex. Les morphologies différentes justifient portes, lits, coiffes, vêtements et sièges adaptés aux oreilles, queues et carrures.
@@ -115,15 +119,15 @@ Nombreux parmi les artisans, commerçants et spécialistes des matériaux, mais 
 Présents dans le commerce, la vie résidentielle, l'enseignement, la recherche et l'artisanat de précision. Leur longévité ne leur donne pas automatiquement un rang supérieur.
 
 ### 4.6. Autres peuples
-Demi-Elfes, Halfelins, Gnomes, Orcs, Tieflings, Gobelins, Demi-Orcs et populations plus rares peuvent exister dans le **modèle cosmopolite proposé**, sous réserve de correspondance avec les races **effectivement admises par le codex**. Les Draconoïdes, Kitsunes, Féides, Hommes-lézards, Kobolds ou Automates ne sont que des **exemples possibles**, non une déclaration de résidence ou de rencontre confirmée.
+Les Demi-Elfes, Halfelins, Gnomes, Orcs, Tieflings, Gobelins et Demi-Orcs participent à la démographie officielle. Les **2 % d'autres races** agrègent les peuples reconnus par le codex, sans préciser quels individus de ces races vivent dans chaque quartier. Le plan ne constitue pas une rencontre confirmée avec un Draconoïde, un Kitsune, un Féide, un Homme-lézard, un Kobold ou un Automate.
 
 **Principe social :** aucune race ne détermine automatiquement la richesse, l'intelligence, l'autorité, le rang personnel ou la profession d'un individu.
 
 ---
 
-## 5. Les douze quartiers — répartition proposée
+## 5. Les douze quartiers — répartition officielle
 
-| Quartier | Secteur proposé | Habitants |
+| Quartier | Situation officielle | Habitants |
 |---|---|---:|
 | 1. **Citadelle royale** | Centre | 2 000 |
 | 2. **Couronne Haute** | Autour du château | 14 000 |
@@ -139,13 +143,13 @@ Demi-Elfes, Halfelins, Gnomes, Orcs, Tieflings, Gobelins, Demi-Orcs et populatio
 | 12. **Le Levant** | Est extérieur | 20 000 |
 | **Total** | | **240 000** |
 
-**Ces positions, limites et chiffres sont une proposition de conception**, pas un relevé géographique exact déjà narré. Les implantations des établissements **déjà localisés explicitement** prévalent sur ce découpage de travail.
+**Ces quartiers, leurs positions et leurs populations sont désormais fixés par le Fondateur.** Leurs contours et voies secondaires restent schématiques sur la carte ; les événements et emplacements explicitement établis dans les anciennes scènes sont conservés. Voir [[Atlas officiel d’Aethérion]].
 
 ---
 
 ## 6. Quartier I — La Citadelle royale
 
-**Population proposée : 2 000 résidents autorisés.**
+**Population officielle : 2 000 résidents autorisés.**
 
 Au centre de la ville, la citadelle comprend le [[Château royal d’Aethérion]], ses cours, jardins, appartements, annexes administratives et bâtiments de garde.
 
@@ -157,7 +161,7 @@ On y imagine un personnel varié — employés, gardes, artisans, responsables d
 
 ## 7. Quartier II — La Couronne Haute
 
-**Population proposée : 14 000 habitants.**
+**Population officielle : 14 000 habitants.**
 
 Située autour de la citadelle, la Couronne Haute présente des **avenues pavées larges**, des maisons de pierre claire à plusieurs étages, des demeures dotées de jardins et des bâtiments institutionnels. Fenêtres élancées, ferronneries, cours protégées et plantations contribuent à une atmosphère plus calme et cérémonielle.
 
@@ -169,7 +173,7 @@ Les bâtiments privés ou institutionnels nécessitent parfois autorisation, mê
 
 ## 8. Quartier III — Le quartier de la Guilde
 
-**Population proposée : 28 000 habitants.** Son **existence** et le **passage des Compagnons** sont confirmés, contrairement aux limites et chiffres proposés.
+**Population officielle : 28 000 habitants.** Son existence et le passage des Compagnons sont confirmés dans l'aventure ; ses frontières et sa population sont désormais fixées cartographiquement.
 
 Quartier fréquenté par aventuriers, artisans, commerçants et voyageurs, il associe bâtiments robustes de pierre et bois, larges rues, enseignes de métiers, tavernes et commerces d'équipement.
 
@@ -192,7 +196,7 @@ Très mélangée, avec une présence importante de voyageurs et d'aventuriers de
 
 ## 9. Quartier IV — Haute-Rune
 
-**Population proposée : 14 000 habitants.**
+**Population officielle : 14 000 habitants.**
 
 Au nord-est, Haute-Rune est imaginé comme un quartier d'**études, de recherche et d'artisanat runique**. Les façades de pierre pâle et les toitures d'ardoise forment un ensemble de rues aux enseignes marquées de cristaux, de motifs géométriques ou de cercles.
 
@@ -200,7 +204,7 @@ Bibliothèques, salles d'étude, ateliers de précision, librairies et écoles s
 
 Elfes, Humains, Gnomes, Demi-Elfes et Nains forment une population plausible, sans monopole racial du savoir.
 
-**[[La Matrice d’Azur]]**, commerce de **[[Maître Sylvaris]]**, existe déjà dans la capitale. Son implantation à Haute-Rune serait logique **mais n'est pas encore confirmée**.
+**[[La Matrice d’Azur]]**, commerce de **[[Maître Sylvaris]]**, se situe désormais officiellement dans le quartier **Haute-Rune**.
 
 Les ateliers expérimentaux doivent prendre des précautions ; **aucune protection runique universelle ou inviolable n'est présumée**.
 
@@ -208,7 +212,7 @@ Les ateliers expérimentaux doivent prendre des précautions ; **aucune protecti
 
 ## 10. Quartier V — Le quartier des Marteaux
 
-**Population proposée : 25 000 habitants.**
+**Population officielle : 25 000 habitants.**
 
 Au sud-est, ateliers en pierre et bois, larges portes, cours de chargement, toitures résistantes et cheminées caractérisent ce secteur **artisanal et industriel**.
 
@@ -222,7 +226,7 @@ Le bruit des marteaux, les soufflets, les fours et le mouvement des matières pr
 
 ## 11. Quartier VI — Les Grandes Halles
 
-**Population proposée : 31 000 habitants.**
+**Population officielle : 31 000 habitants.**
 
 Au sud de la couronne centrale, de grandes places et des **halles couvertes** concentrent le commerce alimentaire et populaire. Auvents, charpentes visibles, rues pavées et bâtiments à étages encadrent les marchés.
 
@@ -236,7 +240,7 @@ Population très mélangée : Humains, Hommes-bêtes, Halfelins, Nains, Gnomes e
 
 ## 12. Quartier VII — Les Faubourgs du Sud
 
-**Population proposée : 33 000 habitants.**
+**Population officielle : 33 000 habitants.**
 
 Cette vaste zone populaire se développe **au sud, en bordure ou au-delà de l'enceinte**. Les maisons sont plus modestes, souvent à deux ou trois niveaux, avec des bases en pierre et des charpentes de bois. Des cours communes et petites places relient les îlots.
 
@@ -250,23 +254,23 @@ Densité, moindre monumentalité et circulation populaire distinguent le quartie
 
 ## 13. Quartier VIII — Les Quais des Bateliers
 
-**Population proposée : 19 000 habitants.**
+**Population officielle : 19 000 habitants.**
 
-Le secteur sud-ouest est imaginé au bord d'un **cours d'eau navigable**. **Attention : ni l'existence ni le tracé de cette rivière n'ont encore été confirmés par la carte du royaume.** Ce quartier demeure donc une option géographique.
+Le secteur sud-ouest borde officiellement la **Rivière des Bateliers**, cours d'eau navigable qui longe l'ouest et contourne le sud-ouest de la capitale. Les quais, entrepôts, pontons et accès fluviaux sont fixés sur le plan de ville ; la prochaine carte du monde intégrera cette rivière.
 
 En cas de validation, quais de pierre, pontons de bois, entrepôts, maisons de négociants et auberges de transporteurs borderaient le fleuve. Bateliers et manutentionnaires pourraient transporter **bois, céréales, tissus, matériaux et denrées**.
 
 Humains, Nains, Halfelins, Hommes-bêtes et d'autres peuples travailleraient aux échanges. Les appels des porteurs et les chocs des caisses se mêleraient au bruit de l'eau.
 
-Il s'agit **d'un quartier fluvial proposé**, pas d'un port maritime déjà attesté.
+Il s'agit officiellement **d'un quartier fluvial**, et non d'un port maritime.
 
 ---
 
 ## 14. Quartier IX — Les Remparts de l'Ouest
 
-**Population proposée : 19 000 habitants.**
+**Population officielle : 19 000 habitants.**
 
-Ce quartier se déploie le long des fortifications occidentales proposées. Maisons de pierre et de bois, rues résidentielles et voies d'entretien des remparts structurent le paysage.
+Ce quartier se déploie le long des fortifications occidentales officielles. Maisons de pierre et de bois, rues résidentielles et voies d'entretien des remparts structurent le paysage.
 
 Il pourrait accueillir familles de militaires, fournisseurs, artisans, commerçants et habitants travaillant ailleurs dans la ville. Les bâtiments proches des chemins de ronde laissent de l'espace aux mouvements de la garde.
 
@@ -278,9 +282,9 @@ La population reste mélangée. Une activité de patrouille plus visible caract�
 
 ## 15. Quartier X — Les Jardins des Ambassades
 
-**Population proposée : 18 000 habitants.**
+**Population officielle : 18 000 habitants.**
 
-Au nord-ouest, ce quartier résidentiel prestigieux est proposé comme lieu de **représentation diplomatique et culturelle**. Avenues arborées, demeures de pierre claire, jardins, fontaines, cours et grilles travaillées structurent ses espaces.
+Au nord-ouest, ce quartier résidentiel prestigieux est fixé comme lieu de **représentation diplomatique et culturelle**. Avenues arborées, demeures de pierre claire, jardins, fontaines, cours et grilles travaillées structurent ses espaces.
 
 On y trouve potentiellement grandes résidences, salons, maisons d'accueil pour délégations et bâtiments de représentation. **Aucune ambassade précise ni aucun royaume étranger représenté n'ont encore été officiellement définis.**
 
@@ -290,7 +294,7 @@ Humains, Elfes, Demi-Elfes, Nains et autres habitants peuvent y vivre. Le calme 
 
 ## 16. Quartier XI — Les Hautes-Terrasses
 
-**Population proposée : 17 000 habitants.**
+**Population officielle : 17 000 habitants.**
 
 Au nord, les pentes et petites hauteurs sont aménagées en **terrasses résidentielles**. Escaliers de pierre, venelles en pente, balcons, jardins suspendus et maisons de pierre claire et de bois sombre donnent au quartier son identité.
 
@@ -302,12 +306,12 @@ Familles humaines, elfiques, demi-elfiques, naines, hommes-bêtes et autres habi
 
 ## 17. Quartier XII — Le Levant
 
-**Population proposée : 20 000 habitants.**
+**Population officielle : 20 000 habitants.**
 
 Le Levant occupe les abords **orientaux** de la ville. Il est organisé autour de la **porte orientale confirmée**, par laquelle **Soren entre à Aethérion à J+6, vers 10 h 20**.
 
 ### Porte orientale
-La porte peut être représentée par **deux tours de pierre et un passage fortifié**, contrôlé par la garde. **[[Rhaegar Tigris]]** a contrôlé les armes de Soren et l'a autorisé à conserver ses Crocs en ville sous réserve de respecter les règles de sécurité. La conception des tours est proposée, le contrôle est confirmé.
+La **Porte du Levant** présente **deux tours de pierre et un passage fortifié**, contrôlé par la garde. **[[Rhaegar Tigris]]** a contrôlé les armes de Soren et l'a autorisé à conserver ses Crocs en ville sous réserve de respecter les règles de sécurité. La conception des tours est officialisée par le Fondateur ; le contrôle est un fait de J+6.
 
 ### Habitat et commerce
 Relais, écuries, auberges, commerces de provisions, logements et rues de passage forment un secteur animé. Les grandes voies près de la porte se resserrent dans les îlots anciens.
@@ -321,15 +325,15 @@ Le quartier ressent fortement l'arrivée et le départ des convois, marchands, c
 
 ## 18. Grandes portes de la capitale
 
-**Seule la porte orientale est établie par une scène déjà jouée.** Pour structurer les routes, les autres ouvertures suivantes sont proposées :
+**La porte orientale est la seule porte franchie par Soren dans les scènes actuelles.** Les **cinq portes suivantes et leurs emplacements** sont néanmoins **officiels dans l'atlas** :
 
-| Porte | Orientation | Usage envisagé | Statut |
+| Porte | Orientation | Usage | Statut |
 |---|---|---|---|
-| **Porte du Levant** | Est | Accès voyageurs, chasse et routes orientales | **Entrée orientale confirmée ; nom proposé** |
-| Porte du Nord | Nord | Forêts et campagnes | Proposée |
-| Porte des Marchands | Sud | Produits agricoles et convois | Proposée |
-| Porte de l'Ouest | Ouest | Routes occidentales | Proposée |
-| Porte des Bateliers | Sud-ouest | Quais et transports fluviaux | **Proposée, dépend de la rivière** |
+| **Porte du Levant** | Est | Accès voyageurs, chasse et routes orientales | **Nom officiel ; entrée de Soren confirmée** |
+| Porte du Nord | Nord | Forêts et campagnes | **Officielle** |
+| Porte des Marchands | Sud | Produits agricoles et convois | **Officielle** |
+| Porte de l'Ouest | Ouest | Routes occidentales | **Officielle** |
+| Porte des Bateliers | Sud-ouest | Quais et transports fluviaux | **Officielle ; accès aux quais fluviaux** |
 
 Les grandes portes peuvent comporter corps de garde, voies de service, contrôles de marchandises et accès aux chemins de ronde. **Aucun dispositif automatique de détection ou rang magique particulier n'est fixé.**
 
@@ -338,7 +342,7 @@ Les grandes portes peuvent comporter corps de garde, voies de service, contrôle
 ## 19. Institutions
 
 ### Pouvoir royal
-Le **roi** réside ou exerce son pouvoir depuis Aethérion. Le [[Château royal d’Aethérion]] est imaginé comme siège du gouvernement. Composition de la famille royale, conseillers, titres et prérogatives : **inconnus**.
+Le **roi** exerce son pouvoir depuis Aethérion. Le [[Château royal d’Aethérion]] est le siège officiel du gouvernement dans la géographie de la capitale. Composition de la famille royale, conseillers, titres et prérogatives : **inconnus**.
 
 ### Guilde des Aventuriers
 La [[Guilde des Aventuriers d’Aethérion]] encadre missions, épreuves, espaces d'entraînement, services d'expertise et hébergement. [[Arvand Rethmar]] en est le maître à la date de référence J+15.
@@ -355,7 +359,7 @@ Entretien des rues et remparts, approvisionnement, surveillance, nettoyage et ge
 
 Le contrôle des Crocs de Soren à **J+6** établit qu'un garde peut vérifier les armes portées à l'entrée et autoriser leur conservation sous conditions.
 
-L'organisation suivante est **proposée** :
+L'organisation urbaine suivante est **retenue comme référence institutionnelle**, sans fixer le nom de chaque responsable :
 - **Garde urbaine :** patrouilles et sécurité ordinaire.
 - **Gardes des portes :** accès, voyageurs et marchandises.
 - **Garde royale :** château et résidents protégés.
@@ -395,7 +399,7 @@ Les prix, taxes et autres règles de marché non déjà joués ne sont pas inven
 
 **La nuit :** patrouilles, gardes, relais et quelques établissements ouverts. La ville ne s'arrête pas entièrement, sans être bruyante partout à toute heure.
 
-Cette description est une **ambiance générale proposée**, pas une scène de la journée courante de Soren.
+Cette description est l'**ambiance urbaine officielle**, pas une scène supplémentaire dans la journée courante de Soren.
 
 ---
 
@@ -415,7 +419,7 @@ Les traditions varient entre individus et familles ; la race seule ne définit p
 
 Ces secteurs bordent les routes, forêts et milieux ouverts où se déroulent certaines missions. Les dangers découverts à l'extérieur ne deviennent pas automatiquement des rencontres dans la ville.
 
-**À confirmer :** champs au sud, route ouest exactement tracée, collines détaillées, et éventuelle **rivière navigable du sud-ouest**. Leur représentation devra être harmonisée avec la carte géographique du royaume.
+**Désormais fixé :** la **Rivière des Bateliers** à l'ouest et au sud-ouest, le réseau des portes et les axes majeurs. Les bois du nord-est et les pâturages orientaux restent les milieux confirmés par le récit ; la carte du royaume sera redessinée en conformité avec l'[[Atlas officiel d’Aethérion]].
 
 ---
 
@@ -426,10 +430,10 @@ Ces secteurs bordent les routes, forêts et milieux ouverts où se déroulent ce
 | [[Guilde des Aventuriers d’Aethérion]] | Missions, épreuves, entraînements, expertise, bains | **Confirmé** |
 | [[Annexe des Compagnons]] | Hébergement, chambre 3 de Soren, chambre 5 de Tévan | **Confirmé** |
 | [[La Porte de l'Aube]] | Commerce à préparer, passage des Compagnons, local de 16 m² | **Confirmé ; pas encore ouvert** |
-| [[Les Cuirs de l’Épervier]] | Atelier de [[Corvin]] | **Confirmé ; quartier exact non fixé** |
-| [[La Matrice d’Azur]] | Commerce runique de [[Maître Sylvaris]] | **Confirmé ; quartier exact non fixé** |
-| La Marmite des Clans | Restaurant fréquenté par Soren | **Confirmé ; adresse exacte non fixée** |
-| Le Chaudron d'Ambre | Restaurant visité à J+15 | **Confirmé ; adresse exacte non fixée** |
+| [[Les Cuirs de l’Épervier]] | Atelier de [[Corvin]] | **Quartier de la Guilde, vers sa limite sud-est ; emplacement fixé** |
+| [[La Matrice d’Azur]] | Commerce runique de [[Maître Sylvaris]] | **Haute-Rune ; quartier officiellement fixé** |
+| La Marmite des Clans | Restaurant fréquenté par Soren | **Quartier de la Guilde ; adresse précise non fixée** |
+| Le Chaudron d'Ambre | Restaurant visité à J+15 | **Grandes Halles ; adresse précise non fixée** |
 | Bains de la Guilde | Bains collectifs visités à plusieurs reprises | **Confirmé ; distincts du spa privé** |
 
 Les descriptions nouvelles n'altèrent **ni propriétaire, ni emplacement déjà établi, ni prix, ni événements passés**.
@@ -459,24 +463,24 @@ Aethérion est une **cité de contrastes** — majestueuse autour du château, p
 - Les commerces et lieux visités dans la chronique existent, avec leurs caractéristiques déjà établies.
 - **Une audience en personne avec le roi est annoncée pour J+20**, sans heure ni résultat joué.
 
-### Nouveaux éléments proposés dans ce dossier
+### Géographie nouvellement officialisée par le Fondateur
 - Une **population de 240 000 habitants** et sa ventilation démographique.
 - Le découpage **en 12 quartiers** et leur distribution spatiale.
 - Le **château royal sur la hauteur centrale**, avec ses tours, palais et jardins.
 - Le plan en couronnes, les avenues, les portes secondaires, les institutions imaginées.
 - Les noms **Couronne Haute, Haute-Rune, Marteaux, Grandes Halles, Levant, Hautes-Terrasses**, etc.
-- Un **cours d'eau sud-ouest hypothétique**, seulement si la cartographie le permet.
+- La **Rivière des Bateliers**, navigable au sud-ouest, avec son quartier portuaire et sa porte.
 
 ### Toujours inconnus
 - **Nom du roi**, nom de la dynastie et membres de la famille royale.
 - **Armoiries officielles** et date de fondation.
 - Lois urbaines détaillées, effectifs des armées, gouvernance précise.
 - Exactitude du tracé des remparts, distances et frontières des quartiers.
-- Validation de la rivière et de toute institution encore imaginée.
+- Les détails juridiques ou les responsables précis des institutions non décrites.
 - Déroulement, lieu exact, conditions et résultat de l'audience de J+20.
 - Connaissances du roi, des PNJ et des habitants concernant les secrets de Soren.
 
-**Règle :** une proposition urbaine enrichit le décor, mais **ne modifie pas rétroactivement les scènes** et ne fait pas avancer l'aventure sans décision du joueur.
+**Règle :** la géographie officielle enrichit durablement le monde mais **ne modifie pas rétroactivement les scènes** et ne fait pas avancer l'aventure sans décision du joueur.
 
 ---
 
