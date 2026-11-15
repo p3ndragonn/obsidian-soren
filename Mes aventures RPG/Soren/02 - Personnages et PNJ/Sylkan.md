@@ -9,6 +9,12 @@ source: "Chronique J+10 à J+15 ; morphologie et mensurations définies pour la 
 > [!NOTE] Rôle dans l'aventure
 > Grand loup gris argenté, plus petit et plus fin que ses compagnons, joueur et très affectueux.
 
+## Portrait officiel
+
+![Portrait officiel de Sylkan, grand loup gris argenté à la silhouette élancée](../09%20-%20Images%20et%20illustrations/Personnages/Sylkan/Sylkan%20%E2%80%94%20Portrait%20officiel.webp)
+
+*Portrait de référence : Sylkan sur quatre pattes, pelage gris argenté, grand gabarit mais silhouette plus fine et élancée que celles de Varkhan et d'Aelkan. La couleur exacte de ses yeux n'est pas officiellement définie.*
+
 **Contexte :** Le Cercle des Trois Traits et les familiers. 
 
 ## 1. Description physique
