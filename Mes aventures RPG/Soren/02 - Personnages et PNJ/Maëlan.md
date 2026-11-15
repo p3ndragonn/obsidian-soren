@@ -11,6 +11,13 @@ source: "Chronique intégrale J+12 ; état J+13 pour les mentions de situation a
 
 **Contexte :** Varkhûn — Famille, proches et habitants
 
+## Portrait officiel de Maëlan
+
+![Portrait officiel en pied de Maëlan, personnage de Varkhûn](../09%20-%20Images%20et%20illustrations/Personnages/Ma%C3%ABlan/Ma%C3%ABlan%20%E2%80%94%20Portrait%20officiel.webp)
+
+*Référence visuelle de Maëlan : Jeune herboriste lupin aux yeux vert mousse, silhouette élancée, cheveux châtain brun, vêtements verts et sacoches de plantes. Le décor et les accessoires sont illustratifs ; cette image ne crée aucun nouvel événement ni équipement validé par le SYSTÈME.*
+
+
 ## Description physique, comportementale et biographique complète
 
 > [!NOTE] Continuité et extrapolations
