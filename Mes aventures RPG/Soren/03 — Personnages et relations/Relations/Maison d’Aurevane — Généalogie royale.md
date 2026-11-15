@@ -74,6 +74,18 @@ flowchart TB
 | [[Mirelda d’Aurevane]] | 48 | Humaine | Sœur du roi, diplomate |
 | [[Tavrian d’Aurevane]] | 77 | Humain | Oncle du roi, ancien conseiller |
 
+## Portraits officiels de la famille actuelle
+
+Les cinq portraits sont les **références visuelles officielles** du roi Alaric, de la reine Séraphine et de leurs trois enfants. **Caëlan a 20 ans**, né en **407**. Aucun portrait n'ajoute de scène ou de connaissance à Soren.
+
+| Personnage | Identité | Image |
+|---|---|---|
+| **[[Alaric d’Aurevane]]** | roi de Tharvélis · 53 ans | [Portrait officiel](../../08%20%E2%80%94%20Illustrations/Personnages/Alaric%20d%E2%80%99Aurevane/Alaric%20d%E2%80%99Aurevane%20%E2%80%94%20Portrait%20officiel.webp) |
+| **[[Séraphine de Roselac]]** | reine consort de Tharvélis · 49 ans | [Portrait officiel](../../08%20%E2%80%94%20Illustrations/Personnages/S%C3%A9raphine%20de%20Roselac/S%C3%A9raphine%20de%20Roselac%20%E2%80%94%20Portrait%20officiel.webp) |
+| **[[Édréan d’Aurevane]]** | prince héritier · 28 ans | [Portrait officiel](../../08%20%E2%80%94%20Illustrations/Personnages/%C3%89dr%C3%A9an%20d%E2%80%99Aurevane/%C3%89dr%C3%A9an%20d%E2%80%99Aurevane%20%E2%80%94%20Portrait%20officiel.webp) |
+| **[[Lysandra d’Aurevane]]** | princesse royale · 24 ans | [Portrait officiel](../../08%20%E2%80%94%20Illustrations/Personnages/Lysandra%20d%E2%80%99Aurevane/Lysandra%20d%E2%80%99Aurevane%20%E2%80%94%20Portrait%20officiel.webp) |
+| **[[Caëlan d’Aurevane]]** | prince cadet · 20 ans | [Portrait officiel](../../08%20%E2%80%94%20Illustrations/Personnages/Ca%C3%ABlan%20d%E2%80%99Aurevane/Ca%C3%ABlan%20d%E2%80%99Aurevane%20%E2%80%94%20Portrait%20officiel.webp) |
+
 ## Règles de succession et relations
 
 La **primogéniture sans distinction de sexe** organise la succession parmi les trois enfants du souverain :

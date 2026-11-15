@@ -6,12 +6,20 @@ ensemble: "Maison d’Aurevane"
 statut_documentaire: "création dynastique validée par le Fondateur ; pas de scène nouvelle"
 naissance: 407
 generation: "+1"
+portrait_officiel: "Caëlan d’Aurevane — Portrait officiel.webp"
 ---
 
 # Caëlan d’Aurevane
 
 > [!note] Maison royale de Tharvélis
 > **Nouveau personnage de la dynastie [[Maison d’Aurevane — Généalogie royale]]**, créé comme élément de l'univers. Sa description physique et comportementale sert de **référence officielle de portrait**. La famille royale et ses rôles ne sont pas automatiquement connus de Soren ; l'audience royale prévue à **J+20** n'est pas encore jouée.
+
+## Portrait officiel
+
+![Caëlan d’Aurevane — Portrait officiel](../../08%20%E2%80%94%20Illustrations/Personnages/Ca%C3%ABlan%20d%E2%80%99Aurevane/Ca%C3%ABlan%20d%E2%80%99Aurevane%20%E2%80%94%20Portrait%20officiel.webp)
+
+*Portrait officiel de Caëlan d’Aurevane, prince cadet, 20 ans en 427. Identité visuelle à conserver pour les futures illustrations. Le portrait ne représente pas une rencontre déjà jouée avec Soren.*
+
 
 **Fonction :** Prince cadet de 20 ans ; troisième enfant du roi ; troisième dans la succession  
 **Naissance :** 407 · **Âge en 427 :** 20 ans  

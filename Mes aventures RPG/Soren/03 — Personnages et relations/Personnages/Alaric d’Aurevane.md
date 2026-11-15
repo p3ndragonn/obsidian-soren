@@ -6,12 +6,20 @@ ensemble: "Maison d’Aurevane"
 statut_documentaire: "création dynastique validée par le Fondateur ; pas de scène nouvelle"
 naissance: 374
 generation: "0"
+portrait_officiel: "Alaric d’Aurevane — Portrait officiel.webp"
 ---
 
 # Alaric d’Aurevane
 
 > [!note] Maison royale de Tharvélis
 > **Nouveau personnage de la dynastie [[Maison d’Aurevane — Généalogie royale]]**, créé comme élément de l'univers. Sa description physique et comportementale sert de **référence officielle de portrait**. La famille royale et ses rôles ne sont pas automatiquement connus de Soren ; l'audience royale prévue à **J+20** n'est pas encore jouée.
+
+## Portrait officiel
+
+![Alaric d’Aurevane — Portrait officiel](../../08%20%E2%80%94%20Illustrations/Personnages/Alaric%20d%E2%80%99Aurevane/Alaric%20d%E2%80%99Aurevane%20%E2%80%94%20Portrait%20officiel.webp)
+
+*Portrait officiel de Alaric d’Aurevane, roi de Tharvélis, 53 ans en 427. Identité visuelle à conserver pour les futures illustrations. Le portrait ne représente pas une rencontre déjà jouée avec Soren.*
+
 
 **Fonction :** Roi de Tharvélis depuis 405 ; souverain actuel  
 **Naissance :** 374 · **Âge en 427 :** 53 ans  

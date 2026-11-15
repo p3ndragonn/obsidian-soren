@@ -17,6 +17,7 @@ Ce tableau est l'**index principal** des personnages déjà documentés. Chaque 
 | **Rochebrune et artisans** | [[Brunna]], [[Brokk]], [[Dornak Barbe-de-Fer]], [[Maître Orvik]], [[Hilda]], [[Garrum Poing-de-Pierre]] |
 | **Aethérion — Guilde et commerces** | [[Rhaegar Tigris]], [[Maëlys]], [[Bram]], [[Gérol]], [[Méliane]], [[Borin]], [[Rhazek]], [[Elandir]], [[Darian]], [[Faëric]], [[Maître Corvin]], [[Maître Sylvaris]], [[Marel]], [[Odrien]], [[Maëdrik (Aethérion)]], [[Lysandra]], [[Garrik]], [[Nérel]], [[Arvand Rethmar]], [[Maître Orven]], [[Edric (Aethérion)]], [[Narek (Aethérion)]], [[Garron]] |
 | **Enquête du Cercle** | [[Maître Veldran]], [[Deux techniciens]], [[Deux gardes]] |
+| **Famille royale de Tharvélis** | [[Maison d’Aurevane — Généalogie royale]] · [[Alaric d’Aurevane]] (roi), [[Séraphine de Roselac]] (reine), [[Édréan d’Aurevane]] (héritier), [[Lysandra d’Aurevane]] (princesse), [[Caëlan d’Aurevane]] (prince cadet, **20 ans**) |
 | **Familiers** | [[Varkhan]], [[Aelkan]], [[Sylkan]], [[Sahir]] |
 
 ## Rencontres et distinctions de J+15

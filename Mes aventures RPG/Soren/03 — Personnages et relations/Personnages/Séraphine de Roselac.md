@@ -6,12 +6,20 @@ ensemble: "Maison d’Aurevane"
 statut_documentaire: "création dynastique validée par le Fondateur ; pas de scène nouvelle"
 naissance: 378
 generation: "0"
+portrait_officiel: "Séraphine de Roselac — Portrait officiel.webp"
 ---
 
 # Séraphine de Roselac
 
 > [!note] Maison royale de Tharvélis
 > **Nouveau personnage de la dynastie [[Maison d’Aurevane — Généalogie royale]]**, créé comme élément de l'univers. Sa description physique et comportementale sert de **référence officielle de portrait**. La famille royale et ses rôles ne sont pas automatiquement connus de Soren ; l'audience royale prévue à **J+20** n'est pas encore jouée.
+
+## Portrait officiel
+
+![Séraphine de Roselac — Portrait officiel](../../08%20%E2%80%94%20Illustrations/Personnages/S%C3%A9raphine%20de%20Roselac/S%C3%A9raphine%20de%20Roselac%20%E2%80%94%20Portrait%20officiel.webp)
+
+*Portrait officiel de Séraphine de Roselac, reine consort de Tharvélis, 49 ans en 427. Identité visuelle à conserver pour les futures illustrations. Le portrait ne représente pas une rencontre déjà jouée avec Soren.*
+
 
 **Fonction :** Reine consort de Tharvélis ; épouse d'Alaric  
 **Naissance :** 378 · **Âge en 427 :** 49 ans  

@@ -6,12 +6,20 @@ ensemble: "Maison d’Aurevane"
 statut_documentaire: "création dynastique validée par le Fondateur ; pas de scène nouvelle"
 naissance: 399
 generation: "+1"
+portrait_officiel: "Édréan d’Aurevane — Portrait officiel.webp"
 ---
 
 # Édréan d’Aurevane
 
 > [!note] Maison royale de Tharvélis
 > **Nouveau personnage de la dynastie [[Maison d’Aurevane — Généalogie royale]]**, créé comme élément de l'univers. Sa description physique et comportementale sert de **référence officielle de portrait**. La famille royale et ses rôles ne sont pas automatiquement connus de Soren ; l'audience royale prévue à **J+20** n'est pas encore jouée.
+
+## Portrait officiel
+
+![Édréan d’Aurevane — Portrait officiel](../../08%20%E2%80%94%20Illustrations/Personnages/%C3%89dr%C3%A9an%20d%E2%80%99Aurevane/%C3%89dr%C3%A9an%20d%E2%80%99Aurevane%20%E2%80%94%20Portrait%20officiel.webp)
+
+*Portrait officiel de Édréan d’Aurevane, prince héritier, 28 ans en 427. Identité visuelle à conserver pour les futures illustrations. Le portrait ne représente pas une rencontre déjà jouée avec Soren.*
+
 
 **Fonction :** Prince héritier ; premier enfant d'Alaric et Séraphine  
 **Naissance :** 399 · **Âge en 427 :** 28 ans  

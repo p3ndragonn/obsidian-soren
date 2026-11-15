@@ -33,6 +33,18 @@ Ces trois portraits lupins constituent les références visuelles officielles de
 
 **Sahir**, le grand lynx brun doré de Tévan, possède désormais son portrait officiel distinct : 83 cm au garrot, yeux ambre doré, aigrettes noires, fourrure tachetée, queue courte à extrémité noire. Ne pas le représenter sous forme humaine : c'est un véritable lynx quadrupède.
 
+## Famille royale d'Aethérion — portraits officiels
+
+| Personnage | Fiche | Illustration |
+|---|---|---|
+| **Alaric d’Aurevane** | [[Alaric d’Aurevane]] | [Portrait officiel](Personnages/Alaric%20d%E2%80%99Aurevane/Alaric%20d%E2%80%99Aurevane%20%E2%80%94%20Portrait%20officiel.webp) |
+| **Séraphine de Roselac** | [[Séraphine de Roselac]] | [Portrait officiel](Personnages/S%C3%A9raphine%20de%20Roselac/S%C3%A9raphine%20de%20Roselac%20%E2%80%94%20Portrait%20officiel.webp) |
+| **Édréan d’Aurevane** | [[Édréan d’Aurevane]] | [Portrait officiel](Personnages/%C3%89dr%C3%A9an%20d%E2%80%99Aurevane/%C3%89dr%C3%A9an%20d%E2%80%99Aurevane%20%E2%80%94%20Portrait%20officiel.webp) |
+| **Lysandra d’Aurevane** | [[Lysandra d’Aurevane]] | [Portrait officiel](Personnages/Lysandra%20d%E2%80%99Aurevane/Lysandra%20d%E2%80%99Aurevane%20%E2%80%94%20Portrait%20officiel.webp) |
+| **Caëlan d’Aurevane** | [[Caëlan d’Aurevane]] | [Portrait officiel](Personnages/Ca%C3%ABlan%20d%E2%80%99Aurevane/Ca%C3%ABlan%20d%E2%80%99Aurevane%20%E2%80%94%20Portrait%20officiel.webp) |
+
+Cinq portraits individuels de la **Maison d'Aurevane**. Ces images sont les références visuelles futures des personnages royaux ; **Caëlan a 20 ans et est né en 407**. Aucune rencontre avec Soren n'est ajoutée. Voir [[Maison d’Aurevane — Généalogie royale]].
+
 ## Autres personnages — portraits officiels
 
 | Personnage | Fiche | Illustration |
