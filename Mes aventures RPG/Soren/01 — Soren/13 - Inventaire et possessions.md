@@ -11,6 +11,7 @@ statut: actuel
 
 ## Points de possession à conserver
 - **[[Cœur de mana des Trois Veilleurs]]** : propriété de Soren ; les trois transferts restants ont été extraits en trois sceaux séparés J+14. **Aucune vente** à fin J+15.
+- **[[Baguette des Trois Veilleurs — Extension portative du Cœur]]** : **module amovible du Cœur**, permettant à Soren d'ouvrir un portail vers son domaine privé depuis l'endroit où il se trouve. **Activation exclusivement liée à Soren** ; première extraction et première utilisation pas encore jouées. Ne pas la confondre avec les trois sceaux de transfert.
 - **[[Générateur d’arène de Borin]]** : propriété de Borin, **et non de Soren** ; les anciennes mentions d'une rémunération de 15 % du prix brut sont **annulées** depuis l'association 55 % / 45 %.
 - **[[Matériaux des Crocs de Pierre]]** : trois noyaux, dix-sept plaques, vingt-quatre crocs/griffes conservés ; rapport d'estimation **469–690 Pièces**, non vendu. Trois autres crocs remis à la Guilde comme preuves.
 - **Carnet de voyage** : mis à jour en J+15, rangé avant 23 h 45 ; plume, cartes et effets de voyage historiques.
