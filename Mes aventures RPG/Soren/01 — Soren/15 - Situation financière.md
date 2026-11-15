@@ -9,10 +9,10 @@ statut: renvoi
 
 **Source unique : [[Comptabilité — Soren]].**
 
-> [!warning] Solde de fin J+15 (27 Floréane 427, 23 h 45)
-> **446 Pièces − le prix non renseigné du dîner de J+14.** Le solde exact est **inconnu**, car le dîner a été payé sans facture chiffrée dans la narration. **446 Pièces n'est pas un solde disponible certifié.**
+> [!success] Solde confirmé à fin J+15 (27 Floréane 427, 23 h 45)
+> **415 Pièces disponibles**. Le dîner de J+14 a coûté **31 Pièces**, montant précisé ultérieurement par le Fondateur, absent de la narration initiale.
 
-**Contrôle :** 228 Pièces à fin J+13 − 86 Pièces (bail et dépôt J+14) − **D** (dîner J+14, inconnu) − 36 Pièces (déjeuner J+15) + 340 Pièces (récompense D-221 encaissée) = **446 − D Pièces**.
+**Contrôle :** 228 Pièces à fin J+13 − 86 Pièces (bail et dépôt J+14) − **31 Pièces** (dîner J+14) − 36 Pièces (déjeuner J+15) + 340 Pièces (récompense D-221 encaissée) = **415 Pièces**.
 
 La valeur de 232 Pièces (début J+13) et celle de 228 Pièces (fin J+13) sont des **relevés historiques**, pas des soldes actuels. Pour toute mise à jour ultérieure, consulter uniquement [[Comptabilité — Soren]].
 
