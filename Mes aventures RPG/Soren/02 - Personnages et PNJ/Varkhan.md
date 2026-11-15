@@ -9,6 +9,12 @@ source: "Chronique J+10 à J+15 ; morphologie et mensurations définies pour la 
 > [!NOTE] Rôle dans l'aventure
 > Grand loup noir de très forte stature, gardien calme et protecteur de la meute.
 
+## Portrait officiel
+
+![Portrait officiel de Varkhan, grand loup noir aux yeux bleu glacier](../09%20-%20Images%20et%20illustrations/Personnages/Varkhan/Varkhan%20%E2%80%94%20Portrait%20officiel.webp)
+
+*Portrait de référence : Varkhan sur quatre pattes, pelage noir épais, yeux bleu glacier, carrure particulièrement massive.*
+
 **Contexte :** Le Cercle des Trois Traits et les familiers. 
 
 ## 1. Description physique
