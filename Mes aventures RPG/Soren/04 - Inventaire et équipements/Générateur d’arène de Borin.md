@@ -7,6 +7,12 @@ source: "Chronique intégrale J+12 ; narration J+13"
 
 # Générateur d’arène de Borin
 
+## Illustration officielle du générateur
+
+![Générateur de Borin ouvert, bronze et or, huit volets triangulaires](../09%20-%20Images%20et%20illustrations/Objets/G%C3%A9n%C3%A9rateur%20d%E2%80%99ar%C3%A8ne%20de%20Borin%20%E2%80%94%20Portrait%20officiel.webp)
+
+*Vue de référence du générateur déployé : mécanisme circulaire en bronze patiné et or, huit volets triangulaires articulés, anneaux runiques concentriques et noyau cristallin bleu pâle. Diamètre ouvert d'environ 46 cm ; fermé, 30 cm.*
+
 > [!success] ÉTAT J+15 — La Porte de l'Aube
 > Générateur d'arène [S] **propriété de Borin**, raccordé aux circuits énergétiques du **Cœur de mana de Soren**, sans cession. Les 11 espaces simultanés ont été **testés J+14** ; à J+15, configuration 5 ateliers (jusqu'à 3 artisans chacun), 5 entraînements (7 aventuriers chacun), grande arène (25 combattants+5 spectateurs) = **80 personnes** en fonctionnement simultané selon cette organisation. Mode arène seule 75 combattants+50 spectateurs. Conversion totale en places de spectateurs **théorique, non éprouvée**. **Accord écrit de Maître Orven obtenu J+15 15 h 26** pour dispositif de portail réversible ; pas de validation finale de sécurité ou d'ouverture. **La Porte de l'Aube non ouverte à J+15, aucune recette**, inauguration J+17 conditionnelle et dragon [A] simulé en démonstration envisagée. Les détails de pose/mise en service finale ne doivent pas être inventés. Domaine résidentiel distinct, dépend du Cœur, mais **indépendant du générateur**.
 
