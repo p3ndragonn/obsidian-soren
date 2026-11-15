@@ -92,7 +92,11 @@ La **scène de couplage** montre les deux artefacts alimentés et reliés. Les e
 
 ## Cartes
 
-[Carte du Royaume de Tharvélis](Cartes/Carte%20du%20Royaume%20de%20Tharv%C3%A9lis.png) — carte conservée comme illustration de référence, sans en déduire de nouveaux événements.
+**Aethérion — carte officielle de la capitale :** [Voir la carte](Cartes/Aeth%C3%A9rion%20%E2%80%94%20Carte%20officielle.webp) · [Source SVG modifiable](Cartes/Aeth%C3%A9rion%20%E2%80%94%20Carte%20officielle.svg) · [[Atlas officiel d’Aethérion]].
+
+Cette carte est **la référence canonique** pour le château central, les douze quartiers, leurs populations, les cinq portes, la Rivière des Bateliers et les faubourgs de la capitale.
+
+**Carte du royaume (ancienne référence, à refaire) :** [Carte du Royaume de Tharvélis](Cartes/Carte%20du%20Royaume%20de%20Tharv%C3%A9lis.png) — carte conservée comme illustration de référence, sans en déduire de nouveaux événements.
 
 ## Autres illustrations
 
