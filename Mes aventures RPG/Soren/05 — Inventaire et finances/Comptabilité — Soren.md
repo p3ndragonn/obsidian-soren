@@ -7,8 +7,8 @@ version: "fin J+15"
 
 # Comptabilité — Soren
 
-> [!warning] Solde actuel au dernier instant joué (fin J+15, 27 Floréane 427, 23 h 45) : **446 Pièces − coût inconnu du dîner J+14**
-> **Solde exact non déterminable.** Dernier solde intégralement vérifié : **228 Pièces à fin J+13**. Les mouvements ultérieurs certains sont **−86 Pièces** pour le bail/dépôt de [[La Porte de l'Aube]], **−36 Pièces** pour le déjeuner J+15 et **+340 Pièces encaissées** pour la mission D-221. Le dîner de J+14 a été **payé**, mais son prix n'a **jamais été chiffré dans le récit**. Le résultat **446 Pièces est un sous-total théorique AVANT déduction du dîner**, **pas l'argent disponible**. Aucune recette future ni estimation de butin n'entre dans cette formule.
+> [!success] Solde personnel disponible et vérifié : **415 Pièces**
+> **Au dernier instant joué : fin J+15, 27 Floréane 427, 23 h 45.** Le **Fondateur a confirmé a posteriori que le dîner J+14 coûtait 31 Pièces**, montant non chiffré dans la narration d'origine. Calcul : **228 − 86 − 31 − 36 + 340 = 415 Pièces**. Les gains futurs et objets non vendus ne sont pas inclus.
 
 ## Journal des relevés historiques
 | Moment | Pièces documentées |
@@ -28,11 +28,11 @@ version: "fin J+15"
 | **Fin J+13** | **228** |
 | J+14 — avance personnelle pour bail/dépôt | **−86** |
 | **J+14 avant dîner** | **142** |
-| J+14 — dîner payé, coût non communiqué | **montant inconnu** |
+| J+14 — dîner payé, montant précisé ultérieurement par le Fondateur | **−31** |
 | J+15 — déjeuner au Chaudron d'Ambre | **−36** |
 | J+15 — mission D-221 payée | **+340** |
-| **Fin J+15 — avant déduction du dîner J+14** | **446 (sous-total théorique, non disponible tel quel)** |
-| **Fin J+15 — solde réel** | **446 − prix du dîner J+14 ; valeur exacte inconnue** |
+| **Fin J+14** | **111** |
+| **Fin J+15 — solde personnel confirmé** | **415** |
 
 ## Vérification arithmétique au 27 Floréane 427 (J+15)
 
@@ -40,14 +40,14 @@ version: "fin J+15"
 |---|---:|---:|---:|
 | Dernier solde établi, fin J+13 | — | — | **228** |
 | J+14 : loyer commercial (43) et dépôt remboursable (43), avance personnelle de Soren | **86** | — | **142** |
-| J+14 : dîner en taverne avec Varkhan, Aelkan et Sylkan, payé, coût non renseigné | **D inconnu** | — | **142 − D** |
-| J+15 : déjeuner personnel au Chaudron d'Ambre (28 + 2 + 2 + 4) | **36** | — | **106 − D** |
-| J+15 : prime de la quête [[D-221 — Les Crocs de Pierre]], effectivement reçue | — | **340** | **446 − D** |
+| J+14 : dîner en taverne avec Varkhan, Aelkan et Sylkan, montant fixé après coup par le Fondateur | **31** | — | **111** |
+| J+15 : déjeuner personnel au Chaudron d'Ambre (28 + 2 + 2 + 4) | **36** | — | **75** |
+| J+15 : prime de la quête [[D-221 — Les Crocs de Pierre]], effectivement reçue | — | **340** | **415** |
 
-**Équation vérifiée : 228 − 86 − D − 36 + 340 = 446 − D Pièces.**
+**Équation vérifiée : 228 − 86 − 31 − 36 + 340 = 415 Pièces.**
 
-- **D** est exclusivement le prix effectivement payé pour le dîner J+14, **non documenté** ; il ne peut être arbitrairement fixé à zéro.
-- **446 Pièces** est le **solde avant imputation de cette dépense non chiffrée**, pas un solde confirmé.
+- Le **montant du dîner, 31 Pièces**, est une **précision explicite donnée ultérieurement par le Fondateur** et non un prix attesté dans la version initiale du journal J+14.
+- **415 Pièces** est le **solde courant confirmé**, avant toute nouvelle action à J+16.
 - Les **43 Pièces de dépôt** représentent en outre un dépôt de garantie potentiellement récupérable, **mais ne sont plus disponibles en trésorerie**. Les **86 Pièces** versées sont une avance de Soren pour son entreprise, **non un revenu reçu**.
 - **Aucun chiffre de J+16** n'est ajouté : le rendez-vous avec Arvand, les ventes potentielles et l'ouverture de la boutique n'ont pas encore été joués.
 
@@ -72,6 +72,6 @@ Pour une vente distincte du noyau du Cœur, une répartition **70 % Soren / 10 %
 **Contrat d'entreprise actuel :** [[Association artisanale Soren–Borin]], bénéfices nets **Borin 55 % / Soren 45 %** ; ancienne clause de 15 % du prix brut du générateur **annulée J+13**, à conserver seulement comme historique.
 
 > [!note] Limites des relevés
-> Les divergences intermédiaires J+8/J+9 ne doivent pas être compensées par calcul fictif. Distinction systématique entre **dépense**, **recette encaissée**, **estimation**, **avance** et **projet**.
+> Les divergences intermédiaires J+8/J+9 ne doivent pas être compensées par calcul fictif. Le coût J+14 a été fixé à **31 Pièces par correction explicite du Fondateur**, sans modifier ces relevés antérieurs. Distinction systématique entre **dépense**, **recette encaissée**, **estimation**, **avance** et **projet**.
 
 **Sources :** [[J+14 — 26 Floréane 427]] · [[J+15 — 27 Floréane 427]] · [[État de reprise J+16]].
