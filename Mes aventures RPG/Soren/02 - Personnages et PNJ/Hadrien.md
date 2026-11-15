@@ -11,6 +11,12 @@ source: "Chronique intégrale J+12 ; état J+13 pour les mentions de situation a
 
 **Contexte :** Le voyage — Valbois, Rochebrune et Clairerive
 
+## Portrait officiel d’Hadrien
+
+![Portrait officiel en pied d’Hadrien, mercenaire humain aux cheveux brun cendré, aux yeux gris bleuté et à la barbe courte, portant une tenue de cuir sombre et une épée au fourreau](../09%20-%20Images%20et%20illustrations/Personnages/Hadrien/Hadrien%20%E2%80%94%20Portrait%20officiel.webp)
+
+*Référence visuelle de Hadrien : Humain de 39 ans (âge proposé), 1,89 m pour environ 94 kg, robuste, cheveux brun cendré légèrement grisonnants aux tempes, yeux gris bleuté, barbe courte et tenue de cuir brun sombre avec chemise gris ardoise. L'épée visible constitue une référence d'équipement proposée, sans acquisition nouvelle confirmée. La cour médiévale et sa posture sont illustratives et ne représentent pas une scène supplémentaire jouée.*
+
 ## Description physique, comportementale et biographique complète
 
 > [!NOTE] Référence de continuité — détails développés par le Fondateur
