@@ -59,7 +59,7 @@ statut: archive
 ## Comptabilité et continuité
 
 - J+15 : **−36 Pièces** (déjeuner) ; **+340 Pièces** (quête). Viande du sanglier pour le repas d'avant chasse : **gratuite**. Matériaux **469–690 Pièces d'estimation**, non encaissés.
-- **Solde personnel total exact inconnu** : le dîner J+14 a été payé, mais son prix n'a jamais été communiqué ; ne pas compenser artificiellement.
+- **Solde personnel à la fin de J+15 : 415 Pièces**. Le prix du dîner J+14, absent du récit initial, a ensuite été **confirmé par le Fondateur à 31 Pièces**. Vérification : 228 − 86 − 31 − 36 + 340 = **415 Pièces**. Aucune estimation de butin ni recette future incluse.
 - **Trois sceaux de transfert toujours conservés et invendus** à J+15. Arvand dispose de fonds, **transaction uniquement à jouer J+16 8 h** ; deux autres sceaux pour audience J+20.
 - La boutique a l'accord écrit immobilier, **reste non ouverte** ; inauguration J+17 conditionnelle.
 - Secrets du Cœur, de la matrice et des téléportations limités aux personnes déjà informées.
