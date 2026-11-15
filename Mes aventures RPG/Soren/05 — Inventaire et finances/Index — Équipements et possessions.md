@@ -13,6 +13,7 @@ statut: actuel
 | Bagages | [[Sac du Voyageur [C]]], [[Carnet et coffre de voyage]] |
 | Cadeaux | [[Pendentif familial]], [[Bracelet d’Erynn]] |
 | Objets mystérieux et légendaires | [[Fragment de cristal bleuté]], [[Cœur de mana des Trois Veilleurs]] |
+| Extension détachable liée à Soren | [[Baguette des Trois Veilleurs — Extension portative du Cœur]] — **module du Cœur**, activation exclusive à Soren ; première extraction non jouée |
 | Objet confié | [[Générateur d’arène de Borin]] — appartient à Borin |
 | Argent | [[Comptabilité — Soren]] · [[15 - Situation financière]] |
 
