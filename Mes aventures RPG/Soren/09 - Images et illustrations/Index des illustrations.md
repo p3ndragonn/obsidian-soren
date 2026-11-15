@@ -21,8 +21,9 @@ Les **deux planches techniques originales** sont conservées en fichiers PNG dis
 | Familier | Fiche | Illustration |
 |---|---|---|
 | **Varkhan** | [[Varkhan]] | [Portrait officiel de Varkhan](Personnages/Varkhan/Varkhan%20%E2%80%94%20Portrait%20officiel.webp) |
+| **Aelkan** | [[Aelkan]] | [Portrait officiel d'Aelkan](Personnages/Aelkan/Aelkan%20%E2%80%94%20Portrait%20officiel.webp) |
 
-Ce portrait constitue la référence visuelle de Varkhan. Les futures images doivent conserver son anatomie de loup quadrupède, sa fourrure noire et ses yeux bleu glacier.
+Ces portraits constituent les références visuelles officielles des familiers : Varkhan (loup noir massif aux yeux bleu glacier) et Aelkan (grand loup blanc aux yeux ambrés, de stature équilibrée). Les futures illustrations doivent conserver leur anatomie naturelle de loups quadrupèdes.
 
 ## Autres illustrations
 
