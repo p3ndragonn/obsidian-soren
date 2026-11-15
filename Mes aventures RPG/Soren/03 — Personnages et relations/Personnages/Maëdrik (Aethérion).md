@@ -10,5 +10,4 @@ source: "Chronique intégrale J+12 ; état J+13 pour les mentions de situation a
 > Expert des matériaux organiques de la Guilde, rachète les trois peaux de chasse.
 
 **Contexte :** Aethérion — Guilde, artisans et nouvelles connaissances
-
-**Navigation :** [[Chronologie détaillée et index des PNJ|Répertoire des personnages]] · [[Chronologie générale]]
+\n

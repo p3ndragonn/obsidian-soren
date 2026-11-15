@@ -11,7 +11,7 @@ source: "Chronique intégrale J+12 ; état J+13 pour les mentions de situation a
 
 ## Portrait officiel
 
-![Portrait officiel de Borin, nain forgeron robuste à barbe cuivrée](../09%20-%20Images%20et%20illustrations/Personnages/Borin/Borin%20%E2%80%94%20Portrait%20officiel.webp)
+![Portrait officiel de Borin, nain forgeron robuste à barbe cuivrée](../../08%20%E2%80%94%20Illustrations/Personnages/Borin/Borin%20%E2%80%94%20Portrait%20officiel.webp)
 
 *Portrait de référence : Borin, nain artisan de 74 ans, 1,42 m pour environ 96 kg, barbe brun cuivré en deux tresses à anneaux de bronze, cheveux châtain foncé, vêtements de forgeron et carrure puissante. L'image est à conserver pour les prochaines illustrations.*
 

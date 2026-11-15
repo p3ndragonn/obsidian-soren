@@ -8,5 +8,4 @@ source: "Chronique intégrale — arrêt J+12"
 # Valbois
 
 Première ville-étape J+2 ; Auberge du Cerf Doré, entraînement et rencontre de Tévan et Hadrien.
-
-**Règle de continuité :** ne pas inventer de propriétés, de géographie ou d’événements supplémentaires.
+\n

@@ -8,5 +8,4 @@ source: "Chronique intégrale — arrêt J+12"
 # Les Cuirs de l’Épervier
 
 Atelier de Corvin à Aethérion : vêtements sur mesure, cape et support de sac.
-
-**Règle de continuité :** ne pas inventer de propriétés, de géographie ou d’événements supplémentaires.
+\n

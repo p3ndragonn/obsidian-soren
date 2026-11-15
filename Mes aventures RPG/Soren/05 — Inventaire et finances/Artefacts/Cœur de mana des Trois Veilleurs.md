@@ -7,15 +7,18 @@ source: "Chronique intégrale J+12 ; narration J+13"
 
 # Cœur de mana des Trois Veilleurs
 
+
+> [!important] Lecture actuelle — fin J+15
+> Le Cœur reste **propriété de Soren** ; les trois transferts restants ont été extraits en **trois sceaux indépendants J+14**, toujours **invendus** à fin J+15. Couplage effectué J+14 ; l'alimentation résidentielle est indépendante du générateur commercial, mais dépend du Cœur. Les paragraphes d'anciennes échéances J+13/J+14 sont des **archives datées**, non des tâches encore à jouer. Détails : [[Couplage énergétique — Cœur des Trois Veilleurs et générateur de Borin]] · [[État de reprise J+16]].
 ## Illustration officielle du Cœur
 
-![Cœur de mana des Trois Veilleurs — cylindre runique noir, argent et or ancien, trois piliers et cristal central bleu glacier](../09%20-%20Images%20et%20illustrations/Objets/C%C5%93ur%20de%20mana%20des%20Trois%20Veilleurs%20%E2%80%94%20Illustration%20officielle.webp)
+![Cœur de mana des Trois Veilleurs — cylindre runique noir, argent et or ancien, trois piliers et cristal central bleu glacier](../../08%20%E2%80%94%20Illustrations/Objets/C%C5%93ur%20de%20mana%20des%20Trois%20Veilleurs%20%E2%80%94%20Illustration%20officielle.webp)
 
 *Référence visuelle de l’artefact entier, présenté sur un socle de pierre en vue de trois quarts. Le Cœur lui-même est un cylindre de 50 cm de diamètre et 50 cm de hauteur, avec trois piliers runiques, des fenêtres cristallines et un noyau central bleu glacier. Le socle de présentation n'appartient pas à l'artefact.*
 
 ## Couplage énergétique en fonctionnement
 
-![Cœur des Trois Veilleurs raccordé au générateur de Borin en fonctionnement](../09%20-%20Images%20et%20illustrations/Objets/Couplage%20actif%20%E2%80%94%20C%C5%93ur%20des%20Trois%20Veilleurs%20et%20g%C3%A9n%C3%A9rateur%20de%20Borin.webp)
+![Cœur des Trois Veilleurs raccordé au générateur de Borin en fonctionnement](../../08%20%E2%80%94%20Illustrations/Objets/Couplage%20actif%20%E2%80%94%20C%C5%93ur%20des%20Trois%20Veilleurs%20et%20g%C3%A9n%C3%A9rateur%20de%20Borin.webp)
 
 *Vue artistique des deux dispositifs actifs : le Cœur fournit le mana au générateur par une liaison runique contrôlée. Le décor, les socles et les cercles flottants sont illustratifs et ne constituent pas une installation commerciale déjà achevée.*
 

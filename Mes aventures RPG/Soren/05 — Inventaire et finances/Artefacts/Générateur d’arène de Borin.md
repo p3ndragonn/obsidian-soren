@@ -7,15 +7,18 @@ source: "Chronique intégrale J+12 ; narration J+13"
 
 # Générateur d’arène de Borin
 
+
+> [!important] Lecture actuelle — fin J+15
+> Le générateur reste la **propriété de Borin**. **Onze espaces simultanés testés J+14** ; ni vente du générateur ni composants [SS] supplémentaires actés. Le bail et l'accord écrit d'installation réversible J+15 sont signés, mais **La Porte de l'Aube n'est pas ouverte**. Les anciennes listes de tâches J+13 sont conservées à titre historique. Voir [[Générateur de Borin]], [[La Porte de l'Aube]] et [[État de reprise J+16]].
 ## Illustration officielle du générateur
 
-![Générateur de Borin ouvert, bronze et or, huit volets triangulaires](../09%20-%20Images%20et%20illustrations/Objets/G%C3%A9n%C3%A9rateur%20d%E2%80%99ar%C3%A8ne%20de%20Borin%20%E2%80%94%20Portrait%20officiel.webp)
+![Générateur de Borin ouvert, bronze et or, huit volets triangulaires](../../08%20%E2%80%94%20Illustrations/Objets/G%C3%A9n%C3%A9rateur%20d%E2%80%99ar%C3%A8ne%20de%20Borin%20%E2%80%94%20Portrait%20officiel.webp)
 
 *Vue de référence du générateur déployé : mécanisme circulaire en bronze patiné et or, huit volets triangulaires articulés, anneaux runiques concentriques et noyau cristallin bleu pâle. Diamètre ouvert d'environ 46 cm ; fermé, 30 cm.*
 
 ## Couplage énergétique en fonctionnement
 
-![Cœur des Trois Veilleurs raccordé au générateur de Borin en fonctionnement](../09%20-%20Images%20et%20illustrations/Objets/Couplage%20actif%20%E2%80%94%20C%C5%93ur%20des%20Trois%20Veilleurs%20et%20g%C3%A9n%C3%A9rateur%20de%20Borin.webp)
+![Cœur des Trois Veilleurs raccordé au générateur de Borin en fonctionnement](../../08%20%E2%80%94%20Illustrations/Objets/Couplage%20actif%20%E2%80%94%20C%C5%93ur%20des%20Trois%20Veilleurs%20et%20g%C3%A9n%C3%A9rateur%20de%20Borin.webp)
 
 *Vue artistique des deux dispositifs actifs : le Cœur fournit le mana au générateur par une liaison runique contrôlée. Le décor, les socles et les cercles flottants sont illustratifs et ne constituent pas une installation commerciale déjà achevée.*
 

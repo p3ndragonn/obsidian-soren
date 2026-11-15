@@ -8,5 +8,4 @@ source: "Chronique intégrale — arrêt J+12"
 # Pont de Brumecôte
 
 Pont endommagé traversé prudemment sur la route de Rochebrune J+3.
-
-**Règle de continuité :** ne pas inventer de propriétés, de géographie ou d’événements supplémentaires.
+\n

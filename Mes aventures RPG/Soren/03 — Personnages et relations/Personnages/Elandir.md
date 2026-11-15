@@ -13,7 +13,7 @@ source: "Chronique intégrale J+12 ; état J+13 pour les mentions de situation a
 
 ## Portrait officiel d’Elandir
 
-![Portrait officiel d'Elandir, elfe érudit aux longs cheveux argentés, yeux gris vert, manteau vert sombre et tunique gris perle](../09%20-%20Images%20et%20illustrations/Personnages/Elandir/Elandir%20%E2%80%94%20Portrait%20officiel.webp)
+![Portrait officiel d'Elandir, elfe érudit aux longs cheveux argentés, yeux gris vert, manteau vert sombre et tunique gris perle](../../08%20%E2%80%94%20Illustrations/Personnages/Elandir/Elandir%20%E2%80%94%20Portrait%20officiel.webp)
 
 *Portrait de référence d'Elandir : Elfe adulte de 96 ans (âge proposé), 1,88 m et 76 kg, silhouette grande et élancée, longs cheveux argentés, yeux gris vert, oreilles pointues, peau claire et tenue vert sombre et gris perle. Il étudie un livre runique et tient un instrument de mesure. Le décor de la cour et les accessoires visuels illustrent son intérêt pour les runes, sans prouver une acquisition particulière ou un événement déjà joué.*
 

@@ -10,5 +10,4 @@ source: "Chronique intégrale J+12 ; état J+13 pour les mentions de situation a
 > Renard apprenti marchand de Lornac, relation romantique de Soren avant le départ.
 
 **Contexte :** Varkhûn — Famille, proches et habitants
-
-**Navigation :** [[Chronologie détaillée et index des PNJ|Répertoire des personnages]] · [[Chronologie générale]]
+\n

@@ -9,12 +9,15 @@ statut: "Fonctionnement en essai validé ; installation commerciale non achevée
 
 # Couplage énergétique — Cœur des Trois Veilleurs et générateur de Borin
 
+
+> [!note] Périmètre de cette note
+> Cette fiche documente **uniquement l'interaction technique** des deux artefacts. Propriétés intrinsèques du Cœur : [[Cœur de mana des Trois Veilleurs]] ; structure propre au générateur : [[Générateur d’arène de Borin]] ; contrat : [[Association artisanale Soren–Borin]].
 > [!IMPORTANT] Situation de référence — fin J+15
 > Le **Cœur de mana des Trois Veilleurs** appartient à **[[Soren Thalvyr]]**. Le **[[Générateur d’arène de Borin]]** appartient à **[[Borin]]**. Leur couplage énergétique a été réalisé et soumis à des essais réussis à **J+14, 26 Floréane 427**. À la fin de J+15, la boutique **[[La Porte de l'Aube]]** n'est **pas ouverte** et la pose commerciale définitive des dispositifs n'a **pas encore été jouée**. Le domaine résidentiel dispose d'un second circuit distinct, alimenté par le Cœur et indépendant de l'allumage du générateur.
 
 ## Illustration de référence — dispositifs actifs
 
-![Couplage actif du Cœur des Trois Veilleurs et du générateur de Borin](../09%20-%20Images%20et%20illustrations/Objets/Couplage%20actif%20%E2%80%94%20C%C5%93ur%20des%20Trois%20Veilleurs%20et%20g%C3%A9n%C3%A9rateur%20de%20Borin.webp)
+![Couplage actif du Cœur des Trois Veilleurs et du générateur de Borin](../../08%20%E2%80%94%20Illustrations/Objets/Couplage%20actif%20%E2%80%94%20C%C5%93ur%20des%20Trois%20Veilleurs%20et%20g%C3%A9n%C3%A9rateur%20de%20Borin.webp)
 
 *Illustration conceptuelle des deux appareils reliés et alimentés : à gauche, le Cœur cylindrique noir et argent au cristal bleu glacier ; à droite, le générateur circulaire en bronze et or, ses huit volets ouverts. Les conduites bleutées et les cercles lumineux rendent visibles l'énergie et la stabilité des dimensions. Le décor monumental, les socles, le tracé exact des conduites et les anneaux flottants relèvent de la mise en scène artistique : ils **ne prouvent pas** une installation déjà construite dans un hall commercial, ni un nouveau dispositif matériel acquis.*
 

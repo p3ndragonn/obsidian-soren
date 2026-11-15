@@ -25,7 +25,7 @@ cssclasses:
 
 ## Portrait actuel de Soren
 
-![Portrait actuel de Soren Thalvyr, Homme-bête Lupin aux yeux bleu glacier, tenue noire et longue cape de fourrure](../09%20-%20Images%20et%20illustrations/Personnages/Soren/Soren%20%E2%80%94%20Portrait%20actuel.webp)
+![Portrait actuel de Soren Thalvyr, Homme-bête Lupin aux yeux bleu glacier, tenue noire et longue cape de fourrure](../../08%20%E2%80%94%20Illustrations/Personnages/Soren/Soren%20%E2%80%94%20Portrait%20actuel.webp)
 
 *Portrait actuel montrant la tenue en cuir noir de Corvin, les Crocs du Septième Pas et la longue cape noire. Les deux planches techniques d'origine ci-dessous restent conservées.*
 
@@ -35,7 +35,7 @@ cssclasses:
 |---|---|
 | Départ de Varkhûn | [[Soren — Départ de Varkhûn]] |
 | Cape noire de Corvin | [[Soren — Cape noire de Corvin]] |
-| Portrait actuel — tenue noire | [Portrait actuel de Soren](../09%20-%20Images%20et%20illustrations/Personnages/Soren/Soren%20%E2%80%94%20Portrait%20actuel.webp) |
+| Portrait actuel — tenue noire | [Portrait actuel de Soren](../../08%20%E2%80%94%20Illustrations/Personnages/Soren/Soren%20%E2%80%94%20Portrait%20actuel.webp) |
 
 Ces planches illustrent **deux états d'équipement différents** du même personnage. Les PNG originaux seront affichés après leur import dans Obsidian.
 

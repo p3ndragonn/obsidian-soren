@@ -13,7 +13,7 @@ source: "Chronique intégrale J+12 ; état J+13 pour les mentions de situation a
 
 ## Portrait officiel de Darian
 
-![Portrait officiel de Darian, aventurier humain aux cheveux brun foncé, yeux gris acier, veste de cuir brun usé et sourire en coin](../09%20-%20Images%20et%20illustrations/Personnages/Darian/Darian%20%E2%80%94%20Portrait%20officiel.webp)
+![Portrait officiel de Darian, aventurier humain aux cheveux brun foncé, yeux gris acier, veste de cuir brun usé et sourire en coin](../../08%20%E2%80%94%20Illustrations/Personnages/Darian/Darian%20%E2%80%94%20Portrait%20officiel.webp)
 
 *Référence visuelle : Darian est un Humain de 30 ans, mesurant 1,80 m pour 82 kg selon la description proposée. Carrure robuste, visage carré, cheveux brun foncé légèrement désordonnés, barbe courte, petite cicatrice du côté droit du menton, vêtements gris et bruns usés. Son attitude décontractée, les bras croisés et un sourire ironique, correspond à son tempérament sarcastique. Le décor de cour de Guilde reste illustratif ; aucune nouvelle action ou arme n'est attribuée par cette image.*
 

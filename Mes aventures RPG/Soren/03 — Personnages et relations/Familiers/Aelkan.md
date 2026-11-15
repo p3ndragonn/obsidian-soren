@@ -11,7 +11,7 @@ source: "Chronique J+10 à J+15 ; morphologie et mensurations définies pour la 
 
 ## Portrait officiel
 
-![Portrait officiel d'Aelkan, grand loup blanc aux yeux ambrés](../09%20-%20Images%20et%20illustrations/Personnages/Aelkan/Aelkan%20%E2%80%94%20Portrait%20officiel.webp)
+![Portrait officiel d'Aelkan, grand loup blanc aux yeux ambrés](../../08%20%E2%80%94%20Illustrations/Personnages/Aelkan/Aelkan%20%E2%80%94%20Portrait%20officiel.webp)
 
 *Portrait de référence : Aelkan sur quatre pattes, pelage blanc, yeux ambrés, allure noble et carrure équilibrée.*
 

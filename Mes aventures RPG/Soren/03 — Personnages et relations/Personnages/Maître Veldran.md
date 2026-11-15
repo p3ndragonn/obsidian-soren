@@ -10,5 +10,4 @@ source: "Chronique intégrale J+12 ; état J+13 pour les mentions de situation a
 > Responsable du laboratoire clandestin découvert dans la crypte.
 
 **Contexte :** Le Cercle des Trois Traits et les familiers
-
-**Navigation :** [[Chronologie détaillée et index des PNJ|Répertoire des personnages]] · [[Chronologie générale]]
+\n

@@ -10,5 +10,4 @@ source: "Chronique intégrale J+12 ; état J+13 pour les mentions de situation a
 > Employée de l'Auberge du Cerf Doré.
 
 **Contexte :** Le voyage — Valbois, Rochebrune et Clairerive
-
-**Navigation :** [[Chronologie détaillée et index des PNJ|Répertoire des personnages]] · [[Chronologie générale]]
+\n

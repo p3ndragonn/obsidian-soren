@@ -11,7 +11,7 @@ source: "Chronique intégrale J+12 ; état J+13 pour les mentions de situation a
 
 ## Portrait officiel de Tévan
 
-![Portrait officiel de Tévan, duelliste humain en tenue de voyage verte et brune, rapière à la main](../09%20-%20Images%20et%20illustrations/Personnages/T%C3%A9van/T%C3%A9van%20%E2%80%94%20Portrait%20officiel.webp)
+![Portrait officiel de Tévan, duelliste humain en tenue de voyage verte et brune, rapière à la main](../../08%20%E2%80%94%20Illustrations/Personnages/T%C3%A9van/T%C3%A9van%20%E2%80%94%20Portrait%20officiel.webp)
 
 *Référence visuelle de Tévan : humain de 25 ans, 1,83 m, cheveux châtain ondulés, yeux vert noisette, silhouette athlétique et élégante. Chemise écrue, pourpoint brun, veste vert forêt, bottes de voyage et rapière dans son équipement de duelliste. La cour médiévale sert de décor illustratif, sans constituer un événement joué.*
 

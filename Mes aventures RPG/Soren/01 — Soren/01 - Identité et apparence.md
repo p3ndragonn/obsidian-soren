@@ -11,7 +11,7 @@ section: 1
 
 ## Portrait actuel de Soren
 
-![Portrait actuel de Soren Thalvyr, Homme-bête Lupin aux yeux bleu glacier, tenue noire et longue cape de fourrure](../09%20-%20Images%20et%20illustrations/Personnages/Soren/Soren%20%E2%80%94%20Portrait%20actuel.webp)
+![Portrait actuel de Soren Thalvyr, Homme-bête Lupin aux yeux bleu glacier, tenue noire et longue cape de fourrure](../08%20%E2%80%94%20Illustrations/Personnages/Soren/Soren%20%E2%80%94%20Portrait%20actuel.webp)
 
 *Référence visuelle de la tenue artisanale actuelle : cheveux noirs, yeux bleu glacier, oreilles lupines noires, queue de loup, harnais et short de cuir noir, bottes noires et longue cape entièrement en fourrure noire. Pour les détails anatomiques, suivre la description physique ci-dessous et les références techniques antérieures.*
 

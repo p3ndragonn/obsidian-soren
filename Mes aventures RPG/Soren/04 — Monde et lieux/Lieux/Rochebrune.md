@@ -8,5 +8,4 @@ source: "Chronique intégrale — arrêt J+12"
 # Rochebrune
 
 Ville artisanale J+3 à J+4 ; Auberge du Marteau et de la Chope, Atelier des Trois Marteaux, Bastion des Marteaux.
-
-**Règle de continuité :** ne pas inventer de propriétés, de géographie ou d’événements supplémentaires.
+\n

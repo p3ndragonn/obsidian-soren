@@ -13,7 +13,7 @@ source: "Chronique intégrale J+12 ; état J+13 pour les mentions de situation a
 
 ## Portrait officiel de Darek
 
-![Portrait officiel en pied de Darek, personnage de Varkhûn](../09%20-%20Images%20et%20illustrations/Personnages/Darek/Darek%20%E2%80%94%20Portrait%20officiel.webp)
+![Portrait officiel en pied de Darek, personnage de Varkhûn](../../08%20%E2%80%94%20Illustrations/Personnages/Darek/Darek%20%E2%80%94%20Portrait%20officiel.webp)
 
 *Référence visuelle de Darek : Cuisinier et éclaireur de Varkhûn, représenté comme Lupin aux cheveux brun foncé, barbe courte, vêtements de cuisine et de voyage. Sa race lupine reste une extrapolation à confirmer dans l'aventure. Le décor et les accessoires sont illustratifs ; cette image ne crée aucun nouvel événement ni équipement validé par le SYSTÈME.*
 

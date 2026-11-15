@@ -8,5 +8,4 @@ source: "Chronique intégrale — arrêt J+12"
 # Aethérion
 
 Capitale du royaume de Tharvélis et siège de la Guilde des Aventuriers. Soren y réside depuis J+6.
-
-**Règle de continuité :** ne pas inventer de propriétés, de géographie ou d’événements supplémentaires.
+\n

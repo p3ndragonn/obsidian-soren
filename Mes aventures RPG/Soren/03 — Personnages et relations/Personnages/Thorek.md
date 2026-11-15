@@ -13,7 +13,7 @@ source: "Chronique intégrale J+12 ; état J+13 pour les mentions de situation a
 
 ## Portrait officiel de Thorek
 
-![Portrait officiel en pied de Thorek, personnage de Varkhûn](../09%20-%20Images%20et%20illustrations/Personnages/Thorek/Thorek%20%E2%80%94%20Portrait%20officiel.webp)
+![Portrait officiel en pied de Thorek, personnage de Varkhûn](../../08%20%E2%80%94%20Illustrations/Personnages/Thorek/Thorek%20%E2%80%94%20Portrait%20officiel.webp)
 
 *Référence visuelle de Thorek : Grand Lupin brun roux, jeune protecteur massif aux yeux ambre noisette et tenue de chasseur robuste. Le décor et les accessoires sont illustratifs ; cette image ne crée aucun nouvel événement ni équipement validé par le SYSTÈME.*
 

@@ -13,7 +13,7 @@ source: "Chronique intégrale J+12 ; état J+13 pour les mentions de situation a
 
 ## Portrait officiel de Rhazek
 
-![Portrait officiel de Rhazek, imposant Homme-bête Lion dans la cour de la Guilde](../09%20-%20Images%20et%20illustrations/Personnages/Rhazek/Rhazek%20%E2%80%94%20Portrait%20officiel.webp)
+![Portrait officiel de Rhazek, imposant Homme-bête Lion dans la cour de la Guilde](../../08%20%E2%80%94%20Illustrations/Personnages/Rhazek/Rhazek%20%E2%80%94%20Portrait%20officiel.webp)
 
 *Référence visuelle : Rhazek, Homme-bête Lion de 32 ans, 2,04 m pour environ 124 kg, grande crinière brun doré, yeux ambre cuivré, carrure massive, tenue de voyage en tissu sable et cuir brun, queue de lion terminée par une touffe sombre. L'illustration est une représentation de personnage et non le compte rendu d'une nouvelle scène jouée.*
 
