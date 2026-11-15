@@ -16,6 +16,14 @@ Les **deux planches techniques originales** sont conservées en fichiers PNG dis
 > [!WARNING] <!--easygit-callout:original=warning,collapse=--> Fichiers images à importer
 > Les liens d'images sont prêts, mais les PNG doivent être placés dans `09 - Images et illustrations/Personnages/Soren/`. Les fiches Markdown sont déjà enregistrées dans GitHub. Une archive contenant les deux PNG originaux a été préparée pour l’import.
 
+## Familiers — portraits officiels
+
+| Familier | Fiche | Illustration |
+|---|---|---|
+| **Varkhan** | [[Varkhan]] | [Portrait officiel de Varkhan](Personnages/Varkhan/Varkhan%20%E2%80%94%20Portrait%20officiel.webp) |
+
+Ce portrait constitue la référence visuelle de Varkhan. Les futures images doivent conserver son anatomie de loup quadrupède, sa fourrure noire et ses yeux bleu glacier.
+
 ## Autres illustrations
 
 Pour les futurs personnages et lieux, réutiliser les illustrations établies lorsqu'elles sont disponibles ; ne pas présenter les images indicatives comme des portraits canoniques.
