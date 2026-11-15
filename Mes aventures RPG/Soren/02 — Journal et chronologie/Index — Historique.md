@@ -33,9 +33,11 @@ Chaque note ci-dessous contient le bilan officiel et chronologique d'une journé
 
 - [[J+15 — 27 Floréane 427 — Historique]] — La Porte de l'Aube, les Crocs de Pierre et le carnet du soir
 
+- [[J+16 — 28 Floréane 427 — Historique]] — Vente du sceau, derniers contrôles, entraînement et soirée avec les amis
+
 ## Règles d'archivage
 - Ne pas considérer une personne mentionnée comme physiquement rencontrée sans événement explicite.
 - Distinguer paiements, estimations, acquisitions, objets confiés, pertes et projets.
 - Garder les secrets inconnus et ne jamais extrapoler une valeur mécanique absente du récit.
 
-**Reprise : [[État de reprise J+16]]**, fin J+15 23 h 45, Soren encore éveillé. Les anciens liens de reprise sont des archives, non un point de jeu actuel.
+**Reprise : [[État de reprise J+17]]**, fin J+16 vers 23 h 43, Soren endormi ; les sauvegardes antérieures sont archivées.

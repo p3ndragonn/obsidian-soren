@@ -8,6 +8,10 @@ heure_reference: "23:45"
 
 # État de reprise — Veille de J+16
 
+> [!warning] ARCHIVE HISTORIQUE — FIN J+15
+> Ce document décrit la veille de J+16. **La journée J+16 a été jouée et archivée** dans [[J+16 — 28 Floréane 427]]. **La nouvelle sauvegarde active est [[État de reprise J+17]]** : Soren est endormi fin J+16, avec ses trois loups.
+
+
 > [!success] REPRISE OFFICIELLE
 > **J+15 · 27 Floréane 427 · 23 h 45.** [[Soren Thalvyr]] est **dans son lit mais encore éveillé**, chambre n° 3 de l'[[Annexe des Compagnons]], à [[Aethérion]]. Son **carnet de voyage est écrit et rangé**. Varkhan, Aelkan, Sylkan **dans leurs trois paniers séparés**. **Le sommeil, le réveil et J+16 ne sont pas encore joués.**
 

@@ -2,12 +2,12 @@
 type: index_chronologie
 campagne: Soren
 statut: actif
-periode: "J-7 à J+15"
+periode: "J-7 à J+16"
 ---
 
 # Chronologie générale — Soren
 
-**Monde : Vaeloria · Royaume : Tharvélis.** Journées documentées du **J−7 au J+15**, soit du 5 au 27 Floréane 427.
+**Monde : Vaeloria · Royaume : Tharvélis.** Journées documentées du **J−7 au J+16**, soit du 5 au 28 Floréane 427.
 
 Le **journal** conserve le récit ; le **bilan** rassemble les faits de manière concise. Les deux sont complémentaires et conservés intégralement.
 
@@ -36,8 +36,9 @@ Le **journal** conserve le récit ; le **bilan** rassemble les faits de manière
 | **J+13** | 25 Floréane 427 | [[J+13 — 25 Floréane 427|Journal]] | [[J+13 — 25 Floréane 427 — Historique|Bilan]] |
 | **J+14** | 26 Floréane 427 | [[J+14 — 26 Floréane 427|Journal]] | [[J+14 — 26 Floréane 427 — Historique|Bilan]] |
 | **J+15** | 27 Floréane 427 | [[J+15 — 27 Floréane 427|Journal]] | [[J+15 — 27 Floréane 427 — Historique|Bilan]] |
+| **J+16** | 28 Floréane 427 | [[J+16 — 28 Floréane 427|Journal]] | [[J+16 — 28 Floréane 427 — Historique|Bilan]] |
 
 ## Point de reprise actuel
-**[[État de reprise J+16]]** : fin **J+15, 27 Floréane 427 à 23 h 45**, Soren au lit mais encore éveillé. Ne pas commencer J+16 sans action du joueur.
+**[[État de reprise J+17]]** : fin J+16, 28 Floréane 427 vers 23 h 43, Soren endormi, meute présente. Réveil non joué.
 
 **Index des bilans :** [[Index — Historique]] · **Personnages :** [[Index — Personnages et PNJ]].

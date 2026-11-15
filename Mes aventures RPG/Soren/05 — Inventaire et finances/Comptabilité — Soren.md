@@ -2,12 +2,16 @@
 type: comptabilite
 campagne: Soren
 statut: reference_financiere
-version: "fin J+15"
+version: "fin J+16"
 ---
 
 # Comptabilité — Soren
 
-> [!success] Solde personnel disponible et vérifié : **415 Pièces**
+> [!success] ÉTAT PRIORITAIRE — FIN J+16
+> **415 Pièces est le solde établi FIN J+15**, non le solde courant. J+16 : **+250 000 Pièces** vente effective d'1 sceau à Arvand ; **−18 000** à Tévan, **−18 000** à Hadrien ; **−146 Pièces** dîner du soir et viande des loups. Calcul **415 + 250 000 − 18 000 − 18 000 − 146 = 214 269 Pièces AVANT déjeuner J+16 et autres débours non chiffrés**. **Solde final exact indéterminé.** Restent **2 sceaux** et des **promesses non encore payées de 37 000 Pièces à chacun de Tévan et Hadrien**. Aucun revenu de la boutique. [[État de reprise J+17]].
+
+
+> [!note] Relevé historique FIN J+15 — **415 Pièces** (non actuel à J+16)
 > **Au dernier instant joué : fin J+15, 27 Floréane 427, 23 h 45.** Le **Fondateur a confirmé a posteriori que le dîner J+14 coûtait 31 Pièces**, montant non chiffré dans la narration d'origine. Calcul : **228 − 86 − 31 − 36 + 340 = 415 Pièces**. Les gains futurs et objets non vendus ne sont pas inclus.
 
 ## Journal des relevés historiques
@@ -33,6 +37,18 @@ version: "fin J+15"
 | J+15 — mission D-221 payée | **+340** |
 | **Fin J+14** | **111** |
 | **Fin J+15 — solde personnel confirmé** | **415** |
+
+## Mouvements encaissés / payés à J+16
+
+| Opération confirmée | Débit | Crédit |
+|---|---:|---:|
+| 1 sceau de bénédiction permanent vendu à [[Arvand Rethmar]], contrat du SYSTÈME exécuté | — | **250 000** |
+| Versement à [[Tévan]], acompte sur 55 000 promis | **18 000** | — |
+| Versement à [[Hadrien]], acompte sur 55 000 promis | **18 000** | — |
+| Dîner du soir à La Marmite du Compagnon, boissons et 3 rations pour la meute | **146** | — |
+| Déjeuner de midi à La Marmite du Compagnon | **Montant non précisé** | — |
+
+**Solde provisoire calculable hors dépenses inconnues : 214 269 Pièces ; ne pas le présenter comme solde certifié de fin J+16.** Les 37 000 Pièces **restantes** dues à chacun ne sont pas débitées. Le produit de la vente de sceau appartient personnellement à Soren, pas à la société. Deux sceaux demeurent à Soren, audience royale J+20 non conclue.
 
 ## Vérification arithmétique au 27 Floréane 427 (J+15)
 

@@ -2,17 +2,17 @@
 type: accueil
 campagne: Soren
 statut: actif
-point_de_reprise: "[[État de reprise J+16]]"
+point_de_reprise: "[[État de reprise J+17]]"
 ---
 
 # S Y S T È M E — Soren
 
 > [!success] Scène officielle en cours
-> **Fin J+15 · 27 Floréane 427 · 23 h 45.** Soren est **couché mais encore éveillé** dans sa chambre n° 3 de l'[[Annexe des Compagnons]] à Aethérion. Varkhan, Aelkan et Sylkan se reposent dans leurs paniers respectifs. **La nuit, le sommeil et J+16 ne sont pas encore joués.**
+> **Fin J+16 · 28 Floréane 427 · vers 23 h 43.** Soren est **endormi** dans la chambre n° 3 de l'Annexe des Compagnons, avec Varkhan, Aelkan et Sylkan. Le journal est écrit, et les trois loups ont accepté de venir à l'inauguration J+17. **Le réveil et l'inauguration ne sont pas encore joués.**
 
 ## Reprendre la partie
 
-**[[État de reprise J+16]]** — dernier état officiel, événements à ne pas anticiper et rendez-vous prévus.
+**[[État de reprise J+17]]** — nouvelle sauvegarde prioritaire. [[J+16 — 28 Floréane 427|Journal de la journée terminée]].
 
 ## Accès direct
 

@@ -9,6 +9,10 @@ section: 9
 
 # 09 — Capacités exceptionnelles et secrètes
 
+> [!success] ÉTAT PRIORITAIRE — FIN J+16
+> Soren a **de nouveau activé le partage des trois téléportations [SS] avec Varkhan, Aelkan et Sylkan**, en plus des **sept techniques de classe [S]** et des **huit techniques de profession [B]**. Il a **révoqué les compétences runiques [A]**, transmises brièvement puis retirées en J+16. Le bloc « STATUT J+15 » ci-dessous est **historique**, pas l'état présent. Démonstrations J+16 avec microtéléportations pendant 10 secondes et avec la cape noire/épée lourde, sans bonus ni maîtrise inventée. [[État de reprise J+17]].
+
+
 > [!success] STATUT J+15 — DEUX PARTAGES À DISTINGUER
 > **Partage des compétences [S] ACTIF** depuis J+15 19 h 27 sur Varkhan, Aelkan et Sylkan, pour les **sept compétences de Classe [S]** : Danse des Lames Rétractiles, Rupture de Cadence, Enchaînement des Sept Ruptures, Contre-Griffe, Griffe Brise-Garde, Appui du Chasseur, Souffle du Combattant. L'adaptation à la morphologie lupine et la pratique restent nécessaires. **Les pouvoirs [SS] Danse téléporter, Mouvements téléporter et Danse téléporter à deux ne sont PAS partagés** ; l'ancien essai de partage de Danse téléporter [SS] avec les loups est **révoqué et non réactivé**. Secret maintenu envers les PNJ non informés. Les statuts J+12/J+13 en dessous sont historiques.
 

@@ -2,30 +2,30 @@
 type: meute
 campagne: Soren
 statut: actuel
-version: "fin J+15"
+version: "fin J+16"
 ---
 
 # Familiers de Soren — meute
 
-**Trois loups volontairement liés** depuis J+10, lors des conséquences de la mission [[D-156 — Crypte des Trois Veilleurs]]. Tous bénéficient d'un renforcement permanent légendaire de mana, supérieur à 50 % ; leurs réserves exactes ne sont pas documentées.
+**Trois loups liés volontairement** depuis J+10. Renforcement permanent légendaire de mana **supérieur à 50 %**, valeur exacte des réserves inconnue. [[Sahir]] est le lynx de [[Tévan]], non un familier de Soren.
 
-| Familier | Morphologie / regard | Tempérament | Lien |
+| Familier | Morphologie | Caractère | Lien |
 |---|---|---|---|
-| [[Varkhan]] | Grand loup noir, yeux bleu glacier | Calme, protecteur, prudent | Actif |
-| [[Aelkan]] | Grand loup blanc, yeux ambrés | Observateur, précis, méthodique | Actif |
-| [[Sylkan]] | Loup gris argenté | Joueur, énergique, affectueux | Actif |
+| [[Varkhan]] | Grand loup noir, yeux bleu glacier | Prudent, protecteur | Actif |
+| [[Aelkan]] | Grand loup blanc, yeux ambrés | Méthodique, observateur | Actif |
+| [[Sylkan]] | Grand loup gris argenté | Joueur, enthousiaste | Actif |
 
-**[[Sahir]]** est le lynx de [[Tévan]], **pas** un familier lié à Soren. Il bénéficie aussi d'une amélioration légendaire du mana.
+## Pouvoirs actifs fin J+16
+- **Parole de meute** : voix mentales réciproques depuis J+14 ; détails [[08 - Compétences de familiers]].
+- **Partage des compétences [S] ACTIF** : **7 compétences de classe [S]** (Danse des Lames Rétractiles, Rupture de Cadence, Enchaînement des Sept Ruptures, Contre-Griffe, Griffe Brise-Garde, Appui du Chasseur, Souffle du Combattant), **8 compétences de profession [B]**, et **3 téléportations personnelles secrètes [SS]** (Danse téléporter, Mouvements téléporter, Danse téléporter à deux), transmis aux **trois** loups.
+- **Compétences runiques [A] NON partagées** : transmission provisoire puis **RÉVOCATION volontaire par Soren en J+16**. Il souhaite d'abord enseigner la théorie. L'ancien état fin J+15 indiquant téléportations révoquées **est supplanté par le nouveau partage J+16**.
+- Aucune maîtrise, aucun rang, EXP, niveau individuel ou statistique nouvelle attribuée automatiquement. Les techniques exigent adaptation à la morphologie lupine.
 
-## Pouvoirs actuellement disponibles
-- **Parole de meute** : voix mentales réciproques depuis J+14 ; modalités dans [[08 - Compétences de familiers]].
-- **Partage des compétences [S]** : les sept techniques de Classe [S] partagées **activement sur les trois loups depuis J+15, 19 h 27** ; une adaptation lupine reste nécessaire. Source mécanique : [[09 - Capacités exceptionnelles et secrètes]].
-- **Partage des téléportations [SS]** : les essais anciens ont réussi, mais l'accès a été **révoqué** et n'est toujours **pas actif**.
-- Le rang, l'EXP, les niveaux individuels et des statistiques non attribuées ne doivent pas être déduits.
+## Domaine, journée et invitation
+- Les loups disposent d'une permission **limitée à leur jardin** pour aménager zone de terre, obstacles et coins de repos, ainsi que d'un petit bâtiment gris d'entraînement à commandes adaptées. Aucune commande sur la maison de Borin et les installations fondamentales.
+- **J+16** : entraînement avec Soren le matin, puis autonome : appuis, microtéléportations prudentes et repos. Sylkan termine une réception dans la terre meuble **sans se blesser**.
+- **Soir J+16** : retour dans la chambre n° 3 de Soren, repas de trois portions de viande nature, échange des récits, puis repos.
+- **Tous trois acceptent expressément l'invitation à l'inauguration J+17**, doivent rester proches de Soren et ne pas divulguer leurs téléportations ni autres pouvoirs secrets en public.
+- **Fin J+16 ~23 h 43** : Soren endormi avec les trois loups près de lui ; **J+17 pas encore joué**.
 
-## Dernier événement confirmé
-Dans [[D-221 — Les Crocs de Pierre]], Varkhan et Aelkan tuent le prédateur de niveau 21 et Sylkan achève celui de niveau 25 pendant la diversion de Soren ; **les trois loups sont indemnes**.
-
-**Fin J+15 :** ils reposent chacun dans leur panier en chambre n° 3, tandis que Soren est au lit et encore éveillé à 23 h 45. [[État de reprise J+16]].
-
-Leur fiche personnelle conserve seule la description détaillée de leur apparence, leur personnalité et leurs références visuelles. Les relations restent qualitatives : aucun score affectif ni secret supplémentaire ne doit être inventé.
+[[J+16 — 28 Floréane 427]] · [[État de reprise J+17]] · [[09 - Capacités exceptionnelles et secrètes]].
