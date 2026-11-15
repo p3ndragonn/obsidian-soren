@@ -7,6 +7,12 @@ source: "Chronique intégrale J+12 ; narration J+13"
 
 # Cœur de mana des Trois Veilleurs
 
+## Illustration officielle du Cœur
+
+![Cœur de mana des Trois Veilleurs — cylindre runique noir, argent et or ancien, trois piliers et cristal central bleu glacier](../09%20-%20Images%20et%20illustrations/Objets/C%C5%93ur%20de%20mana%20des%20Trois%20Veilleurs%20%E2%80%94%20Illustration%20officielle.webp)
+
+*Référence visuelle de l’artefact entier, présenté sur un socle de pierre en vue de trois quarts. Le Cœur lui-même est un cylindre de 50 cm de diamètre et 50 cm de hauteur, avec trois piliers runiques, des fenêtres cristallines et un noyau central bleu glacier. Le socle de présentation n'appartient pas à l'artefact.*
+
 > [!success] ÉTAT COURANT FIN J+15
 > Cœur légendaire toujours **propriété personnelle de Soren**, et son alimentation de la boutique/domaine résidentiel ne transfère pas cette propriété. **Sept bénédictions anciennement attribuées + trois dernières extraites J+14 en trois sceaux distincts, conservés et TOUJOURS INVENDUS**. **[[Arvand Rethmar]] a réuni 250 000 Pièces pour 1 sceau**, avec rendez-vous de transfert et paiement **J+16, 28 Floréane à 8 h** ; **aucune cession ni encaissement J+15**. Audience privée **J+20** avec le roi pour 2 autres sceaux (potentiel 500 000 P.), aucune conclusion encore. Le noyau lui-même ne fait l'objet d'aucune vente. Deux circuits distincts : générateur de Borin et domaine privé ; fonction millénaire annoncée par le SYSTÈME, durée réelle non éprouvée. **Secret de la matrice ancestrale de Varkhûn** conservé entre Soren et Borin.
 
