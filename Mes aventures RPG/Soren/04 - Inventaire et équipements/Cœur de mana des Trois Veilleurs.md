@@ -13,6 +13,14 @@ source: "Chronique intégrale J+12 ; narration J+13"
 
 *Référence visuelle de l’artefact entier, présenté sur un socle de pierre en vue de trois quarts. Le Cœur lui-même est un cylindre de 50 cm de diamètre et 50 cm de hauteur, avec trois piliers runiques, des fenêtres cristallines et un noyau central bleu glacier. Le socle de présentation n'appartient pas à l'artefact.*
 
+## Couplage énergétique en fonctionnement
+
+![Cœur des Trois Veilleurs raccordé au générateur de Borin en fonctionnement](../09%20-%20Images%20et%20illustrations/Objets/Couplage%20actif%20%E2%80%94%20C%C5%93ur%20des%20Trois%20Veilleurs%20et%20g%C3%A9n%C3%A9rateur%20de%20Borin.webp)
+
+*Vue artistique des deux dispositifs actifs : le Cœur fournit le mana au générateur par une liaison runique contrôlée. Le décor, les socles et les cercles flottants sont illustratifs et ne constituent pas une installation commerciale déjà achevée.*
+
+**Fiche détaillée :** [[Couplage énergétique — Cœur des Trois Veilleurs et générateur de Borin]]. Le Cœur et le générateur sont deux appareils distincts, reliés par une alimentation sécurisée ; le domaine résidentiel possède par ailleurs un circuit séparé depuis le Cœur.
+
 > [!success] ÉTAT COURANT FIN J+15
 > Cœur légendaire toujours **propriété personnelle de Soren**, et son alimentation de la boutique/domaine résidentiel ne transfère pas cette propriété. **Sept bénédictions anciennement attribuées + trois dernières extraites J+14 en trois sceaux distincts, conservés et TOUJOURS INVENDUS**. **[[Arvand Rethmar]] a réuni 250 000 Pièces pour 1 sceau**, avec rendez-vous de transfert et paiement **J+16, 28 Floréane à 8 h** ; **aucune cession ni encaissement J+15**. Audience privée **J+20** avec le roi pour 2 autres sceaux (potentiel 500 000 P.), aucune conclusion encore. Le noyau lui-même ne fait l'objet d'aucune vente. Deux circuits distincts : générateur de Borin et domaine privé ; fonction millénaire annoncée par le SYSTÈME, durée réelle non éprouvée. **Secret de la matrice ancestrale de Varkhûn** conservé entre Soren et Borin.
 

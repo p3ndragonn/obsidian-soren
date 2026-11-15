@@ -43,10 +43,13 @@ Le portrait officiel de Borin est la référence visuelle pour ses futures appar
 |---|---|---|
 | **Générateur d’arène de Borin** | [[Générateur d’arène de Borin]] | [Illustration officielle du générateur](Objets/G%C3%A9n%C3%A9rateur%20d%E2%80%99ar%C3%A8ne%20de%20Borin%20%E2%80%94%20Portrait%20officiel.webp) |
 | **Cœur de mana des Trois Veilleurs** | [[Cœur de mana des Trois Veilleurs]] | [Illustration officielle du Cœur](Objets/C%C5%93ur%20de%20mana%20des%20Trois%20Veilleurs%20%E2%80%94%20Illustration%20officielle.webp) |
+| **Couplage actif — Cœur et générateur** | [[Couplage énergétique — Cœur des Trois Veilleurs et générateur de Borin]] | [Illustration des deux appareils en fonctionnement](Objets/Couplage%20actif%20%E2%80%94%20C%C5%93ur%20des%20Trois%20Veilleurs%20et%20g%C3%A9n%C3%A9rateur%20de%20Borin.webp) |
 
 Le portrait du générateur de Borin le représente en position ouverte : disque de bronze et d'or à huit volets triangulaires, noyau cristallin lumineux.
 
 L'illustration du Cœur des Trois Veilleurs montre l'artefact légendaire cylindrique noir et argent, ses trois piliers et son cristal bleu glacier, posé sur un socle de présentation. Conserver ces deux identités visuelles distinctes.
+
+La **scène de couplage** montre les deux artefacts alimentés et reliés. Les effets lumineux et le décor monumental sont illustratifs ; la fiche technique distingue les éléments prouvés par les essais de J+14 et les détails visuels proposés.
 
 ## Autres illustrations
 
