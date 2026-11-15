@@ -9,6 +9,12 @@ source: "Chronique J+10 à J+15 ; morphologie et mensurations définies pour la 
 > [!NOTE] Rôle dans l'aventure
 > Très grand loup blanc aux yeux ambrés, de stature équilibrée, observateur et méthodique.
 
+## Portrait officiel
+
+![Portrait officiel d'Aelkan, grand loup blanc aux yeux ambrés](../09%20-%20Images%20et%20illustrations/Personnages/Aelkan/Aelkan%20%E2%80%94%20Portrait%20officiel.webp)
+
+*Portrait de référence : Aelkan sur quatre pattes, pelage blanc, yeux ambrés, allure noble et carrure équilibrée.*
+
 **Contexte :** Le Cercle des Trois Traits et les familiers. 
 
 ## 1. Description physique
