@@ -4,25 +4,25 @@ titre: "Château royal d’Aethérion"
 campagne: Soren
 royaume: Tharvélis
 ville: Aethérion
-statut_documentaire: "architecture proposée ; siège monarchique confirmé"
+statut_documentaire: "architecture et position officiellement fixées par le Fondateur"
 ---
 
 # Château royal d'Aethérion — Citadelle centrale de la capitale
 
-> [!important] Faits confirmés et décor proposé
+> [!important] Géographie et architecture officiellement fixées
 > **Confirmé :** le royaume de Tharvélis possède un roi, et Soren doit le rencontrer **en personne à J+20** pour discuter deux sceaux de transfert de mana ; l'audience **n'a pas encore eu lieu** à la fin de J+15.
 >
-> **Proposé :** la position exactement **centrale sur une hauteur**, les enceintes du château, ses tours, cours, pièces, jardins, défenses, circulation et style architectural. Ils constituent la **référence de conception du décor**, sans ajouter de scène jouée ou de connaissance aux PNJ.
+> **Officiellement fixé par le Fondateur :** le château occupe **la hauteur centrale d’Aethérion**. Ses deux lignes d’enceinte, quatre tours principales, donjon-palais, cour d’honneur, salle du trône, appartements, conseil, archives, jardins, quartiers de la garde et accès de service sont désormais **les références architecturales du monde**. Voir [[Atlas officiel d’Aethérion]] et [[Aethérion — Carte officielle.webp]]. Cela ne signifie pas que Soren a visité le palais ou que le roi le connaît déjà.
 >
 > **Inconnus :** nom du souverain, dynastie, armoiries officielles, composition de sa famille, organisation précise de la garde, magie et rangs des dispositifs défensifs.
 
-**Ville et quartiers :** [[Aethérion]] · **Aventure :** [[État de reprise J+16]].
+**Carte :** [[Atlas officiel d’Aethérion]] · [[Aethérion — Carte officielle.webp]] · **Ville :** [[Aethérion]] · **Aventure :** [[État de reprise J+16]].
 
 ## 1. Position au cœur de la ville
 
 Le château est conçu sur une **hauteur naturelle au centre géographique** d'Aethérion. La montée vers sa porte principale traverse la couronne administrative et débouche sur une esplanade protégée. De ses tours, on peut observer les avenues disposées en rayons, les secteurs du commerce, le quartier de la Guilde, les toitures populaires et la ligne des remparts.
 
-La séparation entre **ville basse, couronne administrative et domaine royal** reste visible. Cette altitude est une proposition cartographique : ni coordonnées, ni dimensions exactes, ni pente mesurée ne sont encore fixées.
+La séparation entre **ville basse, Couronne Haute et domaine royal** est officielle. Le relief central est fixé par la carte ; la pente, les coordonnées et les dimensions cadastrales exactes des bâtiments restent non précisées.
 
 ## 2. Silhouette et matériaux
 
@@ -42,7 +42,7 @@ Les détails des herses, ponts, mécanismes, effectifs et protections runiques n
 
 ## 4. Cour d'honneur
 
-Une vaste **cour pavée** s'étend derrière l'entrée principale, bordée d'arcades et de galeries. Une **fontaine de pierre** marque l'axe central proposé, tandis que de larges escaliers conduisent aux salles de représentation.
+Une vaste **cour pavée** s'étend derrière l'entrée principale, bordée d'arcades et de galeries. Une **fontaine de pierre** marque l'axe central, tandis que de larges escaliers conduisent aux salles de représentation.
 
 Le lieu peut recevoir une escorte diplomatique ou une cérémonie, mais **aucun rassemblement précis n'a encore été raconté ici dans les journées de Soren**.
 
@@ -64,13 +64,13 @@ Le confort peut inclure une bonne ventilation, des cheminées et des aménagemen
 
 ## 7. Administration et conseil
 
-Des salles de réunion, bureaux, antichambres et pièces de conservation de documents sont proposés dans une aile politique.
+Une aile politique abrite des salles de réunion, bureaux, antichambres et pièces de conservation de documents.
 
 Un **conseil royal** peut se réunir dans une salle de délibération, mais **le titre des membres, leur nombre, leurs pouvoirs et les ministères éventuels restent à établir**. Ne pas remplacer les décisions du roi par une règle d'administration imaginée ici.
 
 ## 8. Bibliothèque et archives
 
-La citadelle peut conserver une **bibliothèque de consultation** ainsi que des salles d'archives : cartes, traités, correspondances officielles, généalogies, registres et chroniques.
+La citadelle comprend une **bibliothèque de consultation** ainsi que des salles d'archives destinées aux cartes, traités, correspondances officielles, généalogies, registres et chroniques. Le contenu précis de ses collections reste inconnu.
 
 L'accès pourrait dépendre d'autorisations ou de fonctions.
 
@@ -90,11 +90,11 @@ Les défenses ordinaires impliquent des gardes, postes de surveillance, armureri
 
 L'ancienne fonction de **garde personnel royal** de [[Kaelor Vargan]] est confirmée, mais **cela ne signifie pas qu'il est encore en service dans cette citadelle** ni que son ancien affectation précise y est documentée.
 
-Des protections runiques sont plausibles pour un palais royal, mais **leur nature, portée, puissance, prix et éventuels rangs restent inconnus**.
+Des défenses ordinaires protègent le château. La présence et les caractéristiques de dispositifs runiques particuliers demeurent ouvertes : **nature, portée, puissance et rangs ne sont pas établis**.
 
 ## 11. Services et logistique
 
-Le château doit être entretenu : cuisines, réserves, buanderies, quartiers des employés, accès de livraison, cuisines de réception et locaux de maintenance sont proposés.
+Le château comprend les espaces de service indispensables : cuisines, réserves, buanderies, quartiers des employés, accès de livraison, cuisines de réception et locaux de maintenance.
 
 Différents peuples peuvent travailler au palais, sans emploi assigné automatiquement selon leur race.
 
@@ -122,7 +122,7 @@ Pour les futures illustrations :
 - Cité cosmopolite et dense alentour, avec rues rayonnantes, marchés, guildes et remparts.
 - **Aucun dragon, créature légendaire, roi nommé ou bataille historique** ajouté uniquement pour rendre l'image spectaculaire.
 
-Cette description est **une référence d'ambiance et d'architecture**, pas une carte métrique définitive.
+Cette description est **la référence canonique d'architecture** du château. La carte officielle fixe son emplacement central ; ses côtes exactes ne sont pas métrées.
 
 ## 14. Résumé narratif
 
@@ -134,4 +134,4 @@ Derrière le parvis s'ouvre une vaste cour d'honneur. Plus loin, les ailes du pa
 
 De cette citadelle, les avenues d'Aethérion semblent rayonner dans toutes les directions. Mais ses appartements, ses secrets et ses salles d'audience demeurent hors de portée des passants ordinaires.
 
-**Le château représente le centre du pouvoir de Tharvélis. Son architecture est proposée ; son souverain et les événements à venir restent à découvrir dans l'histoire.**
+**Le château est le centre officiel du pouvoir de Tharvélis. Son architecture et sa position sont fixées ; l'identité du souverain et les événements à venir restent à découvrir dans l'histoire.**
