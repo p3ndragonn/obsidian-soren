@@ -40,6 +40,7 @@ Ces trois portraits constituent les références visuelles officielles des famil
 | **Tévan** | [[Tévan]] | [Portrait officiel de Tévan](Personnages/T%C3%A9van/T%C3%A9van%20%E2%80%94%20Portrait%20officiel.webp) |
 | **Rhazek** | [[Rhazek]] | [Portrait officiel de Rhazek](Personnages/Rhazek/Rhazek%20%E2%80%94%20Portrait%20officiel.webp) |
 | **Elandir** | [[Elandir]] | [Portrait officiel d'Elandir](Personnages/Elandir/Elandir%20%E2%80%94%20Portrait%20officiel.webp) |
+| **Darian** | [[Darian]] | [Portrait officiel de Darian](Personnages/Darian/Darian%20%E2%80%94%20Portrait%20officiel.webp) |
 
 Le portrait officiel de Borin est la référence visuelle pour ses futures apparitions : nain forgeron à forte carrure, barbe brun cuivré tressée, tablier de cuir et vêtements de travail.
 
@@ -48,6 +49,8 @@ Le portrait de Tévan fixe sa référence visuelle de duelliste humain : cheveux
 Le portrait de Rhazek fixe sa référence d'Homme-bête Lion à la stature massive : crinière brun doré, yeux ambre cuivré, tenue en cuir brun et tissu sable, queue léonine à touffe sombre.
 
 Le portrait d'Elandir devient sa référence : Elfe élancé, longues oreilles pointues, cheveux argentés, yeux gris vert, tenue vert sombre et gris perle, accessoires d'étude des runes.
+
+Le portrait officiel de Darian le représente comme un Humain robuste, aux cheveux brun foncé, barbe courte et yeux gris acier, portant du cuir brun usé et affichant un sourire sarcastique.
 
 ## Objets et artefacts — illustrations officielles
 
