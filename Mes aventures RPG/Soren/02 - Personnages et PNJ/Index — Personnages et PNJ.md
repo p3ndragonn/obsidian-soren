@@ -20,6 +20,10 @@ campagne: Soren
 | Familiers | [[Varkhan]], [[Aelkan]], [[Sylkan]], [[Sahir]] |
 | Intrigues | [[Maître Veldran]] et le [[Cercle des Trois Traits]] |
 
+## Vaeren Thalvyr — père de Soren
+
+**[[Vaeren Thalvyr]]** — Père biologique de Soren, **Homme-bête Lupin**, ancien voyageur et pisteur de Varkhûn. **Référence physique extrapolée : environ 43 ans, 1,88 m, 92 kg**, cheveux brun noir légèrement grisonnants, yeux gris ambré, barbe courte, oreilles et queue lupines sombres. Sa fiche comporte **30 sections détaillées** couvrant sa morphologie, ses vêtements, son passé, ses habitudes, sa relation père-fils et les événements du départ de Soren. **Les cadeaux de 1 000 Pièces, du coffre et du pendentif familial sont établis ; le destin de la mère de Soren et les rangs de Vaeren restent inconnus.**
+
 ## Hadrien — description complète
 
 **[[Hadrien]]** — Humain, **grade de Guilde D**, **rang personnel C**, ancien mercenaire expérimenté, conseiller tactique et compagnon d'aventure de Soren. Référence physique proposée : **39 ans, 1,89 m, 94 kg**, cheveux brun cendré, yeux gris bleuté, barbe courte, fine cicatrice au sourcil gauche. Sa fiche comporte **27 sections détaillées** couvrant son anatomie, ses tenues, son équipement proposé, sa personnalité, son passé hypothétique, ses missions et ses relations. Sa classe exacte et ses statistiques restent inconnues.
