@@ -37,6 +37,14 @@ Ces trois portraits constituent les références visuelles officielles des famil
 
 Le portrait officiel de Borin est la référence visuelle pour ses futures apparitions : nain forgeron à forte carrure, barbe brun cuivré tressée, tablier de cuir et vêtements de travail.
 
+## Objets et artefacts — illustrations officielles
+
+| Objet | Fiche | Illustration |
+|---|---|---|
+| **Générateur d’arène de Borin** | [[Générateur d’arène de Borin]] | [Illustration officielle du générateur](Objets/G%C3%A9n%C3%A9rateur%20d%E2%80%99ar%C3%A8ne%20de%20Borin%20%E2%80%94%20Portrait%20officiel.webp) |
+
+Le portrait représente le générateur de Borin en position ouverte. Pour les autres vues, conserver son disque compact de bronze et d'or, ses huit volets triangulaires et son noyau cristallin lumineux.
+
 ## Autres illustrations
 
 Pour les futurs personnages et lieux, réutiliser les illustrations établies lorsqu'elles sont disponibles ; ne pas présenter les images indicatives comme des portraits canoniques.
