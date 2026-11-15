@@ -7,6 +7,10 @@ source: "Chronique intégrale J+12 ; narration J+13"
 
 # Cœur de mana des Trois Veilleurs
 
+> [!success] ÉTAT PRIORITAIRE — FIN J+16
+> **Soren conserve la propriété entière du Cœur.** Il a **vendu effectivement 1 des 3 sceaux de mana détachés à Arvand J+16, contre 250 000 Pièces reçues**, contrat SYSTÈME exécuté et bénédiction permanente >50 % transférée. **2 sceaux restent à Soren**, audience royale J+20 sans vente ni paiement. Cœur distinct du générateur de Borin ; circuits du domaine privé et de l'exploitation commerciale séparés. **[[Baguette des Trois Veilleurs — Extension portative du Cœur]] utilisée J+16** pour le portail privé. Les blocs « toujours invendus fin J+15 » plus bas sont **historiques**. [[État de reprise J+17]].
+
+
 
 > [!important] Lecture actuelle — fin J+15
 > Le Cœur reste **propriété de Soren** ; les trois transferts restants ont été extraits en **trois sceaux indépendants J+14**, toujours **invendus** à fin J+15. Couplage effectué J+14 ; l'alimentation résidentielle est indépendante du générateur commercial, mais dépend du Cœur. Les paragraphes d'anciennes échéances J+13/J+14 sont des **archives datées**, non des tâches encore à jouer. Détails : [[Couplage énergétique — Cœur des Trois Veilleurs et générateur de Borin]] · [[État de reprise J+16]].

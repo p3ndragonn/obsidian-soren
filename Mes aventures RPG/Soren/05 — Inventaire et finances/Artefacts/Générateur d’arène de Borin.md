@@ -7,6 +7,10 @@ source: "Chronique intégrale J+12 ; narration J+13"
 
 # Générateur d’arène de Borin
 
+> [!success] ÉTAT PRIORITAIRE — FIN J+16
+> Générateur **toujours propriété de Borin**, Cœur **toujours propriété de Soren**. [[La Porte de l'Aube]] : **11 modules commerciaux (80 personnes en simultané)**, arène seule **75 combattants + 50 spectateurs = 125**. Essai plein souffle dragon [A] initialement destructeur de **3 mannequins**, puis correction et second essai 15 s à 100 % réussi ; **2 % flux aux boucliers, 1 % évacuation, 97 % exploitation**. Évacuation réelle **4/4 Soren/Borin/Tévan/Sahir**, **aucun essai réel sur 80/125 personnes**. Forge sous montagne **uniquement pour stress test**, pas un douzième module exploité. Voyant des essais automatisés **vert J+16**. Finale : **10 autres modules coupés** ; ouverture publique **J+17 pas encore jouée**, aucun revenu commercial à J+16. Les états J+15 ci-dessous sont historiques. [[État de reprise J+17]].
+
+
 
 > [!important] Lecture actuelle — fin J+15
 > Le générateur reste la **propriété de Borin**. **Onze espaces simultanés testés J+14** ; ni vente du générateur ni composants [SS] supplémentaires actés. Le bail et l'accord écrit d'installation réversible J+15 sont signés, mais **La Porte de l'Aube n'est pas ouverte**. Les anciennes listes de tâches J+13 sont conservées à titre historique. Voir [[Générateur de Borin]], [[La Porte de l'Aube]] et [[État de reprise J+16]].

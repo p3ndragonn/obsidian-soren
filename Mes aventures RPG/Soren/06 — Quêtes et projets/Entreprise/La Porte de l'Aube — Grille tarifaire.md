@@ -36,6 +36,10 @@ statut: "projet de Soren — à valider avec Borin"
 
 L'arène est facturée **par réservation de groupe**, pas par participant.
 
+## Proposition nouvelle — J+16 : cours particuliers
+
+Tévan propose des **cours individuels donnés par des spécialistes**, **facturés plus cher que la location seule**. Soren accueille favorablement cette idée, mais **Borin n'a pas encore approuvé la prestation**, aucun tarif, instructeur, rémunération, horaire ou vente n'est fixé. **Les tarifs précédents restent au stade de proposition**, sans affichage ni encaissement attesté. [[État de reprise J+17]].
+
 ## Conditions provisoires
 - Durée minimale **1 heure**, prolongation par **tranches de 30 minutes**.
 - **Standard** : environnement, équipement et scenario préparés à l'avance.

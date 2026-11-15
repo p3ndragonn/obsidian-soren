@@ -1,14 +1,18 @@
 ---
 type: association
 campagne: Soren
-statut: "contrat signé — activité non ouverte"
+statut: "contrat signé — inauguration prévue J+17"
 jour_creation: "J+13"
 confidentialite: "clauses et apports légendaires non publics"
 ---
 
 # Association artisanale Soren–Borin
 
-**Contrat du SYSTÈME signé J+13.** L'entreprise est exploitée sous le nom [[La Porte de l'Aube]], dont le local D est loué depuis J+14. À fin J+15, **l'accord écrit de Maître Orven pour le portail réversible est signé**, mais les derniers essais et l'ouverture publique restent à effectuer. Aucune recette ni réservation facturée.
+**Contrat du SYSTÈME signé J+13.**
+
+> [!success] ÉTAT PRIORITAIRE — FIN J+16
+> La boutique est **installée et contrôlée** ; tests automatisés **au vert J+16**. **Inauguration prévue J+17 à 10 h, non encore jouée** ; aucune vente commerciale ni réservation encaissée. **Borin 55 % / Soren 45 % des bénéfices nets, propriétés personnelles intactes.** Idée de cours particuliers de Tévan **acceptée en principe par Soren uniquement**, prix et accord de Borin non établis. [[État de reprise J+17]] · [[La Porte de l'Aube]].
+ L'entreprise est exploitée sous le nom [[La Porte de l'Aube]], dont le local D est loué depuis J+14. À fin J+15, **l'accord écrit de Maître Orven pour le portail réversible est signé**, mais les derniers essais et l'ouverture publique restent à effectuer. Aucune recette ni réservation facturée.
 
 ## Activité
 La société prévoit **forges et ateliers artisanaux modulables**, **salles d'entraînement et de simulation** et **arène** grâce au [[Générateur d’arène de Borin]]. Les capacités précises et la configuration des 11 espaces sont documentées dans l'artefact et le local commercial, pour éviter de maintenir plusieurs versions techniques.

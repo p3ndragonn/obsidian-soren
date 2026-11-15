@@ -1,25 +1,29 @@
 ---
 type: projet
 campagne: Soren
-statut: "réparations terminées — mise en exploitation inachevée"
+statut: "derniers essais terminés, lancement commercial J+17 encore à jouer"
 ---
 
 # Générateur de Borin — suivi des travaux
 
-**Objet : [[Générateur d’arène de Borin]]** · **Société : [[Association artisanale Soren–Borin]]** · **Local : [[La Porte de l'Aube]]**.
+**Artefact : [[Générateur d’arène de Borin]]** · **Entreprise : [[Association artisanale Soren–Borin]]** · **Local : [[La Porte de l'Aube]]**.
 
-## Étapes réalisées
-- J+13 : restauration et calibrage achevés ; simulations élémentaires, dragons, gravité et forge éprouvés.
-- J+13 : contrat d'association Soren/Borin signé, remplaçant l'ancien projet de vente avec commission de 15 %.
-- J+14 : **onze espaces simultanés effectivement testés**, contrairement à l'ancien plan seulement théorique.
-- J+14 : local commercial D loué.
-- J+15 à 15 h 26 : **autorisation écrite d'Orven obtenue** pour le portail réversible.
+## Jalon historique
+- **J+13** : restauration et calibrage, contrat d'association signé, tests de simulations.
+- **J+14** : onze espaces dimensionnels testés, local loué, couplage énergétique avec Cœur de Soren ; domaine résidentiel alimenté sur circuit distinct.
+- **J+15 à 15 h 26** : accord écrit de [[Maître Orven]] pour le portail réversible.
+- **J+16** : installation commercialement accessible par façade, 11 modules (5 ateliers ×3, 5 entraînements ×7, arène 25 combattants+5 spectateurs) = **80 personnes simultanées**, arène seule **75+50=125**.
+- **J+16** : première simulation du dragon de feu [A] à 100 % **calcine 3 mannequins** (défense initiale insuffisante), puis **correction des runes et second test à 100 % de 15 s réussi** ; **2 % du mana réservés aux boucliers**, second bouclier préventif.
+- **J+16** : **1 % du mana réservé à l'évacuation**, destination recalculée dans les rues ; **4/4 évacuations réelles de Soren, Borin, Tévan et Sahir réussies**, **pas d'essai réel à 80/125 personnes**.
+- **97 % commercial / 2 % protection / 1 % évacuation**. Forge supplémentaire sous montagne **pour stress test uniquement**, jamais 12e module commercial ; limitation sécuritaire en haute charge.
+- **J+16 vers 13 h 09** : contrôles automatisés **verts**, installation prête pour inauguration, avec vigilance.
+- **J+16 au soir** : Hadrien visite les lieux, boutique refermée/sécurisée ; **aucune recette ni réservation payante**.
 
-## À réaliser après J+15
-- Procéder aux **derniers tests de sécurité**, à l'installation commerciale définitive et aux préparatifs d'ouverture.
-- Faire approuver, le cas échéant, la grille tarifaire par Borin.
-- Préparer l'inauguration potentielle J+17, sans considérer la démonstration du dragon simulé [A] comme déjà jouée.
-- Éventuellement étudier des composants [SS] supplémentaires : **aucun composant [SS] acheté** et capacité 33 non validée.
-- Préserver propriété distincte du générateur, du Cœur et du domaine résidentiel privé.
+## À accomplir
+1. **J+17, 29 Floréane, 10 h : inauguration**, pas encore jouée ; accueil public et essais gratuits.
+2. **16 h 30 : combat final Soren contre dragon de feu simulé rang A**, secret du programme et **issue inconnue**. **Éteindre les dix autres modules avant la finale.**
+3. Superviser sûreté et flux de visiteurs ; **ne pas prétendre que 80/125 personnes ont été évacuées en essai réel**.
+4. Décider avec Borin des tarifs et d'éventuels cours individuels évoqués par Tévan, **aucune validation d'exploitation encore**.
+5. 33 modules hypothétiques avec composants [SS] **non acquis / non autorisés**.
 
-Les anciennes tâches J+14 (« chercher un local », « tester les onze espaces », « attendre Orven ») sont terminées ; elles restent enregistrées dans le journal et dans **99 — Archives**. [[État de reprise J+16]].
+[[État de reprise J+17]] · [[J+16 — 28 Floréane 427]].
