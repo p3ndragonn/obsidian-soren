@@ -26,6 +26,14 @@ Les **deux planches techniques originales** sont conservées en fichiers PNG dis
 
 Ces trois portraits constituent les références visuelles officielles des familiers : Varkhan (loup noir très massif aux yeux bleu glacier), Aelkan (grand loup blanc aux yeux ambrés et de stature équilibrée) et Sylkan (grand loup gris argenté, plus fin et élancé ; couleur exacte des yeux non fixée). Les futures illustrations doivent conserver leur anatomie naturelle de loups quadrupèdes.
 
+## Autres personnages — portraits officiels
+
+| Personnage | Fiche | Illustration |
+|---|---|---|
+| **Borin** | [[Borin]] | [Portrait officiel de Borin](Personnages/Borin/Borin%20%E2%80%94%20Portrait%20officiel.webp) |
+
+Le portrait officiel de Borin est la référence visuelle pour ses futures apparitions : nain forgeron à forte carrure, barbe brun cuivré tressée, tablier de cuir et vêtements de travail.
+
 ## Autres illustrations
 
 Pour les futurs personnages et lieux, réutiliser les illustrations établies lorsqu'elles sont disponibles ; ne pas présenter les images indicatives comme des portraits canoniques.
