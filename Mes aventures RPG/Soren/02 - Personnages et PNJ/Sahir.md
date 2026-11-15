@@ -11,6 +11,12 @@ source: "Chronique intégrale J+12 ; état J+13 pour les mentions de situation a
 
 **Contexte :** Le Cercle des Trois Traits et les familiers
 
+## Portrait officiel de Sahir
+
+![Portrait officiel de Sahir, grand lynx brun doré, aigrettes noires, yeux ambre et queue courte](../09%20-%20Images%20et%20illustrations/Personnages/Sahir/Sahir%20%E2%80%94%20Portrait%20officiel.webp)
+
+*Référence visuelle : Sahir est un **lynx brun doré quadrupède**, grand et robuste (mensurations proposées : **83 cm au garrot, 38 kg**), avec des **aigrettes noires**, des yeux ambrés, une poitrine claire et une queue courte à extrémité noire. L'illustration comporte un grand portrait et des vues complémentaires du corps entier. Le décor et les textes de présentation servent à l'illustration, sans constituer des événements de l'aventure.*
+
 ## Description physique et comportementale complète
 
 > [!NOTE] Référence physique et continuité

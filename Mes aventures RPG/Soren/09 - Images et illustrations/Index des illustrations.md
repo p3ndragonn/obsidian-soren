@@ -26,8 +26,11 @@ Le **portrait actuel** complète les deux références antérieures sans les rem
 | **Varkhan** | [[Varkhan]] | [Portrait officiel de Varkhan](Personnages/Varkhan/Varkhan%20%E2%80%94%20Portrait%20officiel.webp) |
 | **Aelkan** | [[Aelkan]] | [Portrait officiel d'Aelkan](Personnages/Aelkan/Aelkan%20%E2%80%94%20Portrait%20officiel.webp) |
 | **Sylkan** | [[Sylkan]] | [Portrait officiel de Sylkan](Personnages/Sylkan/Sylkan%20%E2%80%94%20Portrait%20officiel.webp) |
+| **Sahir** | [[Sahir]] | [Portrait officiel de Sahir](Personnages/Sahir/Sahir%20%E2%80%94%20Portrait%20officiel.webp) |
 
 Ces trois portraits constituent les références visuelles officielles des familiers : Varkhan (loup noir très massif aux yeux bleu glacier), Aelkan (grand loup blanc aux yeux ambrés et de stature équilibrée) et Sylkan (grand loup gris argenté, plus fin et élancé ; couleur exacte des yeux non fixée). Les futures illustrations doivent conserver leur anatomie naturelle de loups quadrupèdes.
+
+**Sahir**, le grand lynx brun doré de Tévan, possède désormais son portrait officiel distinct : 83 cm au garrot, yeux ambre doré, aigrettes noires, fourrure tachetée, queue courte à extrémité noire. Ne pas le représenter sous forme humaine : c'est un véritable lynx quadrupède.
 
 ## Autres personnages — portraits officiels
 
