@@ -71,7 +71,7 @@ tags:
   - **Grande arène séparée : 12 / 20 Pièces/h**, prix par arène privatisée, pas par personne.
   - Minimum 1 h, puis tranches de 30 min ; matériaux physiques non compris, sécurité incluse. **Grille préparée par Soren, pas encore approuvée par Borin ni publiée**.
 - **18 h 24–18 h 28** : au comptoir de la Guilde, Soren vérifie les **3 bénédictions mises en vente** : **aucune vente conclue**. Proposition pour **Arvand Rethmar : 250 000 Pièces** (financement non confirmé) ; proposition **Couronne : deux pour 500 000 Pièces** (audience/réponse encore en attente). **750 000 Pièces potentiels, zéro encaissé**.
-- **18 h 42–19 h 12** : dîner avec ses trois loups à la taverne du quartier de la Guilde ; **facture réglée**, mais **montant exact non narré** : ne pas inventer de débit numérique ou de solde final.
+- **18 h 42–19 h 12** : dîner avec ses trois loups à la taverne du quartier de la Guilde ; **facture réglée**. Le montant **n'était pas donné dans la narration initiale** ; le **Fondateur l'a ensuite confirmé à 31 Pièces**, sans nouvelle scène ni dépense supplémentaire.
 - **19 h 34–20 h 35** : promenade **d'une heure** dans les plaines, courses, jeux de poursuite et détente de la meute ; aucun gain chiffré de rang/XP.
 - **20 h 36** : **intervention explicite du Fondateur : +1 point de maîtrise pour Maître de familier**, attribué à **Communion familière [B], maîtrise 5 → 6** (Harmonie 4, Instinct du gardien 3 inchangés). Nouvelle faculté **Parole de meute : Soren entend les voix mentales individualisées de Varkhan, Aelkan et Sylkan et leur répond verbalement par pensée**. Les propos sont inaudibles aux tiers. Ce progrès de parole mentale **remplace l'ancienne limite** aux seules images/émotions ; pas de parole à voix haute des loups.
 - Varkhan s'exprime gravement et avec affection ; Aelkan posément, méthodiquement, avec humour sec ; Sylkan spontanément, bruyamment, adore les brioches.
@@ -89,7 +89,7 @@ tags:
 
 ## 9. Situation et finances de fin J+14
 - **Soren** : rang personnel **C**, grade Guilde **D** ; Danseur des Griffes d'Acier [A] **niv. 26**, Éclaireur des Terres Sauvages [B] **niv. 18** ; caractéristiques permanentes **348** inchangées. **Communion familière [B] 6** (nouveau).
-- **Fortune personnelle** : référence initiale **228 Pièces**, **86 Pièces avancées** pour le bail (dont 43 de dépôt de garantie et 43 de loyer) → **142 Pièces avant la facture du dîner**, dont le prix n'est pas connu. **Solde exact en fin de jour inconnu** ; ne pas présenter 142 comme solde final.
+- **Fortune personnelle** : référence initiale **228 Pièces**, **86 Pièces avancées** pour le bail (dont 43 de dépôt de garantie et 43 de loyer) → **142 Pièces avant le dîner**. Coût du dîner **31 Pièces, précisé a posteriori par le Fondateur** → **111 Pièces en fin de J+14**. Ce chiffre est une mise à jour comptable, sans événement narratif ajouté.
 - **Société** : Borin **55 %**, Soren **45 % des bénéfices nets** ; aucune recette encaissée, pas de clients ; bail signé **43 Pièces/mois**, échéance initiale 12 mois ; comptoir et enseigne à construire ; **plan runique encore à valider par Orven**.
 - **Cœur de mana** : propriété personnelle de Soren, couplé sur son bureau, **7 bénédictions attribuées + 3 sceaux conservés distinctement** ; alimentation millénaire déverrouillée lors de l'extraction (fonction réelle à surveiller), **aucune vente**.
 - **Générateur de Borin** : reste propriété de Borin, dans la chambre de Soren, **arrêté après les essais**, préparation à une pose sous comptoir.
