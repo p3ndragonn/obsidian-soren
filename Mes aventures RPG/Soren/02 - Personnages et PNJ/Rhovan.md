@@ -11,6 +11,13 @@ source: "Chronique intégrale J+12 ; état J+13 pour les mentions de situation a
 
 **Contexte :** Varkhûn — Famille, proches et habitants
 
+## Portrait officiel de Rhovan
+
+![Portrait officiel en pied de Rhovan, personnage de Varkhûn](../09%20-%20Images%20et%20illustrations/Personnages/Rhovan/Rhovan%20%E2%80%94%20Portrait%20officiel.webp)
+
+*Référence visuelle de Rhovan : Jeune Lupin bâtisseur de robuste carrure, cheveux roux sombre, yeux ambre brun et équipement de charpentier. Le décor et les accessoires sont illustratifs ; cette image ne crée aucun nouvel événement ni équipement validé par le SYSTÈME.*
+
+
 ## Description physique, comportementale et biographique complète
 
 > [!NOTE] Continuité et extrapolations
