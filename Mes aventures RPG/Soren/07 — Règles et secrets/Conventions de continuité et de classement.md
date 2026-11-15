@@ -16,6 +16,13 @@ statut: actif
 - **Entreprise :** [[Association artisanale Soren–Borin]] ; bâtiment dans [[La Porte de l'Aube]] ; obligations restantes dans [[Générateur de Borin]].
 - **Chronique :** [[Chronologie générale]] et les récits/bilans datés, sans substitution au point de reprise courant.
 
+## Bestiaire et création d'espèces
+- **Catalogue :** [[Index — Bestiaire]] avec deux sous-ensembles clairement séparés : [[Index — Animaux]] et [[Index — Monstres]].
+- Les **créatures proposées** sont inventées à des fins encyclopédiques. La présence d'une fiche ne crée **aucune scène, quête, rencontre, révélation, récompense ni connaissance chez les PNJ**.
+- Rangs, niveaux, dimensions, tactiques et composants proposés ne deviennent des valeurs officielles du SYSTÈME que lorsqu'une rencontre ou une décision du Fondateur les valide explicitement.
+- Les **rencontres confirmées** doivent toujours renvoyer aux journées et missions de Soren, sans modifier rétroactivement leur issue ou les valeurs identifiées.
+- Le danger D&D/Pathfinder et les niveaux proposés ne sont pas une conversion des grades, rangs et compétences propres au SYSTÈME.
+
 ## Archives
 Une note historiquement vraie à J+12, J+13 ou J+14 n'est pas automatiquement vraie à la fin J+15. Ne jamais effacer une étape effectivement jouée ; conserver sa date et ranger les versions antérieures dans **99 — Archives**. Quand deux relevés divergent, privilégier la dernière décision explicitement jouée et conserver les faits antérieurs datés.
 

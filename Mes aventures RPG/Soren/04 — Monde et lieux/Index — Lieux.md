@@ -17,5 +17,7 @@ campagne: Soren
 
 **Carte :** [[Carte du Royaume de Tharvélis.png|Royaume de Tharvélis]] · **Illustrations :** [[Index des illustrations]].
 
+**Faune et menaces possibles par biotope :** [[Index — Bestiaire]] · [[Index — Animaux]] · [[Index — Monstres]]. Les créatures proposées ne sont pas nécessairement présentes dans les lieux déjà visités.
+
 **Itinéraire chronologique :** [[Chronologie générale]]. Les petits lieux de passage sans fiche dédiée restent indiqués en texte simple dans l'historique.
 

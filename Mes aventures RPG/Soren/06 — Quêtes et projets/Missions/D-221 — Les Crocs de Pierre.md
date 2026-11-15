@@ -29,3 +29,5 @@ Rang **D estimé** ; troisième ennemi émet une onde de choc minérale. **Trois
 **3 noyaux lithiques, 17 plaques minérales, 24 crocs/griffes** restent à Soren. **3 autres crocs** ont été **remis à la Guilde** comme preuve et ne sont plus en sa possession. **[[Edric (Aethérion)]]** expertise le lot conservé : **469–690 Pièces**, **rien vendu ni encaissé** au titre du butin. [[Matériaux des Crocs de Pierre]].
 
 **Contrat récompensé : +340 Pièces réellement encaissées.** [[J+15 — 27 Floréane 427]] · [[État de reprise J+16]].
+
+**Bestiaire :** [[Croc de Pierre]] — fiche d'espèce et hypothèses écologiques distinctes des trois individus effectivement identifiés et combattus.

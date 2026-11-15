@@ -28,6 +28,7 @@ point_de_reprise: "[[État de reprise J+16]]"
 | Relations, groupe et factions | [[Index — Relations]] |
 | Lieux, commerces et domaines | [[Index — Lieux]] |
 | Quêtes et projets | [[Index — Quêtes]] |
+| Bestiaire — animaux et monstres | [[Index — Bestiaire]] · [[Index — Animaux]] · [[Index — Monstres]] |
 | Images officielles | [[Index des illustrations]] |
 | Règles et informations réservées | [[Conventions de continuité et de classement]] · [[Points de vigilance]] |
 
