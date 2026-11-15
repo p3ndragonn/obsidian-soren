@@ -5,6 +5,10 @@ campagne: Soren
 
 # Lieux et régions
 
+> [!info] Grand atlas du royaume
+> **[[Grand Atlas de Tharvélis]]** : sommaire géographique de **52 lieux avec leur distance depuis Aethérion**, puis **[[Tharvélis — Grand Atlas.svg|nouvelle carte vectorielle du royaume]]**. Les 40 nouvelles localités et les coordonnées non historiques sont des propositions cartographiques à valider. L'ancienne carte est conservée pour archives.
+
+
 | Région / parcours | Lieux déjà documentés |
 |---|---|
 | Origines | [[Varkhûn]], [[Grotte cristalline]] |
@@ -15,7 +19,7 @@ campagne: Soren
 | Dimension privée | **[[Domaine privé de Soren et Borin]]** — 2 maisons, jardins, place, fontaine, centre thermal de Soren |
 | Zones de missions | [[Valcendre]], [[Ravine de l’Aube]], [[Crypte des Trois Veilleurs]] |
 
-**Carte officielle de la capitale :** [[Aethérion — Carte officielle.webp]] · **Atlas :** [[Atlas officiel d’Aethérion]] · **Carte du royaume à refaire en cohérence avec la capitale :** [[Carte du Royaume de Tharvélis.png]] · **Illustrations :** [[Index des illustrations]].
+**Carte officielle de la capitale :** [[Aethérion — Carte officielle.webp]] · **Atlas :** [[Atlas officiel d’Aethérion]] · **Carte générale proposée :** [[Tharvélis — Grand Atlas.svg]] · **Sommaire kilométrique :** [[Grand Atlas de Tharvélis]] · **Archive antérieure :** [[Carte du Royaume de Tharvélis.png]] · **Illustrations :** [[Index des illustrations]].
 
 **Faune et menaces possibles par biotope :** [[Index — Bestiaire]] · [[Index — Animaux]] · [[Index — Monstres]]. Les créatures proposées ne sont pas nécessairement présentes dans les lieux déjà visités.
 
