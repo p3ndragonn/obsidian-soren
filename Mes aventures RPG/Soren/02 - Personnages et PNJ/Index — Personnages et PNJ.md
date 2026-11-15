@@ -20,6 +20,10 @@ campagne: Soren
 | Familiers | [[Varkhan]], [[Aelkan]], [[Sylkan]], [[Sahir]] |
 | Intrigues | [[Maître Veldran]] et le [[Cercle des Trois Traits]] |
 
+## Hadrien — description complète
+
+**[[Hadrien]]** — Humain, **grade de Guilde D**, **rang personnel C**, ancien mercenaire expérimenté, conseiller tactique et compagnon d'aventure de Soren. Référence physique proposée : **39 ans, 1,89 m, 94 kg**, cheveux brun cendré, yeux gris bleuté, barbe courte, fine cicatrice au sourcil gauche. Sa fiche comporte **27 sections détaillées** couvrant son anatomie, ses tenues, son équipement proposé, sa personnalité, son passé hypothétique, ses missions et ses relations. Sa classe exacte et ses statistiques restent inconnues.
+
 ## Portraits descriptifs complets — groupe proche et dortoir n° 12
 
 > [!NOTE] Référence de continuité
