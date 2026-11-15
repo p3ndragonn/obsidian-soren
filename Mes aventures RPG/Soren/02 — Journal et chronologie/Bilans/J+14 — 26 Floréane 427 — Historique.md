@@ -45,7 +45,7 @@ tags:
 
 ## 4. Soirée, Fondateur et parole des familiers (18 h 10–21 h 51)
 - À la Guilde, **aucune bénédiction vendue** : dossier Arvand **250 000 Pièces** en attente de financement ; dossier Couronne **500 000 Pièces pour deux** en attente de réponse. Aucun gain.
-- Dîner avec les trois loups en taverne **payé mais montant inconnu** ; promenade d'une heure dans les plaines, courses et jeux.
+- Dîner avec les trois loups en taverne **payé 31 Pièces**, montant communiqué ultérieurement par le Fondateur (non chiffré dans le récit originel) ; promenade d'une heure dans les plaines, courses et jeux.
 - **Fondateur accorde +1 maîtrise** à **Maître de familier [B]** ; **Communion familière [B] 5 → 6**, capacités de **paroles mentales réciproques** avec les 3 loups. Harmonie de meute 4 ; Instinct du gardien 3.
 - Premier test de portée : **fiable à 2 km**, dégradé à **3 km** sur terrain ouvert ; limite maximale non trouvée. Voix distinctes, pas entendues des tiers ; échanges directs entre loups sans Soren non établis.
 
@@ -56,7 +56,7 @@ tags:
 - Soren récupère ses vêtements **sans se rhabiller**, ferme le seuil du domaine tout en gardant son alimentation active, retourne en chambre, **écrit son journal**, puis dort **nu dans son lit** ; les loups **dans trois paniers séparés**.
 
 ## 6. Finances et propriétés
-- Bourse initiale **228 Pièces**, paiement commercial **86 Pièces**, donc **142 Pièces avant le dîner**. Facture du dîner payée sans montant connu : **solde de fin de jour indéterminé**.
+- Bourse initiale **228 Pièces**, paiement commercial **86 Pièces**, donc **142 Pièces avant le dîner**. Facture du dîner **31 Pièces** (précision ultérieure du Fondateur) : **solde fin J+14 = 111 Pièces**.
 - **Borin 55 % / Soren 45 % bénéfices nets** ; aucune recette d'entreprise, aucune vente du Cœur.
 - Cœur : **Soren** ; générateur : **Borin**. Trois sceaux de bénédiction **sous garde de Soren**, sans vente ni attribution.
 - **Confidentialité stricte** : matrice cérébrale Varkhûn connue de Soren et Borin ; fonctions [SS] de téléportation non diffusées.
