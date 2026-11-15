@@ -41,6 +41,7 @@ Ces trois portraits constituent les références visuelles officielles des famil
 | **Rhazek** | [[Rhazek]] | [Portrait officiel de Rhazek](Personnages/Rhazek/Rhazek%20%E2%80%94%20Portrait%20officiel.webp) |
 | **Elandir** | [[Elandir]] | [Portrait officiel d'Elandir](Personnages/Elandir/Elandir%20%E2%80%94%20Portrait%20officiel.webp) |
 | **Darian** | [[Darian]] | [Portrait officiel de Darian](Personnages/Darian/Darian%20%E2%80%94%20Portrait%20officiel.webp) |
+| **Faëric** | [[Faëric]] | [Portrait officiel de Faëric](Personnages/Fa%C3%ABric/Fa%C3%ABric%20%E2%80%94%20Portrait%20officiel.webp) |
 
 Le portrait officiel de Borin est la référence visuelle pour ses futures apparitions : nain forgeron à forte carrure, barbe brun cuivré tressée, tablier de cuir et vêtements de travail.
 
@@ -51,6 +52,8 @@ Le portrait de Rhazek fixe sa référence d'Homme-bête Lion à la stature massi
 Le portrait d'Elandir devient sa référence : Elfe élancé, longues oreilles pointues, cheveux argentés, yeux gris vert, tenue vert sombre et gris perle, accessoires d'étude des runes.
 
 Le portrait officiel de Darian le représente comme un Humain robuste, aux cheveux brun foncé, barbe courte et yeux gris acier, portant du cuir brun usé et affichant un sourire sarcastique.
+
+Le portrait officiel de Faëric montre un Homme-bête Renard élancé, aux cheveux roux cuivré, aux yeux ambrés, avec deux grandes oreilles vulpines et une longue queue rousse à pointe crème. Il porte des vêtements de voyage beige, vert olive et brun.
 
 ## Objets et artefacts — illustrations officielles
 

@@ -11,6 +11,12 @@ source: "Chronique intégrale J+12 ; état J+13 pour les mentions de situation a
 
 **Contexte :** Aethérion — Guilde, artisans et nouvelles connaissances
 
+## Portrait officiel de Faëric
+
+![Portrait officiel en pied de Faëric, Homme-bête Renard roux aux yeux ambrés, longues oreilles et grande queue à pointe crème](../09%20-%20Images%20et%20illustrations/Personnages/Fa%C3%ABric/Fa%C3%ABric%20%E2%80%94%20Portrait%20officiel.webp)
+
+*Référence visuelle : Faëric est un Homme-bête Renard de 27 ans (âge proposé), 1,76 m pour 71 kg, silhouette mince et athlétique, visage essentiellement humain, cheveux roux cuivré, yeux ambre doré, oreilles vulpines rousses et queue très fournie terminée de blanc crème. Tenue beige, vert olive et cuir brun. Le portrait en pied représente son allure souriante et malicieuse dans une cour médiévale illustrative ; il ne constitue pas une nouvelle scène jouée.*
+
 ## Description physique et comportementale complète
 
 > [!NOTE] Identité physique proposée
