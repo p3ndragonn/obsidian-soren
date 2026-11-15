@@ -73,5 +73,5 @@ Sources de la première partie de l'aventure et des formalités à Aethérion : 
 
 **Navigation :** [[Tableau de bord — Soren]] · [[Chronologie générale]] · [[Soren Thalvyr]] · [[J+6 — 18 Floréane 427 — Historique|Bilan de la journée]]
 
-> [!note] Source et limites
+> [!NOTE] <!--easygit-callout:original=note,collapse=--> Source et limites
 > Compte rendu repris du résumé de campagne. Les événements ou paroles non consignés ne sont pas inventés.

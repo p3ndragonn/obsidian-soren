@@ -15,7 +15,7 @@ tags:
 
 **La rencontre d'Erynn**
 
-> [!info] Repères
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Repères
 > **Jour :** J-7 · **Date :** 5 Floréane 427  
 > **Parcours :** [[Varkhûn]] → Marché de Varkhûn
 

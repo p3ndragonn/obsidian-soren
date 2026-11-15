@@ -7,7 +7,7 @@ source: "Chronique intégrale — arrêt J+12"
 
 # Registre réservé au Fondateur — état J0
 
-> [!danger] CONFIDENTIEL — POUR LE FONDATEUR / SYSTÈME
+> [!CAUTION] <!--easygit-callout:original=danger,collapse=--> CONFIDENTIEL — POUR LE FONDATEUR / SYSTÈME
 > Ce document contient des informations de continuité. Ne jamais présumer qu'elles sont connues des PNJ ou révélées au personnage.
 
 - **Grotte cristalline** : Soren connaît l’accès, le lac et les cristaux ; Erynn a visité la grotte ; Vaeren ne connaît que son existence générale.

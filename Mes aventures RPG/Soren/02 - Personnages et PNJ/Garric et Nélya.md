@@ -6,7 +6,7 @@ source: "Chronique intégrale J+12 ; état J+13 pour les mentions de situation a
 
 # Garric et Nélya
 
-> [!info] Rôle dans l'aventure
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Rôle dans l'aventure
 > Marchand et sa fille, aidés par Soren lorsque leur charrette est embourbée.
 
 **Contexte :** Le voyage — Valbois, Rochebrune et Clairerive

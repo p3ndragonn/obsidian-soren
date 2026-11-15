@@ -13,7 +13,7 @@ campagne: Soren
 
 Les **deux planches techniques originales** sont conservées en fichiers PNG distincts. Elles ne doivent pas être remplacées par des visages ou des tenues inventés.
 
-> [!warning] Fichiers images à importer
+> [!WARNING] <!--easygit-callout:original=warning,collapse=--> Fichiers images à importer
 > Les liens d'images sont prêts, mais les PNG doivent être placés dans `09 - Images et illustrations/Personnages/Soren/`. Les fiches Markdown sont déjà enregistrées dans GitHub. Une archive contenant les deux PNG originaux a été préparée pour l’import.
 
 ## Autres illustrations

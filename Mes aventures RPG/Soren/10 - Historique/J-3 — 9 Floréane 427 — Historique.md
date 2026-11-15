@@ -15,7 +15,7 @@ tags:
 
 **Narek, le départ d'Erynn et les cadeaux de Vaeren**
 
-> [!info] Repères
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Repères
 > **Jour :** J-3 · **Date :** 9 Floréane 427  
 > **Parcours :** [[Varkhûn]] → Ruisseau → Cabane de Soren
 

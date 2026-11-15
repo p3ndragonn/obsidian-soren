@@ -8,17 +8,13 @@ source: "Fiche officielle fournie par le Fondateur"
 
 # 13 — Inventaire et possessions
 
-> [!success] MOUVEMENTS J+15
-> [[Matériaux des Crocs de Pierre]] : **3 noyaux lithiques, 17 plaques minérales, 24 crocs/griffes exploitables** conservés par Soren (**469–690 Pièces estimées, invendues**) ; **rapport écrit d'Edric** en sa possession. Les **3 crocs de preuve ont été remis à la Guilde** et ne sont donc plus dans son stock. **340 Pièces** de récompense D-221 encaissées ; solde global exact inconnu. **Trois sceaux de transfert toujours détenus et invendus**, générateur à Borin, Cœur à Soren. Les chiffres J+13 en dessous sont historiques, pas un recomptage courant.
-
-
 ## Effets personnels
 
 | Objet | Situation au J+13 |
 |---|---|
-| Carnet de voyage | En possession ; **mis à jour au soir du J+13** (19 h 19) |
+| Carnet de voyage | En possession ; mis à jour jusqu'au soir de J+12 |
 | Plume et encrier | En possession |
-| Lettres pour Vaeren et Kaelor | **2**, **expédiées J+13**, 4 Pièces d'affranchissement ; départ programmé J+14 |
+| Lettres pour Vaeren et Kaelor | **2**, rédigées J+13, dans le sac, **non expédiées** |
 | Cartes et matériel de cartographie | En possession |
 | Gourde | En possession, emportée pour la chasse |
 | Couteau utilitaire, corde et nécessaire de voyage | Inventaire historique, dernier emplacement exact non recalculé |
@@ -35,7 +31,7 @@ source: "Fiche officielle fournie par le Fondateur"
 | Mana | D | **2** |
 | Endurance | D | **2** |
 
-> [!warning] Inventaire non recompilé
+> [!WARNING] <!--easygit-callout:original=warning,collapse=--> Inventaire non recompilé
 > Ces quantités remontent au relevé initial. Aucun comptage complet n'a été effectué à J+13.
 
 ## Objets précieux et confiés
@@ -54,11 +50,11 @@ source: "Fiche officielle fournie par le Fondateur"
 
 **Bénéficiaires des sept transferts :** Soren, Tévan, Hadrien, Varkhan, Aelkan, Sylkan et Sahir. Une fois les dix transferts consommés, le noyau conserve selon la directive du Fondateur la capacité d'alimenter un bâtiment runique pendant **1 000 ans** ; les conditions techniques restent à expertiser.
 
-### [[Générateur d’arène de Borin]] — objet appartenant à Borin
+### [[Générateur d’arène de Borin]] — objet confié
 
 **Propriétaire : [[Borin]]**, pas Soren. Le générateur contient un cristal de gravure [S] et un cœur de récupération éthérique [S], tous deux financés par Borin.
 
-| Module | Dernier relevé historique avant réparations |
+| Module | Avancement |
 |---|---:|
 | Matrice principale | **100 %** |
 | Protections | **100 %** |
@@ -67,7 +63,7 @@ source: "Fiche officielle fournie par le Fondateur"
 | Adversaires simulés | **78 %** |
 | Alimentation | **95 %** |
 
-**État J+13 : restauré et testé avec succès** (gravité, environnements, dragon simulé, bouclier, forge manipulable). Distribution et distorsion spatiale améliorées, deux espaces indépendants testés à faible puissance, **11 configurations simultanées non éprouvées**. L'appareil est désormais **emporté et détenu par Borin** ; il doit le rapporter à Soren à 6 h J+14. **Ancienne clause de 15 % annulée** et remplacée par le **contrat d'association signé** (**Borin 55 % / Soren 45 %**). Le Cœur reste rangé dans la chambre de Soren et **non branché**.
+**État :** restauration avancée, appareil **hors tension**, aucun essai en charge. **Rémunération conditionnelle de Soren : 15 %** du prix brut en cas de revente par Borin.
 
 ---
 

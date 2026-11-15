@@ -6,11 +6,7 @@ source: "Chronique intégrale J+12 ; état J+13 pour les mentions de situation a
 
 # Varkhan
 
-> [!success] Combat J+15
-> Via **Partage des compétences [S]**, les **sept compétences de Classe [S] de Soren** sont désormais **accessibles, partage toujours actif**. Aucune téléportation [SS] partagée. Sur [[D-221 — Les Crocs de Pierre]], Varkhan se place en couverture centrale, puis **achève le prédateur de niveau 21** en le mordant à la gorge, avec l'aide d'[[Aelkan]] aux articulations. **Indemne**. Fin J+15, son panier est près de la porte de la chambre n° 3.
-
-
-> [!info] Rôle dans l'aventure
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Rôle dans l'aventure
 > Grand loup noir de Soren, protecteur et calme.
 
 **Contexte :** Le Cercle des Trois Traits et les familiers

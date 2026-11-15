@@ -44,5 +44,5 @@ Les événements de J−7 à J−1 sont documentés dans la chronique de Varkhû
 
 **Navigation :** [[Tableau de bord — Soren]] · [[Chronologie générale]] · [[Soren Thalvyr]] · [[J-1 — 11 Floréane 427 — Historique|Bilan de la journée]]
 
-> [!note] Source et limites
+> [!NOTE] <!--easygit-callout:original=note,collapse=--> Source et limites
 > Compte rendu repris du résumé de campagne. Les événements ou paroles non consignés ne sont pas inventés.

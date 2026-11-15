@@ -6,7 +6,7 @@ source: "Chronique intégrale J+12 ; état J+13 pour les mentions de situation a
 
 # Maëdrik (Varkhûn)
 
-> [!info] Rôle dans l'aventure
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Rôle dans l'aventure
 > Habitant de Varkhûn croisé aux thermes ; à distinguer de l'expert homonyme d'Aethérion.
 
 **Contexte :** Varkhûn — Famille, proches et habitants

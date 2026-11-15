@@ -9,7 +9,7 @@ section: 3
 
 # 03 — Caractéristiques permanentes
 
-> [!info] Total validé à J+13 : **348 points**
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Total validé à J+13 : **348 points**
 > Titres **actifs** inclus. Hors effets temporaires. Le bonus de 10 % du titre Aventurier Grade D, **inactif**, n'est pas appliqué.
 
 | Statistique | Base J0 | Niveaux récents | Rétroactif 75 % | Adulte de Varkhûn | Total actuel |

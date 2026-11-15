@@ -15,7 +15,7 @@ tags:
 
 **La Crypte des Trois Veilleurs — La découverte du laboratoire clandestin**
 
-> [!info] Repères
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Repères
 > **Jour :** J+10 · **Date :** 22 Floréane 427  
 > **Parcours :** [[Crypte des Trois Veilleurs]] → Laboratoire clandestin des Trois Traits → [[Aethérion]]
 

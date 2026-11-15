@@ -15,7 +15,7 @@ tags:
 
 **Une relation qui s'affirme**
 
-> [!info] Repères
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Repères
 > **Jour :** J-5 · **Date :** 7 Floréane 427  
 > **Parcours :** [[Varkhûn]]
 

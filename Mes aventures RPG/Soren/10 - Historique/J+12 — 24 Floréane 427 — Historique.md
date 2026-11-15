@@ -15,7 +15,7 @@ tags:
 
 **Les téléportations des loups, le noyau légendaire et les négociations royales**
 
-> [!info] Repères
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Repères
 > **Jour :** J+12 · **Date :** 24 Floréane 427  
 > **Parcours :** [[Aethérion]] → [[Guilde des Aventuriers d’Aethérion]] → Salle et parcours d'entraînement → [[Annexe des Compagnons]] → La Marmite des Clans
 

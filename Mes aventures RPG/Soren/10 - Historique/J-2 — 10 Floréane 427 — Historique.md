@@ -15,7 +15,7 @@ tags:
 
 **Le dernier entraînement et la cabane d'enfance**
 
-> [!info] Repères
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Repères
 > **Jour :** J-2 · **Date :** 10 Floréane 427  
 > **Parcours :** [[Varkhûn]] → Atelier de Torven → Ancienne cabane de Soren → Maison de Vaeren
 

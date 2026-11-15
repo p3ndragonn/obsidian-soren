@@ -4,7 +4,7 @@ campagne: Soren
 ---
 # Chronologie générale — Soren
 
-**Monde :** Vaeloria · **Royaume :** Tharvélis · **Période archivée :** J−7 à J+15, du 5 au 27 Floréane 427.
+**Monde :** Vaeloria · **Royaume :** Tharvélis · **Période archivée :** J−7 à J+12, du 5 au 24 Floréane 427.
 
 | Jour | Date | Journal | Historique synthétique |
 |---|---|---|---|
@@ -28,14 +28,10 @@ campagne: Soren
 | **J+10** | 22 Floréane 427 | [[J+10 — 22 Floréane 427|Journal]] | [[J+10 — 22 Floréane 427 — Historique|Bilan]] |
 | **J+11** | 23 Floréane 427 | [[J+11 — 23 Floréane 427|Journal]] | [[J+11 — 23 Floréane 427 — Historique|Bilan]] |
 | **J+12** | 24 Floréane 427 | [[J+12 — 24 Floréane 427|Journal]] | [[J+12 — 24 Floréane 427 — Historique|Bilan]] |
-| **J+13** | 25 Floréane 427 | [[J+13 — 25 Floréane 427|Journal]] | [[J+13 — 25 Floréane 427 — Historique|Bilan]] |
-| **J+14** | 26 Floréane 427 | [[J+14 — 26 Floréane 427|Journal]] | [[J+14 — 26 Floréane 427 — Historique|Bilan]] |
-
-| **J+15** | 27 Floréane 427 | [[J+15 — 27 Floréane 427|Journal]] | [[J+15 — 27 Floréane 427 — Historique|Bilan]] |
 
 ## État présent
 
-**Dernier point de reprise : [[État de reprise J+16]]**, fin J+15, 27 Floréane 427 à **23 h 45**, Soren au lit **mais éveillé**, loups dans trois paniers. Les précédents points sont archivés.
+La campagne a ensuite progressé à **J+13, 25 Floréane 427, 6 h 06** : [[État de reprise J+13]] et [[Fiche personnage — Soren Thalvyr]].
 
-> [!note] Deux formats complémentaires
+> [!NOTE] <!--easygit-callout:original=note,collapse=--> Deux formats complémentaires
 > Le **journal** conserve le récit détaillé. L'**historique** présente la journée sous forme de rubriques faciles à consulter.

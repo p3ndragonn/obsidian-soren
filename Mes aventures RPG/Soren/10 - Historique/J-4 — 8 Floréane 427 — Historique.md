@@ -15,7 +15,7 @@ tags:
 
 **Un dîner dans la grotte aux cristaux**
 
-> [!info] Repères
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Repères
 > **Jour :** J-4 · **Date :** 8 Floréane 427  
 > **Parcours :** [[Varkhûn]] → [[Grotte cristalline]]
 

@@ -6,7 +6,7 @@ source: "Chronique intégrale J+12 ; état J+13 pour les mentions de situation a
 
 # Bromdur
 
-> [!info] Rôle dans l'aventure
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Rôle dans l'aventure
 > Examine les Crocs et recommande Dornak.
 
 **Contexte :** Le voyage — Valbois, Rochebrune et Clairerive

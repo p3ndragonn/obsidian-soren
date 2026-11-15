@@ -102,5 +102,5 @@ La mission D-156 sera officiellement réglée le lendemain. Les trois bourses ne
 
 **Navigation :** [[Tableau de bord — Soren]] · [[Chronologie générale]] · [[Soren Thalvyr]] · [[J+10 — 22 Floréane 427 — Historique|Bilan de la journée]]
 
-> [!note] Source et limites
+> [!NOTE] <!--easygit-callout:original=note,collapse=--> Source et limites
 > Compte rendu repris du résumé de campagne. Les événements ou paroles non consignés ne sont pas inventés.

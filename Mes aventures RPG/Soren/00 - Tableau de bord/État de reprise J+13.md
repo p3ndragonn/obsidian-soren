@@ -5,7 +5,7 @@ version: J+13
 ---
 # État de reprise — J+13
 
-> [!info] Point narratif officiel
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Point narratif officiel
 > **25 Floréane 427 · J+13 · 6 h 06.** Soren et Tévan ont quitté [[Aethérion]] avec leurs quatre familiers, en direction des **bois du nord-est**, pour une chasse matinale dirigée par Tévan.
 
 | Élément | État |

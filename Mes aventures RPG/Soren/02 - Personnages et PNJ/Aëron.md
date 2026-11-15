@@ -6,7 +6,7 @@ source: "Chronique intégrale J+12 ; état J+13 pour les mentions de situation a
 
 # Aëron
 
-> [!info] Rôle dans l'aventure
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Rôle dans l'aventure
 > Jeune Lupin de dix ans à qui Soren transmet son ancienne cabane.
 
 **Contexte :** Varkhûn — Famille, proches et habitants

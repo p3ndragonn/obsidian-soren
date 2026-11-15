@@ -15,7 +15,7 @@ tags:
 
 **Les Crocs de la Ravine et la première trace du complot**
 
-> [!info] Repères
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Repères
 > **Jour :** J+8 · **Date :** 20 Floréane 427  
 > **Parcours :** [[Aethérion]] → [[Ravine de l’Aube]] → [[Les Cuirs de l’Épervier]] → Dortoir n° 12
 

@@ -6,7 +6,7 @@ source: "Chronique intégrale J+12 ; état J+13 pour les mentions de situation a
 
 # Rhovan
 
-> [!info] Rôle dans l'aventure
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Rôle dans l'aventure
 > Ami d'enfance, futur bâtisseur, également célébré à J0.
 
 **Contexte :** Varkhûn — Famille, proches et habitants

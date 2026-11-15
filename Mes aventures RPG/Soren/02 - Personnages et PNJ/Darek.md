@@ -6,7 +6,7 @@ source: "Chronique intégrale J+12 ; état J+13 pour les mentions de situation a
 
 # Darek
 
-> [!info] Rôle dans l'aventure
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Rôle dans l'aventure
 > Ami cuisinier et éclaireur. Fournit des provisions et participe au banquet.
 
 **Contexte :** Varkhûn — Famille, proches et habitants

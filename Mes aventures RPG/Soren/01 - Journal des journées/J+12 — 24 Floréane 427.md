@@ -330,5 +330,5 @@ Les deux hommes rentrent à l'Annexe des Compagnons et retrouvent leurs quatre f
 
 **Navigation :** [[Tableau de bord — Soren]] · [[Chronologie générale]] · [[Soren Thalvyr]] · [[J+12 — 24 Floréane 427 — Historique|Bilan de la journée]]
 
-> [!note] Source et limites
+> [!NOTE] <!--easygit-callout:original=note,collapse=--> Source et limites
 > Compte rendu repris du résumé de campagne. Les événements ou paroles non consignés ne sont pas inventés.

@@ -15,7 +15,7 @@ tags:
 
 **De Rochebrune à Clairerive**
 
-> [!info] Repères
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Repères
 > **Jour :** J+5 · **Date :** 17 Floréane 427  
 > **Parcours :** Route Rochebrune–Clairerive → [[Clairerive]] → Auberge du Cerf d'Argent → Cour des Lices → Bains des Deux Sources
 

@@ -15,7 +15,7 @@ tags:
 
 **Les premiers rapprochements**
 
-> [!info] Repères
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Repères
 > **Jour :** J-6 · **Date :** 6 Floréane 427  
 > **Parcours :** [[Varkhûn]]
 

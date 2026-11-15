@@ -15,7 +15,7 @@ tags:
 
 **La chasse au sanglier cuirassé de Valcendre**
 
-> [!info] Repères
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Repères
 > **Jour :** J+7 · **Date :** 19 Floréane 427  
 > **Parcours :** [[Aethérion]] → [[Valcendre]] → [[Les Cuirs de l’Épervier]]
 

@@ -4,10 +4,6 @@ campagne: Soren
 ---
 # Répertoire des personnages — Soren
 
-> [!info] Compléments aux personnages — J+15
-> **[[Narek (Aethérion)]] félin de grade C ≠ [[Narek]] Lupin charpentier de Varkhûn** ; **[[Edric (Aethérion)]] expert adjoint ≠ [[Edrik]] combattant de Valbois**. [[Garron]] berger des collines orientales ; [[Maître Orven]] propriétaire ayant signé l'accord écrit du portail de la boutique. Ces personnages sont documentés dans leurs fiches spécifiques. **Situation actuelle : [[État de reprise J+16]]**, et non les instantanés J+12/J+14 listés plus bas.
-
-
 | Groupe | Personnages |
 |---|---|
 | **Varkhûn — proches** | [[Vaeren Thalvyr]], [[Kaelor Vargan]], [[Thorek]], [[Narek]], [[Erynn]], [[Maëlan]], [[Rhovan]], [[Darek]] |
@@ -19,7 +15,7 @@ campagne: Soren
 | **Enquête du Cercle** | [[Maître Veldran]], [[Deux techniciens]], [[Deux gardes]] |
 | **Familiers** | [[Varkhan]], [[Aelkan]], [[Sylkan]], [[Sahir]] |
 
-**Journal et parcours :** [[Chronologie générale]]. **État actuel :** [[État de reprise J+14]]. **Association fondée :** [[Association artisanale Soren–Borin]].
+**Journal et parcours :** [[Chronologie générale]]. **État actuel :** [[État de reprise J+13]].
 
-> [!note] Homonymie
+> [!NOTE] <!--easygit-callout:original=note,collapse=--> Homonymie
 > Les deux fiches **Maëdrik** correspondent à des personnes distinctes ; ne pas les fusionner.

@@ -6,7 +6,7 @@ source: "Chronique intégrale J+12 ; état J+13 pour les mentions de situation a
 
 # Odran et Lysa
 
-> [!info] Rôle dans l'aventure
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Rôle dans l'aventure
 > Couple de marchands rencontré sur la route de Valbois.
 
 **Contexte :** Le voyage — Valbois, Rochebrune et Clairerive

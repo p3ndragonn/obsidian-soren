@@ -15,7 +15,7 @@ tags:
 
 **La nouvelle tenue, les runes et le générateur de Borin**
 
-> [!info] Repères
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Repères
 > **Jour :** J+9 · **Date :** 21 Floréane 427  
 > **Parcours :** [[Aethérion]] → [[La Matrice d’Azur]] → Atelier de Guilde n° 7 → [[Les Cuirs de l’Épervier]]
 

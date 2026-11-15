@@ -7,7 +7,7 @@ source: "Chronique intégrale — arrêt J+12"
 
 # État de reprise — J+12
 
-> [!info] Position confirmée
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Position confirmée
 > 24 Floréane 427, **20 h 03**, [[Aethérion]] ; [[Annexe des Compagnons]], chambre **n° 3**.
 
 - **Soren Thalvyr** : 20 ans, Homme-bête Lupin, rang personnel C, grade Guilde D.

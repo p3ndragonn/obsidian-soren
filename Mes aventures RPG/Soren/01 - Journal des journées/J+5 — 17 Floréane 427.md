@@ -42,5 +42,5 @@ Les trois compagnons se couchent en prévoyant un départ très matinal pour la 
 
 **Navigation :** [[Tableau de bord — Soren]] · [[Chronologie générale]] · [[Soren Thalvyr]] · [[J+5 — 17 Floréane 427 — Historique|Bilan de la journée]]
 
-> [!note] Source et limites
+> [!NOTE] <!--easygit-callout:original=note,collapse=--> Source et limites
 > Compte rendu repris du résumé de campagne. Les événements ou paroles non consignés ne sont pas inventés.

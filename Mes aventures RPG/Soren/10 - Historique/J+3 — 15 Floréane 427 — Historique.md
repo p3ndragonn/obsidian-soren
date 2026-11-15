@@ -15,7 +15,7 @@ tags:
 
 **Rochebrune, les artisans et le grand défi culinaire**
 
-> [!info] Repères
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Repères
 > **Jour :** J+3 · **Date :** 15 Floréane 427  
 > **Parcours :** Route Valbois–Rochebrune → [[Pont de Brumecôte]] → [[Rochebrune]] → Auberge du Marteau et de la Chope → [[Atelier des Trois Marteaux]] → Cuirs de Maître Orvik
 

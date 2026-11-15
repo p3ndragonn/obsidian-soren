@@ -15,7 +15,7 @@ tags:
 
 **Le grand départ et la rencontre de Tévan et Hadrien**
 
-> [!info] Repères
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Repères
 > **Jour :** J+2 · **Date :** 14 Floréane 427  
 > **Parcours :** Route Varkhûn–Valbois → [[Valbois]] → Auberge du Cerf Doré → Jardins de Valbois → Terrain d'entraînement
 

@@ -6,7 +6,7 @@ source: "Chronique intégrale J+12 ; état J+13 pour les mentions de situation a
 
 # Edrik
 
-> [!info] Rôle dans l'aventure
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Rôle dans l'aventure
 > Combattant rencontré pendant les entraînements de Valbois.
 
 **Contexte :** Le voyage — Valbois, Rochebrune et Clairerive

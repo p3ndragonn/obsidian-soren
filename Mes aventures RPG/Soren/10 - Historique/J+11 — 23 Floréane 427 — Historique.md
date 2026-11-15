@@ -15,7 +15,7 @@ tags:
 
 **Le premier véritable foyer à Aethérion**
 
-> [!info] Repères
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Repères
 > **Jour :** J+11 · **Date :** 23 Floréane 427  
 > **Parcours :** [[Guilde des Aventuriers d’Aethérion]] → Forêt autorisée au nord-est d’Aethérion → [[Annexe des Compagnons]] → Atelier de Guilde n° 7 → [[Les Cuirs de l’Épervier]] → La Marmite des Clans → Bains de la Guilde
 

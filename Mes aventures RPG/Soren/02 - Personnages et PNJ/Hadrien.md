@@ -6,7 +6,7 @@ source: "Chronique intégrale J+12 ; état J+13 pour les mentions de situation a
 
 # Hadrien
 
-> [!info] Rôle dans l'aventure
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Rôle dans l'aventure
 > Mercenaire humain expérimenté, rencontré à Valbois. Ami, conseiller tactique et compagnon de mission.
 
 **Contexte :** Le voyage — Valbois, Rochebrune et Clairerive

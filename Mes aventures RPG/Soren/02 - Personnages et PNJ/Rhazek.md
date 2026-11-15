@@ -6,7 +6,7 @@ source: "Chronique intégrale J+12 ; état J+13 pour les mentions de situation a
 
 # Rhazek
 
-> [!info] Rôle dans l'aventure
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Rôle dans l'aventure
 > Homme-bête Lion, ancien colocataire de Soren.
 
 **Contexte :** Aethérion — Guilde, artisans et nouvelles connaissances

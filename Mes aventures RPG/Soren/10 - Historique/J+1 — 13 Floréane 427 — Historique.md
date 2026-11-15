@@ -15,7 +15,7 @@ tags:
 
 **Les derniers adieux**
 
-> [!info] Repères
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Repères
 > **Jour :** J+1 · **Date :** 13 Floréane 427  
 > **Parcours :** [[Varkhûn]] → Ruisseau → Maison de Vaeren
 

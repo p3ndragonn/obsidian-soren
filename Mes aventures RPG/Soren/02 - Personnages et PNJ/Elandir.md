@@ -6,7 +6,7 @@ source: "Chronique intégrale J+12 ; état J+13 pour les mentions de situation a
 
 # Elandir
 
-> [!info] Rôle dans l'aventure
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Rôle dans l'aventure
 > Elfe, ancien colocataire, intéressé par l'étude des runes.
 
 **Contexte :** Aethérion — Guilde, artisans et nouvelles connaissances

@@ -15,7 +15,7 @@ tags:
 
 **Une dernière journée avec son père**
 
-> [!info] Repères
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Repères
 > **Jour :** J-1 · **Date :** 11 Floréane 427  
 > **Parcours :** Thermes de Varkhûn → Promontoire des départs → Atelier de Torven → Cabane de Narek → [[Grotte cristalline]] → Maison de Vaeren
 

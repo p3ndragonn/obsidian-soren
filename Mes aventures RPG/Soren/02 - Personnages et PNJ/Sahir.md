@@ -6,7 +6,7 @@ source: "Chronique intégrale J+12 ; état J+13 pour les mentions de situation a
 
 # Sahir
 
-> [!info] Rôle dans l'aventure
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Rôle dans l'aventure
 > Lynx brun doré de Tévan, lié à lui depuis la crypte.
 
 **Contexte :** Le Cercle des Trois Traits et les familiers

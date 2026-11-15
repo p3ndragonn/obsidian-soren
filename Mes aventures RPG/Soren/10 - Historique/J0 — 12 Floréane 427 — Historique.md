@@ -15,7 +15,7 @@ tags:
 
 **La cérémonie des vingt ans**
 
-> [!info] Repères
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Repères
 > **Jour :** J0 · **Date :** 12 Floréane 427  
 > **Parcours :** Place de Varkhûn → Ancienne cabane de Soren → Bains de Varkhûn → Maison de cérémonie
 

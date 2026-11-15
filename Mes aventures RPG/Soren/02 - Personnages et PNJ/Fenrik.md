@@ -6,7 +6,7 @@ source: "Chronique intégrale J+12 ; état J+13 pour les mentions de situation a
 
 # Fenrik
 
-> [!info] Rôle dans l'aventure
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Rôle dans l'aventure
 > Jeune habitant recevant la cabane de Rhovan.
 
 **Contexte :** Varkhûn — Famille, proches et habitants

@@ -15,7 +15,7 @@ tags:
 
 **L'arrivée à Aethérion et la naissance officielle de l'aventurier**
 
-> [!info] Repères
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Repères
 > **Jour :** J+6 · **Date :** 18 Floréane 427  
 > **Parcours :** Route Clairerive–Aethérion → Portes orientales d'Aethérion → [[Guilde des Aventuriers d’Aethérion]] → Dortoir n° 12 → Salle d'entraînement n° 6
 

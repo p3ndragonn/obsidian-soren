@@ -15,7 +15,7 @@ tags:
 
 **Un record d'entraînement et de nouveaux Crocs**
 
-> [!info] Repères
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> Repères
 > **Jour :** J+4 · **Date :** 16 Floréane 427  
 > **Parcours :** [[Rochebrune]] → [[Bastion des Marteaux]] → Bains de Rochebrune → [[Atelier des Trois Marteaux]]
 
