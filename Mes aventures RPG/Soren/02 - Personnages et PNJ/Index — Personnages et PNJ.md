@@ -20,5 +20,24 @@ campagne: Soren
 | Familiers | [[Varkhan]], [[Aelkan]], [[Sylkan]], [[Sahir]] |
 | Intrigues | [[Maître Veldran]] et le [[Cercle des Trois Traits]] |
 
+## Portraits descriptifs complets — groupe proche et dortoir n° 12
+
+> [!NOTE] Référence de continuité
+> Les âges, mensurations, visages, couleurs et vêtements proposés pour ces six personnages ont été **complétés à la demande du Fondateur**, et leurs descriptions détaillées figurent dans les fiches liées. Les faits historiques, grades et relations établies dans les journaux restent prioritaires. **Borin a déjà sa propre fiche détaillée et son portrait officiel.**
+
+| Personnage | Race et relation avec Soren | Âge proposé | Taille proposée | Poids proposé |
+|---|---|---:|---:|---:|
+| [[Tévan]] | Humain, duelliste, ami proche et ancien partenaire romantique | 25 ans | 1,83 m | 79 kg |
+| [[Sahir]] | Grand lynx brun doré, familier de Tévan | 5 ans | 83 cm au garrot | 38 kg |
+| [[Rhazek]] | Homme-bête Lion, ancien colocataire n° 12 | 32 ans | 2,04 m | 124 kg |
+| [[Elandir]] | Elfe intéressé par les runes, ancien colocataire n° 12 | 96 ans | 1,88 m | 76 kg |
+| [[Darian]] | Humain sarcastique, ancien colocataire n° 12 | 30 ans | 1,80 m | 82 kg |
+| [[Faëric]] | Homme-bête Renard sociable, ancien colocataire n° 12 | 27 ans | 1,76 m | 71 kg |
+| [[Borin]] | Nain forgeron, ancien colocataire n° 12, associé de Soren | 74 ans | 1,42 m | 96 kg |
+
+**Composition historique du dortoir masculin n° 12 :** Soren, Borin, Rhazek, Elandir, Darian et Faëric. **Tévan et Sahir n'en faisaient pas partie** ; Tévan a occupé le dortoir n° 14, puis la chambre n° 5 de l'Annexe des Compagnons. [[Hadrien]] est un compagnon d'aventure distinct du dortoir.
+
+**Situation relationnelle de Tévan à J+15 :** Soren a expliqué qu'il ne souhaitait qu'une amitié, sans couple ni exclusivité ; Tévan a exprimé ses sentiments et respecte cette décision.
+
 Les autres personnages sont classés dans le [[Chronologie détaillée et index des PNJ|répertoire complet]].
 
