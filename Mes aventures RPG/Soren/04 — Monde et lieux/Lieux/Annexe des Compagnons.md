@@ -7,6 +7,10 @@ source: "Chronique intégrale — arrêt J+12"
 
 # Annexe des Compagnons
 
+> [!important] RÈGLE CANONIQUE DU FONDATEUR — APPLICABLE DEPUIS LE DÉBUT DU SÉJOUR
+> Le **petit-déjeuner de la Guilde est compris dans le prix de la chambre**, pour **Soren ET ses trois loups Varkhan, Aelkan, Sylkan**. Aucun règlement additionnel n'est jamais demandé le matin, **y compris pour leurs portions généreuses et les brioches**. **Toute réplique narrative proposant une addition au petit-déjeuner est annulée et n'entraîne aucune dépense.** Réaffirmé à J+17, 29 Floréane 427, vers 6 h 24, alors que Soren et les trois loups viennent de terminer leur petit déjeuner.
+
+
 ## Situation J+15 — 27 Floréane 427
 - Soren loge toujours en **chambre n° 3**, sa réservation restant payée jusqu'au **22 Clairvent 427 inclus**, petit déjeuner compris pour lui et ses trois loups.
 - **Varkhan** dort ou se repose dans son panier près de la porte ; **Aelkan** dans son panier contre le mur ; **Sylkan** dans son panier près du pied du lit.

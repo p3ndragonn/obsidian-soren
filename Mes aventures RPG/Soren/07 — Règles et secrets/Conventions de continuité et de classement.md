@@ -7,7 +7,7 @@ statut: actif
 # Conventions de continuité et de classement
 
 ## Une seule source actuelle par domaine
-- **Dernière scène et tâches immédiatement à jouer :** [[État de reprise J+16]] (jusqu'à nouvelle scène validée).
+- **Dernière sauvegarde complète :** [[État de reprise J+17]] (veille de J+17). **Début J+17 déjà joué :** réveil de Soren à 4 h 30, douche, réveil de ses loups, habillage avec sa cape noire, petit-déjeuner à la Guilde terminé vers 6 h 24. À conserver dans le prochain journal J+17 sans antidater l'état J+16.
 - **Progression et chiffres du personnage :** [[Statut — Soren]] ; les fiches de compétences en détaillent les mécanismes.
 - **Dépenses, recettes et solde :** [[Comptabilité — Soren]]. Si une dépense manque, le solde est **inconnu**, pas calculé arbitrairement.
 - **Apparence officielle :** [[01 - Identité et apparence]] et [[Index des illustrations]].
@@ -15,6 +15,10 @@ statut: actif
 - **Objets :** [[Index — Équipements et possessions]] puis les fiches de chaque artefact.
 - **Entreprise :** [[Association artisanale Soren–Borin]] ; bâtiment dans [[La Porte de l'Aube]] ; obligations restantes dans [[Générateur de Borin]].
 - **Chronique :** [[Chronologie générale]] et les récits/bilans datés, sans substitution au point de reprise courant.
+
+## Règle du logement à la Guilde — petit-déjeuner
+- **Décision explicite du Fondateur, rétroactive au début du séjour :** le petit-déjeuner est **inclus dans le prix de la chambre** à l'[[Annexe des Compagnons]] pour Soren et ses trois loups. **Aucune addition, aucun paiement et aucune dépense personnelle pour le petit-déjeuner**, même pour de grosses commandes et des brioches. Les propositions d'addition dans les scènes antérieures sont à ignorer.
+- Cette règle ne concerne **pas automatiquement** les déjeuners, dîners, tavernes ou achats hors petit-déjeuner, qui suivent leur propre comptabilité.
 
 ## Bestiaire et création d'espèces
 - **Catalogue :** [[Index — Bestiaire]] avec deux sous-ensembles clairement séparés : [[Index — Animaux]] et [[Index — Monstres]].
