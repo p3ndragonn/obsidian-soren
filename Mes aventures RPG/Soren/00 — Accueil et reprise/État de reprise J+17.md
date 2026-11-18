@@ -28,8 +28,8 @@ statut: archive
 - **Arvand achète effectivement 1 sceau contre 250 000 Pièces à 8 h J+16**, par contrat signé du SYSTÈME ; bénédiction de réserve de mana **>50 %** reçue. **Deux sceaux restent à Soren**, audience royale J+20 seulement envisagée/prévue, aucune vente royale.
 - **Cœur de mana** toujours à Soren, **générateur d'arène** à Borin. **Baguette des Trois Veilleurs** amovible, portable (environ 20 cm dans la scène J+16), permet d'ouvrir vers le domaine depuis la position de Soren ; **lui seul l'active**, utilisée J+16.
 - Versements **18 000 Pièces à Tévan** et **18 000 à Hadrien** sur promesses de 55 000 à chacun : **37 000 encore à verser à chacun**.
-- **Dîner du soir 146 Pièces payé**, incluant 3 portions de viande pour les loups. Déjeuner du midi **payé mais sans prix documenté**.
-- Dernier solde certain **415 Pièces fin J+15** ; flux chiffrés J+16 conduisent à **214 269 Pièces avant déjeuner/dépenses non chiffrées**. **Solde exact fin J+16 inconnu**, ne pas considérer 214 269 comme un solde définitivement confirmé.
+- **Dîner du soir 146 Pièces payé**, incluant 3 portions de viande pour les loups. Déjeuner du midi **intégralement payé par Borin : 0 Pièce débitée à Soren**.
+- Solde confirmé **415 Pièces fin J+15** ; flux J+16 conduisent à **214 269 Pièces, solde exact fin J+16**, après clarification du paiement du déjeuner par Borin.
 
 ## La Porte de l'Aube — veille de l'ouverture
 - Commerce de 16 m² au Passage des Compagnons ; **Borin 55 % / Soren 45 % des bénéfices nets** ; installations fermées/sécurisées soir J+16. **Aucune vente, réservation payante, recette ni ouverture publique encore jouée.**

@@ -7,7 +7,7 @@ statut: renvoi
 
 # 15 — Situation financière
 
-> [!success] Fin J+17 : solde exact inconnu ; **214 203 P avant dépenses non chiffrées**. 3 780 P reçues par la société et non par Soren ; 71 P à encaisser demain. Voir [[Comptabilité — Soren]].
+> [!success] Fin J+17 : **214 203 P, solde personnel exact validé** ; déjeuner J+16 payé intégralement par Borin. 3 780 P reçues par la société et non par Soren ; 71 P à encaisser demain. Voir [[Comptabilité — Soren]].
 
 **Source unique : [[Comptabilité — Soren]].**
 

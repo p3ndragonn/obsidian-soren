@@ -39,7 +39,7 @@ Ils réservent **1 % du mana à l'évacuation d'urgence**, avec recalcul des des
 Les onze espaces sont chargés simultanément et une **forge supplémentaire sous la montagne est employée uniquement comme stress test énergétique** : elle n'est **pas une douzième salle commerciale**. Le dispositif limite les puissances sous forte charge pour privilégier la sécurité. **Pour la démonstration du dragon, les dix autres modules devront être éteints.** Vers 13 h 09, **voyant vert des contrôles automatisés**. La boutique est jugée prête, avec vigilance ; **aucune ouverture au public, vente, réservation payante ni recette n'est réalisée J+16**.
 
 ## 5. Déjeuner, domaine privé et relations — midi à 16 h 10
-Soren déjeune à **La Marmite du Compagnon** avec Borin et Tévan, commande notamment **trois plats et une tarte aux pommes entière**, en partage deux parts avec ses amis. **Le montant de ce déjeuner n'est pas indiqué**, même si le repas est réglé.
+Soren déjeune à **La Marmite du Compagnon** avec Borin et Tévan, commande notamment **trois plats et une tarte aux pommes entière**, en partage deux parts avec ses amis. **Borin règle intégralement le déjeuner : aucune dépense pour Soren.** Le prix total du repas n'est pas établi.
 
 Soren et Tévan transmettent l'invitation d'Arvand en main propre, affichent le programme à la Guilde et distribuent les autres invitations via messagers.
 
@@ -69,7 +69,7 @@ La conversation se prolonge pendant environ une heure sur le combat « à l'anci
 
 Tévan suggère de créer **des cours particuliers avec instructeurs spécialisés**, **plus chers** que la location simple ; Soren accepte l'idée de principe et plaisante sur le côté négociant de Tévan. **Aucun prix, embauche, accord de Borin, créneau ni vente n'est arrêté.**
 
-Soren règle **l'addition complète du dîner : 146 Pièces**, comprenant **trois portions généreuses de viande nature à emporter pour Varkhan, Aelkan et Sylkan**. Cette dépense se distingue du déjeuner du même jour, non chiffré.
+Soren règle **l'addition complète du dîner : 146 Pièces**, comprenant **trois portions généreuses de viande nature à emporter pour Varkhan, Aelkan et Sylkan**. Cette dépense se distingue du déjeuner du même jour, payé par Borin.
 
 ## 8. Visite de la boutique, nuit et journal — 21 h 48 à 23 h 43
 Soren propose de montrer rapidement La Porte de l'Aube à Hadrien. En compagnie de Tévan et Sahir, il lui présente le local de 16 m², les passages dimensionnels, les **cinq ateliers, cinq salles et grande arène**. Hadrien est enthousiasmé, sans découvrir l'identité du dragon final. Boutique **refermée et sécurisée** après la visite. Hadrien prend congé.
@@ -81,7 +81,7 @@ Les loups racontent une journée d'entraînement autonome : parcours d'obstacles
 Une dernière idée le retient : **il invite Varkhan, Aelkan et Sylkan à l'inauguration J+17**. **Tous trois acceptent** et se réjouissent de voir les ateliers, les salles et la démonstration finale. Soren leur demande de rester proches en public, de ne pas voler de nourriture et de **ne pas utiliser ouvertement leurs compétences secrètes ni leurs téléportations sans autorisation**. La démonstration du dragon reste une surprise. **Vers 23 h 43, Soren s'endort enfin**, entouré de sa meute.
 
 ## 9. Finances, état canonique et prochaines échéances
-- Solde **vérifié fin J+15 : 415 Pièces**. Opérations J+16 **effectivement chiffrées** : **+250 000 Pièces** vente à Arvand, **−18 000** à Tévan, **−18 000** à Hadrien, **−146** dîner et viande. **415 + 250 000 − 18 000 − 18 000 − 146 = 214 269 Pièces AVANT le déjeuner et les autres débours non chiffrés** ; **ne pas annoncer 214 269 comme solde final exact**.
+- Solde **vérifié fin J+15 : 415 Pièces**. Opérations J+16 **effectivement chiffrées** : **+250 000 Pièces** vente à Arvand, **−18 000** à Tévan, **−18 000** à Hadrien, **−146** dîner et viande. **415 + 250 000 − 18 000 − 18 000 − 146 = 214 269 Pièces : solde personnel exact fin J+16**, le déjeuner ayant été offert par Borin.
 - Restent **2 sceaux de mana** ; le **Cœur est à Soren**, le **générateur à Borin**. **37 000 Pièces encore promises à chacun des deux amis**, pas encore versées.
 - **Aucun nouveau rang, niveau, point permanent, maîtrise chiffrée ou revenu commercial** confirmé à J+16.
 - J+17 à 10 h : **inauguration prévue mais pas jouée**, accompagnement accepté par les trois loups ; à 16 h 30, **duel simulé contre dragon de feu [A] prévu mais résultat inconnu**.

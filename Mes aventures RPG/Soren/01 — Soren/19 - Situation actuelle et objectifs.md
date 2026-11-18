@@ -7,7 +7,7 @@ statut: actuel
 
 # 19 — Situation actuelle et objectifs
 
-**Dernière scène jouée : [[État de reprise J+16]].** Fin J+15, 27 Floréane 427 à 23 h 45. Soren est couché mais encore éveillé ; les trois loups sont dans leurs paniers. **Nuit, réveil et actions J+16 non joués.**
+**Ancienne scène de référence (historique) : [[État de reprise J+16]].** Fin J+15, 27 Floréane 427 à 23 h 45. Soren est couché mais encore éveillé ; les trois loups sont dans leurs paniers. **Nuit, réveil et actions J+16 non joués.**
 
 ## Dossiers ouverts sans résultat anticipé
 - **J+16 à 8 h :** rendez-vous d'[[Arvand Rethmar]] pour **un sceau de transfert à 250 000 Pièces** ; financement réuni, **vente non conclue** à fin J+15.
@@ -16,7 +16,7 @@ statut: actuel
 - [[Enquête — Cercle des Trois Traits]] toujours ouverte ; suites inconnues.
 - [[Matériaux des Crocs de Pierre]] conservés et non vendus ; Borin ne les a pas encore examinés.
 
-Le **solde exact est inconnu**, le niveau et les statistiques ne changent pas sans décision officielle. Soren a informé Tévan de sa volonté d'amitié en J+15. L'ancien programme J+14 ainsi que ses premières intentions J+13 sont des **archives**, conservées intégralement.
+Le **solde exact fin J+17 est de 214 203 Pièces**, le niveau et les statistiques ne changent pas sans décision officielle. Soren a informé Tévan de sa volonté d'amitié en J+15. L'ancien programme J+14 ainsi que ses premières intentions J+13 sont des **archives**, conservées intégralement.
 
 **Sources :** [[Index — Quêtes]] · [[Comptabilité — Soren]] · [[Groupe d’aventure]].
 

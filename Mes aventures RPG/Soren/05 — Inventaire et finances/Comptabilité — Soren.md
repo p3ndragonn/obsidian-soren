@@ -8,10 +8,10 @@ version: "fin J+17"
 # Comptabilité — Soren
 
 > [!success] ÉTAT PRIORITAIRE — FIN J+17
-> Dîner personnel payé **66 P** (12 bières, 30 plats, 24 viande) ; petit-déjeuner inclus 0 P. **214 203 P avant déjeuner J+16 et autres débours non chiffrés** ; solde exact indéterminé. Société distincte : **3 780 P encaissées**, 71 P réservations futures non encaissées, aucun bénéfice distribué. Deux sceaux restent et 37 000 P promis à chacun des deux amis. [[État de reprise J+18]] · [[Contrat Guilde — La Porte de l'Aube]].
+> Dîner personnel payé **66 P** (12 bières, 30 plats, 24 viande) ; petit-déjeuner inclus 0 P. **214 203 P : solde personnel exact validé fin J+17.** Le déjeuner de J+16 a été intégralement payé par Borin (0 P pour Soren), selon la précision du joueur ; aucune régularisation restante. Société distincte : **3 780 P encaissées**, 71 P réservations futures non encaissées, aucun bénéfice distribué. Deux sceaux restent et 37 000 P promis à chacun des deux amis. [[État de reprise J+18]] · [[Contrat Guilde — La Porte de l'Aube]].
 
 > [!success] RELEVÉ HISTORIQUE — FIN J+16
-> **415 Pièces est le solde établi FIN J+15**, non le solde courant. J+16 : **+250 000 Pièces** vente effective d'1 sceau à Arvand ; **−18 000** à Tévan, **−18 000** à Hadrien ; **−146 Pièces** dîner du soir et viande des loups. Calcul **415 + 250 000 − 18 000 − 18 000 − 146 = 214 269 Pièces AVANT déjeuner J+16 et autres débours non chiffrés**. **Solde final exact indéterminé.** Restent **2 sceaux** et des **promesses non encore payées de 37 000 Pièces à chacun de Tévan et Hadrien**. Aucun revenu de la boutique. [[État de reprise J+17]].
+> **415 Pièces est le solde établi FIN J+15**, non le solde courant. J+16 : **+250 000 Pièces** vente effective d'1 sceau à Arvand ; **−18 000** à Tévan, **−18 000** à Hadrien ; **−146 Pièces** dîner du soir et viande des loups. Calcul **415 + 250 000 − 18 000 − 18 000 − 146 = 214 269 Pièces**, solde exact fin J+16 après confirmation que Borin a payé le déjeuner. Restent **2 sceaux** et des **promesses non encore payées de 37 000 Pièces à chacun de Tévan et Hadrien**. Aucun revenu de la boutique. [[État de reprise J+17]].
 
 
 > [!note] Relevé historique FIN J+15 — **415 Pièces** (non actuel à J+16)
@@ -40,6 +40,10 @@ version: "fin J+17"
 | J+15 — mission D-221 payée | **+340** |
 | **Fin J+14** | **111** |
 | **Fin J+15 — solde personnel confirmé** | **415** |
+| **Fin J+16 — solde personnel confirmé** | **214 269** |
+| J+17 — petit-déjeuner inclus | **0** |
+| J+17 — dîner personnel (12 boissons + 30 plats + 24 viande) | **−66** |
+| **Fin J+17 — solde personnel confirmé** | **214 203** |
 
 ## Mouvements encaissés / payés à J+16
 
@@ -49,9 +53,21 @@ version: "fin J+17"
 | Versement à [[Tévan]], acompte sur 55 000 promis | **18 000** | — |
 | Versement à [[Hadrien]], acompte sur 55 000 promis | **18 000** | — |
 | Dîner du soir à La Marmite du Compagnon, boissons et 3 rations pour la meute | **146** | — |
-| Déjeuner de midi à La Marmite du Compagnon | **Montant non précisé** | — |
+| Déjeuner de midi à La Marmite du Compagnon, intégralement payé par Borin | **0** | — |
 
-**Solde provisoire calculable hors dépenses inconnues : 214 269 Pièces ; ne pas le présenter comme solde certifié de fin J+16.** Les 37 000 Pièces **restantes** dues à chacun ne sont pas débitées. Le produit de la vente de sceau appartient personnellement à Soren, pas à la société. Deux sceaux demeurent à Soren, audience royale J+20 non conclue.
+**Solde personnel confirmé fin J+16 : 214 269 Pièces.** Les 37 000 Pièces **restantes** dues à chacun ne sont pas débitées. Le produit de la vente de sceau appartient personnellement à Soren, pas à la société. Deux sceaux demeurent à Soren, audience royale J+20 non conclue.
+
+## Mouvements personnels J+17
+
+| Opération | Débit | Crédit |
+|---|---:|---:|
+| Petit-déjeuner inclus | 0 | — |
+| Quatre bières | 12 | — |
+| Trois plats | 30 | — |
+| Viande des trois loups | 24 | — |
+
+**Solde fin J+17 : 214 269 − 66 = 214 203 Pièces.**
+Sur les dernières 72 h en jeu : base 111 P ; recettes 250 340 P, dépenses 36 248 P, variation +214 092 P. Contrat Guilde (3 780 P) et réservations non encaissées (71 P) relèvent de la société, sans distribution personnelle.
 
 ## Vérification arithmétique au 27 Floréane 427 (J+15)
 
@@ -66,9 +82,9 @@ version: "fin J+17"
 **Équation vérifiée : 228 − 86 − 31 − 36 + 340 = 415 Pièces.**
 
 - Le **montant du dîner, 31 Pièces**, est une **précision explicite donnée ultérieurement par le Fondateur** et non un prix attesté dans la version initiale du journal J+14.
-- **415 Pièces** est le **solde courant confirmé**, avant toute nouvelle action à J+16.
+- **415 Pièces** est le **solde historique confirmé fin J+15**, avant toute nouvelle action à J+16.
 - Les **43 Pièces de dépôt** représentent en outre un dépôt de garantie potentiellement récupérable, **mais ne sont plus disponibles en trésorerie**. Les **86 Pièces** versées sont une avance de Soren pour son entreprise, **non un revenu reçu**.
-- **Aucun chiffre de J+16** n'est ajouté : le rendez-vous avec Arvand, les ventes potentielles et l'ouverture de la boutique n'ont pas encore été joués.
+- Ce relevé est historique : les opérations J+16/J+17 figurent dans les sections actualisées ci-dessus.
 
 **Sources d'arbitrage :** [[J+12 — 24 Floréane 427 — Historique]], [[J+13 — 25 Floréane 427 — Historique]], [[J+14 — 26 Floréane 427]], [[J+15 — 27 Floréane 427]], [[État de reprise J+16]].
 
