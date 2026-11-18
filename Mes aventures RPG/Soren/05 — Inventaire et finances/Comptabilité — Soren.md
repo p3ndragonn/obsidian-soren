@@ -2,12 +2,15 @@
 type: comptabilite
 campagne: Soren
 statut: reference_financiere
-version: "fin J+16"
+version: "fin J+17"
 ---
 
 # Comptabilité — Soren
 
-> [!success] ÉTAT PRIORITAIRE — FIN J+16
+> [!success] ÉTAT PRIORITAIRE — FIN J+17
+> Dîner personnel payé **66 P** (12 bières, 30 plats, 24 viande) ; petit-déjeuner inclus 0 P. **214 203 P avant déjeuner J+16 et autres débours non chiffrés** ; solde exact indéterminé. Société distincte : **3 780 P encaissées**, 71 P réservations futures non encaissées, aucun bénéfice distribué. Deux sceaux restent et 37 000 P promis à chacun des deux amis. [[État de reprise J+18]] · [[Contrat Guilde — La Porte de l'Aube]].
+
+> [!success] RELEVÉ HISTORIQUE — FIN J+16
 > **415 Pièces est le solde établi FIN J+15**, non le solde courant. J+16 : **+250 000 Pièces** vente effective d'1 sceau à Arvand ; **−18 000** à Tévan, **−18 000** à Hadrien ; **−146 Pièces** dîner du soir et viande des loups. Calcul **415 + 250 000 − 18 000 − 18 000 − 146 = 214 269 Pièces AVANT déjeuner J+16 et autres débours non chiffrés**. **Solde final exact indéterminé.** Restent **2 sceaux** et des **promesses non encore payées de 37 000 Pièces à chacun de Tévan et Hadrien**. Aucun revenu de la boutique. [[État de reprise J+17]].
 
 

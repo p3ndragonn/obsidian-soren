@@ -1,7 +1,7 @@
 ---
 type: lieu_commercial
 campagne: Soren
-statut: "installations testées et prêtes, fermées fin J+16 ; inauguration prévue J+17"
+statut: "inaugurée J+17 ; ouverture commerciale J+18"
 date_creation: "26 Floréane 427"
 ---
 
@@ -9,8 +9,8 @@ date_creation: "26 Floréane 427"
 
 **Passage des Compagnons, [[Aethérion]]** : local D de **16 m²**, vitrine, comptoir, enseigne **La Porte de l'Aube**, seuil vers salles dimensionnelles commerciales. Bail de **12 mois, 43 Pièces/mois** ; premier loyer et dépôt de **43 + 43 = 86 Pièces** avancés par Soren en J+14. **[[Maître Orven]] autorise par écrit le portail réversible J+15 à 15 h 26**.
 
-> [!success] SITUATION FIN J+16
-> Les installations ont passé les **derniers contrôles automatisés J+16 (voyant vert)**, la boutique a été montrée à Hadrien le soir, puis **refermée et sécurisée**. **Aucun client, réservation payante, recette ni ouverture publique à J+16.** **Ouverture inaugurale prévue J+17, 29 Floréane, à 10 h**, non encore jouée.
+> [!success] SITUATION FIN J+17
+> Inauguration réussie ; boutique fermée 17 h 41 et sécurisée. Horaires quotidiens 8 h–20 h dès J+18 ; réservations à l'accueil. Contrat Guilde signé, 3 780 P encaissées et 71 P de réservations individuelles à encaisser. Dragon simulé A vaincu seul par Soren 16 h 44, boucliers intacts, aucun test réel massif d'évacuation. [[État de reprise J+18]].
 
 ## Espaces et capacités
 - **5 ateliers × 3 artisans = 15 personnes** ;
@@ -27,7 +27,7 @@ Personnalisation des biomes, terrains, monstres simulés, obstacles, scénarios 
 - **1 % flux mana exclusivement pour évacuation d'urgence**, destinations recalculées dans les rues adjacentes avec groupes espacés. Essai réel **Soren/Borin/Tévan/Sahir : 4/4 réussis**. **Jamais testé en évacuation réelle sur 80/125 personnes**.
 - Répartition **97 % exploitation / 2 % protections / 1 % évacuation**. Sous surcharge d'essai, limitation volontaire pour préserver la sécurité. Pour le dragon final, **couper les dix autres modules**.
 
-## Programme public prévu J+17
+## Programme public réalisé J+17
 | Heure | Animation |
 |---|---|
 | 10 h 00 | Accueil et inauguration |
@@ -38,9 +38,12 @@ Personnalisation des biomes, terrains, monstres simulés, obstacles, scénarios 
 | 16 h 30 | « Combat en arène : 1 contre 1 » |
 | 17 h 30 | Clôture / échanges |
 
-**Secret :** Soren doit affronter un **dragon de feu simulé [A]** à 16 h 30. Cette identité **n'est pas annoncée au public et reste inconnue d'Hadrien** ; démonstration et issue non jouées. **Arvand et Hadrien ont confirmé** ; invitations à Elandir, Rhazek, Faëric, Darian remises sans confirmation.
+**Finale réalisée :** dragon de feu simulé A à 100 %, dix autres modules arrêtés. Soren gagne seul, examen de l'épaule RAS.
 
 ## Exploitation
-[[Association artisanale Soren–Borin]] : **Borin 55 % / Soren 45 % des bénéfices nets**. Générateur d'arène propriété personnelle de Borin ; **Cœur de mana** propriété personnelle de Soren ; [[Domaine privé de Soren et Borin]] distinct des services commerciaux. [[La Porte de l'Aube — Grille tarifaire]] : **projet non approuvé par Borin**. Idée de **cours particuliers payants à tarif supérieur**, acceptée en principe par Soren après suggestion de Tévan J+16, **pas encore tarifée ni commercialisée**.
+[[Association artisanale Soren–Borin]] : **Borin 55 % / Soren 45 % des bénéfices nets**. Générateur d'arène propriété personnelle de Borin ; **Cœur de mana** propriété personnelle de Soren ; [[Domaine privé de Soren et Borin]] distinct des services commerciaux. [[La Porte de l'Aube — Grille tarifaire]] : **validée J+17**. Idée de **cours particuliers payants à tarif supérieur**, acceptée en principe par les deux associés, **pas encore tarifée ni commercialisée**.
 
 [[État de reprise J+17]] · [[Générateur de Borin]] · [[J+16 — 28 Floréane 427]].
+
+## Contrat et réservations
+[[Contrat Guilde — La Porte de l'Aube]] ; 3 salles 13–20 h, 30 jours dès J+18. Deux employés envisagés, aucun recrutement effectué.

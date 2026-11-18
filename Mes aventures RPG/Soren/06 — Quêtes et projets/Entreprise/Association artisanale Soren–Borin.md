@@ -1,7 +1,7 @@
 ---
 type: association
 campagne: Soren
-statut: "contrat signé — inauguration prévue J+17"
+statut: "contrat signé — inauguration réalisée J+17"
 jour_creation: "J+13"
 confidentialite: "clauses et apports légendaires non publics"
 ---
@@ -10,9 +10,9 @@ confidentialite: "clauses et apports légendaires non publics"
 
 **Contrat du SYSTÈME signé J+13.**
 
-> [!success] ÉTAT PRIORITAIRE — FIN J+16
-> La boutique est **installée et contrôlée** ; tests automatisés **au vert J+16**. **Inauguration prévue J+17 à 10 h, non encore jouée** ; aucune vente commerciale ni réservation encaissée. **Borin 55 % / Soren 45 % des bénéfices nets, propriétés personnelles intactes.** Idée de cours particuliers de Tévan **acceptée en principe par Soren uniquement**, prix et accord de Borin non établis. [[État de reprise J+17]] · [[La Porte de l'Aube]].
- L'entreprise est exploitée sous le nom [[La Porte de l'Aube]], dont le local D est loué depuis J+14. À fin J+15, **l'accord écrit de Maître Orven pour le portail réversible est signé**, mais les derniers essais et l'ouverture publique restent à effectuer. Aucune recette ni réservation facturée.
+> [!success] ÉTAT PRIORITAIRE — FIN J+17
+> Inauguration réalisée. 3 780 P encaissées par la société grâce au [[Contrat Guilde — La Porte de l'Aube]] ; 71 P réservées à encaisser J+18. Horaires 8–20 h tous les jours, deux employés envisagés, cours particuliers acceptés en principe sans tarif. Parts nettes 55/45 inchangées, pas de distribution. [[État de reprise J+18]].
+ L'entreprise est exploitée sous le nom [[La Porte de l'Aube]], dont le local D est loué depuis J+14. Historique J+15 : accord de Maître Orven signé, ouverture alors en préparation. Situation actuelle : voir encadré J+17.
 
 ## Activité
 La société prévoit **forges et ateliers artisanaux modulables**, **salles d'entraînement et de simulation** et **arène** grâce au [[Générateur d’arène de Borin]]. Les capacités précises et la configuration des 11 espaces sont documentées dans l'artefact et le local commercial, pour éviter de maintenir plusieurs versions techniques.
