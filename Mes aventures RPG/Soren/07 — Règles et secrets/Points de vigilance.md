@@ -13,7 +13,7 @@ statut: actuel
 | Thorek / Tharok | [[Thorek]] est le nom utilisé dans la chronique récente ; les variantes historiques ne doivent pas être corrigées rétroactivement sans validation. |
 | Secrets de la grotte | Origine des cristaux, nature de l'ombre et cause des ondulations **inconnues**. |
 | Téléportations [SS] | Connues seulement des personnes informées dans l'histoire ; partage aux trois loups **révoqué**, distinct du **Partage des sept compétences de Classe [S] actif** depuis J+15. |
-| Ressources et titres | [[Statut — Soren]] : MP naturel 330, après fragment **strictement supérieur à 495**, titre Aventurier Grade D inactif ; ne pas ajouter le bonus de 10 %. |
+| Ressources et titres | [[Statut — Soren]] : MP naturel 400, après fragment **strictement supérieur à 600**, PV 500, EP 650, 366 points répartis fin J+17, titre Aventurier Grade D inactif ; ne pas ajouter le bonus de 10 %. |
 | Argent | [[Comptabilité — Soren]] : solde exact **214 203 Pièces fin J+17**, après confirmation du déjeuner J+16 offert par Borin ; ni estimations ni négociations ni caisse de la société encaissées personnellement. |
 | Biens et propriété | Le générateur appartient à Borin, le Cœur et les trois sceaux à Soren. Ancien accord de 15 % **annulé**. |
 | Baguette des Trois Veilleurs | [[Baguette des Trois Veilleurs — Extension portative du Cœur]] : extension détachable du Cœur, portail mobile vers le domaine, **activation Soren uniquement**, accès des cinq résidents maintenu ; première utilisation non jouée à fin J+15. |
