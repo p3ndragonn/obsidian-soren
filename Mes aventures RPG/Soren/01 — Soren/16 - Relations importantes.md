@@ -37,3 +37,7 @@ Soren conserve une forte affection pour les habitants de Varkhûn, malgré son d
 ---
 
 [[00 - Sommaire de Soren|Retour au sommaire]] · [[Fiche personnage — Soren Thalvyr|Fiche générale]]
+
+
+## J+17 — actualisation
+Tévan soutient les projets d'expéditions de Soren, envisage visite Varkhûn uniquement après le rang B de Soren ; aspirations commerciales propres. Borin et Soren exploitent désormais La Porte de l'Aube, contrat Guilde signé avec Arvand. Hadrien participe aux démonstrations et au dîner. Aucun changement d'exclusivité ni de promesses financières. [[J+17 — 29 Floréane 427]].

@@ -211,3 +211,7 @@ Kaelor doit incarner un **maître vétéran extrêmement expérimenté**, calme,
 ---
 
 **Navigation :** [[Chronologie détaillée et index des PNJ|Répertoire des personnages]] · [[Chronologie générale]]
+
+
+## Témoignage de Soren à Tévan — J+17
+Dix années d'entraînement quotidien sans exception ; Kaelor choisi en connaissance de son exigence, jamais de félicitations selon Soren. À l'adolescence, un mois enfermé en salle de simulation avec provisions après avoir manqué l'entraînement pour retrouver un garçon. Selon Soren, les pères du village ne se prononcent pas sur les méthodes des maîtres. Objectif B avant retour au village, S avant 27 ans. Témoignage, pas événement nouveau de Kaelor à J+17.

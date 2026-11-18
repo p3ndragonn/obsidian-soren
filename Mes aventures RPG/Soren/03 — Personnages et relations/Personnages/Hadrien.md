@@ -290,3 +290,7 @@ Il marche avec assurance, bouge avec précision et conserve une attention presqu
 ---
 
 **Navigation :** [[Chronologie détaillée et index des PNJ|Répertoire des personnages]] · [[Chronologie générale]]
+
+
+## J+17
+Présent à l'inauguration ; essais contre humanoïde puis simulacres Soren et loups, dirige équipe de dix pour démonstration de griffon B interrompue pédagogiquement, propose comparaison tactique. Témoin de victoire dragon simulé A ; apprend détails du vol au dîner. Accompagne les familiers vers la Guilde avant balade de Soren et Tévan. Aucun versement supplémentaire des 37 000 P promises.

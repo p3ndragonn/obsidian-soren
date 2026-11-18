@@ -112,3 +112,7 @@ Il porte une chemise claire, un pourpoint de cuir sombre, une veste vert forêt,
 ---
 
 **Navigation :** [[Chronologie détaillée et index des PNJ|Répertoire des personnages]] · [[Chronologie générale]]
+
+
+## J+17
+Aide à l'inauguration avec Sahir. Dîner puis promenade affectueuse seul avec Soren : soutien à ses futurs voyages, ambitions marchandes propres et progression rapière ; souhaite rencontrer Vaeren et Kaelor, visite Varkhûn repoussée jusqu'au rang B de Soren. Apprend des confidences sur Kaelor et la technique de vol (envisage essai accompagné, non réalisé). Aucun engagement d'exclusivité nouveau. Retour chambre 5 avec Sahir vers 22 h 02.
