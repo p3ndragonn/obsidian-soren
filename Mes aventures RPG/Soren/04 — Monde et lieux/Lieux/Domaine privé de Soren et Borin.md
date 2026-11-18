@@ -34,3 +34,6 @@ Créé et expérimenté à J+14 par [[Soren Thalvyr]] et [[Borin]] ; **résidenc
 **Dossier canonique complet et aménagement pièce par pièce : [[Description intégrale du domaine de Soren et Borin]].** La fiche présente est l'index de ce lieu et non une deuxième description exhaustive.
 
 **Sources :** [[J+14 — 26 Floréane 427]] · [[État de reprise J+16]].
+
+## Actualisation — J+18
+J+18 accès boutique confirmé, Cœur transféré sous comptoir sans interruption, circuit indépendant. Salle grise loups programmée : microtéléportations, appuis, obstacles, cibles, coordination/chasse, protections et pauses. Déménagement prévu J+19, pas joué ; Borin envisage forge privée.

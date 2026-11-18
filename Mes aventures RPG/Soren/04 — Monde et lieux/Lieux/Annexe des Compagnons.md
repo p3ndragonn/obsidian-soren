@@ -23,3 +23,6 @@ source: "Chronique intégrale — arrêt J+12"
 Logement : Soren chambre n° 3 et Tévan chambre n° 5 à J+12.
 
 **Règle de continuité :** ne pas inventer de propriétés, de géographie ou d’événements supplémentaires.
+
+## Actualisation — J+18
+Fin J+18 : Soren et loups chambre 3 endormis après 23 h 08 ; prévoit rendre chambre J+19, prépayée jusqu'au 22 Clairvent inclus. Aucun remboursement/restitution. Tévan et Sahir chambre 5.

@@ -220,3 +220,6 @@ Son expression naturelle est sérieuse mais chaleureuse, avec un regard vif et u
 
 ## J+17
 Valide tarifs, co-inaugure La Porte de l'Aube, gère réservations, accepte/signe contrat Guilde 3 780 P encaissées par entreprise. Envisage deux employés et annonce Guilde des Marchands avant ouverture J+18. Offre seconde tournée au dîner ; apprend technique du vol de Soren. Parts 55 % net inchangées. [[État de reprise J+18]].
+
+## Actualisation — J+18
+J+18 : candidats J+19 7 h, partenariat restaurant, plaque/tablette et installation Cœur avec Soren ; avenant signé 18 h 32 premier versement J+47, trésorerie 3993 P. Accueillera Sylvaris si Soren absent. Envisage forge privée et recherches alliages.

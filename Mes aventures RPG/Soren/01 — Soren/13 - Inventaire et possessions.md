@@ -22,3 +22,6 @@ statut: actuel
 Consulter les fiches d'artefacts et d'objets, puis [[État de reprise J+16]]. Ne jamais transformer un objet confié en propriété de Soren ni une valeur estimée en recette réelle.
 
 **Ancien inventaire J+13 complet conservé dans 99 — Archives.**
+
+## Actualisation — J+18
+J+18 : quatre composants SS réservés non acquis ; Crocs A commandés non livrés ; lettre Arvand et reçu Dagrim détenus. Cœur sous comptoir, baguette sur Soren ; deux sceaux invendus.

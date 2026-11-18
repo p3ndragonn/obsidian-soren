@@ -47,3 +47,6 @@ Personnalisation des biomes, terrains, monstres simulés, obstacles, scénarios 
 
 ## Contrat et réservations
 [[Contrat Guilde — La Porte de l'Aube]] ; 3 salles 13–20 h, 30 jours dès J+18. Deux employés envisagés, aucun recrutement effectué.
+
+## Actualisation — J+18
+J+18 première journée payante CA339 (213 encaissées +126 prépayées), trésorerie3993 P. Cœur sous comptoir 14 h 54, circuit privé indépendant ; [[Tablette de gestion runique]] opérationnelle 16 h 02. Avenant et [[Partenariat — La Marmite du Compagnon]]. Candidats J+19 7 h, 33 modules hypothétiques. Aucun employé engagé/versement.

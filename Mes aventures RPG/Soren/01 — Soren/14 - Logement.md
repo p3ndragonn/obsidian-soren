@@ -43,3 +43,6 @@ Soren et Borin ont créé J+14 un [[Domaine privé de Soren et Borin]], **distin
 *Vue extérieure d'ambiance de la maison dimensionnelle de Soren : façade de pierre claire et bois sombre, trois statues de Varkhan, Aelkan et Sylkan, place à fontaine et accès au jardin. Cette illustration ne constitue pas une nouvelle scène jouée.*
 
 **Continuité :** ces images documentent un projet de résidence existant, mais **aucun emménagement permanent de Soren et de ses trois loups n'est encore joué** à J+15.
+
+## Actualisation — J+18
+Fin J+18 Soren dort chambre 3 ; prévoit restitution et emménagement J+19. Aucune restitution, aucun remboursement de nuits prépayées ni déménagement réalisé. Petit-déjeuner restaurant 5–10 h.

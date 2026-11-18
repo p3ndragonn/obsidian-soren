@@ -21,3 +21,6 @@ La valeur de 232 Pièces (début J+13) et celle de 228 Pièces (fin J+13) sont d
 Un sceau vendu J+16, deux restent ; les estimations de butin et les négociations ne constituent pas des encaissements. Voir [[Vente envisagée du Cœur]] et [[Matériaux des Crocs de Pierre]].
 
 **Archives :** relevé J+13 original conservé en **99 — Archives**.
+
+## Actualisation — J+18
+Fin J+18 : **209 596,25 P personnels**, société **3 993 P** distincte. Composants 114 000 réservés non payés ; Crocs 4 500 payés, 9 000 restant. [[Comptabilité — Soren]].

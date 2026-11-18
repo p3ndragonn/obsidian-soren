@@ -63,3 +63,6 @@ Détails canoniques : [[05 - Compétences de Classe]] · [[08 - Compétences de 
 **Scène de référence :** [[État de reprise J+18]] · **journal :** [[J+17 — 29 Floréane 427]] · **finances :** [[Comptabilité — Soren]] · **inventaire :** [[Index — Équipements et possessions]].
 
 Les fiches historiques J+13 sont conservées dans **99 — Archives** ; les valeurs anciennement exactes ne sont pas une deuxième situation actuelle.
+
+## Actualisation — J+18
+Fin J+18 : rang, niveaux, caractéristiques et EXP chiffrée inchangés ; ressources instantanées inconnues. Arvand connaît statut complet en confidentialité, Dagrim seulement MP max >600. [[État de reprise J+19]].

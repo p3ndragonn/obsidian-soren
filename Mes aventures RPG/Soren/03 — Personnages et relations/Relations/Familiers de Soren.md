@@ -29,3 +29,6 @@ version: "fin J+16"
 - **Fin J+16 ~23 h 43** : Soren endormi avec les trois loups près de lui ; **J+17 pas encore joué**.
 
 [[J+16 — 28 Floréane 427]] · [[État de reprise J+17]] · [[09 - Capacités exceptionnelles et secrètes]].
+
+## Actualisation — J+18
+J+18 : 35 min collectif matin puis autonomie pattes/queue et pauses ; pattes réussies rapportées, queue difficile. Programme salle grise microtéléportations, appuis, obstacles, cibles, meute, pauses/protections. Retour 20 h 07, doubles rations puis chambre 3. Aucun chiffre de maîtrise/vol/rang ajouté.

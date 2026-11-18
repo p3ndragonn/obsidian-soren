@@ -23,3 +23,6 @@ Le **solde exact fin J+17 est de 214 203 Pièces**, le niveau et les statistique
 
 ## Priorité — fin J+17
 [[État de reprise J+18]] : endormi 23 h 23 chambre 3, rendez-vous Arvand 7 h J+18. Inauguration réussie. Missions 5–10 jours avec meute envisagées ; voyage six mois dans environ six mois pour atteindre B ; retour à Varkhûn uniquement après B ; ambition S avant 27 ans. Intentions, pas départs joués.
+
+## Actualisation — J+18
+[[État de reprise J+19]] prioritaire. Candidats 7 h J+19, visite Sylvaris probable, restitution chambre/emménagement ; audience J+20, Arvand J+21, mission solo C J+22 provisoire ≤72 h, Crocs et composants J+23 à coordonner, Sylvaris invité J+25, départ souhaité J+32. B en un an, A avancé proche S en cinq ans. Contrat personnel signé non actif.

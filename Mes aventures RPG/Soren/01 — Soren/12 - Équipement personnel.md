@@ -20,3 +20,6 @@ statut: actuel
 **Illustrations :** [[Index des illustrations]] · **description canonique de Soren :** [[01 - Identité et apparence]].
 
 Les commandes, prix, anciennes versions et détails techniques d'origine ont été conservés dans les fiches de chaque objet et dans l'archive de cette section.
+
+## Actualisation — J+18
+J+18 : Crocs C toujours utilisés ; [[Commande — Nouveaux Crocs de rang A]] non livrée. Cape dans chambre 3 ; baguette sur Soren ; Cœur sous comptoir boutique, propriété inchangée.

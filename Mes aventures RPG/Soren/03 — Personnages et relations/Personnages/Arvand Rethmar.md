@@ -17,3 +17,6 @@ source: "Chronique intégrale J+12 ; état J+13 pour les mentions de situation a
 
 ## J+17
 Présent à l'inauguration, témoin du dragon simulé A vaincu et des déplacements aériens de Soren ; ne connaît pas automatiquement les rangs et coûts. Signe [[Contrat Guilde — La Porte de l'Aube]] à 17 h 32, 3 780 Pièces versées à l'entreprise, passes de la Guilde à préparer. Entretien personnel fixé **J+18 à 7 h** au bureau sur progression/perspectives.
+
+## Actualisation — J+18
+J+18 6 h 53–7 h 35 : entretien confidentiel, statut/arsenal complet sans dossier, reconnaît Kaelor ; lettre scellée 7 h 24. Contrat personnel signé 7 h 31, inactif jusqu'au grade C ; évaluation solo J+22 provisoire, revoir J+21. [[Collaboration personnelle avec Arvand]].
