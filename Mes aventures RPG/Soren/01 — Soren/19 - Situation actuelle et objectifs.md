@@ -19,3 +19,7 @@ statut: actuel
 Le **solde exact est inconnu**, le niveau et les statistiques ne changent pas sans décision officielle. Soren a informé Tévan de sa volonté d'amitié en J+15. L'ancien programme J+14 ainsi que ses premières intentions J+13 sont des **archives**, conservées intégralement.
 
 **Sources :** [[Index — Quêtes]] · [[Comptabilité — Soren]] · [[Groupe d’aventure]].
+
+
+## Priorité — fin J+17
+[[État de reprise J+18]] : endormi 23 h 23 chambre 3, rendez-vous Arvand 7 h J+18. Inauguration réussie. Missions 5–10 jours avec meute envisagées ; voyage six mois dans environ six mois pour atteindre B ; retour à Varkhûn uniquement après B ; ambition S avant 27 ans. Intentions, pas départs joués.

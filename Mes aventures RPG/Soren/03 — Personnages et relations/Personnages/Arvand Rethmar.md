@@ -14,3 +14,6 @@ source: "Chronique intégrale J+12 ; état J+13 pour les mentions de situation a
 
 **Contexte :** Aethérion — Guilde, artisans et nouvelles connaissances
 \n
+
+## J+17
+Présent à l'inauguration, témoin du dragon simulé A vaincu et des déplacements aériens de Soren ; ne connaît pas automatiquement les rangs et coûts. Signe [[Contrat Guilde — La Porte de l'Aube]] à 17 h 32, 3 780 Pièces versées à l'entreprise, passes de la Guilde à préparer. Entretien personnel fixé **J+18 à 7 h** au bureau sur progression/perspectives.

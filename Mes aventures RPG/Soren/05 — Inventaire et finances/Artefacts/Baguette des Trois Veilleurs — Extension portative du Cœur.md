@@ -154,3 +154,7 @@ CŒUR DES TROIS VEILLEURS (source principale, propriété de Soren)
 ---
 
 **Artefact parent :** [[Cœur de mana des Trois Veilleurs]] · **Lieu desservi :** [[Domaine privé de Soren et Borin]] · **Architecture :** [[Couplage énergétique — Cœur des Trois Veilleurs et générateur de Borin]] · **Inventaire :** [[Index — Équipements et possessions]] · **Sauvegarde :** [[État de reprise J+16]].
+
+
+## Actualisation J+17, 22 h 26–23 h 02
+Soren optimise la stabilisation du seuil et vérifie le retour au point d'ouverture, plusieurs essais **locaux chambre n°3 réussis**. Ouverture depuis sa position déjà canonique ; aucun test longue distance, coût exact inconnu. Cœur source d'énergie, cinq signatures résidentielles inchangées, Soren seul peut commander la baguette. [[État de reprise J+18]].

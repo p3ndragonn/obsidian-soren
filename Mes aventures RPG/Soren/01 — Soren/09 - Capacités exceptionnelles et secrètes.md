@@ -62,3 +62,7 @@ Dernière décision : le partage a été révoqué par Soren.
 ---
 
 [[00 - Sommaire de Soren|Retour au sommaire]] · [[Fiche personnage — Soren Thalvyr|Fiche générale]]
+
+
+## Actualisation canonique J+17 — vol et coût
+Deuxième essai de déplacement aérien : poussière de l'arène utilisée comme point d'appui, ~2 000–3 000 téléportations/s pour la stabilité. **Seul facteur limitant : réserve de mana ; 1 MP pour dix téléportations courtes ou une longue**. Seuil court/long non établi. Danse téléporter : 1 mm–50 m inchangé. Public a vu les apparitions aériennes, pas les rangs/noms ni les coûts. Soren explique à Borin, Tévan et Hadrien pendant le dîner. Pas de limite de masse générale ajoutée à Danse téléporter à deux (tentative sur dragon simulé échouée). Aucun vol des loups ni vol accompagné réalisé. [[J+17 — 29 Floréane 427]].

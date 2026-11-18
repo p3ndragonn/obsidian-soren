@@ -31,3 +31,7 @@ section: 17
 ---
 
 [[00 - Sommaire de Soren|Retour au sommaire]] · [[Fiche personnage — Soren Thalvyr|Fiche générale]]
+
+
+## J+17
+Inauguration de La Porte de l'Aube ; démonstration tactique comparative ; victoire **seul contre dragon de feu simulé A à 100 % de son modèle**, 16 h 30–44, boucliers intacts ; deuxième expérience de vol par téléportations, pas de dragon vivant tué ni gain chiffré. Contrat Guilde signé et payé à la société. [[J+17 — 29 Floréane 427]].
