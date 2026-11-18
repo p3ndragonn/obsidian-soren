@@ -35,9 +35,11 @@ Chaque note ci-dessous contient le bilan officiel et chronologique d'une journé
 
 - [[J+16 — 28 Floréane 427 — Historique]] — Vente du sceau, derniers contrôles, entraînement et soirée avec les amis
 
+- [[J+17 — 29 Floréane 427 — Historique]] — Inauguration, dragon, contrat et promenade
+
 ## Règles d'archivage
 - Ne pas considérer une personne mentionnée comme physiquement rencontrée sans événement explicite.
 - Distinguer paiements, estimations, acquisitions, objets confiés, pertes et projets.
 - Garder les secrets inconnus et ne jamais extrapoler une valeur mécanique absente du récit.
 
-**Reprise : [[État de reprise J+17]]**, fin J+16 vers 23 h 43, Soren endormi ; les sauvegardes antérieures sont archivées.
+**Reprise : [[État de reprise J+18]]**, fin J+17 23 h 23.

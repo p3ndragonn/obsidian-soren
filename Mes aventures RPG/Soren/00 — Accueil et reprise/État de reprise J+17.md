@@ -4,12 +4,12 @@ campagne: Soren
 version: "fin J+16 / veille J+17"
 date_univers: "28 Floréane 427"
 heure_reference: "23:43"
-statut: actif
+statut: archive
 ---
 
 # État de reprise — Veille de J+17
 
-> [!success] REPRISE OFFICIELLE
+> [!success] REPRISE HISTORIQUE — remplacée par [[État de reprise J+18]]
 > **Fin J+16 — 28 Floréane 427, vers 23 h 43.** Soren est **ENDORMI dans son lit en chambre n° 3 de l'[[Annexe des Compagnons]] à [[Aethérion]]** ; Varkhan, Aelkan et Sylkan sont présents, nourris et au repos. Carnet personnel écrit. **La nuit, le réveil J+17 et l'inauguration ne sont pas encore joués**. Ne pas inventer d'heure de réveil.
 
 ## Soren et équipement

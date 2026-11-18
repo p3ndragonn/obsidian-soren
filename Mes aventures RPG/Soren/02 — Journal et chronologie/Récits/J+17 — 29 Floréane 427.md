@@ -1,0 +1,35 @@
+---
+type: journal_journalier
+campagne: Soren
+jour: J+17
+date_univers: 29 Floréane 427
+statut: archive
+---
+# J+17 — 29 Floréane 427
+## Chapitre XIII — L'inauguration de La Porte de l'Aube
+
+### 4 h 30–9 h 54 — Préparatifs
+Réveil à 4 h 30, douche, préparation personnelle. Harnais noir à capuche, short, bottes et cape de fourrure noire. Petit-déjeuner à volonté inclus dans l'hébergement : trois assiettes dont brioche ; chaque loup double viande et deux brioches. Fin 6 h 24, 0 P. Environ une heure au domaine privé, arrivée boutique 7 h 49. À 8 h Borin valide et affiche la grille tarifaire applicable J+18. Inauguration gratuite. Cours particuliers acceptés en principe par Borin, sans tarif ni instructeur fixé. Contrôles physiques 8 h 48–9 h 40 réussis à capacité limitée ; pas d'évacuation réelle de masse. Artisans accueillis 9 h 40, Tévan et Sahir arrivent 9 h 54.
+
+### 10 h–15 h — Inauguration
+Ouverture commune à 10 h, environ trente visiteurs initiaux, Hadrien et Arvand présents. Trois loups avec Soren. Visite par groupes de six, Borin guide artisans et Soren aventuriers. Ateliers 10 h 30, démonstrations 11 h 30 : outils générés fonctionnels, adaptés à 100 % à la morphologie ; outils et matières simulés non exportables, matières réelles apportées et objets travaillés conservés par l'utilisateur. Artisan de métaux spéciaux demande un essai personnalisable par Borin. Dès 13 h essais gratuits des cinq salles : Hadrien combat un humanoïde intermédiaire puis Soren et ses trois loups simulés, réalisme réduit, difficulté Hadrien +1 et secrets non reproduits ; deux touches, travail du déplacement. Cinquante doubles de Soren actifs sans attaque et bestiaire passif présentés. À 14 h 02 retrait et retour au mode intermédiaire. Arvand intéressé par collaboration. À 15 h dix modules arrêtés, arène indépendante, public limité à 50.
+
+### 15 h 05–16 h 14 — Tactique
+Hadrien forme équipe réelle de dix (lui, deux défenseurs, deux archers, éclaireur félin, mage du vent, deux lanciers, soigneur). Griffon B, terrain montagneux ; 15 h 24 pause instantanée en plein piqué, démonstration repositionnement, arrêt avant résultat. 15 h 32–43 panorama des biomes, bestiaire passif compartimenté ; questions espèces, difficulté, météo, équipement, sécurité. 15 h 53–16 h 11 deux équipes entièrement simulées, dix aventuriers chacun et griffon B identiques : charge frontale désordonnée échoue 16 h 03 ; équipe coordonnée exploite terrain, reconnaissance, formation, entraves et attaques, victoire 16 h 08, blessures simulées sans perte définitive.
+
+### 16 h 14–16 h 54 — Dragon
+Borin et Tévan distraient le public. Soren configure arène vaste, gradins élargis mais plafond 50, double bouclier et évacuation actifs, 97/2/1 % mana, dix autres modules éteints. Dragon de feu simulé A 100 % des moyens, déclencheur vocal exclusif « C'est parti ». Cape déposée, loups dans les gradins. Annonce au public puis 16 h 30 lancement. Soren utilise techniques de classe, capacités d'éclaireur, runes, téléportations ; esquive flammes, attaque articulations et membrane d'aile, enchaîne déplacements aériens, reçoit coup d'aile épaule gauche. Tente sans succès Danse téléporter à deux sur dragon (aucune limite générale de masse établie). Exploite blessures et cycle du souffle ; dragon neutralisé 16 h 44, 14 min, seul, aucune réduction de puissance, boucliers intacts. Pas de dragon vivant, loot ou progression chiffrée. Public découvre phénomène de téléportation sans rangs/noms/limites. Soigneur examen épaule à 16 h 49 : RAS, aucune lésion, fracture, brûlure ; fatigue normale. Cape remise.
+
+### 17 h 05–17 h 41 — Clôture et contrat
+Discours : accueil ouvert tous les jours 8–20 h dès J+18, réservations possibles dès aujourd'hui à l'entrée. Borin aux réservations, Soren négocie avec Arvand. Les deux associés et Arvand signent 17 h 32 : trois salles réservées 13–20 h chaque jour pendant 30 jours renouvelables dès J+18, 6 P/h/salle, configurations personnalisées toutes difficultés, créneaux inutilisés payés, aucune exclusivité globale. 3 780 P encaissées par l'entreprise, pas de distribution individuelle. Passes nominatifs non transférables liés à plaque et sceau Guilde, révocables, pas de facturation individuelle ; lecteur runique proposé, non installé. Arvand prépare les passes. Rendez-vous personnel Arvand 7 h J+18 (progression/perspectives). Réservations J+18 : atelier classique 2 h/4 P, spécialisé personnalisé 2 h/12 P, forge individuelle 2 h/8 P, haute température 2 h/14 P, entraînement normal personnalisé 2 h/10 P, difficile 2 h/8 P, expert personnalisé 1 h/15 P ; total 71 P à encaisser, engagements 3 851 P. Fermeture 17 h 41, caisse et accès sécurisés, veille, domaine privé indépendant.
+
+### 17 h 54–20 h 32 — Dîner
+La Marmite du Compagnon : Soren, Tévan, Hadrien, Borin et quatre familiers. Soren offre quatre bières, prend trois plats du jour (bœuf champignons, poulet pommes de terre, porc sauce forestière), viande par loup. Borin porc et seconde tournée offerte ; Hadrien bœuf, Tévan poulet et viande Sahir. Deux employés d'accueil envisagés (encaissement/réservations/passes) ; Borin envisage Guilde des Marchands avant ouverture, Tévan propose réseau marchand ; salaire/horaires non fixés. Soren explique vol : deuxième essai, points d'appui poussière, 2 000–3 000 téléportations/s pour stabilité, seul facteur limitant mana, 1 MP pour dix courtes ou une longue (seuil non fixé). Tévan souhaite vol accompagné, loups apprendre, rien testé. Soren paie 66 P à 20 h 26 (12 bières, 30 plats, 24 viande). Déjeuner J+17 non documenté.
+
+### 20 h 33–22 h 02 — Promenade
+Borin rentre, Hadrien accompagne familiers vers Guilde. Soren et Tévan seuls : missions de 5–10 jours avec loups envisagées, puis voyage de six mois dans environ six mois, pour progression B. Tévan veut développer réseau marchand et rapière, souhaite visiter Varkhûn ; Soren n'y retournera qu'au rang B (échec sinon pour lui/Kaelor), vise S avant 27 ans. Confidences : dix années d'entraînement quotidien, maître choisi, jamais félicité ; adolescent, un mois enfermé dans salle de simulation avec provisions après avoir manqué entraînement pour câliner un garçon ; selon Soren les pères n'interviennent pas dans les méthodes des maîtres. Témoignage à Tévan. Jardin public 21 h 24, retour annexe 21 h 53, séparation 22 h 02 ; Tévan et Sahir chambre 5.
+
+### 22 h 02–23 h 23 — Nuit
+Douche ; 22 h 26 travail sur Baguette des Trois Veilleurs, ouverture depuis position déjà canonique, stabilisation optimisée, retour local testé dans chambre 3 avec succès ; pas de test longue distance, pas de portée maximale/couts définis, Soren seul activant, Cœur source, cinq signatures inchangées. 23 h 02 journal : inauguration, victoire simulée, contrat, ambitions B/S, père/maître, rendez-vous. Gratouilles Varkhan/Aelkan/Sylkan ; endormi 23 h 23 chambre 3 avec meute. Réveil non joué.
+
+[[État de reprise J+18]]

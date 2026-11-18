@@ -2,17 +2,17 @@
 type: accueil
 campagne: Soren
 statut: actif
-point_de_reprise: "[[État de reprise J+17]]"
+point_de_reprise: "[[État de reprise J+18]]"
 ---
 
 # S Y S T È M E — Soren
 
 > [!success] Scène officielle en cours
-> **Fin J+16 · 28 Floréane 427 · vers 23 h 43.** Soren est **endormi** dans la chambre n° 3 de l'Annexe des Compagnons, avec Varkhan, Aelkan et Sylkan. Le journal est écrit, et les trois loups ont accepté de venir à l'inauguration J+17. **Le réveil et l'inauguration ne sont pas encore joués.**
+> **Fin J+17 · 29 Floréane 427 · 23 h 23.** Soren endormi chambre 3 avec ses loups ; réveil J+18 non joué. Arvand 7 h, ouverture 8 h.
 
 ## Reprendre la partie
 
-**[[État de reprise J+17]]** — nouvelle sauvegarde prioritaire. [[J+16 — 28 Floréane 427|Journal de la journée terminée]].
+**[[État de reprise J+18]]** — nouvelle sauvegarde prioritaire. [[J+17 — 29 Floréane 427|Journal de la journée terminée]].
 
 ## Accès direct
 
