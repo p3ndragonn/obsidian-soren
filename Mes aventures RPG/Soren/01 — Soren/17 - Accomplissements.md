@@ -34,4 +34,6 @@ section: 17
 
 
 ## J+17
-Inauguration de La Porte de l'Aube ; démonstration tactique comparative ; victoire **seul contre dragon de feu simulé A à 100 % de son modèle**, 16 h 30–44, boucliers intacts ; deuxième expérience de vol par téléportations, pas de dragon vivant tué ni gain chiffré. Contrat Guilde signé et payé à la société. [[J+17 — 29 Floréane 427]].
+Inauguration de La Porte de l'Aube ; démonstration tactique comparative ; victoire **seul contre dragon de feu simulé A à 100 % de son modèle**, 16 h 30–44, boucliers intacts ; deuxième expérience de vol par téléportations, pas de dragon vivant tué ; gain exceptionnel chiffré a posteriori par ordre du Fondateur. Contrat Guilde signé et payé à la société. [[J+17 — 29 Floréane 427]].
+
+**Directive rétroactive du Fondateur, enregistrée à fin J+17 :** +4 000 EXP de Classe (victoire contre le dragon simulé A) ; +2 200 EXP de Profession (inauguration +500, contrat Guilde +400, optimisation Baguette +1 000, vente du sceau J+16 +300). Attribution exceptionnelle unique, non assimilée à un dragon réel tué ni à une règle universelle d'EXP commerciale. Classe 26→28 ; Profession 18→20 ; +18 points de caractéristiques à répartir (10 Classe, 8 Profession). EXP antérieure exacte inconnue, conservée : progression actuelle Classe = ancienne EXP du niveau 26 +178 sur 2 098 ; Profession = ancienne EXP du niveau 18 +74 sur 1 202. Pas de nouvelle scène, de gain de rang, de maîtrise ni de loot.

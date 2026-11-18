@@ -6,7 +6,7 @@ statut: actif
 
 # Sommaire officiel de Soren
 
-**Reprise de l'aventure : [[État de reprise J+16]]** — fin J+15, 27 Floréane 427 à 23 h 45. L'ancien dossier J+13 est archivé et ne représente pas le dernier instant joué.
+**Reprise de l'aventure : [[État de reprise J+18]]** — fin J+17, 29 Floréane 427 à 23 h 23. L'ancien dossier J+13 est archivé et ne représente pas le dernier instant joué.
 
 **Profil synthétique :** [[Fiche personnage — Soren Thalvyr]] · **chiffres officiels :** [[Statut — Soren]].
 

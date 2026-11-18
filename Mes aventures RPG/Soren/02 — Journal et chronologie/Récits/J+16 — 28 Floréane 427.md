@@ -83,7 +83,7 @@ Une dernière idée le retient : **il invite Varkhan, Aelkan et Sylkan à l'inau
 ## 9. Finances, état canonique et prochaines échéances
 - Solde **vérifié fin J+15 : 415 Pièces**. Opérations J+16 **effectivement chiffrées** : **+250 000 Pièces** vente à Arvand, **−18 000** à Tévan, **−18 000** à Hadrien, **−146** dîner et viande. **415 + 250 000 − 18 000 − 18 000 − 146 = 214 269 Pièces : solde personnel exact fin J+16**, le déjeuner ayant été offert par Borin.
 - Restent **2 sceaux de mana** ; le **Cœur est à Soren**, le **générateur à Borin**. **37 000 Pièces encore promises à chacun des deux amis**, pas encore versées.
-- **Aucun nouveau rang, niveau, point permanent, maîtrise chiffrée ou revenu commercial** confirmé à J+16.
+- **Aucun nouveau rang, niveau, point permanent, maîtrise chiffrée ou revenu commercial** confirmé au moment du récit J+16 ; +300 EXP de Profession pour la vente du sceau attribuées rétroactivement à fin J+17 (voir [[Statut — Soren]]).
 - J+17 à 10 h : **inauguration prévue mais pas jouée**, accompagnement accepté par les trois loups ; à 16 h 30, **duel simulé contre dragon de feu [A] prévu mais résultat inconnu**.
 - J+20 : **audience royale privée prévue**, ni paiement ni issue anticipés.
 

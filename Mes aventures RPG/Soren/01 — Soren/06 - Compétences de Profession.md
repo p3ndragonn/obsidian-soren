@@ -11,7 +11,7 @@ section: 6
 
 ## Éclaireur des Terres Sauvages
 
-Profession [B] · Niveau 18
+Profession [B] · Niveau 20 (attribution rétroactive fin J+17 : +2 200 EXP ; [[Statut — Soren]])
 
 | Compétence                     | Fonction                                                                                       |
 | ------------------------------ | ---------------------------------------------------------------------------------------------- |

@@ -11,7 +11,7 @@ section: 5
 
 ## Danseur des Griffes d'Acier
 
-Classe [A] · Niveau 26
+Classe [A] · Niveau 28 (attribution rétroactive fin J+17 : +4 000 EXP ; [[Statut — Soren]])
 
 Les sept compétences martiales reconnues de Soren sont de rang [S].
 

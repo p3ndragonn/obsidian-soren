@@ -19,7 +19,7 @@ point_de_reprise: "[[État de reprise J+18]]"
 | Besoin | Dossier de référence |
 |---|---|
 | Portrait et identité de Soren | [[Fiche personnage — Soren Thalvyr]] |
-| Rang, classe, compétences et statistiques | [[Statut — Soren]] et [[00 - Sommaire de Soren]] |
+| Rang, classe, compétences et statistiques | [[Statut — Soren]] (C ; Classe 28, Profession 20 ; 18 points à répartir) et [[00 - Sommaire de Soren]] |
 | Argent et opérations | [[Comptabilité — Soren]] — **214 203 P personnels** fin J+17 |
 | Possessions | [[Index — Équipements et possessions]] |
 | Meute et familiers | [[Familiers de Soren]] |

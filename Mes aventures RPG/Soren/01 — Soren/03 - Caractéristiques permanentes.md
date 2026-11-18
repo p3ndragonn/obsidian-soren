@@ -22,6 +22,9 @@ section: 3
 | PER | 42 | +2 | +10 | +12 | **66** |
 | **Total** | **247** | **+9** | **+48** | **+44** | **348** |
 
+> [!success] Attribution rétroactive fin J+17
+> **18 points supplémentaires acquis, non encore répartis** (Classe [A] : 2 × 5 ; Profession [B] : 2 × 4 ; rang personnel C). Total disponible avec les 348 déjà répartis : **366**. Les ressources maximales demeurent inchangées jusqu'à allocation. [[Statut — Soren]].
+
 ## Ressources maximales
 
 | Ressource | Maximum | Base de calcul |
