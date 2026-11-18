@@ -24,3 +24,6 @@ statut: actuel
 | Secrets du Fondateur | [[18 - Dossier confidentiel du Fondateur]] ; aucun PNJ n'en reçoit automatiquement le contenu. |
 
 **Règles de gestion : [[Conventions de continuité et de classement]]** · **chronique : [[Chronologie générale]]**. Les anciennes règles datées J+13/J+14 demeurent en archives.
+
+## Actualisation — J+18
+J+18 : contrat Arvand non actif avant C ; J+22 provisoire mission, conflit possible J+23. Aucun EXP inventé. Composants et Crocs non livrés ; 33 modules/liaison continentale non validés. Remboursement commercial 102000 P seulement après achat ; contrat Guilde prépayé non recompté. Cœur/générateur propriétés distinctes, tablette limitée. Chambre non rendue, pas de remboursement acquis. [[État de reprise J+19]].

@@ -838,3 +838,6 @@ Appareil de Borin en réparation par Soren. Deux composants S financés par Bori
 **Énergie future possible :** recours au Cœur légendaire **seulement après satisfaction de ses conditions**. Aucun branchement ni transfert physique du Cœur n'a été réalisé.
 
 **Voir :** [[Borin]] · [[J+13 — 25 Floréane 427]] · [[État de reprise J+14]].
+
+## Actualisation — J+18
+J+18 générateur S opérationnel, Cœur sous comptoir et [[Tablette de gestion runique]] installés. Trois composants SS réservés 102000 P non achetés, compatibilité préliminaire basse puissance ; 33 modules hypothétiques. [[Composants SS réservés chez Sylvaris]].

@@ -279,3 +279,6 @@ Un **deuxième circuit distinct** alimente le domaine privé de Soren et Borin, 
 Les artefacts restent **séparés et détenus par leurs propriétaires respectifs**, tandis que l'installation commerciale définitive de La Porte de l'Aube demeure à accomplir à la fin de J+15.
 
 **Références :** [[Cœur de mana des Trois Veilleurs]] · [[Générateur d’arène de Borin]] · [[Domaine privé de Soren et Borin]] · [[La Porte de l'Aube]] · [[J+14 — 26 Floréane 427]] · [[État de reprise J+16]].
+
+## Actualisation — J+18
+J+18 14 h 54 installation sous comptoir, double fond, verrou gravitationnel et signatures Soren/Borin ; circuits stables et indépendants. Tablette employés opérationnelle 16 h 02, paramètres fondamentaux réservés associés.

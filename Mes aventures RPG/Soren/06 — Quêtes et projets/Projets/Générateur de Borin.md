@@ -27,3 +27,6 @@ statut: "derniers essais terminés, lancement commercial J+17 encore à jouer"
 5. 33 modules hypothétiques avec composants [SS] **non acquis / non autorisés**.
 
 [[État de reprise J+17]] · [[J+16 — 28 Floréane 427]].
+
+## Actualisation — J+18
+J+18 ouverture payante, Cœur et tablette opérationnels. Composants SS réservés 102000 P J+23 non achetés ; compatibilité préliminaire, 33 modules non éprouvés. [[Composants SS réservés chez Sylvaris]].

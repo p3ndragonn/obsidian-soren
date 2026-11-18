@@ -33,3 +33,6 @@ campagne: Soren
 
 > [!note] Statut
 > **Capitale, porte orientale, Guilde et lieux déjà visités : faits historiques confirmés.** Les quartiers, leurs populations, le château central et la Rivière des Bateliers sont **désormais canonisés par le Fondateur** dans l'[[Atlas officiel d’Aethérion]]. Cette fixation géographique n'ajoute aucune scène ou connaissance aux personnages.
+
+## Actualisation — J+18
+[[La Forge du Fer Stellaire]] · [[La Marmite du Compagnon]].

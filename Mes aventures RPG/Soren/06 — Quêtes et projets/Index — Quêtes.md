@@ -18,3 +18,6 @@ statut: actuel
 | **Négociations de sceaux en attente** | [[Vente envisagée du Cœur]] ; un rendez-vous J+16 et audience J+20 |
 
 **Situation à jouer : [[État de reprise J+16]].** Aucun paiement futur, nouvelle mission ou ouverture ne doit être anticipé.
+
+## Actualisation — J+18
+[[Collaboration personnelle avec Arvand]] · [[Composants SS réservés chez Sylvaris]] · [[Commande — Nouveaux Crocs de rang A]] · [[Partenariat — La Marmite du Compagnon]].

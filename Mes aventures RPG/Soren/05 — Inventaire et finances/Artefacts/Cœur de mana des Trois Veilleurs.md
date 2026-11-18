@@ -925,3 +925,6 @@ Artefact légendaire obtenu J+10. Dix transferts possibles, sept déjà utilisé
 - Les projets de vente de transferts déjà évoqués avec la Guilde/Couronne demeurent des **négociations non conclues** ; le seul accord explicitement annulé à J+13 est **celui portant sur 15 % du prix brut du générateur**.
 
 **Voir :** [[J+13 — 25 Floréane 427]] · [[Générateur d’arène de Borin]] · [[État de reprise J+14]].
+
+## Actualisation — J+18
+J+18 14 h 22–54 : transféré chambre 3 vers boutique sans interruption circuits, double fond verrou gravitationnel et signatures Soren/Borin. Toujours propriété Soren ; deux sceaux invendus.

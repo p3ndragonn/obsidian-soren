@@ -35,3 +35,6 @@ Ce tableau est l'**index principal** des personnages déjà documentés. Chaque 
 - **Règles de présentation :** [[Conventions de continuité et de classement]].
 
 Les anciennes synthèses descriptives (âges proposés, dortoir, mensurations) sont conservées dans **99 — Archives/Index historiques/Ancien index descriptif des PNJ — J+15** et surtout dans les fiches individuelles officielles. Aucun détail ne doit être supprimé des portraits validés.
+
+## Actualisation — J+18
+[[Dagrim Forgeacier]] — maître armurier nain du quartier des Marteaux, rencontré J+18.

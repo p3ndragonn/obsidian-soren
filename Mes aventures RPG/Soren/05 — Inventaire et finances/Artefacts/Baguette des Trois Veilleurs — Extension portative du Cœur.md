@@ -158,3 +158,6 @@ CŒUR DES TROIS VEILLEURS (source principale, propriété de Soren)
 
 ## Actualisation J+17, 22 h 26–23 h 02
 Soren optimise la stabilisation du seuil et vérifie le retour au point d'ouverture, plusieurs essais **locaux chambre n°3 réussis**. Ouverture depuis sa position déjà canonique ; aucun test longue distance, coût exact inconnu. Cœur source d'énergie, cinq signatures résidentielles inchangées, Soren seul peut commander la baguette. [[État de reprise J+18]].
+
+## Actualisation — J+18
+J+18 usage local boutique↔domaine réussi, Cœur transféré. Cristal résonance dimensionnelle SS 12000 P réservé non acquis ; objectif liaison énergétique continentale et retour au point d'entrée, pas boutique ni réseau de destinations. Micro-matrice écartée. Compatibilité/distance non testées, Soren seul autorisé.

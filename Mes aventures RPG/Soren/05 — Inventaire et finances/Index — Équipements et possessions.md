@@ -25,3 +25,6 @@ statut: actuel
 **État de possession :** [[13 - Inventaire et possessions]] · **tenue actuelle :** [[12 - Équipement personnel]] · **comptabilité :** [[Comptabilité — Soren]].
 
 Aucune fiche d'objet ne doit être remplacée par une ancienne version de l'inventaire J+13. Les états anciens sont conservés dans les archives.
+
+## Actualisation — J+18
+[[Tablette de gestion runique]] (entreprise) · [[Commande — Nouveaux Crocs de rang A]] (non livrée) · [[Composants SS réservés chez Sylvaris]] (non acquis).
