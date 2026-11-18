@@ -50,3 +50,6 @@ La société prévoit **forges et ateliers artisanaux modulables**, **salles d'e
 **Comptabilité :** [[Comptabilité — Soren]] · **jalons techniques :** [[Générateur de Borin]] · **source :** [[État de reprise J+16]].
 
 Les anciennes clauses prévisionnelles J+13/J+14 sont conservées dans **99 — Archives**, notamment la situation avant bail, autorisation et test des onze espaces.
+
+## Avenant signé J+18 18 h 32
+Après loyer, employés, frais : 15 % réserve, 10 % remboursement à Soren des 102000 P commerciaux SS après achat effectif (12 000 personnel exclu), reste 75 % partagé 55/45 soit 41,25 % Borin et 33,75 % Soren. Après remboursement 85 % partagé 55/45. Paiement tous 30 j, premier J+47, part Soren gardée si absent. Aucun versement/acquisition. Candidats J+19 7 h. CA339, trésorerie3993. [[Partenariat — La Marmite du Compagnon]]

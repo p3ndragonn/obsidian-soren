@@ -37,9 +37,11 @@ Chaque note ci-dessous contient le bilan officiel et chronologique d'une journé
 
 - [[J+17 — 29 Floréane 427 — Historique]] — Inauguration, dragon, contrat et promenade
 
+- [[J+18 — 30 Floréane 427 — Historique]] — Arvand, première journée commerciale, composants, Crocs et avenant
+
 ## Règles d'archivage
 - Ne pas considérer une personne mentionnée comme physiquement rencontrée sans événement explicite.
 - Distinguer paiements, estimations, acquisitions, objets confiés, pertes et projets.
 - Garder les secrets inconnus et ne jamais extrapoler une valeur mécanique absente du récit.
 
-**Reprise : [[État de reprise J+18]]**, fin J+17 23 h 23.
+**Reprise : [[État de reprise J+19]]**, fin J+18 après 23 h 08.

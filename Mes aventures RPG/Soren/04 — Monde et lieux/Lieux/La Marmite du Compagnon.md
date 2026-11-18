@@ -1,0 +1,3 @@
+# La Marmite du Compagnon
+
+Restaurant face à Porte de l'Aube, patron non nommé ~50 ans, avant-bras robustes, tablier bordeaux ; serveuse non nommée. Petit déjeuner 5–10 h, familiers accueillis. [[Partenariat — La Marmite du Compagnon]]. Carte J+18 (P) : soupe forestière 3, terrine sanglier 5, charcuterie/fromage 6 ; tourte gibier, bœuf champignons, porc forestier 10 chacun, truite 12, jarret 14, poulet entier 16, côte bœuf 18, assortiment chasseur 22 ; tarte pomme 3, gâteau noisette/brioche miel 4, tarte fruits rouges entière 12 ; jus/limonade 2, bière blonde 3, naine 4, hydromel 5 ; viande familiers 8, assortiment 12, double 16. Avant remises.

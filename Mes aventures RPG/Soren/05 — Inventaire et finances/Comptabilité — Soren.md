@@ -110,3 +110,6 @@ Pour une vente distincte du noyau du Cœur, une répartition **70 % Soren / 10 %
 > Les divergences intermédiaires J+8/J+9 ne doivent pas être compensées par calcul fictif. Le coût J+14 a été fixé à **31 Pièces par correction explicite du Fondateur**, sans modifier ces relevés antérieurs. Distinction systématique entre **dépense**, **recette encaissée**, **estimation**, **avance** et **projet**.
 
 **Sources :** [[J+14 — 26 Floréane 427]] · [[J+15 — 27 Floréane 427]] · [[État de reprise J+16]].
+
+## Clôture J+18
+214203 −46 déjeuner −4500 acompte Crocs −60,75 dîner (81 brut −25 %) = **209596,25 P personnels**. Petit-déjeuner inclus. 114000 P réservés non payés, 9000 Crocs restant ; deux sceaux invendus, 37000 à chacun Tévan/Hadrien promis. Société : 3780 prépayés J+17 +213 encaissés (100 ateliers,65 entraînement,48 arène) = **3993 P** ; CA 339 inclut 126 prépayés, ne pas recompter. Aucun versement. [[État de reprise J+19]]

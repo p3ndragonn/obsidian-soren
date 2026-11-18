@@ -4,10 +4,10 @@ campagne: Soren
 version: fin J+17 / veille J+18
 date_univers: 29 Floréane 427
 heure_reference: "23:23"
-statut: actif
+statut: historique
 ---
 # État de reprise — Veille de J+18
-> [!success] REPRISE OFFICIELLE
+> [!note] REPRISE HISTORIQUE — remplacée par [[État de reprise J+19]]
 > Fin J+17 23 h 23, Soren endormi chambre 3 Annexe des Compagnons, Aethérion, Varkhan Aelkan Sylkan présents ; Tévan et Sahir chambre 5. Réveil non joué. Arvand **7 h J+18**, ouverture **8 h**.
 
 ## État

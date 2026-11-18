@@ -2,17 +2,17 @@
 type: accueil
 campagne: Soren
 statut: actif
-point_de_reprise: "[[État de reprise J+18]]"
+point_de_reprise: "[[État de reprise J+19]]"
 ---
 
 # S Y S T È M E — Soren
 
 > [!success] Scène officielle en cours
-> **Fin J+17 · 29 Floréane 427 · 23 h 23.** Soren endormi chambre 3 avec ses loups ; réveil J+18 non joué. Arvand 7 h, ouverture 8 h.
+> **Fin J+18 · 30 Floréane 427 · endormi après 23 h 08.** Chambre 3 avec loups ; réveil J+19 non joué. Candidats 7 h, ouverture 8 h.
 
 ## Reprendre la partie
 
-**[[État de reprise J+18]]** — nouvelle sauvegarde prioritaire. [[J+17 — 29 Floréane 427|Journal de la journée terminée]].
+**[[État de reprise J+19]]** — nouvelle sauvegarde prioritaire. [[J+18 — 30 Floréane 427|Journal de la journée terminée]].
 
 ## Accès direct
 
@@ -20,7 +20,7 @@ point_de_reprise: "[[État de reprise J+18]]"
 |---|---|
 | Portrait et identité de Soren | [[Fiche personnage — Soren Thalvyr]] |
 | Rang, classe, compétences et statistiques | [[Statut — Soren]] (C ; Classe 28, Profession 20 ; 366 points répartis ; 0 restant) et [[00 - Sommaire de Soren]] |
-| Argent et opérations | [[Comptabilité — Soren]] — **214 203 P personnels** fin J+17 |
+| Argent et opérations | [[Comptabilité — Soren]] — **209 596,25 P personnels** fin J+18 ; 3 993 P société |
 | Possessions | [[Index — Équipements et possessions]] |
 | Meute et familiers | [[Familiers de Soren]] |
 | Journal des aventures | [[Chronologie générale]] |
