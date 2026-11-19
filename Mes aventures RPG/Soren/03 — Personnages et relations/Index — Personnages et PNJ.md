@@ -40,5 +40,5 @@ Les anciennes synthèses descriptives (âges proposés, dortoir, mensurations) s
 [[Dagrim Forgeacier]] — maître armurier nain du quartier des Marteaux, rencontré J+18.
 
 ## Actualisation — J+19
-- [[Nélyria Valdren]] — Demi-Elfe de 32 ans, Comptable [C], retenue pour La Porte de l'Aube.
-- [[Rhaïven Merath]] — Homme-bête Tigrin de 28 ans, Gestionnaire commercial [C], retenu pour La Porte de l'Aube.
+- [[Nélyria Valdren]] — Demi-Elfe de 32 ans, Comptable [C], retenue pour La Porte de l'Aube. Portrait officiel disponible dans sa fiche.
+- [[Rhaïven Merath]] — Homme-bête Tigrin de 28 ans, Gestionnaire commercial [C], retenu pour La Porte de l'Aube. Portrait officiel disponible dans sa fiche.

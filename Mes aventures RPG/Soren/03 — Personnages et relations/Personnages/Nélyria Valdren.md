@@ -17,7 +17,9 @@ statut: "employé recruté J+19 ; contrat signé"
 
 ## Portrait officiel de Nélyria Valdren
 
-*Référence textuelle de l'entretien : Cheveux auburn tressés, yeux verts, chemisier crème, gilet vert sombre. Le fichier du portrait n'est pas ajouté ici ; aucune image nouvelle n'a été créée.*
+![Portrait officiel de Nélyria Valdren, demi-elfe aux cheveux auburn tressés et yeux verts, en tenue crème et vert sombre](../../08%20%E2%80%94%20Illustrations/Personnages/N%C3%A9lyria%20Valdren/N%C3%A9lyria%20Valdren%20%E2%80%94%20Portrait%20officiel.webp)
+
+*Nélyria Valdren, demi-elfe de 32 ans, apparaît en pied au comptoir de La Porte de l'Aube : cheveux auburn tressés, yeux verts, chemisier crème et gilet vert sombre. Ce portrait fixe sa référence visuelle ; le décor et les accessoires restent illustratifs.*
 
 ## Description physique et comportementale complète
 

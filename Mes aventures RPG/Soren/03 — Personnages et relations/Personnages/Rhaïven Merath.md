@@ -17,7 +17,9 @@ statut: "employé recruté J+19 ; contrat signé"
 
 ## Portrait officiel de Rhaïven Merath
 
-*Référence textuelle de l'entretien : Yeux ambrés, oreilles tigrées, allure athlétique, cheveux brun foncé courts, marques aux tempes, chemise beige et gilet brun sombre. Le fichier du portrait n'est pas ajouté ici ; aucune image nouvelle n'a été créée.*
+![Portrait officiel de Rhaïven Merath, Homme-bête Tigrin athlétique aux yeux ambrés, oreilles et queue tigrées](../../08%20%E2%80%94%20Illustrations/Personnages/Rha%C3%AFven%20Merath/Rha%C3%AFven%20Merath%20%E2%80%94%20Portrait%20officiel.webp)
+
+*Rhaïven Merath, Homme-bête Tigrin de 28 ans, apparaît en pied au comptoir de La Porte de l'Aube : carrure athlétique, cheveux brun foncé, yeux ambrés, oreilles et queue tigrées, chemise beige et gilet de cuir brun. Ce portrait fixe sa référence visuelle ; le décor et les accessoires restent illustratifs.*
 
 ## Description physique et comportementale complète
 

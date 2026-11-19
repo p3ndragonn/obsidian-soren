@@ -80,6 +80,15 @@ Le portrait officiel d’Hadrien fixe son apparence de mercenaire humain expéri
 
 **Varkhûn — références visuelles :** les sept portraits ci-dessus correspondent à [[Vaeren Thalvyr]] (père de Soren), [[Kaelor Vargan]] (son maître), [[Narek]] (charpentier lupin), [[Darek]] (cuisinier-éclaireur), [[Thorek]] (protecteur lupin), [[Maëlan]] (herboriste) et [[Rhovan]] (bâtisseur). Ces images fixent leur apparence proposée sans ajouter de nouvelles actions à l'histoire. **Pour Darek, la race lupine reste une extrapolation à confirmer.** Attention : [[Narek]] de Varkhûn est distinct de [[Narek (Aethérion)]].
 
+## Employés de La Porte de l'Aube — portraits officiels
+
+| Personnage | Fiche | Illustration |
+|---|---|---|
+| **Nélyria Valdren** | [[Nélyria Valdren]] | [Portrait officiel](Personnages/N%C3%A9lyria%20Valdren/N%C3%A9lyria%20Valdren%20%E2%80%94%20Portrait%20officiel.webp) |
+| **Rhaïven Merath** | [[Rhaïven Merath]] | [Portrait officiel](Personnages/Rha%C3%AFven%20Merath/Rha%C3%AFven%20Merath%20%E2%80%94%20Portrait%20officiel.webp) |
+
+Ces deux portraits constituent les références visuelles officielles de Nélyria et Rhaïven. Le décor de la boutique et les accessoires sont illustratifs et n'ajoutent aucun événement au récit.
+
 ## Lieux et domaines — plans et vues illustrées
 
 | Lieu | Fiches | Illustrations |
