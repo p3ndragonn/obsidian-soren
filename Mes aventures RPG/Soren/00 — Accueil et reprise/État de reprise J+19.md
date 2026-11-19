@@ -17,3 +17,6 @@ statut: actif
 - J+19 candidats 7 h, Sylvaris probable après-midi, rendre chambre (prépayée jusqu'au 22 Clairvent, remboursement inconnu) et emménagement. J+20 audience, J+21 Arvand, J+22 provisoire mission, J+23 réservation composants expire et Crocs attendus : coordonner ; J+25 invitation Sylvaris, travaux non garantis ; J+32 départ souhaité. Aucun résultat futur joué.
 - Tévan ami proche sans couple/exclusivité. B en un an, A avancé en cinq ans, S avant 27 ans, Varkhûn au rang B.
 [[J+18 — 30 Floréane 427]] · [[Comptabilité — Soren]]
+
+## Point complémentaire joué J+19 — 10 h 07 (recrutement)
+Cinq entretiens, [[Nélyria Valdren]] et [[Rhaïven Merath]] retenus à 8 h 10, revenus à 10 h ; formalités en cours, contrats non signés, formation à venir. Conditions et propositions : [[La Porte de l'Aube#Recrutement — J+19]]. Soren souhaite une fermeture 12–13 h provisoire et des repos organisés entre eux ; planning non validé. Le présent complément ne constitue pas le bilan complet de la journée J+19 ; aucun montant de recettes ou de ressources nouvelles n'est arrêté ici.

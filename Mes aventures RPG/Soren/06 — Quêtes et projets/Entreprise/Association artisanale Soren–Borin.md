@@ -53,3 +53,6 @@ Les anciennes clauses prévisionnelles J+13/J+14 sont conservées dans **99 — 
 
 ## Avenant signé J+18 18 h 32
 Après loyer, employés, frais : 15 % réserve, 10 % remboursement à Soren des 102000 P commerciaux SS après achat effectif (12 000 personnel exclu), reste 75 % partagé 55/45 soit 41,25 % Borin et 33,75 % Soren. Après remboursement 85 % partagé 55/45. Paiement tous 30 j, premier J+47, part Soren gardée si absent. Aucun versement/acquisition. Candidats J+19 7 h. CA339, trésorerie3993. [[Partenariat — La Marmite du Compagnon]]
+
+## Recrutement J+19 — situation à 10 h 07
+[[Nélyria Valdren]] et [[Rhaïven Merath]] retenus conjointement à 8 h 10, revenus à 10 h. Contrats en préparation, non signés ; formation à venir. Conditions de travail centralisées dans [[La Porte de l'Aube#Recrutement — J+19]]. Aucun salaire versé, aucune responsabilité de gestionnaire attribuée.

@@ -50,3 +50,11 @@ Personnalisation des biomes, terrains, monstres simulés, obstacles, scénarios 
 
 ## Actualisation — J+18
 J+18 première journée payante CA339 (213 encaissées +126 prépayées), trésorerie3993 P. Cœur sous comptoir 14 h 54, circuit privé indépendant ; [[Tablette de gestion runique]] opérationnelle 16 h 02. Avenant et [[Partenariat — La Marmite du Compagnon]]. Candidats J+19 7 h, 33 modules hypothétiques. Aucun employé engagé/versement.
+
+## Recrutement — J+19
+Cinq entretiens à partir de 7 h ; **[[Nélyria Valdren]] et [[Rhaïven Merath]] retenus à 8 h 10**, rappel via la Guilde des Marchands, présents à 10 h. Au dernier point joué (10 h 07), contrats en rédaction, formation non commencée.
+- Conditions présentées : 15 P/jour travaillé, 8 h/jour, deux jours de repos/semaine, salaire versé en fin de mois (accepté par les deux). Estimation 330 P chacun pour 22 jours, hors primes ; aucune paie engagée. Réduction de 15 % sur repas à emporter à La Marmite du Compagnon.
+- Prime mensuelle individuelle non cumulative, taux d'occupation hors créneaux réservés à la Guilde : 70 % = 30 P ; 85 % = 60 P ; 100 % = 100 P.
+- Horaires souhaités par Soren : tous les jours 8–12 h et 13–20 h, fermeture méridienne provisoire ; jours de repos à convenir entre employés, sans laisser la boutique sans couverture. Proposition de Nélyria : ouverture 8–12 et 13–17, fermeture 11–12 et 13–20 ; planning précis non validé, associés couvrant les heures restantes les jours de service seul (à organiser).
+- Pas d'uniforme obligatoire, tenue propre et présentable. Formation assurée par les associés ; accès employés limité à la tablette commerciale, aucun accès administratif ni résidentiel. Perspective d'un gestionnaire à moyen terme, aucun nommé.
+- Suggestions non adoptées : abonnements mensuels (Nélyria), entraînement d'escortes marchandes et registre de satisfaction (Rhaïven).
