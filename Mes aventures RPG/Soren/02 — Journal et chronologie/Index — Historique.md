@@ -39,9 +39,11 @@ Chaque note ci-dessous contient le bilan officiel et chronologique d'une journé
 
 - [[J+18 — 30 Floréane 427 — Historique]] — Arvand, première journée commerciale, composants, Crocs et avenant
 
+- [[J+19 — 31 Floréane 427 — Historique]] — Recrutement, domaine, Miroir, Rhaïven et générateur
+
 ## Règles d'archivage
 - Ne pas considérer une personne mentionnée comme physiquement rencontrée sans événement explicite.
 - Distinguer paiements, estimations, acquisitions, objets confiés, pertes et projets.
 - Garder les secrets inconnus et ne jamais extrapoler une valeur mécanique absente du récit.
 
-**Reprise : [[État de reprise J+19]]**, fin J+18 après 23 h 08.
+**Reprise : [[État de reprise J+20]]**, fin J+19 après 23 h 07.

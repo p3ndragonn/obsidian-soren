@@ -3,7 +3,7 @@ type: sauvegarde
 campagne: Soren
 version: fin J+18 / veille J+19
 date_univers: 30 Floréane 427
-statut: actif
+statut: historique
 ---
 # État de reprise — Veille de J+19
 > [!success] REPRISE OFFICIELLE
@@ -20,3 +20,5 @@ statut: actif
 
 ## Point complémentaire joué J+19 — 10 h 07 (recrutement)
 Cinq entretiens, [[Nélyria Valdren]] et [[Rhaïven Merath]] retenus à 8 h 10, revenus à 10 h ; formalités en cours, contrats non signés, formation à venir. Conditions et propositions : [[La Porte de l'Aube#Recrutement — J+19]]. Soren souhaite une fermeture 12–13 h provisoire et des repos organisés entre eux ; planning non validé. Le présent complément ne constitue pas le bilan complet de la journée J+19 ; aucun montant de recettes ou de ressources nouvelles n'est arrêté ici.
+
+> [!warning] Sauvegarde historique remplacée par [[État de reprise J+20]] ; J+19 terminé.

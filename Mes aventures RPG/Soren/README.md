@@ -2,7 +2,7 @@
 
 Cette base Obsidian regroupe les fiches, les scènes jouées et les archives de la campagne.
 
-**Commencer ici :** [[Tableau de bord — Soren]] ; **reprendre la narration :** [[État de reprise J+19]].
+**Commencer ici :** [[Tableau de bord — Soren]] ; **reprendre la narration :** [[État de reprise J+20]].
 
 ## Parcourir les dossiers
 - **00 — Accueil et reprise** : point de reprise narratif, situation présente.
