@@ -21,3 +21,9 @@ statut: actuel
 
 ## Actualisation — J+18
 [[Collaboration personnelle avec Arvand]] · [[Composants SS réservés chez Sylvaris]] · [[Commande — Nouveaux Crocs de rang A]] · [[Partenariat — La Marmite du Compagnon]].
+
+
+## Projets actifs fin J+19
+[[Générateur de Borin]] — bouclier SS intégré, deux SS restants pour J+20 soir ; [[Association artisanale Soren–Borin]] — deux employés signés, troisième à recruter ; [[Collaboration personnelle avec Arvand]] — audience J+20, entretien J+21, mission provisoire J+22 ; voir [[État de reprise J+20]].
+
+Source : [[J+19 — 31 Floréane 427]] · [[État de reprise J+20]].

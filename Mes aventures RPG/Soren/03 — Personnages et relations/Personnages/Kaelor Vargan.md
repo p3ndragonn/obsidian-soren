@@ -215,3 +215,9 @@ Kaelor doit incarner un **maître vétéran extrêmement expérimenté**, calme,
 
 ## Témoignage de Soren à Tévan — J+17
 Dix années d'entraînement quotidien sans exception ; Kaelor choisi en connaissance de son exigence, jamais de félicitations selon Soren. À l'adolescence, un mois enfermé en salle de simulation avec provisions après avoir manqué l'entraînement pour retrouver un garçon. Selon Soren, les pères du village ne se prononcent pas sur les méthodes des maîtres. Objectif B avant retour au village, S avant 27 ans. Témoignage, pas événement nouveau de Kaelor à J+17.
+
+
+## J+19 — Transmission de l'Épreuve du Miroir
+Soren attribue à Kaelor la création de cette méthode d'entraînement. Il l'a reproduite dans sa salle privée : doubles simulés fidèles aux capacités, limite 2h, puis corrections collectives lentes. Bonus exceptionnel 50 % du niveau une fois tous les cinq niveaux acquis. Kaelor n'était pas présent.
+
+Source : [[J+19 — 31 Floréane 427]] · [[État de reprise J+20]].

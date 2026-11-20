@@ -66,3 +66,9 @@ Il n'est pas seulement un gardien immobile : il sait chasser, se coordonner avec
 ---
 
 **Navigation :** [[Chronologie détaillée et index des PNJ|Répertoire des personnages]] · [[Chronologie générale]] · [[11 - Familiers liés]] · [[Soren Thalvyr]]
+
+
+## J+19
+Miroir 120 min, 1 touche, double non vaincu, +50 % EXP relative (exact inconnu), travaille initiative offensive ; préfère louves, aucun partenaire ; première nuit maison avec meute.
+
+Source : [[J+19 — 31 Floréane 427]] · [[État de reprise J+20]].

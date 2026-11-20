@@ -28,3 +28,9 @@ Aucune fiche d'objet ne doit être remplacée par une ancienne version de l'inve
 
 ## Actualisation — J+18
 [[Tablette de gestion runique]] (entreprise) · [[Commande — Nouveaux Crocs de rang A]] (non livrée) · [[Composants SS réservés chez Sylvaris]] (non acquis).
+
+
+## Fin J+19
+Baguette SS résonance intégrée et bouclier SS intégré au générateur ; deux autres SS achetés non intégrés. Tous effets de chambre3 repris au domaine. Voir [[Composants SS réservés chez Sylvaris]] et [[État de reprise J+20]].
+
+Source : [[J+19 — 31 Floréane 427]] · [[État de reprise J+20]].

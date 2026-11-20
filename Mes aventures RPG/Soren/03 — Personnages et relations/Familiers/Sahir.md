@@ -101,3 +101,9 @@ Il doit toujours être représenté **sur quatre pattes, avec une anatomie enti�
 ---
 
 **Navigation :** [[Chronologie détaillée et index des PNJ|Répertoire des personnages]] · [[Chronologie générale]]
+
+
+## J+19
+Miroir gagné 84 min avec deux touches, +50 % EXP relative (exact inconnu), travaille réceptions des bonds. Invité temporaire domaine avec Tévan, dernière position bains ; aucune nouvelle acquisition de familier.
+
+Source : [[J+19 — 31 Floréane 427]] · [[État de reprise J+20]].

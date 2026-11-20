@@ -21,3 +21,9 @@ Passes nominatifs liés plaque et sceau Guilde, non transférables, révocables 
 
 ## Actualisation — J+18
 J+18 contrat en exploitation, cinq aventuriers reçus avec passes vérifiés, sans facturation. Tablette reconnaît passes depuis 16 h 02. Quote-part CA 126 P/j déjà prépayée, pas de second encaissement.
+
+
+## J+19
+Quote-part 126 P/j comprise dans CA426, déjà prépayée. Éventuel doublement du nombre de salles évoqué par Soren/Borin (6 salles à 7560 P/30 j aux mêmes conditions), aucune négociation ou modification signée ; actuel 3 salles.
+
+Source : [[J+19 — 31 Floréane 427]] · [[État de reprise J+20]].

@@ -70,3 +70,9 @@ Pendant **[[D-221 — Les Crocs de Pierre]]**, à J+15, Aelkan gêne un prédate
 ---
 
 **Navigation :** [[Chronologie détaillée et index des PNJ|Répertoire des personnages]] · [[Chronologie générale]] · [[11 - Familiers liés]] · [[Soren Thalvyr]]
+
+
+## J+19
+Miroir gagné 68 min, 1 touche, +50 % EXP relative (exact inconnu), travaille décision instinctive et évite suranalyse ; préfère louves, aucun partenaire ; première nuit maison avec meute.
+
+Source : [[J+19 — 31 Floréane 427]] · [[État de reprise J+20]].

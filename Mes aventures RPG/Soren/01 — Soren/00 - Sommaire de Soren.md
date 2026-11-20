@@ -37,3 +37,9 @@ statut: actif
 
 > [!note] Continuité
 > Ces fiches décrivent les domaines stables du personnage. Les changements validés doivent être consignés une seule fois dans leur fiche canonique, puis liés depuis les autres écrans.
+
+
+## Dernier état de reprise
+[[État de reprise J+20]] — fin J+19 ; [[J+19 — 31 Floréane 427]] ; [[Statut — Soren]] ; [[Comptabilité — Soren]].
+
+Source : [[J+19 — 31 Floréane 427]] · [[État de reprise J+20]].

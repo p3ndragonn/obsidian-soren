@@ -27,3 +27,9 @@ statut: actuel
 
 ## Actualisation — J+18
 J+18 : contrat Arvand non actif avant C ; J+22 provisoire mission, conflit possible J+23. Aucun EXP inventé. Composants et Crocs non livrés ; 33 modules/liaison continentale non validés. Remboursement commercial 102000 P seulement après achat ; contrat Guilde prépayé non recompté. Cœur/générateur propriétés distinctes, tablette limitée. Chambre non rendue, pas de remboursement acquis. [[État de reprise J+19]].
+
+
+## J+19
+Miroir +50 % du seuil du niveau, une fois tous les cinq niveaux acquis ; Soren +1049, reliquat initial inconnu, compagnons pourcentage sans valeur absolue. 33 modules/480 projection seulement. Générateur atelier à réinstaller, ancien seuil chambre3 non supprimé en scène. Solde 95630 conservé malgré écart remise dîner 1,25 ; quatrième ami même anniversaire déclaré sans nom (J0 trois autres célébrants). Préserver les portraits officiels et la matrice confidentielle.
+
+Source : [[J+19 — 31 Floréane 427]] · [[État de reprise J+20]].

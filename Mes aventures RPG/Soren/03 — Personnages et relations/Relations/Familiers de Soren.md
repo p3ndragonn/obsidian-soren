@@ -32,3 +32,9 @@ version: "fin J+16"
 
 ## Actualisation — J+18
 J+18 : 35 min collectif matin puis autonomie pattes/queue et pauses ; pattes réussies rapportées, queue difficile. Programme salle grise microtéléportations, appuis, obstacles, cibles, meute, pauses/protections. Retour 20 h 07, doubles rations puis chambre 3. Aucun chiffre de maîtrise/vol/rang ajouté.
+
+
+## J+19
+Première nuit dans maison privée avec Soren. Varkhan et Aelkan préfèrent louves, Sylkan loups ; aucun partenaire. Miroir +50 % EXP chacun, bonus renouvelable tous les cinq niveaux acquis, valeurs individuelles inconnues. Aelkan gagne 68min/1 touche ; Varkhan 120/1 non vainqueur, Sylkan120/3 non vainqueur. Correction individuelle lente 1h (initiative Varkhan, décision Aelkan, économie mana Sylkan), pas de maîtrise/rang/niveau nouveau attesté. Parole mentale et partage inchangés.
+
+Source : [[J+19 — 31 Floréane 427]] · [[État de reprise J+20]].

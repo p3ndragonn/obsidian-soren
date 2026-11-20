@@ -76,3 +76,9 @@ Son tempérament joueur ne l'empêche donc nullement d'agir avec détermination 
 ---
 
 **Navigation :** [[Chronologie détaillée et index des PNJ|Répertoire des personnages]] · [[Chronologie générale]] · [[11 - Familiers liés]] · [[Soren Thalvyr]]
+
+
+## J+19
+Miroir 120 min, 3 touches, double non vaincu, +50 % EXP relative (exact inconnu), travaille économie mana ; préfère loups mâles, aucun partenaire ; première nuit maison avec meute.
+
+Source : [[J+19 — 31 Floréane 427]] · [[État de reprise J+20]].
