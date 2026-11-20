@@ -25,3 +25,9 @@ Consulter les fiches d'artefacts et d'objets, puis [[État de reprise J+16]]. Ne
 
 ## Actualisation — J+18
 J+18 : quatre composants SS réservés non acquis ; Crocs A commandés non livrés ; lettre Arvand et reçu Dagrim détenus. Cœur sous comptoir, baguette sur Soren ; deux sceaux invendus.
+
+
+## Actualisation — fin J+19
+Tous les effets personnels de chambre3 récupérés, carnet rangé Sac après 23 h07, aucun mobilier de Guilde emporté. Quatre SS acquis : résonance 12000 intégrée à baguette, confinement 30000 intégré au générateur de Borin ; convergence 25000 et matrice 47000 encore en coffrets. Deux sceaux invendus et matériaux invendus. Solde personnel narré 95630 P.
+
+Source : [[J+19 — 31 Floréane 427]] · [[État de reprise J+20]].

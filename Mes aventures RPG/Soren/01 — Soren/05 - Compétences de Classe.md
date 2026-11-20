@@ -30,3 +30,9 @@ Ces capacités ne garantissent pas automatiquement une victoire. Leur efficacit�
 ---
 
 [[00 - Sommaire de Soren|Retour au sommaire]] · [[Fiche personnage — Soren Thalvyr|Fiche générale]]
+
+
+## J+19 — Miroir
+Victoire contre double fidèle en 15 min, sans touche ni téléportation : Appui du Chasseur, Rupture de Cadence, Danse des Lames Rétractiles, Contre-Griffe [S]. Travail lent des appuis naturels ensuite ; aucun changement de maîtrise chiffré. +1049 EXP classe, seuil du niv28 2098 ; reliquat exact inconnu.
+
+Source : [[J+19 — 31 Floréane 427]] · [[État de reprise J+20]].

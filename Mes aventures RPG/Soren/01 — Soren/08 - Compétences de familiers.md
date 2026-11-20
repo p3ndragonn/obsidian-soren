@@ -34,3 +34,9 @@ Communion 6 · Harmonie 4 · Gardien 3
 ---
 
 [[00 - Sommaire de Soren|Retour au sommaire]] · [[Fiche personnage — Soren Thalvyr|Fiche générale]]
+
+
+## J+19 — Miroir et correction collective
+Les trois loups participent, +50 % EXP chacun (niveaux/valeurs exacts inconnus) ; bonus une fois tous les cinq niveaux acquis. Aelkan vainqueur 68 min/1 touche, Varkhan 120 min/1 et Sylkan 120 min/3 non vainqueurs. Une heure de correction lente. Aucun rang, maîtrise, vol ni nouvelle compétence partagée établi.
+
+Source : [[J+19 — 31 Floréane 427]] · [[État de reprise J+20]].

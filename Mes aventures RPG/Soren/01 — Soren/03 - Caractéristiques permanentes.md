@@ -41,3 +41,9 @@ Les ressources **instantanées** (HP, EP, MP restants) ne sont pas chiffrées au
 ---
 
 [[00 - Sommaire de Soren|Retour au sommaire]] · [[Fiche personnage — Soren Thalvyr|Fiche générale]]
+
+
+## Actualisation — fin J+19
+Aucun nouveau niveau confirmé malgré +1049 EXP de classe au Miroir ; FOR60 VIT50 END65 AGI82 SAG40 PER69 =366 et 0 point disponible restent les valeurs confirmées.
+
+Source : [[J+19 — 31 Floréane 427]] · [[État de reprise J+20]].

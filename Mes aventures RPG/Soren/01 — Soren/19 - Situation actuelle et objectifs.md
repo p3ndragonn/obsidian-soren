@@ -26,3 +26,9 @@ Le **solde exact fin J+17 est de 214 203 Pièces**, le niveau et les statistique
 
 ## Actualisation — J+18
 [[État de reprise J+19]] prioritaire. Candidats 7 h J+19, visite Sylvaris probable, restitution chambre/emménagement ; audience J+20, Arvand J+21, mission solo C J+22 provisoire ≤72 h, Crocs et composants J+23 à coordonner, Sylvaris invité J+25, départ souhaité J+32. B en un an, A avancé proche S en cinq ans. Contrat personnel signé non actif.
+
+
+## Actualisation prioritaire — fin J+19
+Endormi après 23 h07 maison privée avec loups, réveil non joué. J+20 Rhaïven 6 h devant boutique, service 8 h, audience roi 11 h ; générateur à remettre en place avant ouverture, intégration conjointe cristal/matrice le soir. J+21 Arvand, J+22 mission solo grade C provisoire, J+23 Crocs A (9000 restant), J+25 Sylvaris, J+32 départ souhaité. Borin gère recrutement troisième employé. 33 modules/480 personnes non validés.
+
+Source : [[J+19 — 31 Floréane 427]] · [[État de reprise J+20]].

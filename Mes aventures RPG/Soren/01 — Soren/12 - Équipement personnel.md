@@ -23,3 +23,9 @@ Les commandes, prix, anciennes versions et détails techniques d'origine ont ét
 
 ## Actualisation — J+18
 J+18 : Crocs C toujours utilisés ; [[Commande — Nouveaux Crocs de rang A]] non livrée. Cape dans chambre 3 ; baguette sur Soren ; Cœur sous comptoir boutique, propriété inchangée.
+
+
+## Actualisation — fin J+19
+Crocs C conservés, nouvelle paire A attendue J+23 (9000 P restant). Baguette personnelle améliorée par cristal résonance dimensionnelle SS (12000 P), essais locaux stables, portée continentale théorique non testée. Cape noire et effets personnels récupérés de chambre3.
+
+Source : [[J+19 — 31 Floréane 427]] · [[État de reprise J+20]].

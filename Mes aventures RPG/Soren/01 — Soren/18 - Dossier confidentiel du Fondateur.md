@@ -26,3 +26,9 @@ Aucune hypothèse concernant la nature de l'ombre, l'origine des cristaux ou l'�
 ---
 
 [[00 - Sommaire de Soren|Retour au sommaire]] · [[Fiche personnage — Soren Thalvyr|Fiche générale]]
+
+
+## J+19
+Atelier privé créé par matrice cérébrale secrète, non divulguée à Tévan/Sahir ni employés. Baguette SS résonance : portée continentale hypothétique non testée. Épreuve du Miroir par matrice, doubles sans lecture de pensées privées ; règle bonus 50 % une fois tous les 5 niveaux. Ancien seuil chambre3 à vérifier après restitution.
+
+Source : [[J+19 — 31 Floréane 427]] · [[État de reprise J+20]].

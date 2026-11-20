@@ -24,3 +24,9 @@ Un sceau vendu J+16, deux restent ; les estimations de butin et les négociation
 
 ## Actualisation — J+18
 Fin J+18 : **209 596,25 P personnels**, société **3 993 P** distincte. Composants 114 000 réservés non payés ; Crocs 4 500 payés, 9 000 restant. [[Comptabilité — Soren]].
+
+
+## Actualisation prioritaire — fin J+19
+Personnel **95 630 P** : 209596,25 +176 −114000 −75,75 −66,50. Écart de remise dîner de 1,25 P à vérifier, solde narré conservé. 102000 commerciaux à rembourser, 12000 personnels exclus. Deux sceaux invendus, 37000 promis chacun Tévan/Hadrien, 9000 Crocs restant. Société 4293 P séparés, CA426, encaissé300, salaires30 à provisionner, aucun bénéfice distribué.
+
+Source : [[J+19 — 31 Floréane 427]] · [[État de reprise J+20]].

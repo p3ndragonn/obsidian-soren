@@ -211,3 +211,9 @@ Sa tenue actuelle comporte un **harnais en cuir noir**, un **short en cuir noir*
 ---
 
 [[00 - Sommaire de Soren|Retour au sommaire]] · [[Fiche personnage — Soren Thalvyr|Fiche générale]]
+
+
+## Actualisation résidentielle — J+19
+Résidence actuelle : maison du domaine privé de Soren et Borin à Aethérion. Chambre3 Annexe rendue, première nuit chez lui. Apparence et tenue inchangées.
+
+Source : [[J+19 — 31 Floréane 427]] · [[État de reprise J+20]].

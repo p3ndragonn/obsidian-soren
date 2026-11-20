@@ -33,3 +33,9 @@ point_de_reprise: "[[État de reprise J+18]]"
 
 > [!warning] Confidentialité
 > Les informations réservées au Fondateur ne sont pas automatiquement connues des PNJ ; voir [[18 - Dossier confidentiel du Fondateur]].
+
+
+## État prioritaire fin J+19
+Maison privée, chambre Guilde rendue ; 95630 P personnels et 4293 P société distincte. Derniers niveaux confirmés classe28/profession20 ; +1049 EXP classe Miroir, reliquat inconnu. Baguette améliorée cristal SS, atelier créé. Voir [[État de reprise J+20]].
+
+Source : [[J+19 — 31 Floréane 427]] · [[État de reprise J+20]].

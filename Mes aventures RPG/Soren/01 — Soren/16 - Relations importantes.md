@@ -41,3 +41,9 @@ Soren conserve une forte affection pour les habitants de Varkhûn, malgré son d
 
 ## J+17 — actualisation
 Tévan soutient les projets d'expéditions de Soren, envisage visite Varkhûn uniquement après le rang B de Soren ; aspirations commerciales propres. Borin et Soren exploitent désormais La Porte de l'Aube, contrat Guilde signé avec Arvand. Hadrien participe aux démonstrations et au dîner. Aucun changement d'exclusivité ni de promesses financières. [[J+17 — 29 Floréane 427]].
+
+
+## J+19
+Nélyria et Rhaïven recrutés et formés. Rhaïven/Tigrin : attirance et flirt réciproques, baiser joue à la sortie, visite privée consentie J+20 6 h avant travail, pas de couple ni condition professionnelle. Tévan reste ami proche, baisers consentis, pas d'exclusivité. Varkhan/Aelkan préfèrent louves, Sylkan loups ; aucun partenaire.
+
+Source : [[J+19 — 31 Floréane 427]] · [[État de reprise J+20]].

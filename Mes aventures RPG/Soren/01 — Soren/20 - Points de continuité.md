@@ -20,3 +20,9 @@ Pour les détails, consulter directement :
 - [[18 - Dossier confidentiel du Fondateur]] — connaissances réservées.
 
 La chronologie complète des anciennes règles J+13 et J+14 a été préservée dans **99 — Archives**.
+
+
+## Vigilances J+19
+Solde narré 95630 conservé malgré écart remise dîner 1,25 ; EXP Miroir +1049 sans passage niveau confirmé ; quatrième ami même anniversaire évoqué par Soren, non identifié (J0 trois autres adultes). Ancien portail chambre3 suppression non jouée, générateur atelier à réinstaller, départ exact Tévan/Sahir/Borin après bains non joué. Rhaïven relation professionnelle et flirt distincts.
+
+Source : [[J+19 — 31 Floréane 427]] · [[État de reprise J+20]].

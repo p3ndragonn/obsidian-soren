@@ -66,3 +66,9 @@ Les fiches historiques J+13 sont conservées dans **99 — Archives** ; les vale
 
 ## Actualisation — J+18
 Fin J+18 : rang, niveaux, caractéristiques et EXP chiffrée inchangés ; ressources instantanées inconnues. Arvand connaît statut complet en confidentialité, Dagrim seulement MP max >600. [[État de reprise J+19]].
+
+
+## Actualisation prioritaire — fin J+19
+Épreuve du Miroir : +1049 EXP de classe (50 % du seuil 2098 du niv28), soit ancien reliquat niv26 +1227/2098 ; reliquat initial inconnu, aucun passage supplémentaire confirmé. Profession niv20, ancien reliquat niv18 +74/1202 inchangé. Dernier état confirmé C, grade D, classe 28, profession 20, 366 points, 0 à répartir ; aucune maîtrise nouvelle chiffrée. Bonus Miroir renouvelable une fois tous les 5 niveaux acquis. Ne pas interpréter la victoire simulée comme kill réel.
+
+Source : [[J+19 — 31 Floréane 427]] · [[État de reprise J+20]].

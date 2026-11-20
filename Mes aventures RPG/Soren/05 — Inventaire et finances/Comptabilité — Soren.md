@@ -113,3 +113,16 @@ Pour une vente distincte du noyau du Cœur, une répartition **70 % Soren / 10 %
 
 ## Clôture J+18
 214203 −46 déjeuner −4500 acompte Crocs −60,75 dîner (81 brut −25 %) = **209596,25 P personnels**. Petit-déjeuner inclus. 114000 P réservés non payés, 9000 Crocs restant ; deux sceaux invendus, 37000 à chacun Tévan/Hadrien promis. Société : 3780 prépayés J+17 +213 encaissés (100 ateliers,65 entraînement,48 arène) = **3993 P** ; CA 339 inclut 126 prépayés, ne pas recompter. Aucun versement. [[État de reprise J+19]]
+
+
+## Clôture J+19 (31 Floréane 427)
+| Mouvement personnel | Montant P | Solde P |
+|---|---:|---:|
+| Report | | 209596,25 |
+| Remboursement 22 nuits chambre3 | +176 | 209772,25 |
+| Achat quatre composants SS | −114000 | 95772,25 |
+| Déjeuner | −75,75 | 95696,50 |
+| Dîner (montant narré) | −66,50 | **95630** |
+Le dîner affiche 87 brut, remise 20,50 ; 25 % de 87 =21,75, écart 1,25 non résolu : conserver le montant narré, pas de régularisation spontanée. 102000 commerciaux remboursables selon avenant, 12000 personnels. Aucun autre paiement ni vente de sceau. Société séparée : 3993+300=4293 P ; CA426 (144 atelier/96 entraînement/60 arène/126 prépayé), 30 salaires à provisionner, pas versés. Aucun bénéfice distribué.
+
+Source : [[J+19 — 31 Floréane 427]] · [[État de reprise J+20]].

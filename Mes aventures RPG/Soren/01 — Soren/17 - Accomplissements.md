@@ -42,3 +42,9 @@ Inauguration de La Porte de l'Aube ; démonstration tactique comparative ; victo
 
 ## Actualisation — J+18
 J+18 : entretien et contrat conditionnel Arvand, première journée commerciale, partenariat restaurant, programme loups, installation Cœur et tablette de gestion, avenant financier. Aucun EXP/niveau attribué.
+
+
+## J+19
+Recrutement de deux employés ; première nuit au domaine ; atelier runique créé ; cristal SS intégré à baguette ; Miroir gagné en 15 min sans touche/téléportation (+1049 EXP classe) ; bouclier SS installé au générateur avec Borin. Pas de nouveau titre ni rang confirmé.
+
+Source : [[J+19 — 31 Floréane 427]] · [[État de reprise J+20]].

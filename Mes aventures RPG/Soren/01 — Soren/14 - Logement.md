@@ -46,3 +46,9 @@ Soren et Borin ont créé J+14 un [[Domaine privé de Soren et Borin]], **distin
 
 ## Actualisation — J+18
 Fin J+18 Soren dort chambre 3 ; prévoit restitution et emménagement J+19. Aucune restitution, aucun remboursement de nuits prépayées ni déménagement réalisé. Petit-déjeuner restaurant 5–10 h.
+
+
+## Actualisation prioritaire — J+19
+Chambre3 rendue à Maëlys 11 h46, remboursement 22 nuits/176 P, tous effets repris. Résidence principale désormais maison du domaine privé ; première nuit avec loups après 23 h07. Tévan chambre5 conservée. Ancien seuil chambre3 suppression non jouée : vérifier. Nouvel atelier runique près salle grise. Cœur sous comptoir, circuit indépendant.
+
+Source : [[J+19 — 31 Floréane 427]] · [[État de reprise J+20]].
