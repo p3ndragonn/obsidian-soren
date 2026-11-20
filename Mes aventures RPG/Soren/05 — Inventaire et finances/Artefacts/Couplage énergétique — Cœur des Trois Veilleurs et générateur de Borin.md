@@ -282,3 +282,9 @@ Les artefacts restent **séparés et détenus par leurs propriétaires respectif
 
 ## Actualisation — J+18
 J+18 14 h 54 installation sous comptoir, double fond, verrou gravitationnel et signatures Soren/Borin ; circuits stables et indépendants. Tablette employés opérationnelle 16 h 02, paramètres fondamentaux réservés associés.
+
+
+## Actualisation — J+19
+21 h21 générateur découplé puis emporté à atelier privé, Cœur demeure à emplacement sécurisé sous comptoir, circuit domaine indépendant maintenu. Atelier possède alimentation régulée du Cœur. Bouclier SS intégré puis testé progressivement, pas pleine charge, raccordement commercial non rétabli à fin J+19.
+
+Source : [[J+19 — 31 Floréane 427]] · [[État de reprise J+20]].

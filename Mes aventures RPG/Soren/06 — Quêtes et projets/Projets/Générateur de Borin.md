@@ -30,3 +30,9 @@ statut: "derniers essais terminés, lancement commercial J+17 encore à jouer"
 
 ## Actualisation — J+18
 J+18 ouverture payante, Cœur et tablette opérationnels. Composants SS réservés 102000 P J+23 non achetés ; compatibilité préliminaire, 33 modules non éprouvés. [[Composants SS réservés chez Sylvaris]].
+
+
+## J+19 — Premier SS
+Générateur découplé et emporté dans atelier privé après fermeture, Cœur sous comptoir indépendant. Bouclier confinement absolu SS intégré en 30 min, stabilité et compatibilité vérifiées à puissance croissante, pleine charge non testée ; rang S dernier établi. Remise en place avant ouverture J+20 non jouée. J+20 soir intégration simultanée cristal convergence et matrice pour répartir flux. Objectif 33 : 15 ateliers×6, 15 entraînements×14, 3 arènes×60 (proposition 20/40), 480 au total, théorique. Procédures de sécurité évoluent avec générateur selon Soren, tests nécessaires ; attente demande avant plus de personnel, possible extension Arvand non négociée.
+
+Source : [[J+19 — 31 Floréane 427]] · [[État de reprise J+20]].

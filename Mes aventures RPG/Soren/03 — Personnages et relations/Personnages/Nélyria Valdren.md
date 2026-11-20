@@ -90,3 +90,9 @@ Contrat signé. Salaire 15 Pièces par journée travaillée, versé mensuellemen
 ---
 
 **Navigation :** [[Chronologie détaillée et index des PNJ|Répertoire des personnages]] · [[Chronologie générale]] · [[La Porte de l'Aube]]
+
+
+## Événements confirmés J+19
+Contrat signé 10 h10, repos mercredi/jeudi, formation et réservation forge 3 h/12 P, présente bilan 19 h37 (CA426, caisse4293). Dîner collectif accepté, truite et anecdote ancien noble utilisant titre falsifié ; aucun nouveau contrat commercial ni évolution de poste.
+
+Source : [[J+19 — 31 Floréane 427]] · [[État de reprise J+20]].

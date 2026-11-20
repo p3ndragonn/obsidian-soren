@@ -841,3 +841,9 @@ Appareil de Borin en réparation par Soren. Deux composants S financés par Bori
 
 ## Actualisation — J+18
 J+18 générateur S opérationnel, Cœur sous comptoir et [[Tablette de gestion runique]] installés. Trois composants SS réservés 102000 P non achetés, compatibilité préliminaire basse puissance ; 33 modules hypothétiques. [[Composants SS réservés chez Sylvaris]].
+
+
+## Actualisation prioritaire — fin J+19
+Propriété Borin, dernier rang S. Physiquement atelier privé, retiré du comptoir après fermeture avec double signature, alimentation commerciale interrompue. Bouclier confinement absolu SS intégré (30000 P avancés par Soren) ; essais progressifs stables, pleine charge non testée. Convergence et matrice SS à intégrer ensemble J+20 soir, non encore installées. Nouvelle configuration théorique 15 ateliers×6, 15 entraînements×14, 3 arènes×60 (20 combattants/40 spectateurs proposé), total 480 vs 80 ; arène seule nouvelle capacité non définie, aucune mise en service de 33. Remise au comptoir à faire.
+
+Source : [[J+19 — 31 Floréane 427]] · [[État de reprise J+20]].

@@ -91,3 +91,9 @@ Contrat signé. Salaire 15 Pièces par journée travaillée, versé mensuellemen
 ---
 
 **Navigation :** [[Chronologie détaillée et index des PNJ|Répertoire des personnages]] · [[Chronologie générale]] · [[La Porte de l'Aube]]
+
+
+## Événements confirmés J+19
+Contrat signé 10 h10, formation, repos dimanche/lundi. À dîner déclare être né à Aethérion, parents Tigrins : père ancien garde caravane, mère boutique tissus, deux grandes sœurs ; apprentissage auprès mère puis maison d'équipements à 22 ans. Flirt réciproque avec Soren, offre premier hydromel, s'assoit à côté de lui, lui fait un baiser joue en partant. Rendez-vous J+20 6 h devant boutique pour visite du domaine avant service 8 h, intérêt exprimé, aucun couple ni orientation précise revendiquée. Soren lui parle audience 11 h. Contacts marchands et entraînement escortes évoqués, non mis en œuvre. Aucune modification salariale en raison du flirt.
+
+Source : [[J+19 — 31 Floréane 427]] · [[État de reprise J+20]].

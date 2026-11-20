@@ -657,3 +657,9 @@ Elle a été pensée comme un foyer partagé avec sa meute, où chacun possède 
 ---
 
 **Résumé et situation énergétique actuelle :** [[Domaine privé de Soren et Borin]] · **chronique :** [[J+14 — 26 Floréane 427]].
+
+
+## Nouvel atelier runique privé — J+19
+Créé 13 h28 près salle grise, fondations pierre, bois sombre, fenêtres, établi gravure, analyse mana, banc d'essais réglable, enceinte de confinement, outils précision, rangement sécurisé, bureau dessin et zone assemblage, repos loups. Alimentation régulée du Cœur ; outils simulés non exportables, objets matériels réels. Baguette SS intégrée ici puis générateur avec Borin (bouclier SS), premiers essais stables. Première nuit résidentielle de Soren avec trois loups fin J+19. Tévan/Sahir invités temporaires, Rhaïven invité J+20.
+
+Source : [[J+19 — 31 Floréane 427]] · [[État de reprise J+20]].

@@ -119,3 +119,9 @@ Aide à l'inauguration avec Sahir. Dîner puis promenade affectueuse seul avec S
 
 ## Actualisation — J+18
 J+18 21 h 38–22 h 39 : Soren raconte journée et déménagement prévu ; Tévan regrette futur départ, plaisanteries, baisers et tendresse mutuellement consentis. Amitié proche ; pas de nouvel engagement ni exclusivité. Sahir présent.
+
+
+## J+19
+Assiste recrutement, garde chambre5 ; invité temporaire du domaine avec Sahir, bains et Miroir : gagne en103 min, 2 touches, +50 % EXP du niveau courant, exact inconnu ; correction flanc gauche. Ami proche de Soren, pas couple ni exclusivité, baisers amicaux. Dîner collectif et taquineries Rhaïven ; dernière position centre thermal avec Sahir et Borin, départ non joué. Souhaite missions escortes avec Sahir et commerce/rapière pendant absence ; éventuelle lynx non acquise, souhaite consulter Sahir.
+
+Source : [[J+19 — 31 Floréane 427]] · [[État de reprise J+20]].

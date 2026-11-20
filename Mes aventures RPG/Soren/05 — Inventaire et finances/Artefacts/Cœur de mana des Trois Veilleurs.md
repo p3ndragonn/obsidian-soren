@@ -928,3 +928,9 @@ Artefact légendaire obtenu J+10. Dix transferts possibles, sept déjà utilisé
 
 ## Actualisation — J+18
 J+18 14 h 22–54 : transféré chambre 3 vers boutique sans interruption circuits, double fond verrou gravitationnel et signatures Soren/Borin. Toujours propriété Soren ; deux sceaux invendus.
+
+
+## J+19
+Cœur demeure sous comptoir, séparé du générateur temporairement retiré. Domaine et nouvel atelier runique alimentés. Baguette améliorée par cristal SS, portée continentale non testée. Aucun nouveau transfert de bénédiction ni vente.
+
+Source : [[J+19 — 31 Floréane 427]] · [[État de reprise J+20]].

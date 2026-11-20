@@ -26,3 +26,9 @@ Logement : Soren chambre n° 3 et Tévan chambre n° 5 à J+12.
 
 ## Actualisation — J+18
 Fin J+18 : Soren et loups chambre 3 endormis après 23 h 08 ; prévoit rendre chambre J+19, prépayée jusqu'au 22 Clairvent inclus. Aucun remboursement/restitution. Tévan et Sahir chambre 5.
+
+
+## J+19
+Soren rend chambre3 à Maëlys 11 h46, 22 nuits remboursées 176 P, récupère effets personnels. Tévan conserve chambre5. Ancien seuil vers domaine non supprimé en scène, à contrôler. Soren réside désormais dans domaine.
+
+Source : [[J+19 — 31 Floréane 427]] · [[État de reprise J+20]].

@@ -223,3 +223,9 @@ Valide tarifs, co-inaugure La Porte de l'Aube, gère réservations, accepte/sign
 
 ## Actualisation — J+18
 J+18 : candidats J+19 7 h, partenariat restaurant, plaque/tablette et installation Cœur avec Soren ; avenant signé 18 h 32 premier versement J+47, trésorerie 3993 P. Accueillera Sylvaris si Soren absent. Envisage forge privée et recherches alliages.
+
+
+## J+19
+Recrute Nélyria/Rhaïven avec Soren, supervise formation et boutique ; annonce troisième employé déposée après-midi. Accueille Sylvaris, rapporte visite positive. Dîner équipe, atelier privé découvert ; intègre bouclier SS avec Soren en 30 min, projet intégration double J+20 soir. Discussions 480 personnes théoriques, éventuelle extension Guilde, attendre demande. Bains en fin de soirée, départ exact vers maison non joué.
+
+Source : [[J+19 — 31 Floréane 427]] · [[État de reprise J+20]].

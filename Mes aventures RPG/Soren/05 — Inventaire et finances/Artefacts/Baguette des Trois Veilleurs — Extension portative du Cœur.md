@@ -161,3 +161,9 @@ Soren optimise la stabilisation du seuil et vérifie le retour au point d'ouvert
 
 ## Actualisation — J+18
 J+18 usage local boutique↔domaine réussi, Cœur transféré. Cristal résonance dimensionnelle SS 12000 P réservé non acquis ; objectif liaison énergétique continentale et retour au point d'entrée, pas boutique ni réseau de destinations. Micro-matrice écartée. Compatibilité/distance non testées, Soren seul autorisé.
+
+
+## Actualisation — J+19
+Cristal résonance dimensionnelle SS acheté 12000 P personnel, intégré de 13 h35 à14 h35 à atelier privé, support secondaire démonté et raccords adaptés. Tests locaux stables à puissance croissante, portée continentale théorique non testée. Retour au point d'entrée extérieur, pas boutique ; Soren seul déclenche. Aspect noir/argent/or ~20 cm, reflets bleu-violet. Ancien focaliseur sort non précisé ; pas de rang global ni coût mana nouveau établi.
+
+Source : [[J+19 — 31 Floréane 427]] · [[État de reprise J+20]].

@@ -37,3 +37,9 @@ Créé et expérimenté à J+14 par [[Soren Thalvyr]] et [[Borin]] ; **résidenc
 
 ## Actualisation — J+18
 J+18 accès boutique confirmé, Cœur transféré sous comptoir sans interruption, circuit indépendant. Salle grise loups programmée : microtéléportations, appuis, obstacles, cibles, coordination/chasse, protections et pauses. Déménagement prévu J+19, pas joué ; Borin envisage forge privée.
+
+
+## Actualisation prioritaire — J+19
+Soren a rendu chambre3 et s'installe définitivement dans sa maison, première nuit avec trois loups. Ancien seuil chambre3 non supprimé en scène : vérifier. Atelier privé neuf près salle grise (établi runique, analyse mana, banc ajustable, confinement, outils, rangement, bureau, assemblage, zone loups), alimentation régulée Cœur, outils simulés restent dimension. Tévan/Sahir invités temporaires, Rhaïven visite J+20 6 h acceptée, pas d'accès permanent. Générateur commercial temporairement dans atelier, Cœur sous comptoir. Matrice secrète réservée Soren/Borin.
+
+Source : [[J+19 — 31 Floréane 427]] · [[État de reprise J+20]].
