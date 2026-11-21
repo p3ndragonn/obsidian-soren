@@ -11,6 +11,7 @@ campagne: Soren
 | **J+2 — départ de Varkhûn** | [[Soren — Départ de Varkhûn]] | Tenue légère, avant acquisition de la cape noire |
 | **J+11 — réception de la cape** | [[Soren — Cape noire de Corvin]] | Cape noire et tenue complète |
 | **Tenue actuelle — portrait de Soren** | [Portrait actuel de Soren](Personnages/Soren/Soren%20%E2%80%94%20Portrait%20actuel.webp) | Harnais et short en cuir noir, bottes noires, cape intégralement en fourrure noire jusqu'aux pieds |
+| **J+20 — essayage pour l'audience royale** | [[Soren — Tenue d'audience royale J+20]] · [Voir le portrait](Personnages/Soren/Soren%20%E2%80%94%20Tenue%20d%27audience%20royale%20J%2B20.webp) | Tunique noire cintrée à broderies argentées, cape de fourrure noire ; achat non encore confirmé |
 
 Les **deux planches techniques originales** sont conservées en fichiers PNG distincts. Elles ne doivent pas être remplacées par des visages ou des tenues inventés.
 

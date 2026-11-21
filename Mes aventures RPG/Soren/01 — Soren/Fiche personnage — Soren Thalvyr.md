@@ -29,7 +29,9 @@ point_de_reprise: "[[État de reprise J+18]]"
 - [[Comptabilité — Soren]] · [[Index — Quêtes]].
 
 ## Références visuelles historiques
-[[Soren — Départ de Varkhûn]] · [[Soren — Cape noire de Corvin]] · [[Index des illustrations]].
+[[Soren — Départ de Varkhûn]] · [[Soren — Cape noire de Corvin]] · [[Soren — Tenue d'audience royale J+20]] · [[Index des illustrations]].
+
+**Variante visuelle J+20 :** [portrait de Soren en tunique noire brodée d'argent et cape de fourrure](../08%20%E2%80%94%20Illustrations/Personnages/Soren/Soren%20%E2%80%94%20Tenue%20d%27audience%20royale%20J%2B20.webp). Le portrait actuel ci-dessus reste l'image principale. L'acquisition de la tunique n'est pas encore jouée.
 
 > [!warning] Confidentialité
 > Les informations réservées au Fondateur ne sont pas automatiquement connues des PNJ ; voir [[18 - Dossier confidentiel du Fondateur]].

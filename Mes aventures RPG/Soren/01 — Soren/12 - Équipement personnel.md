@@ -29,3 +29,9 @@ J+18 : Crocs C toujours utilisés ; [[Commande — Nouveaux Crocs de rang A]] no
 Crocs C conservés, nouvelle paire A attendue J+23 (9000 P restant). Baguette personnelle améliorée par cristal résonance dimensionnelle SS (12000 P), essais locaux stables, portée continentale théorique non testée. Cape noire et effets personnels récupérés de chambre3.
 
 Source : [[J+19 — 31 Floréane 427]] · [[État de reprise J+20]].
+
+
+## Essayage J+20 — tenue d'audience royale (achat non encore confirmé)
+Chez **L'Aiguille d'Argent** à Aethérion, avec [[Tévan]], Soren essaie une tunique noire cintrée, à col légèrement ouvert et broderies argentées discrètes soulignant épaules, torse et flancs. La cape longue de fourrure noire complète l'ensemble ; les bottes noires peuvent être conservées. La couturière propose **180 Pièces, retouches comprises** (fil d'argent véritable en supplément facultatif de 45 P). **Au point joué : essayage seulement ; ni paiement ni acquisition à enregistrer.**
+
+**[Portrait — tenue d'audience royale J+20](../08%20%E2%80%94%20Illustrations/Personnages/Soren/Soren%20%E2%80%94%20Tenue%20d%27audience%20royale%20J%2B20.webp)** · [[Soren — Tenue d'audience royale J+20]]. L'image contient des ornements et accessoires de mise en scène : ils ne constituent pas des équipements nouvellement acquis.
