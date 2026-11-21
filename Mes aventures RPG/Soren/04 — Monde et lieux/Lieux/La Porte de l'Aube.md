@@ -12,6 +12,12 @@ date_creation: "26 Floréane 427"
 > [!success] SITUATION FIN J+17
 > Inauguration réussie ; boutique fermée 17 h 41 et sécurisée. Horaires quotidiens 8 h–20 h dès J+18 ; réservations à l'accueil. Contrat Guilde signé, 3 780 P encaissées et 71 P de réservations individuelles à encaisser. Dragon simulé A vaincu seul par Soren 16 h 44, boucliers intacts, aucun test réel massif d'évacuation. [[État de reprise J+18]].
 
+## Emblème officiel de la boutique (référence visuelle validée)
+
+![Emblème officiel de La Porte de l'Aube, porte de pierre devant un soleil levant et un chemin au milieu des montagnes](../../08%20%E2%80%94%20Illustrations/Logos/La%20Porte%20de%20l%27Aube%20%E2%80%94%20Embl%C3%A8me%20officiel.webp)
+
+**Identité visuelle validée hors récit :** emblème médiéval-fantastique sans texte, en bronze doré sur bois sombre. Une arche de pierre encadre le soleil levant, les montagnes et un chemin ; deux petites bannières végétales complètent le motif. Utiliser ce logo comme référence cohérente dans l'interface du SYSTÈME et, le cas échéant, pour des gravures sur bois ou métal et des reliefs. **Il n'est pas encore établi qu'il ait été matériellement fabriqué ou posé sur la vitrine.** Version compacte et fichier d'origine : [[La Porte de l'Aube — Identité visuelle]].
+
 ## Espaces et capacités
 - **5 ateliers × 3 artisans = 15 personnes** ;
 - **5 salles d'entraînement × 7 aventuriers = 35 personnes** ;

@@ -62,3 +62,7 @@ Après loyer, employés, frais : 15 % réserve, 10 % remboursement à Soren des 
 Deux contrats signés, conditions et jours de repos : [[La Porte de l'Aube]]. Troisième recrutement confié à Borin (annonce déposée). Soren a effectivement avancé 102000 P pour composants commerciaux SS, remboursement de 10 % du bénéfice net activé selon avenant ; 12000 personnels exclus. CA 426, encaissé300, trésorerie4293, provision salaires30 non versés, aucun bénéfice distribué. Premier décompte J+47. Objectif 33 modules/480 personnes non testé, extension de contrat Guilde seulement envisagée.
 
 Source : [[J+19 — 31 Floréane 427]] · [[État de reprise J+20]].
+
+## Identité visuelle de l'établissement
+
+**[[La Porte de l'Aube — Identité visuelle]]** : emblème officiel validé hors partie (21 novembre 2026). La version compacte doit servir de repère dans l'interface du SYSTÈME ; toute enseigne physique, gravure ou fabrication reste un événement à établir dans l'aventure.

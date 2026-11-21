@@ -89,6 +89,14 @@ Le portrait officiel d’Hadrien fixe son apparence de mercenaire humain expéri
 
 Ces deux portraits constituent les références visuelles officielles de Nélyria et Rhaïven. Le décor de la boutique et les accessoires sont illustratifs et n'ajoutent aucun événement au récit.
 
+## Identités commerciales — emblèmes et logos officiels
+
+| Établissement | Fiche | Logo pour le SYSTÈME | Version source |
+|---|---|---|---|
+| **La Porte de l'Aube** | [[La Porte de l'Aube — Identité visuelle]] · [[La Porte de l'Aube]] | [Emblème officiel](Logos/La%20Porte%20de%20l%27Aube%20%E2%80%94%20Embl%C3%A8me%20officiel.webp) · [Icône compacte](Logos/La%20Porte%20de%20l%27Aube%20%E2%80%94%20Ic%C3%B4ne%20SYST%C3%88ME.webp) | [PNG validé](Logos/La%20Porte%20de%20l%27Aube%20%E2%80%94%20Source%20originale.png) |
+
+**Logo validé :** sans texte, gravable en bois ou métal après adaptation technique, inspiré du monde médiéval-fantastique de Soren. Arche de pierre, soleil levant, montagnes, chemin, cercle et deux bannières végétales. Identité visuelle approuvée hors récit ; **aucune pose physique en boutique n'est inventée**.
+
 ## Lieux et domaines — plans et vues illustrées
 
 | Lieu | Fiches | Illustrations |
