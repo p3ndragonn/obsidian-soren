@@ -7,6 +7,12 @@ date_creation: "26 Floréane 427"
 
 # La Porte de l'Aube — local commercial
 
+## Planche visuelle de la boutique
+
+![La Porte de l'Aube — Façade extérieure, intérieur, plan vue du dessus et emblème](../../08%20%E2%80%94%20Illustrations/Lieux/La%20Porte%20de%20l%27Aube%20%E2%80%94%20Planche%20visuelle.webp)
+
+*Référence conceptuelle hors récit : quatre chaises autour de la table, deux tabourets derrière le comptoir, portail sur le mur du fond à gauche, enseigne avec le logo approuvé. L'illustration ne valide pas rétroactivement la fabrication ou la pose physique de l'enseigne ; la tablette de gestion runique reste, selon le récit, une plaque de 30 × 20 cm incrustée dans le comptoir.*
+
 **Passage des Compagnons, [[Aethérion]]** : local D de **16 m²**, vitrine, comptoir, enseigne **La Porte de l'Aube**, seuil vers salles dimensionnelles commerciales. Bail de **12 mois, 43 Pièces/mois** ; premier loyer et dépôt de **43 + 43 = 86 Pièces** avancés par Soren en J+14. **[[Maître Orven]] autorise par écrit le portail réversible J+15 à 15 h 26**.
 
 > [!success] SITUATION FIN J+17

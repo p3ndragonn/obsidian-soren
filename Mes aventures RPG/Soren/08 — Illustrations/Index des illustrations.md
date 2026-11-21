@@ -101,6 +101,7 @@ Ces deux portraits constituent les références visuelles officielles de Nélyri
 
 | Lieu | Fiches | Illustrations |
 |---|---|---|
+| **La Porte de l'Aube** | [[La Porte de l'Aube]] | [Planche visuelle — extérieur, intérieur et plan](Lieux/La%20Porte%20de%20l%27Aube%20%E2%80%94%20Planche%20visuelle.webp) |
 | **Maison dimensionnelle de Soren** | [[14 - Logement]] · [[Domaine privé de Soren et Borin]] · [[Description intégrale du domaine de Soren et Borin]] | [Plan conceptuel](Lieux/Maison%20de%20Soren/Maison%20de%20Soren%20%E2%80%94%20Plan%20conceptuel.webp) · [Vue extérieure](Lieux/Maison%20de%20Soren/Maison%20de%20Soren%20%E2%80%94%20Vue%20ext%C3%A9rieure.webp) |
 
 Les images représentent la résidence privée de Soren dans la sous-dimension partagée avec Borin. **Le plan est conceptuel**, non métrique : les mesures et positions exactes des pièces restent ouvertes. Les visuels ne prouvent pas un emménagement définitif à J+15.
