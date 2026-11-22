@@ -25,6 +25,7 @@ point_de_reprise: "[[État de reprise J+21]]"
 | Meute et familiers | [[Familiers de Soren]] |
 | Journal des aventures | [[Chronologie générale]] |
 | Personnages et contacts | [[Index — Personnages et PNJ]] |
+| **Harem — relations et portraits de duo** | [[10 — Harem/README|Accueil du Harem]] · [[00 — Tableau général du harem]] · [[02 — Galerie des portraits de duo]] |
 | Relations, groupe et factions | [[Index — Relations]] |
 | Lieux, commerces et domaines | [[Index — Lieux]] |
 | Quêtes et projets | [[Index — Quêtes]] |

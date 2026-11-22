@@ -11,6 +11,7 @@ campagne: Soren
 
 | Ensemble | Dossier |
 |---|---|
+| **Liens masculins et portraits de duo** | [[10 — Harem/README|10 — Harem]] · [[00 — Tableau général du harem]] · [[02 — Galerie des portraits de duo]] |
 | Famille et attaches au village | [[Liens de Varkhûn]] |
 | Groupe de compagnons aventuriers | [[Groupe d’aventure]] |
 | Meute de Soren | [[Familiers de Soren]] |
@@ -20,3 +21,7 @@ campagne: Soren
 
 **Règle de continuité :** les relations sont qualitatives, évolutives, non chiffrées. Les objectifs des PNJ ne sont pas présumés connus par Soren.
 
+
+
+> [!note] Actualisation J+20
+> L'état amoureux le plus récent est détaillé dans [[03 — Situation actuelle et limites]] et [[État de reprise J+21]]. Les indications J+15 ci-dessus constituent un historique ; La Porte de l'Aube est désormais ouverte. Ne pas interpréter les anciens projets comme des faits encore en attente.

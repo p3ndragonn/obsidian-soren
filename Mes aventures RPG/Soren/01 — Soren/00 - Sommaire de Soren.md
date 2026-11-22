@@ -32,6 +32,9 @@ statut: actif
 - [[19 - Situation actuelle et objectifs]] — Situation actuelle et objectifs
 - [[20 - Points de continuité]] — Points de continuité à conserver
 
+## Relations sentimentales
+[[10 — Harem/README|10 — Harem]] · [[00 — Tableau général du harem]] · [[02 — Galerie des portraits de duo]] · [[03 — Situation actuelle et limites]].
+
 ## Autres référentiels
 [[Familiers de Soren]] · [[Comptabilité — Soren]] · [[Index — Quêtes]] · [[Chronologie générale]].
 

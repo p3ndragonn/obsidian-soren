@@ -47,3 +47,7 @@ Tévan soutient les projets d'expéditions de Soren, envisage visite Varkhûn un
 Nélyria et Rhaïven recrutés et formés. Rhaïven/Tigrin : attirance et flirt réciproques, baiser joue à la sortie, visite privée consentie J+20 6 h avant travail, pas de couple ni condition professionnelle. Tévan reste ami proche, baisers consentis, pas d'exclusivité. Varkhan/Aelkan préfèrent louves, Sylkan loups ; aucun partenaire.
 
 Source : [[J+19 — 31 Floréane 427]] · [[État de reprise J+20]].
+
+
+## Registre complémentaire — Harem
+Pour les **sept relations documentées**, la distinction entre les deux Narek, les limites exprimées et la galerie de portraits de duo, voir [[10 — Harem/README|10 — Harem]], [[00 — Tableau général du harem]], [[02 — Galerie des portraits de duo]] et [[03 — Situation actuelle et limites]]. La dernière scène de référence reste [[État de reprise J+21]].

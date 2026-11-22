@@ -15,6 +15,7 @@ Cette base Obsidian regroupe les fiches, les scènes jouées et les archives de 
 - **07 — Règles et secrets** : continuité, règles et informations réservées.
 - **08 — Illustrations** : références officielles conservées.
 - **09 — Bestiaire** : [[Index — Bestiaire]], 100 [[Index — Animaux|animaux]] et 100 [[Index — Monstres|monstres]], fiches individuelles.
+- **10 — Harem** : [[10 — Harem/README|tableau des relations masculines]], [[02 — Galerie des portraits de duo|sept portraits de duo]], chronologie et fiches de liens.
 - **99 — Archives** : instantanés anciens, non applicables comme situation actuelle.
 
 

@@ -21,6 +21,10 @@ Le **portrait actuel** complète les deux références antérieures sans les rem
 > Les deux planches PNG historiques et le portrait actuel de Soren sont présents dans **08 — Illustrations/Personnages/Soren**. Ils correspondent à des périodes d'équipement différentes.
 
 
+## Portraits en duo — relations de Soren
+
+Les **sept illustrations de duo** se trouvent dans [[02 — Galerie des portraits de duo]] (dossier **10 — Harem/Portraits**). Chaque image représente Soren avec [[Thorek]], [[Narek]], [[Erynn]], [[Tévan]], [[Narek (Aethérion)]], [[Rhaïven Merath]] ou [[Caëlan d’Aurevane]], sans changer les faits joués. Ce sont des **vignettes**, pas des remplacements des portraits canoniques individuels.
+
 ## Familiers — portraits officiels
 
 | Familier | Fiche | Illustration |
