@@ -7,7 +7,7 @@ statut: actif
 # Conventions de continuité et de classement
 
 ## Une seule source actuelle par domaine
-- **Dernière sauvegarde complète :** [[État de reprise J+17]] (veille de J+17). **Début J+17 déjà joué :** réveil de Soren à 4 h 30, douche, réveil de ses loups, habillage avec sa cape noire, petit-déjeuner à la Guilde terminé vers 6 h 24. À conserver dans le prochain journal J+17 sans antidater l'état J+16.
+- **Dernière sauvegarde complète et prioritaire :** [[État de reprise J+21]], après le coucher vers 00 h 25. Le journal [[J+20 — 1 Clairvent 427]] est terminé ; les sauvegardes précédentes sont historiques. Ne pas jouer le réveil, la réinstallation du générateur, la rencontre avec Arvand ou la visite du prince sans action du joueur.
 - **Progression et chiffres du personnage :** [[Statut — Soren]] ; les fiches de compétences en détaillent les mécanismes.
 - **Dépenses, recettes et solde :** [[Comptabilité — Soren]]. Si une dépense manque, le solde est **inconnu**, pas calculé arbitrairement.
 - **Apparence officielle :** [[01 - Identité et apparence]] et [[Index des illustrations]].

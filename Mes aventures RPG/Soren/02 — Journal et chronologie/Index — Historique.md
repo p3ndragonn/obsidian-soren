@@ -41,9 +41,11 @@ Chaque note ci-dessous contient le bilan officiel et chronologique d'une journé
 
 - [[J+19 — 31 Floréane 427 — Historique]] — Recrutement, domaine, Miroir, Rhaïven et générateur
 
+- [[J+20 — 1 Clairvent 427 — Historique]] — Audience royale, deux sceaux, phase 2, Caëlan, entraînement et générateur SS
+
 ## Règles d'archivage
 - Ne pas considérer une personne mentionnée comme physiquement rencontrée sans événement explicite.
 - Distinguer paiements, estimations, acquisitions, objets confiés, pertes et projets.
 - Garder les secrets inconnus et ne jamais extrapoler une valeur mécanique absente du récit.
 
-**Reprise : [[État de reprise J+20]]**, fin J+19 après 23 h 07.
+**Reprise : [[État de reprise J+21]]**, début J+21 vers 00 h 25.

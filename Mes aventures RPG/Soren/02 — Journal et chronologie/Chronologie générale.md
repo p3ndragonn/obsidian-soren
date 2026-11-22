@@ -2,12 +2,12 @@
 type: index_chronologie
 campagne: Soren
 statut: actif
-periode: "J-7 à J+19"
+periode: "J-7 à J+20"
 ---
 
 # Chronologie générale — Soren
 
-**Monde : Vaeloria · Royaume : Tharvélis.** Journées documentées du **J−7 au J+19**, soit du 5 au 31 Floréane 427.
+**Monde : Vaeloria · Royaume : Tharvélis.** Journées documentées du **J−7 au J+20**, soit du 5 Floréane au 1 Clairvent 427.
 
 Le **journal** conserve le récit ; le **bilan** rassemble les faits de manière concise. Les deux sont complémentaires et conservés intégralement.
 
@@ -44,7 +44,9 @@ Le **journal** conserve le récit ; le **bilan** rassemble les faits de manière
 
 | **J+19** | 31 Floréane 427 | [[J+19 — 31 Floréane 427|Journal]] | [[J+19 — 31 Floréane 427 — Historique|Bilan]] |
 
+| **J+20** | 1 Clairvent 427 | [[J+20 — 1 Clairvent 427|Journal]] | [[J+20 — 1 Clairvent 427 — Historique|Bilan]] |
+
 ## Point de reprise actuel
-**[[État de reprise J+20]]** : fin J+19 après 23 h 07, endormi au domaine.
+**[[État de reprise J+21]]** : début J+21, vers 00 h 25, endormi au domaine avec Rhaïven et la meute.
 
 **Index des bilans :** [[Index — Historique]] · **Personnages :** [[Index — Personnages et PNJ]].

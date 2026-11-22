@@ -3,7 +3,7 @@ type: sauvegarde
 campagne: Soren
 version: fin J+19 / veille J+20
 date_univers: 31 Floréane 427
-statut: actif
+statut: historique
 ---
 # État de reprise — J+20
 > [!success] REPRISE OFFICIELLE
