@@ -229,3 +229,12 @@ J+18 : candidats J+19 7 h, partenariat restaurant, plaque/tablette et installati
 Recrute Nélyria/Rhaïven avec Soren, supervise formation et boutique ; annonce troisième employé déposée après-midi. Accueille Sylvaris, rapporte visite positive. Dîner équipe, atelier privé découvert ; intègre bouclier SS avec Soren en 30 min, projet intégration double J+20 soir. Discussions 480 personnes théoriques, éventuelle extension Guilde, attendre demande. Bains en fin de soirée, départ exact vers maison non joué.
 
 Source : [[J+19 — 31 Floréane 427]] · [[État de reprise J+20]].
+
+## J+20 — Travaux, repas et agenda
+Borin apprend la vente royale des deux derniers sceaux (500 000 P revenus personnels de Soren) et la phase 2 du Cœur. Suit l'entraînement expert de Soren contre 30 créatures simulées dans trois biomes, la collecte de relevés runiques et la restauration de l'alimentation normale après allocation temporaire 4 %. **51 P** de réservation payées à l'entreprise par Soren.
+
+Réfléchit avec Soren à une extension de **33 modules/480 personnes théoriques** et à une grande arène unique pour **50 combattants +750 spectateurs**, en rappelant l'obligation de tester la sécurité et les évacuations réelles. Dîne chez Soren avec Rhaïven et la meute.
+
+À l'atelier privé, **21 h 08–22 h 08 environ**, Borin et Soren coupent le générateur [S], démontent l'assemblage précédent et réintègrent **ensemble les trois composants [SS]** ; Borin gère mécanique et supports, Soren la gravure runique. **Autotests 15 min tous verts** achevés **22 h 23**, sans homologation de charge massive ni rang supérieur. Générateur **toujours à Borin et au repos dans l'atelier de Soren** ; rendez-vous pris **J+21 6 h** pour réinstallation dans la boutique et contrôle du Cœur, de la tablette et des onze modules. Réinstallation non jouée.
+
+[[J+20 — 1 Clairvent 427]] · [[État de reprise J+21]].

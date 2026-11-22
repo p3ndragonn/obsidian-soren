@@ -122,3 +122,8 @@ Fourrure corporelle **partielle** brun roux et sombre. Tenue de chasseur et de p
 ---
 
 **Navigation :** [[Chronologie détaillée et index des PNJ|Répertoire des personnages]] · [[Chronologie générale]]
+
+## Confidence de Soren à Caëlan — J+20
+Soren raconte au prince [[Caëlan d’Aurevane]] que Thorek est **né exactement le même jour que lui, le 12 Floréane**, et que leurs cabanes à Varkhûn étaient voisines. Il dit avoir commencé à le séduire vers **13 ans** par une attention intermittente (« un jour oui, un jour non »), puis avoir partagé une **relation amoureuse et intime à l'âge adulte**, régulièrement jusqu'au départ de Soren. Soren le considère comme l'un des hommes avec lesquels il aimerait finir ses jours. **Il s'agit d'une confidence de Soren, sans rencontre nouvelle avec Thorek à J+20** et sans engagement d'exclusivité imposé à aucun des deux.
+
+[[J+20 — 1 Clairvent 427]] · [[État de reprise J+21]].

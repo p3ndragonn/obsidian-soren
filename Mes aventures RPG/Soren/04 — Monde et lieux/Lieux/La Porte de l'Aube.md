@@ -76,3 +76,12 @@ Cinq entretiens à partir de 7 h ; **[[Nélyria Valdren]] et [[Rhaïven Merath]]
 Contrats de Nélyria et Rhaïven signés 10 h10, 15 P/j, 40 h/semaine, paie fin de mois, prime individuelle non cumulative 30/60/100 P pour 70/85/100 % hors Guilde, −15 % emporter. Repos Nélyria mercredi/jeudi, Rhaïven dimanche/lundi, planning précis à organiser ; ouverture 8–12/13–20. Formation 10 h17–36. Tablette alerte associés dans domaine, pas accès résidentiel. Troisième annonce déposée par Borin. Sylvaris a visité. CA final 426 (144 ateliers/96 entraînement/60 arène/126 prépayé), encaissé 300, trésorerie 4293, salaires 30 à provisionner non payés. Fermée 20 h. Générateur emporté atelier 21 h21, bouclier SS installé ; remise en place à effectuer avant ouverture. Extension 33 modules/480 personnes théorique (15×6,15×14,3×60 dont proposition 20 combattants/40 spectateurs). Aucun nouveau module en service.
 
 Source : [[J+19 — 31 Floréane 427]] · [[État de reprise J+20]].
+
+## Actualisation — J+20
+L'audience royale du jour aboutit à la vente de deux sceaux **personnels** de Soren à la Couronne (500 000 P encaissées hors comptes de la société). Visite de Caëlan à La Porte de l'Aube avec deux gardes. Soren y combat une **vouivre simulée C** puis emmène le prince dans le domaine résidentiel sous invitation **temporaire** ; gardes restés dans la salle commerciale sans utiliser la tablette.
+
+Soren règle **51 P encaissées par l'entreprise** : 3 heures difficile spécifique ×7 P/h = 21 P, puis 2 heures expert spécifique ×15 P/h = 30 P. Salle n°5 expert spécifique : **trois biomes continus** (désert/forêt/montagne), **30 animaux simulés C–B** éliminés en 2 h. Visualisation vers le comptoir et archivage des données existantes dans l'atelier privé. Le flux commercial de 4 % temporairement réservé à la salle est ensuite libéré, répartition de sécurité 97/2/1 restaurée.
+
+**Fermeture 20 h**, onze modules commerciaux coupés, générateur emporté vers l'atelier privé pour réintégration des trois [SS] et autotests du soir réussis. **Cœur reste sous comptoir sécurisé**, circuit résidentiel indépendant. **J+21 6 h** réinstallation et contrôles de compatibilité tablette, salles et protections **à jouer**. Extensions 33 modules/480 places et arène seule 800 occupants **purement théoriques, non autorisées à l'exploitation**. CA total et trésorerie société du J+20 **non connus**, ne pas inventer de bilan à partir des 51 P.
+
+[[J+20 — 1 Clairvent 427]] · [[État de reprise J+21]].

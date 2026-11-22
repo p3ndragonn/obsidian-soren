@@ -97,3 +97,12 @@ Contrat signé. Salaire 15 Pièces par journée travaillée, versé mensuellemen
 Contrat signé 10 h10, formation, repos dimanche/lundi. À dîner déclare être né à Aethérion, parents Tigrins : père ancien garde caravane, mère boutique tissus, deux grandes sœurs ; apprentissage auprès mère puis maison d'équipements à 22 ans. Flirt réciproque avec Soren, offre premier hydromel, s'assoit à côté de lui, lui fait un baiser joue en partant. Rendez-vous J+20 6 h devant boutique pour visite du domaine avant service 8 h, intérêt exprimé, aucun couple ni orientation précise revendiquée. Soren lui parle audience 11 h. Contacts marchands et entraînement escortes évoqués, non mis en œuvre. Aucune modification salariale en raison du flirt.
 
 Source : [[J+19 — 31 Floréane 427]] · [[État de reprise J+20]].
+
+## Actualisation relationnelle — J+20
+Rhaïven visite Soren tôt vers **6 h** avant son service. Flirt réciproque. À la boutique, il accueille le prince Caëlan, se laisse taquiner par Soren et observe sa séance d'entraînement multienvironnement via projection privée. Soren propose une soirée aux bains privés après le service ; Rhaïven accepte.
+
+Après fermeture **20 h**, Rhaïven partage avec Soren, Borin et la meute un dîner au domaine ; son repas à emporter de 36 P brut revient à **30,60 P** après sa remise professionnelle de −15 %, payé par Soren. Il reste avec les loups au jardin, puis gagne les bains tandis que Soren et Borin travaillent dans l'atelier runique. Vers **22 h 40**, Soren le rejoint : **baisers, rapprochement et intimité mutuellement consentie**, douche et séchage. Rhaïven accepte de passer la nuit dans le domaine. Ils montent nus à la chambre, où la meute dort dans ses paniers. Ils s'endorment côte à côte **J+21 vers 00 h 25**.
+
+Attirance et relation intime désormais **confirmées**, mais **aucune exclusivité ou couple formalisé**, aucun changement au salaire, planning, autorisations de gestion, contrat ou statut d'employé. Accès au domaine **en invité temporaire**, pas permanent.
+
+[[J+20 — 1 Clairvent 427]] · [[État de reprise J+21]].
