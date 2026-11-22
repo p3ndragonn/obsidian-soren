@@ -3,7 +3,7 @@ type: personnage
 campagne: Soren
 personnage: "Séraphine de Roselac"
 ensemble: "Maison d’Aurevane"
-statut_documentaire: "création dynastique validée par le Fondateur ; pas de scène nouvelle"
+statut_documentaire: "J+20 : audience royale avec Soren jouée"
 naissance: 378
 generation: "0"
 portrait_officiel: "Séraphine de Roselac — Portrait officiel.webp"
@@ -44,7 +44,10 @@ Elle est **intelligente, diplomate, patiente et difficile à déstabiliser**. Ex
 Séraphine entretient une relation de confiance avec [[Alaric d’Aurevane]] et participe à l'éducation politique de leurs trois enfants. Elle pousse [[Lysandra d’Aurevane]] à approfondir ses connaissances, cherche à canaliser l'enthousiasme de [[Caëlan d’Aurevane]] et rappelle à [[Édréan d’Aurevane]] les attentes liées à son rang. Sa volonté de protéger sa famille peut l'amener à intervenir dans certaines décisions qui ne relèvent pas directement d'elle.
 
 ## Limites du SYSTÈME et de la narration
-**Son ascendance elfique ne confère aucun pouvoir, rang ou statistique particuliers automatiquement.** Sa classe, ses compétences actives et son niveau ne sont pas connus. Elle n'a pas rencontré Soren dans les scènes jouées ; son caractère ne détermine pas à l'avance la façon dont elle l'accueillerait.
+**Son ascendance elfique ne confère aucun pouvoir, rang ou statistique particuliers automatiquement.** Sa classe, ses compétences actives et son niveau ne sont pas connus. Elle **a rencontré Soren à l'audience J+20** ; sa classe, son rang et ses compétences restent inconnus.
 
 ## Références croisées
 **Famille et succession :** [[Maison d’Aurevane — Généalogie royale]] · **Siège monarchique :** [[Château royal d’Aethérion]] · **Capitale :** [[Aethérion]].
+
+## Actualisation — J+20
+Séraphine est présente auprès d'Alaric et de leurs trois enfants lors de l'audience avec Soren. Assiste à la vente de deux sceaux pour ses fils Édréan et Caëlan, puis à l'activation de la **phase 2 (+50 % PV max)** pour les dix porteurs. Elle entend les conditions des phases futures mais pas leurs effets. **Elle ne reçoit pas personnellement de bénédiction**, et aucune capacité ou secret supplémentaire ne lui est attribué. [[J+20 — 1 Clairvent 427]].

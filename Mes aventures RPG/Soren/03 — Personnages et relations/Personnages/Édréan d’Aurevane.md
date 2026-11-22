@@ -3,7 +3,7 @@ type: personnage
 campagne: Soren
 personnage: "Édréan d’Aurevane"
 ensemble: "Maison d’Aurevane"
-statut_documentaire: "création dynastique validée par le Fondateur ; pas de scène nouvelle"
+statut_documentaire: "J+20 : audience et réception du sceau de bénédiction jouées"
 naissance: 399
 generation: "+1"
 portrait_officiel: "Édréan d’Aurevane — Portrait officiel.webp"
@@ -44,7 +44,10 @@ Il possède un visage masculin harmonieux, à **mâchoire droite** et pommettes 
 Il respecte [[Alaric d’Aurevane]], avec lequel les attentes politiques sont fortes. Il est proche de [[Lysandra d’Aurevane]], avec qui il débat régulièrement. Il apprécie [[Caëlan d’Aurevane]], tout en jugeant parfois son cadet **trop désinvolte**.
 
 ## Succession et continuité
-**Premier dans l'ordre de succession**, Édréan est l'héritier du trône selon la primogéniture sans distinction de sexe. Il pourrait s'intéresser aux compétences de Soren si une rencontre avait lieu, mais **il ne l'a pas rencontré dans les événements joués** et ne connaît pas ses pouvoirs cachés. Son éventuel entraînement chevaleresque ne fixe **aucun rang personnel ou compétence du SYSTÈME**.
+**Premier dans l'ordre de succession**, Édréan est l'héritier du trône selon la primogéniture sans distinction de sexe. Il pourrait s'intéresser aux compétences de Soren si une rencontre avait lieu, mais **il l'a rencontré à l'audience royale J+20** et ne connaît pas ses pouvoirs cachés. Son éventuel entraînement chevaleresque ne fixe **aucun rang personnel ou compétence du SYSTÈME**.
 
 ## Références croisées
 **Famille et succession :** [[Maison d’Aurevane — Généalogie royale]] · **Siège monarchique :** [[Château royal d’Aethérion]] · **Capitale :** [[Aethérion]].
+
+## Actualisation — Audience J+20
+Édréan assiste avec Alaric, Séraphine, Lysandra et Caëlan à l'audience de Soren. Il reçoit **l'un des deux derniers sceaux** vendus par Soren à la Couronne (**250 000 P l'un, total 500 000 P encaissées par Soren**). Il devient porteur de l'augmentation de mana maximum permanente (phase 1 >50 %), puis de la **phase 2 +50 % de PV maximaux**, activée à 10/10 porteurs. **Aucun PV exact, rang, niveau ou compétence attribué au prince**. Il entend les seuils des prochaines phases mais pas leurs effets ni les secrets de Soren. [[J+20 — 1 Clairvent 427]].

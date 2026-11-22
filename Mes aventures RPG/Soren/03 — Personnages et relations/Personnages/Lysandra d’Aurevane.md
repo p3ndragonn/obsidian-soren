@@ -3,7 +3,7 @@ type: personnage
 campagne: Soren
 personnage: "Lysandra d’Aurevane"
 ensemble: "Maison d’Aurevane"
-statut_documentaire: "création dynastique validée par le Fondateur ; pas de scène nouvelle"
+statut_documentaire: "J+20 : audience royale avec Soren jouée"
 naissance: 403
 generation: "+1"
 portrait_officiel: "Lysandra d’Aurevane — Portrait officiel.webp"
@@ -47,7 +47,10 @@ Lysandra est **intelligente, indépendante, curieuse, franche et observatrice**.
 Très proche de [[Séraphine de Roselac]], elle entretient une **rivalité intellectuelle amicale** avec [[Édréan d’Aurevane]]. Elle protège [[Caëlan d’Aurevane]], tout en aimant se moquer gentiment de ses maladresses.
 
 ## Succession et potentiel narratif
-Lysandra est la **deuxième héritière** dans l'ordre de succession. Elle pourrait s'intéresser aux travaux runiques de [[Soren Thalvyr]] et [[Borin]], **sans en avoir encore connaissance** dans la chronique. Elle ne possède automatiquement ni capacité elfique particulière ni niveau de magie identifié. **Aucune rencontre avec Soren n'a été jouée.**
+Lysandra est la **deuxième héritière** dans l'ordre de succession. Elle pourrait s'intéresser aux travaux runiques de [[Soren Thalvyr]] et [[Borin]], **sans en avoir encore connaissance** dans la chronique. Elle ne possède automatiquement ni capacité elfique particulière ni niveau de magie identifié. **Rencontre avec Soren effectivement jouée lors de l'audience J+20.**
 
 ## Références croisées
 **Famille et succession :** [[Maison d’Aurevane — Généalogie royale]] · **Siège monarchique :** [[Château royal d’Aethérion]] · **Capitale :** [[Aethérion]].
+
+## Actualisation — J+20
+Lysandra assiste à l'audience royale où Soren rencontre Alaric, Séraphine, Édréan et Caëlan ; les derniers sceaux sont remis à ses frères, la **phase 2 (+50 % PV max)** s'active pour les dix porteurs. Elle connaît les conditions des phases suivantes mais pas leurs pouvoirs. **Lysandra ne reçoit pas elle-même de sceau**, ne connaît pas les secrets de Varkhûn et ne développe aucune nouvelle compétence. Caëlan parle plus tard en plaisantant de sa sœur à Soren, mais aucune nouvelle intervention effective de Lysandra au domaine n'est jouée. [[J+20 — 1 Clairvent 427]].
