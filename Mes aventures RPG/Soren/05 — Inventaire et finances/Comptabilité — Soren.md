@@ -7,6 +7,9 @@ version: "fin J+17"
 
 # Comptabilité — Soren
 
+> [!success] SOLDE PRIORITAIRE — FIN J+20
+> **594 208,65 Pièces personnelles** suivant les derniers soldes narrés. Vente royale de **deux sceaux pour 500 000 P effectivement encaissées**, aucun sceau invendu. Encaissement distinct de **51 P** par l'entreprise pour une réservation de Soren ; trésorerie totale et CA définitif de J+20 non établis. Les relevés anciens ci-dessous restent historiques. [[État de reprise J+21]].
+
 > [!success] ÉTAT PRIORITAIRE — FIN J+17
 > Dîner personnel payé **66 P** (12 bières, 30 plats, 24 viande) ; petit-déjeuner inclus 0 P. **214 203 P : solde personnel exact validé fin J+17.** Le déjeuner de J+16 a été intégralement payé par Borin (0 P pour Soren), selon la précision du joueur ; aucune régularisation restante. Société distincte : **3 780 P encaissées**, 71 P réservations futures non encaissées, aucun bénéfice distribué. Deux sceaux restent et 37 000 P promis à chacun des deux amis. [[État de reprise J+18]] · [[Contrat Guilde — La Porte de l'Aube]].
 
@@ -126,3 +129,22 @@ Pour une vente distincte du noyau du Cœur, une répartition **70 % Soren / 10 %
 Le dîner affiche 87 brut, remise 20,50 ; 25 % de 87 =21,75, écart 1,25 non résolu : conserver le montant narré, pas de régularisation spontanée. 102000 commerciaux remboursables selon avenant, 12000 personnels. Aucun autre paiement ni vente de sceau. Société séparée : 3993+300=4293 P ; CA426 (144 atelier/96 entraînement/60 arène/126 prépayé), 30 salaires à provisionner, pas versés. Aucun bénéfice distribué.
 
 Source : [[J+19 — 31 Floréane 427]] · [[État de reprise J+20]].
+
+## Clôture J+20 — 1 Clairvent 427
+
+| Mouvement personnel | Variation (Pièces) | Solde narré |
+|---|---:|---:|
+| Report fin J+19 | — | 95 630,00 |
+| Vente effective de 2 sceaux à la Couronne | +500 000,00 | 595 630,00 avant autres charges |
+| Autres mouvements antérieurs aux réservations (non intégralement ventilés) | **à rapprocher** | **594 402,75** (solde narré) |
+| 3 h entraînement difficile spécifique × 7 P/h | −21,00 | 594 381,75 |
+| 2 h entraînement expert spécifique × 15 P/h | −30,00 | **594 351,75** |
+| Commande emportée restaurant pour Soren, Borin, Rhaïven et loups | −143,10 | **594 208,65** |
+
+**Écart de ventilation** : l'addition du solde historique fin J+19 et des 500 000 P royales donnerait 595 630 P, tandis que le solde narré avant réservation est **594 402,75 P** (différence **1 227,25 P** non détaillée intégralement). Des achats de tenue d'audience (180 P) et un acompte d'équipement pour Tévan (1 000 P) ont été évoqués dans la campagne, mais **ne pas attribuer fictivement les 47,25 P restants ni corriger rétroactivement le solde narré** sans pièces détaillées. Solde retenu **594 208,65 P**, avec annotation de rapprochement.
+
+**Repas emportés J+20** : Soren 54 brut → 40,50 P après −25 % ; Borin 32 → 24 P ; trois loups et quatre brioches 64 → 48 P ; Rhaïven 36 → 30,60 P après −15 % employé ; **143,10 P entièrement payées par Soren**.
+
+**Entreprise indépendante** : encaissement de la réservation **51 P**, mais CA et trésorerie complets de J+20 non consignés ; ne pas présenter 4 293 + 51 comme bilan définitif sans les autres opérations. **102 000 P de composants commerciaux** avancés par Soren, remboursement convenu mais non réglé ; premiers bénéfices distribuables J+47. Restent **37 000 P promis à Tévan, 37 000 à Hadrien**, et **9 000 P** à payer pour les Crocs [A] attendus J+23. Aucun revenu futur ni bénéfice fictif.
+
+[[J+20 — 1 Clairvent 427]] · [[État de reprise J+21]].

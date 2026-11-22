@@ -7,6 +7,9 @@ source: "Chronique intégrale J+12 ; narration J+13"
 
 # Cœur de mana des Trois Veilleurs
 
+> [!success] ÉTAT PRIORITAIRE — FIN J+20
+> **Cœur toujours propriété exclusive de Soren**. **10 bénédictions attribuées, 0 sceau disponible** après la vente et le transfert des deux derniers sceaux à la Couronne (500 000 P encaissées personnellement). **Phase 2 activée : +50 % de PV maximaux** pour les dix porteurs, dont **500→750 PV max pour Soren** ; phase 1 mana déjà active. Phases 3 à 5 non activées et leurs effets non dévoilés. [[État de reprise J+21]].
+
 > [!success] ÉTAT PRIORITAIRE — FIN J+16
 > **Soren conserve la propriété entière du Cœur.** Il a **vendu effectivement 1 des 3 sceaux de mana détachés à Arvand J+16, contre 250 000 Pièces reçues**, contrat SYSTÈME exécuté et bénédiction permanente >50 % transférée. **2 sceaux restent à Soren**, audience royale J+20 sans vente ni paiement. Cœur distinct du générateur de Borin ; circuits du domaine privé et de l'exploitation commerciale séparés. **[[Baguette des Trois Veilleurs — Extension portative du Cœur]] utilisée J+16** pour le portail privé. Les blocs « toujours invendus fin J+15 » plus bas sont **historiques**. [[État de reprise J+17]].
 
@@ -934,3 +937,21 @@ J+18 14 h 22–54 : transféré chambre 3 vers boutique sans interruption circui
 Cœur demeure sous comptoir, séparé du générateur temporairement retiré. Domaine et nouvel atelier runique alimentés. Baguette améliorée par cristal SS, portée continentale non testée. Aucun nouveau transfert de bénédiction ni vente.
 
 Source : [[J+19 — 31 Floréane 427]] · [[État de reprise J+20]].
+
+## Actualisation officielle J+20 — Dix porteurs et phase 2
+Audience royale au [[Château royal d'Aethérion]] : Soren vend les **deux derniers sceaux de transfert** à Alaric pour ses fils **Édréan** et **Caëlan** ; vente et attribution réalisées, **250 000 P chacun, soit 500 000 P personnels encaissés**. Aucun sceau invendu, aucun emplacement supplémentaire.
+
+**Dix bénéficiaires effectifs** : Soren Thalvyr, Tévan, Hadrien, Varkhan, Aelkan, Sylkan, Sahir, Arvand Rethmar, Édréan d'Aurevane, Caëlan d'Aurevane.
+
+**Phase 1** : bénédiction permanente du maximum de mana supérieure à 50 %. **Phase 2 déclenchée par 10/10 attributions** : **+50 % de maximum des PV permanents** aux dix porteurs ; Soren passe de **500 PV max de base à 750 PV max actuellement**, sans changement des caractéristiques.
+
+**Conditions révélées à la Cour (pas les effets)** :
+- **Phase 3** : Soren atteint le **rang B**.
+- **Phase 4** : Soren atteint le **rang A** et **deux autres porteurs** ont au moins le **rang B**.
+- **Phase 5** : Soren atteint le **rang S** avec **deux autres porteurs de rang A** et **deux autres de rang B**.
+
+Phases 3–5 **non actives**, pouvoirs inconnus. En cas de mort d'un porteur, sa bénédiction retourne à Soren ; en cas de mort de Soren, elle retourne au Cœur et peut être réattribuée par **le plus puissant porteur survivant**. Aucun personnage ne reçoit d'information supplémentaire secrète.
+
+**Énergie J+20** : dérivation temporaire d'une enveloppe de **4 % du flux commercial** vers la salle d'entraînement n°5, puis répartition standard **97 % exploitation / 2 % boucliers / 1 % évacuation** rétablie ; circuit du domaine résidentiel indépendant. Cœur toujours sécurisé sous comptoir, distinct du générateur déplacé à l'atelier privé après fermeture.
+
+[[J+20 — 1 Clairvent 427]] · [[État de reprise J+21]].

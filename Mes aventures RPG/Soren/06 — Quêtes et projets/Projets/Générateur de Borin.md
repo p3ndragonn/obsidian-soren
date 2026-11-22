@@ -1,7 +1,7 @@
 ---
 type: projet
 campagne: Soren
-statut: "derniers essais terminés, lancement commercial J+17 encore à jouer"
+statut: "J+20 : trois SS intégrés et autotests verts, extensions non homologuées"
 ---
 
 # Générateur de Borin — suivi des travaux
@@ -19,7 +19,7 @@ statut: "derniers essais terminés, lancement commercial J+17 encore à jouer"
 - **J+16 vers 13 h 09** : contrôles automatisés **verts**, installation prête pour inauguration, avec vigilance.
 - **J+16 au soir** : Hadrien visite les lieux, boutique refermée/sécurisée ; **aucune recette ni réservation payante**.
 
-## À accomplir
+## Plan historique avant J+17 — jalons joués ou remplacés depuis
 1. **J+17, 29 Floréane, 10 h : inauguration**, pas encore jouée ; accueil public et essais gratuits.
 2. **16 h 30 : combat final Soren contre dragon de feu simulé rang A**, secret du programme et **issue inconnue**. **Éteindre les dix autres modules avant la finale.**
 3. Superviser sûreté et flux de visiteurs ; **ne pas prétendre que 80/125 personnes ont été évacuées en essai réel**.
@@ -36,3 +36,12 @@ J+18 ouverture payante, Cœur et tablette opérationnels. Composants SS réserv�
 Générateur découplé et emporté dans atelier privé après fermeture, Cœur sous comptoir indépendant. Bouclier confinement absolu SS intégré en 30 min, stabilité et compatibilité vérifiées à puissance croissante, pleine charge non testée ; rang S dernier établi. Remise en place avant ouverture J+20 non jouée. J+20 soir intégration simultanée cristal convergence et matrice pour répartir flux. Objectif 33 : 15 ateliers×6, 15 entraînements×14, 3 arènes×60 (proposition 20/40), 480 au total, théorique. Procédures de sécurité évoluent avec générateur selon Soren, tests nécessaires ; attente demande avant plus de personnel, possible extension Arvand non négociée.
 
 Source : [[J+19 — 31 Floréane 427]] · [[État de reprise J+20]].
+
+## Actualisation — fin J+20
+- Salle commerciale **n°5** : trois biomes continus et **30 animaux simulés C–B**, tous neutralisés en deux heures par Soren ; aucune EXP/maîtrise, pas de butin. Dérivation temporaire **4 %** puis retour répartition commerciale **97/2/1** ; relevés transférés à l'atelier privé, données de latence/consommation exacte toujours incomplètes.
+- Boutique fermée **20 h**, onze modules commerciaux arrêtés et générateur emporté dans **l'atelier runique privé**, Cœur demeurant sous le comptoir.
+- **21 h 08–22 h 08** : coupure complète et réintégration simultanée des **trois composants [SS]** (bouclier de confinement absolu, convergence éthérique, matrice multidimensionnelle), travail conjoint Soren/Borin. **22 h 08–22 h 23** : autotests et sécurité virtuelle, **tous au vert**.
+- **Générateur propriété de Borin et rang [S]**, aucune hausse officielle, aucun test de 33 modules en occupation réelle ou 480/800 occupants. **33 modules/480 personnes** et **arène seule 50 combattants +750 spectateurs** : hypothèses. Les évacuations réelles antérieures seulement **4/4** ; la sécurité de masse reste à démontrer.
+- **J+21 à 6 h** : retour du générateur, vérifications du raccordement au Cœur, de la tablette runique, des onze modules et des protections, **non jouées**. Contrat Guilde trois salles 13–20 h ; proposition d'extension à Arvand **non négociée**.
+
+[[J+20 — 1 Clairvent 427]] · [[État de reprise J+21]].

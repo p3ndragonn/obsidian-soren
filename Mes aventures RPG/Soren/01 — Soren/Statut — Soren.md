@@ -2,12 +2,15 @@
 type: statut_officiel
 campagne: Soren
 statut: actuel
-date_univers: "29 Floréane 427"
-version: "fin J+17 — EXP et répartition validées"
-source: "[[État de reprise J+18]]"
+date_univers: "2 Clairvent 427"
+version: "début J+21 — phase 2 et PV max actualisés"
+source: "[[État de reprise J+21]]"
 ---
 
 # Statut officiel — Soren
+
+> [!success] ÉTAT PRIORITAIRE — DÉBUT J+21
+> **Rang personnel C / Guilde D, classe A niv. 28, profession B niv. 20, 366 caractéristiques réparties, 0 point libre.** La phase 2 du Cœur activée J+20 accorde **+50 % PV maximaux permanents : 500 PV de base → 750 PV maximaux actuels**. EP max 650, mana naturel max 400, mana après phase 1 légendaire >600 (exact non connu). **Aucune progression chiffrée à l'entraînement simulé J+20.** [[État de reprise J+21]].
 
 > [!success] ÉTAT HISTORIQUE — FIN J+16 AVANT ATTRIBUTION RÉTROACTIVE
 > Rang C, grade de Guilde D, classe **Danseur des Griffes d'Acier [A] niv. 26**, profession **Éclaireur des Terres Sauvages [B] niv. 18** ; **FOR55, VIT48, END64, AGI82, SAG33, PER66 = 348**, sans gain J+16. **Trois loups : 7 techniques [S] de classe, 8 [B] de profession et 3 téléportations personnelles [SS] maintenant partagées ; runes [A] révoquées.** Les passages fin J+15 restent historiques. [[Familiers de Soren]] · [[État de reprise J+17]].
@@ -42,7 +45,7 @@ Les rangs du personnage, de Guilde, de classe et de profession sont distincts. V
 
 | Ressource | Maximum documenté |
 |---|---|
-| PV / HP | **500** |
+| PV / HP | **750 après phase 2 du Cœur** (500 de base) |
 | Endurance / EP | **650** |
 | MP naturel | **400** |
 | MP après amélioration légendaire | **Strictement supérieur à 600**, valeur exacte non déterminée |
@@ -72,3 +75,8 @@ Fin J+18 : rang, niveaux, caractéristiques et EXP chiffrée inchangés ; ressou
 Épreuve du Miroir : +1049 EXP de classe (50 % du seuil 2098 du niv28), soit ancien reliquat niv26 +1227/2098 ; reliquat initial inconnu, aucun passage supplémentaire confirmé. Profession niv20, ancien reliquat niv18 +74/1202 inchangé. Dernier état confirmé C, grade D, classe 28, profession 20, 366 points, 0 à répartir ; aucune maîtrise nouvelle chiffrée. Bonus Miroir renouvelable une fois tous les 5 niveaux acquis. Ne pas interpréter la victoire simulée comme kill réel.
 
 Source : [[J+19 — 31 Floréane 427]] · [[État de reprise J+20]].
+
+## Actualisation — J+20
+**Dix porteurs de bénédiction** désormais attribués après vente des deux derniers sceaux à Édréan et Caëlan. **Phase 2** : +50 % de PV maximaux permanents pour les dix porteurs, Soren **500→750** ; six caractéristiques (366 points) inchangées, aucun gain de rang/niveau, maîtrise chiffrée ou EXP en deux heures d'entraînement contre trente adversaires **simulés** C–B. Ressources instantanées non documentées. Conditions phases 3–5 dans [[Cœur de mana des Trois Veilleurs]], effets non dévoilés.
+
+[[J+20 — 1 Clairvent 427]] · [[État de reprise J+21]].
