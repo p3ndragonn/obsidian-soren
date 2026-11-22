@@ -37,4 +37,4 @@ Il s'agit d'une illustration commémorative/interprétative et non d'une nouvell
 
 [[Caëlan d’Aurevane]] · [[J+20 — 1 Clairvent 427 — Historique]] · [[État de reprise J+21]]
 
-[[00 — Tableau général du harem|Tableau]] · [[01 — Chronologie sentimentale|Chronologie]] · [[02 — Galerie des portraits de duo|Galerie]] · [[README|Accueil de la rubrique Harem]]
+[[00 — Tableau général du harem|Tableau]] · [[01 — Chronologie sentimentale|Chronologie]] · [[02 — Galerie des portraits de duo|Galerie]] · [[10 — Harem/README|Accueil de la rubrique Harem]]

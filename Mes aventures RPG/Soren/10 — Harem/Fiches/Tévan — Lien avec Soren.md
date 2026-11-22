@@ -37,4 +37,4 @@ Il s'agit d'une illustration commémorative/interprétative et non d'une nouvell
 
 [[Tévan]] · [[J+15 — 27 Floréane 427 — Historique]] · [[J+18 — 30 Floréane 427 — Historique]] · [[J+19 — 31 Floréane 427 — Historique]]
 
-[[00 — Tableau général du harem|Tableau]] · [[01 — Chronologie sentimentale|Chronologie]] · [[02 — Galerie des portraits de duo|Galerie]] · [[README|Accueil de la rubrique Harem]]
+[[00 — Tableau général du harem|Tableau]] · [[01 — Chronologie sentimentale|Chronologie]] · [[02 — Galerie des portraits de duo|Galerie]] · [[10 — Harem/README|Accueil de la rubrique Harem]]

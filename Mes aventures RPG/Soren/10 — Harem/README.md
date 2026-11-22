@@ -12,6 +12,16 @@ point_de_reprise: "début J+21"
 > [!info] Registre sentimental — dernière situation jouée
 > **Début J+21, 2 Clairvent 427, vers 00 h 25.** Soren dort aux côtés de [[Rhaïven Merath]] dans son domaine ; le réveil n'a pas été joué. Le nom « harem » est un **titre de classement ludique**, et non une institution ni la propriété des partenaires. Toutes ces personnes conservent leur libre arbitre.
 
+## Accès rapides depuis GitHub
+
+| Page | Description |
+|---|---|
+| [Tableau général](00%20%E2%80%94%20Tableau%20g%C3%A9n%C3%A9ral%20du%20harem.md) | Les sept relations et leurs états |
+| [Chronologie sentimentale](01%20%E2%80%94%20Chronologie%20sentimentale.md) | Rencontres, séparations, évolutions datées |
+| [Galerie des portraits de duo](02%20%E2%80%94%20Galerie%20des%20portraits%20de%20duo.md) | Sept images de Soren avec chaque homme |
+| [Situation actuelle et limites](03%20%E2%80%94%20Situation%20actuelle%20et%20limites.md) | État J+21, non-exclusivité et consentement |
+| [Entourage masculin hors harem](04%20%E2%80%94%20Entourage%20masculin%20hors%20harem.md) | Amis et flirts non confirmés |
+
 ## Ouvrir les rubriques
 
 | Section | Contenu |
@@ -22,6 +32,18 @@ point_de_reprise: "début J+21"
 | [[03 — Situation actuelle et limites]] | Relations ouvertes, limites, suites non jouées |
 | [[04 — Entourage masculin hors harem]] | Amis, connaissance et flirts sans romance confirmée |
 | [[Index — Personnages et PNJ]] | Biographies et portraits canoniques individuels |
+
+## Les portraits de duo
+
+| Portrait | Relation | Ouvrir |
+|---|---|---|
+| ![Thorek](Portraits/soren-thorek.webp) | **Thorek** | [Voir la fiche](Fiches/Thorek%20%E2%80%94%20Lien%20avec%20Soren.md) |
+| ![Narek de Varkhûn](Portraits/soren-narek-varkhun.webp) | **Narek de Varkhûn** | [Voir la fiche](Fiches/Narek%20de%20Varkh%C3%BBn%20%E2%80%94%20Lien%20avec%20Soren.md) |
+| ![Erynn](Portraits/soren-erynn.webp) | **Erynn** | [Voir la fiche](Fiches/Erynn%20%E2%80%94%20Lien%20avec%20Soren.md) |
+| ![Tévan](Portraits/soren-tevan.webp) | **Tévan** | [Voir la fiche](Fiches/T%C3%A9van%20%E2%80%94%20Lien%20avec%20Soren.md) |
+| ![Narek d'Aethérion](Portraits/soren-narek-aetherion.webp) | **Narek d'Aethérion** | [Voir la fiche](Fiches/Narek%20d'Aeth%C3%A9rion%20%E2%80%94%20Lien%20avec%20Soren.md) |
+| ![Rhaïven Merath](Portraits/soren-rhaiven.webp) | **Rhaïven Merath** | [Voir la fiche](Fiches/Rha%C3%AFven%20Merath%20%E2%80%94%20Lien%20avec%20Soren.md) |
+| ![Caëlan d'Aurevane](Portraits/soren-caelan.webp) | **Caëlan d'Aurevane** | [Voir la fiche](Fiches/Ca%C3%ABlan%20d'Aurevane%20%E2%80%94%20Lien%20avec%20Soren.md) |
 
 ## Repères essentiels
 

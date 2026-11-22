@@ -16,7 +16,7 @@ Les images ci-dessous sont **sept compositions de duo** réalisées à partir de
 
 **Relation actuelle :** À Varkhûn ; aucune nouvelle rencontre depuis le départ de Soren.
 
-**Références :** [[Fiches/Thorek — Lien avec Soren|Fiche de lien]] · [[Thorek]].
+**Références :** [[10 — Harem/Fiches/Thorek — Lien avec Soren|Fiche de lien]] · [[Thorek]].
 
 ## 2. Soren et [[Narek|Narek de Varkhûn]] — Ancienne relation tendre et intime, non exclusive
 
@@ -26,7 +26,7 @@ Les images ci-dessous sont **sept compositions de duo** réalisées à partir de
 
 **Relation actuelle :** Au village, séparé géographiquement de Soren ; reprise de contact non jouée.
 
-**Références :** [[Fiches/Narek de Varkhûn — Lien avec Soren|Fiche de lien]] · [[Narek]].
+**Références :** [[10 — Harem/Fiches/Narek de Varkhûn — Lien avec Soren|Fiche de lien]] · [[Narek]].
 
 ## 3. Soren et [[Erynn|Erynn]] — Romance avant le départ ; souvenirs et distance
 
@@ -36,7 +36,7 @@ Les images ci-dessous sont **sept compositions de duo** réalisées à partir de
 
 **Relation actuelle :** Reparti avec la caravane J−3. Aucune retrouvaille documentée.
 
-**Références :** [[Fiches/Erynn — Lien avec Soren|Fiche de lien]] · [[Erynn]].
+**Références :** [[10 — Harem/Fiches/Erynn — Lien avec Soren|Fiche de lien]] · [[Erynn]].
 
 ## 4. Soren et [[Tévan|Tévan]] — Amitié privilégiée après une ancienne romance
 
@@ -46,7 +46,7 @@ Les images ci-dessous sont **sept compositions de duo** réalisées à partir de
 
 **Relation actuelle :** Ami proche, soutien mutuel et tendresse consentie ; **ils ne sont pas en couple**.
 
-**Références :** [[Fiches/Tévan — Lien avec Soren|Fiche de lien]] · [[Tévan]].
+**Références :** [[10 — Harem/Fiches/Tévan — Lien avec Soren|Fiche de lien]] · [[Tévan]].
 
 ## 5. Soren et [[Narek (Aethérion)|Narek d'Aethérion]] — Flirt et rencontre intime ponctuelle
 
@@ -56,7 +56,7 @@ Les images ci-dessous sont **sept compositions de duo** réalisées à partir de
 
 **Relation actuelle :** Séparation cordiale ; pas de nouveau rendez-vous.
 
-**Références :** [[Fiches/Narek d'Aethérion — Lien avec Soren|Fiche de lien]] · [[Narek (Aethérion)]].
+**Références :** [[10 — Harem/Fiches/Narek d'Aethérion — Lien avec Soren|Fiche de lien]] · [[Narek (Aethérion)]].
 
 ## 6. Soren et [[Rhaïven Merath|Rhaïven Merath]] — Attirance mutuelle récente et intimité confirmée
 
@@ -66,7 +66,7 @@ Les images ci-dessous sont **sept compositions de duo** réalisées à partir de
 
 **Relation actuelle :** Ils se sont endormis côte à côte vers 00 h 25 au début de J+21 ; **réveil non joué**.
 
-**Références :** [[Fiches/Rhaïven Merath — Lien avec Soren|Fiche de lien]] · [[Rhaïven Merath]].
+**Références :** [[10 — Harem/Fiches/Rhaïven Merath — Lien avec Soren|Fiche de lien]] · [[Rhaïven Merath]].
 
 ## 7. Soren et [[Caëlan d’Aurevane|Caëlan d'Aurevane]] — Romance naissante, rythme volontairement lent
 
@@ -76,10 +76,10 @@ Les images ci-dessous sont **sept compositions de duo** réalisées à partir de
 
 **Relation actuelle :** Un rendez-vous dans ses appartements au château est fixé **J+21 à 18 h**, mais n'a pas encore eu lieu.
 
-**Références :** [[Fiches/Caëlan d'Aurevane — Lien avec Soren|Fiche de lien]] · [[Caëlan d’Aurevane]].
+**Références :** [[10 — Harem/Fiches/Caëlan d'Aurevane — Lien avec Soren|Fiche de lien]] · [[Caëlan d’Aurevane]].
 
 
 > [!note] Résolution
 > Ces fichiers WebP sont des **vignettes d'affichage**. Les versions PNG en haute définition ont été livrées séparément ; si elles sont ajoutées plus tard au dépôt, conserver les mêmes références et ne pas réécrire les événements historiques sur la base d'une illustration.
 
-[[README|Accueil du harem]] · [[Index des illustrations|Index général des portraits]]
+[[10 — Harem/README|Accueil du harem]] · [[Index des illustrations|Index général des portraits]]

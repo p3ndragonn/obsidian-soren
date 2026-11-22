@@ -28,4 +28,4 @@ couverture: "enfance à début J+21"
 
 **Documents de référence :** [[Chronologie générale]] · [[J+15 — 27 Floréane 427 — Historique]] · [[J+19 — 31 Floréane 427 — Historique]] · [[J+20 — 1 Clairvent 427 — Historique]] · [[État de reprise J+21]].
 
-[[README|Retour à l'accueil du harem]]
+[[10 — Harem/README|Retour à l'accueil du harem]]

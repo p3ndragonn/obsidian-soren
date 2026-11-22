@@ -34,4 +34,4 @@ etat: "début J+21"
 
 Noter jour et heure, personnes présentes, paroles et actions explicites, limites acceptées ou refusées, rendez-vous pris ou annulés, évolution réciproque attestée, puis modifier les fiches de lien et le tableau. **Ne pas modifier les événements historiques.**
 
-[[État de reprise J+21]] · [[README|Accueil du harem]]
+[[État de reprise J+21]] · [[10 — Harem/README|Accueil du harem]]

@@ -20,4 +20,4 @@ Cet index préserve les rencontres et amitiés, sans présumer qu'une complicit�
 
 **Hors de ce registre :** [[Vaeren Thalvyr]] (père), [[Kaelor Vargan]] (maître de combat), les enfants du village dont [[Aëron]], et les familiers animaux [[Varkhan]], [[Aelkan]] et [[Sylkan]] : aucun de ces liens n'est un partenariat romantique.
 
-[[Index — Personnages et PNJ]] · [[README|Accueil du harem]]
+[[Index — Personnages et PNJ]] · [[10 — Harem/README|Accueil du harem]]

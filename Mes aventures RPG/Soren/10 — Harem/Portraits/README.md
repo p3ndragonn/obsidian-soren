@@ -14,4 +14,4 @@ Sept fichiers `soren-*.webp` représentent chacun **Soren avec un homme différe
 
 **Attention :** ce sont des **miniatures de 96 × 128 pixels** destinées au chargement rapide et à la navigation. Les **PNG source de 1086 × 1448 pixels** sont fournis séparément dans `Portraits_harem_Soren_HD.zip` ; ils n'ont pas été placés dans ce dossier GitHub. Lors d'une future importation des PNG HD, les remplacer ou ajouter la variante HD à côté sans écraser les portraits officiels existants.
 
-[[02 — Galerie des portraits de duo]] · [[README|Accueil du Harem]]
+[[02 — Galerie des portraits de duo]] · [[10 — Harem/README|Accueil du Harem]]
