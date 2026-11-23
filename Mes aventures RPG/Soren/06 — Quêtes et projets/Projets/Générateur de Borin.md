@@ -1,7 +1,7 @@
 ---
 type: projet
 campagne: Soren
-statut: "J+20 : trois SS intégrés et autotests verts, extensions non homologuées"
+statut: "J+21 : 33 modules actifs, tests simulés verts ; arène seule 800 non testée"
 ---
 
 # Générateur de Borin — suivi des travaux
@@ -45,3 +45,7 @@ Source : [[J+19 — 31 Floréane 427]] · [[État de reprise J+20]].
 - **J+21 à 6 h** : retour du générateur, vérifications du raccordement au Cœur, de la tablette runique, des onze modules et des protections, **non jouées**. Contrat Guilde trois salles 13–20 h ; proposition d'extension à Arvand **non négociée**.
 
 [[J+20 — 1 Clairvent 427]] · [[État de reprise J+21]].
+
+## Actualisation prioritaire — J+21, 2 Clairvent 427, matinée canonique
+À 6 h, Soren et Borin remettent en place et raccordent le générateur [S] intégrant les trois composants [SS]. La tablette est corrigée pour 33 identifiants (11 anciens et 22 nouveaux), droits des employés conservés et accès admin refusé. **33/33 modules ouverts** avant 8 h : **15 ateliers/forges ×6, 15 entraînements ×14, 3 arènes ×60**. Tests simultanés à **480 occupants artificiels**, isolations, protections, surcharge, confinements, arrêt et évacuations **virtuelles tous verts**, parfaite stabilité. **Pas de test d'évacuation réelle de 480 personnes ni de changement de rang du générateur [S]**. L'arène **unique 50 combattants +750 spectateurs = 800** reste non testée.
+**J+21 11 h 17** : 7 salles supplémentaires Guilde, total 10 dès J+22, 13–20 h, 26 jours restants, **7 644 P encaissées par l'entreprise**, 5 salles d'entraînement aux particuliers. [[J+21 — 2 Clairvent 427]] · [[État de reprise J+21]].

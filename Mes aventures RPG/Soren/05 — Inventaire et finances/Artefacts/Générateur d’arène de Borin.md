@@ -8,7 +8,7 @@ source: "Chronique intégrale J+12 ; narration J+13"
 # Générateur d’arène de Borin
 
 > [!success] ÉTAT PRIORITAIRE — FIN J+20
-> **Propriété de Borin, rang officiellement dernier établi [S]**. Les **trois composants [SS]** (confinement absolu, convergence éthérique, matrice multidimensionnelle) réintégrés conjointement après coupure complète le soir J+20 ; **15 min d'autotests tous verts**, mais pas de validation en charge réelle massive. **Générateur au repos dans l'atelier privé de Soren**, réinstallation et contrôle de la tablette prévus J+21 6 h, non joués. Ancienne capacité 11 modules/80 occupants simultanés ; 33/480 et arène seule 50 combattants +750 spectateurs (=800) **hypothétiques et non homologuées**. [[État de reprise J+21]].
+> **ÉTAT J+21** : générateur propriété de Borin, rang [S], trois composants [SS], **réinstallé au comptoir**, **33/33 modules actifs**, charge de **480 occupants simulés** parfaitement stable avec protections/évacuations virtuelles vertes. Pas de test d’évacuation réelle de 480 personnes ; projet arène unique 800 non testé. [[État de reprise J+21]].
 
 > [!success] ÉTAT PRIORITAIRE — FIN J+16
 > Générateur **toujours propriété de Borin**, Cœur **toujours propriété de Soren**. [[La Porte de l'Aube]] : **11 modules commerciaux (80 personnes en simultané)**, arène seule **75 combattants + 50 spectateurs = 125**. Essai plein souffle dragon [A] initialement destructeur de **3 mannequins**, puis correction et second essai 15 s à 100 % réussi ; **2 % flux aux boucliers, 1 % évacuation, 97 % exploitation**. Évacuation réelle **4/4 Soren/Borin/Tévan/Sahir**, **aucun essai réel sur 80/125 personnes**. Forge sous montagne **uniquement pour stress test**, pas un douzième module exploité. Voyant des essais automatisés **vert J+16**. Finale : **10 autres modules coupés** ; ouverture publique **J+17 pas encore jouée**, aucun revenu commercial à J+16. Les états J+15 ci-dessous sont historiques. [[État de reprise J+17]].
@@ -859,3 +859,6 @@ Source : [[J+19 — 31 Floréane 427]] · [[État de reprise J+20]].
 **Prochain contrôle** : J+21 6 h, reposer l'appareil dans La Porte de l'Aube, raccorder et tester compatibilité avec [[Tablette de gestion runique]], onze modules actuels et protections avant ouverture. Extension 33 modules/480 places et arène seule 50+750=800 **seulement objectifs**.
 
 [[J+20 — 1 Clairvent 427]] · [[État de reprise J+21]].
+
+## Actualisation prioritaire — J+21
+Le générateur demeure **propriété de Borin, rang [S] dernier établi**. Après intégration des trois éléments [SS] J+20, installation au comptoir et raccordement au Cœur de Soren J+21 vers 6 h. Tablette reconfigurée, **33 modules actifs**, **480 occupants simulés** (90+210+180) sans défaut : protections, isolation, régulateurs, confinement, arrêt et évacuation virtuelle tous verts, parfaitement stables. Pas d'évacuation **réelle** de 480 personnes. Arène unique 800 personnes toujours théorique et non testée. Premier client en forge à 8 h 17 sans anomalie. [[J+21 — 2 Clairvent 427]] · [[État de reprise J+21]].

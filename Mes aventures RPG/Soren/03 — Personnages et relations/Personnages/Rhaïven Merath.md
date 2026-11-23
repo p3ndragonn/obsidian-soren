@@ -106,3 +106,6 @@ Après fermeture **20 h**, Rhaïven partage avec Soren, Borin et la meute un dî
 Attirance et relation intime désormais **confirmées**, mais **aucune exclusivité ou couple formalisé**, aucun changement au salaire, planning, autorisations de gestion, contrat ou statut d'employé. Accès au domaine **en invité temporaire**, pas permanent.
 
 [[J+20 — 1 Clairvent 427]] · [[État de reprise J+21]].
+
+## Actualisation J+21 — Matinée
+À **5 h 12**, Rhaïven et Soren se réveillent ensemble, baisers et taquineries sur l'heure et la sensibilité des oreilles de Soren ; promesse d'un futur petit-déjeuner partagé à heure raisonnable. Soren part travailler, Rhaïven se rend ensuite à son service à **8 h** à La Porte de l'Aube ; plaisanteries avec Borin et Nélyria sur la nuit et la literie. Il accueille les clients, apprend les **33 salles désormais actives** et le nouvel avenant **10 salles Guilde**. **Ni exclusivité, ni changement de statut ou de droits professionnels.** [[J+21 — 2 Clairvent 427]].

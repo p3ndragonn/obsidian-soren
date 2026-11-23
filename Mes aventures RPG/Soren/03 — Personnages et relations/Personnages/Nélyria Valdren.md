@@ -96,3 +96,6 @@ Contrat signé. Salaire 15 Pièces par journée travaillée, versé mensuellemen
 Contrat signé 10 h10, repos mercredi/jeudi, formation et réservation forge 3 h/12 P, présente bilan 19 h37 (CA426, caisse4293). Dîner collectif accepté, truite et anecdote ancien noble utilisant titre falsifié ; aucun nouveau contrat commercial ni évolution de poste.
 
 Source : [[J+19 — 31 Floréane 427]] · [[État de reprise J+20]].
+
+## Actualisation J+21 — Matinée
+Nélyria arrive avant **8 h** et vérifie les 33 salles et la tablette après l'ajout des 22 nouveaux modules ; réservations conservées, **accès administration refusé** aux employés. À 8 h 17, accueil d'un client nain en forge individuelle, fonctionnement stable. À **10 h 58**, elle inscrit l'avenant Guilde pour **10 salles au total** (3 initiales, 7 supplémentaires), 13–20 h dès J+22, **7 644 P payées à l'entreprise** à 11 h 17. **5 salles d'entraînement** restent pour particuliers. Prévoit son déjeuner séparément à la pause ; aucun paiement joué avant 12 h 03. [[J+21 — 2 Clairvent 427]].

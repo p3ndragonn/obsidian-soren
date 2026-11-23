@@ -3,7 +3,7 @@ type: fiche_relation_soren
 campagne: Soren
 rubrique: "10 — Harem"
 personnage: "Rhaïven Merath"
-etat: "début J+21"
+etat: "J+21, jusqu’à 12 h 03"
 statut_relation: "Attirance mutuelle récente et intimité confirmée"
 ---
 
@@ -12,7 +12,7 @@ statut_relation: "Attirance mutuelle récente et intimité confirmée"
 ![Soren avec Rhaïven Merath](../Portraits/soren-rhaiven.webp)
 
 > [!info] Attirance mutuelle récente et intimité confirmée
-> **Dernier état :** Ils se sont endormis côte à côte vers 00 h 25 au début de J+21 ; **réveil non joué**.
+> **Dernier état :** Réveil et affection partagés à 5 h 12 J+21. Rhaïven reprend le travail à 8 h ; Soren et ses loups sont au restaurant à 12 h 03, sans déjeuner encore acheté.
 
 **Personnage officiel :** [[Rhaïven Merath|Rhaïven Merath]] · **Dernière période documentée :** J+19 à début J+21.  
 **Contexte :** Aethérion, La Porte de l'Aube et domaine privé.
@@ -38,3 +38,6 @@ Il s'agit d'une illustration commémorative/interprétative et non d'une nouvell
 [[Rhaïven Merath]] · [[J+19 — 31 Floréane 427 — Historique]] · [[J+20 — 1 Clairvent 427 — Historique]] · [[État de reprise J+21]]
 
 [[00 — Tableau général du harem|Tableau]] · [[01 — Chronologie sentimentale|Chronologie]] · [[02 — Galerie des portraits de duo|Galerie]] · [[10 — Harem/README|Accueil de la rubrique Harem]]
+
+## Matinée J+21 confirmée
+À 5 h 12, Soren et Rhaïven se réveillent enlacés dans la résidence de Soren ; baisers, plaisanteries et affection. Rhaïven lui promet un futur petit-déjeuner ensemble ; il rejoint ensuite son poste à 8 h tandis que Soren et Borin travaillent. À la boutique, ils se taquinent sur la literie devant Nélyria et Borin. **Relation intime récente confirmée, sans exclusivité ni privilège professionnel.** À 12 h 03, Soren est devant La Marmite avec ses trois loups, Rhaïven reste à la boutique. [[J+21 — 2 Clairvent 427]] · [[État de reprise J+21]].

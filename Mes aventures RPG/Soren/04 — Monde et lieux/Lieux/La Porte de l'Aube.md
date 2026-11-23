@@ -85,3 +85,7 @@ Soren règle **51 P encaissées par l'entreprise** : 3 heures difficile spécifi
 **Fermeture 20 h**, onze modules commerciaux coupés, générateur emporté vers l'atelier privé pour réintégration des trois [SS] et autotests du soir réussis. **Cœur reste sous comptoir sécurisé**, circuit résidentiel indépendant. **J+21 6 h** réinstallation et contrôles de compatibilité tablette, salles et protections **à jouer**. Extensions 33 modules/480 places et arène seule 800 occupants **purement théoriques, non autorisées à l'exploitation**. CA total et trésorerie société du J+20 **non connus**, ne pas inventer de bilan à partir des 51 P.
 
 [[J+20 — 1 Clairvent 427]] · [[État de reprise J+21]].
+
+## Situation prioritaire — J+21 à 12 h 03
+**La Porte de l'Aube** est équipée du générateur [S] de Borin, raccordé au Cœur de Soren sous comptoir et aux trois composants [SS]. **33 modules ouverts et stables**, 15 ateliers, 15 entraînements, 3 arènes. **Charge simultanée de 480 occupants simulés** et essais de sécurité tous verts, **évacuation réelle de masse non jouée**. Tablette opérationnelle, droits employés et anciennes réservations inchangés. Première forge occupée par un vrai client à 8 h 17 sans incident.
+**Avenant Guilde J+21** : 7 salles d'entraînement supplémentaires, **10 au total**, créneaux 13–20 h dès J+22, **7 644 P payées à l'entreprise** à 11 h 17 ; 5 autres salles d'entraînement pour particuliers. Le projet d'arène **50+750=800** est encore non testé. Déjeuner J+21 non commencé à 12 h 03. [[J+21 — 2 Clairvent 427]] · [[État de reprise J+21]].

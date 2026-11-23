@@ -40,3 +40,6 @@ Les fiches [[18 - Dossier confidentiel du Fondateur]] et [[Registre Fondateur �
 Éviter de recopier le même encadré de situation dans plusieurs fiches. Utiliser des liens Obsidian `[[Fiche personnage — Soren Thalvyr]]` et, si utile, l'inclusion `![[Statut — Soren]]`. Les présentations courtes donnent uniquement le rôle du sujet et renvoient à la fiche canonique.
 
 L'histoire n'avance qu'après une action du joueur et les évolutions mécaniques ne sont actées qu'après validation du SYSTÈME ou du Fondateur.
+
+## Point de reprise canonique — J+21, 12 h 03
+**[[État de reprise J+21]]** : matinée du **2 Clairvent 427** entièrement validée par le Fondateur, à 12 h 03 Soren et sa meute sont devant La Marmite du Compagnon et n'ont pas encore commandé le déjeuner. **33 modules** en service après tests virtuels parfaitement stables, **10 salles de Guilde** dès J+22 (+7 644 P société), **mission C-307** acceptée sans être commencée, Caëlan à 18 h. Les états fin J+20 et début J+21 précédents ne sont plus les points d'arrêt actuels.
