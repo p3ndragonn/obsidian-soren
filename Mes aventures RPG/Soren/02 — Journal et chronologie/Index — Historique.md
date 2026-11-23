@@ -43,9 +43,11 @@ Chaque note ci-dessous contient le bilan officiel et chronologique d'une journé
 
 - [[J+20 — 1 Clairvent 427 — Historique]] — Audience royale, deux sceaux, phase 2, Caëlan, entraînement et générateur SS
 
+- [[J+21 — 2 Clairvent 427 — Historique]] — Matinée canonique : réveil, activation des 33 salles, mission C-307, avenant Guilde à 10 salles (**bilan partiel, J+21 en cours**)
+
 ## Règles d'archivage
 - Ne pas considérer une personne mentionnée comme physiquement rencontrée sans événement explicite.
 - Distinguer paiements, estimations, acquisitions, objets confiés, pertes et projets.
 - Garder les secrets inconnus et ne jamais extrapoler une valeur mécanique absente du récit.
 
-**Reprise : [[État de reprise J+21]]**, début J+21 vers 00 h 25.
+**Reprise : [[État de reprise J+21]]**, J+21 **12 h 03**, devant La Marmite du Compagnon, déjeuner encore à jouer.

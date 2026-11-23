@@ -1,3 +1,10 @@
 # Collaboration personnelle avec Arvand
 
 Contrat SYSTÈME signé J+18 7 h 31, inactif jusqu'au grade C ; six mois dès activation, renouvellement mutuel. Arvand référent, au moins trois missions proposées par sélection, libre choix, récompenses intégrales, familiers permis sauf évaluation individuelle, repos libre. Confidentialité, archives nécessaires, priorité experts, renseignements autres branches et recommandations institutionnelles. Priorité boutiques Guilde, remise 15 % sur un article au choix après chaque mission validée. Pas d'avantage avant activation, pas de clause d'exclusivité explicite malgré terme oral. Évaluation réelle solo sans loups ≤72 h si possible, J+22 provisoire, revoir J+21. Arvand connaît arsenal complet, aucun dossier/divulgation sans accord, matrice cérébrale non révélée. [[J+18 — 30 Floréane 427]]
+
+## Actualisation — J+21 (matinée confirmée)
+Arvand reçoit Soren à la Guilde vers **9 h 04**. Il apprend l'attribution des dix bénédictions et l'activation de la **phase 2 +50 % PV max**, qu'il reçoit lui-même. **9 h 13**, Arvand propose la **mission réelle de promotion du grade de Guilde C : [[C-307 — Les Balises du Défilé d'Orvan]]** ; Soren accepte, ordre provisoire remis. Trois balises interrompues, deux éclaireurs disparus des rapports, mission de reconnaissance/secours **solo sans les loups**, départ **envisagé J+22 matin**, **≤72 heures**, réussite et promotion indéterminées. **Le contrat SYSTÈME de collaboration signé J+18 demeure inactif tant que le grade de Guilde reste D.**
+
+Entretien commercial ensuite : Soren rapporte que ses **33 modules** sont actifs et stables, **480 occupants simulés** avec protections vertes, mais que l'arène seule 800 personnes reste un projet distinct. Arvand accepte un avenant de **7 salles supplémentaires**, portant le total commercial Guilde à **10** de 13 à 20 h dès J+22 ; **7 644 P encaissées par l'entreprise** après signatures du matin. Missions personnelle et contrat commercial restent **deux dossiers distincts**.
+
+[[J+21 — 2 Clairvent 427]] · [[État de reprise J+21]].

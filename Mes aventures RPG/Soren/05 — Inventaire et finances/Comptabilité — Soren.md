@@ -148,3 +148,10 @@ Source : [[J+19 — 31 Floréane 427]] · [[État de reprise J+20]].
 **Entreprise indépendante** : encaissement de la réservation **51 P**, mais CA et trésorerie complets de J+20 non consignés ; ne pas présenter 4 293 + 51 comme bilan définitif sans les autres opérations. **102 000 P de composants commerciaux** avancés par Soren, remboursement convenu mais non réglé ; premiers bénéfices distribuables J+47. Restent **37 000 P promis à Tévan, 37 000 à Hadrien**, et **9 000 P** à payer pour les Crocs [A] attendus J+23. Aucun revenu futur ni bénéfice fictif.
 
 [[J+20 — 1 Clairvent 427]] · [[État de reprise J+21]].
+
+## Mouvements J+21 — matinée validée (jusqu'à 12 h 03)
+**Solde personnel de Soren inchangé faute de dépense ou de revenu personnel chiffré joués : 594 208,65 Pièces** (dernier solde confirmé fin J+20). Petit-déjeuner J+21 pris dans les provisions de la maison, sans nouvelle dépense quantifiée. **Déjeuner J+21 non encore commandé ou payé** à 12 h 03.
+
+**Comptabilité de La Porte de l'Aube, distincte de celle de Soren** : **avenant Guilde de 7 salles supplémentaires**, 13 h–20 h sur 26 jours dès J+22, **7 × 7 × 6 × 26 = +7 644 Pièces effectivement encaissées à 11 h 17 J+21**. Le paiement ancien de **3 780 P** pour les 3 salles initiales ne doit pas être encaissé une deuxième fois. Contrat actuel jusqu'au terme initial : **10 salles au total**, 5 salles d'entraînement supplémentaires laissées aux particuliers. Les autres recettes clients du J+21 et le solde complet de la société ne sont **pas chiffrés**, ne pas inventer de total. Aucune répartition 55/45 de bénéfices versée ni remboursement des 102 000 P avancés à ce stade.
+
+[[J+21 — 2 Clairvent 427]] · [[État de reprise J+21]].

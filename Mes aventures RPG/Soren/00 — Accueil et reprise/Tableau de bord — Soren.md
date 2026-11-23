@@ -8,11 +8,11 @@ point_de_reprise: "[[État de reprise J+21]]"
 # S Y S T È M E — Soren
 
 > [!success] Scène officielle en cours
-> **Début J+21 · 2 Clairvent 427 · vers 00 h 25.** Soren endormi au domaine avec Rhaïven et les trois loups. Réveil non joué ; rendez-vous Borin à 6 h et Caëlan à 18 h.
+> **J+21 · 2 Clairvent 427 · 12 h 03.** Soren et ses trois loups arrivent devant **La Marmite du Compagnon** ; aucune commande passée. Ce matin, **33 salles activées**, mission **C-307** acceptée, **10 salles réservées à la Guilde (+7 644 P entreprise)**. Caëlan attendu à 18 h.
 
 ## Reprendre la partie
 
-**[[État de reprise J+21]]** — sauvegarde prioritaire. [[J+20 — 1 Clairvent 427|Journal de la journée terminée]].
+**[[État de reprise J+21]]** — sauvegarde prioritaire. [[J+21 — 2 Clairvent 427|Journal de la matinée validée]].
 
 ## Accès direct
 
