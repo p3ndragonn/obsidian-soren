@@ -134,6 +134,14 @@ Cette carte est **la référence canonique** pour le château central, les douze
 
 **Carte du royaume (ancienne référence, à refaire) :** [Carte du Royaume de Tharvélis](Cartes/Carte%20du%20Royaume%20de%20Tharv%C3%A9lis.png) — carte conservée comme illustration de référence, sans en déduire de nouveaux événements.
 
+## Fonds d'écran — Monde de Soren
+
+| Illustration | Dimensions et usage | Visuel |
+|---|---|---|
+| **Aethérion et les compagnons de Soren** | **941 × 1 671 pixels**, format vertical smartphone, WebP haute qualité | [Voir le fond d'écran haute résolution](Fonds%20d'%C3%A9cran%2FSoren%20-%20Aetherion%20et%20compagnons%20-%20fond%20smartphone.webp) · [[Soren — Monde et compagnons — Fond d'écran smartphone]] |
+
+Ce fond d'écran est une **composition artistique d'ambiance** : Soren, ses amis et connaissances, la boutique La Porte de l'Aube, le château d'Aethérion et les paysages du royaume. Les personnages sont montrés dans des interactions amicales naturelles, sans faire de ce montage une réunion historique réellement jouée ; les portraits individuels officiels restent la référence pour chaque identité.
+
 ## Autres illustrations
 
 Pour les futurs personnages et lieux, réutiliser les illustrations établies lorsqu'elles sont disponibles ; ne pas présenter les images indicatives comme des portraits canoniques.
