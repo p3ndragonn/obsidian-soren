@@ -4,7 +4,7 @@ campagne: NOM_DU_RPG
 branche_narrative: null
 statut_documentaire: index
 visibilite: joueur
-version: 2
+version: 3
 id: null
 date_univers: null
 derniere_validation: "2026-11-24"
@@ -33,6 +33,13 @@ Index de navigation : renseigner les fiches réelles au fur et à mesure des val
 - [[Mes aventures RPG/NOM_DU_RPG/03 — Personnages et relations/Personnages/Naëlys Vaelarys|Naëlys Vaelarys]]
 - [[Mes aventures RPG/NOM_DU_RPG/03 — Personnages et relations/Personnages/Aerion Vaelarys|Aerion Vaelarys]]
 - [[Mes aventures RPG/NOM_DU_RPG/03 — Personnages et relations/Personnages/Vaëlan Vaelarys|Vaëlan Vaelarys]]
+
+## Famille du personnage principal
+- [[Mes aventures RPG/NOM_DU_RPG/03 — Personnages et relations/Familles/Famille Blackwell|Famille Blackwell]]
+- [[Mes aventures RPG/NOM_DU_RPG/03 — Personnages et relations/Personnages/Victor Blackwell|Victor Blackwell]]
+- [[Mes aventures RPG/NOM_DU_RPG/03 — Personnages et relations/Personnages/Elena Blackwell|Elena Blackwell]]
+- [[Mes aventures RPG/NOM_DU_RPG/03 — Personnages et relations/Personnages/Alyssa Blackwell|Alyssa Blackwell]]
+- [[Mes aventures RPG/NOM_DU_RPG/03 — Personnages et relations/Relations/Relations familiales Blackwell|Relations familiales Blackwell]]
 
 ## Documents de cette section
 - [[Mes aventures RPG/NOM_DU_RPG/03 — Personnages et relations/Personnages/Modèle — PNJ|Modèle — PNJ]]

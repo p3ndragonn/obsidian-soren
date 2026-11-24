@@ -4,21 +4,22 @@ campagne: NOM_DU_RPG
 branche_narrative: null
 statut_documentaire: a_definir
 visibilite: joueur
-version: 1
+version: 2
 id: null
 date_univers: null
-derniere_validation: null
-sources: []
+derniere_validation: "2026-11-24"
+sources:
+  - "Validation explicite d'Aedan et délégation de création de sa famille — 24 novembre 2026"
 ---
 
 # Fiche du personnage principal
 
 ## 1 — Identité générale
-- **Nom et anciens noms :** À définir
-- **Âge et naissance :** À définir
-- **Sexe :** À définir
-- **Race et sous-race :** À définir
-- **Origine :** À définir
+- **Nom et anciens noms :** Aedan Blackwell ; aucun ancien nom établi
+- **Âge et naissance :** À définir selon sous-race et parcours ; plus jeune qu'Alyssa (30 ans au cadre initial).
+- **Sexe :** Masculin
+- **Race et sous-race :** Tiefling (validée) ; sous-race à choisir
+- **Origine :** [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Lieux/Les Portes d'Orion|Les Portes d'Orion]], Marche d'Orion, Valthéria ; univers 827, Elyndra
 - **Taille, morphologie, visage et signes distinctifs :** À définir
 - **Portrait officiel :** À définir
 
@@ -32,19 +33,19 @@ sources: []
 [[Mes aventures RPG/NOM_DU_RPG/05 — Inventaire et finances/Équipement porté|Équipement porté]] · [[Mes aventures RPG/NOM_DU_RPG/05 — Inventaire et finances/Inventaire actuel|Inventaire actuel]] · [[Mes aventures RPG/NOM_DU_RPG/05 — Inventaire et finances/Comptabilité personnelle|Comptabilité personnelle]]
 
 ## 5 — Histoire et personnalité
-- **Famille (liens vers fiches) :** À définir
+- **Famille (liens vers fiches) :** [[Mes aventures RPG/NOM_DU_RPG/03 — Personnages et relations/Familles/Famille Blackwell|Famille Blackwell]] ; [[Mes aventures RPG/NOM_DU_RPG/03 — Personnages et relations/Personnages/Victor Blackwell|Victor Blackwell]], [[Mes aventures RPG/NOM_DU_RPG/03 — Personnages et relations/Personnages/Elena Blackwell|Elena Blackwell]], [[Mes aventures RPG/NOM_DU_RPG/03 — Personnages et relations/Personnages/Alyssa Blackwell|Alyssa Blackwell]] ; Aedan fils cadet
 - **Biographie :** À définir
 - **Caractère :** À définir
 - **Formation :** À définir
 - **Motivations et aspirations :** À définir
-- **Situation sociale :** À définir
+- **Situation sociale :** famille indépendante très aisée, grande bourgeoisie sans noblesse ; accès facilité aux ressources familiales sans propriété personnelle automatique.
 [[Mes aventures RPG/NOM_DU_RPG/03 — Personnages et relations/Index — Personnages et relations|Index — Personnages et relations]]
 
 ## 6 — Particularités et évolution
 - **Transformations et particularités connues :** À définir
 - **Jalons personnels :** À définir
 - **Exceptions validées :** À définir
-- **Validation définitive :** À définir
+- **Validation définitive :** identité, race et origines validées ; fiche finale non validée.
 [[Mes aventures RPG/NOM_DU_RPG/02 — Journal et chronologie/Chronologie générale|Chronologie générale]]
 
 Les données chiffrées et objets détaillés restent dans leurs fiches maîtresses. La vue Fondateur complète est distincte. Ne pas inventer les champs manquants.

@@ -4,10 +4,10 @@ campagne: NOM_DU_RPG
 branche_narrative: null
 statut_documentaire: index
 visibilite: joueur
-version: 1
+version: 2
 id: null
 date_univers: null
-derniere_validation: null
+derniere_validation: "2026-11-24"
 sources: []
 ---
 
@@ -19,3 +19,5 @@ Référencer uniquement les compétences réellement acquises, dans les catégor
 | --- | --- | --- | --- | --- |
 
 [[Mes aventures RPG/NOM_DU_RPG/01 — Personnage principal/Compétences/Modèle — Compétence|Modèle — Compétence]]
+
+- [[Mes aventures RPG/NOM_DU_RPG/01 — Personnage principal/Compétences/Socle racial Tiefling|Socle racial Tiefling]] — référence officielle ; attribution individualisée après validation sous-race.

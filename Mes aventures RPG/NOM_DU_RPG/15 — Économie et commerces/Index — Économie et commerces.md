@@ -4,7 +4,7 @@ campagne: NOM_DU_RPG
 branche_narrative: null
 statut_documentaire: index
 visibilite: joueur
-version: 2
+version: 3
 id: null
 date_univers: null
 derniere_validation: "2026-11-24"
@@ -24,3 +24,7 @@ Les prix observés restent locaux et datés ; barème officiel indicatif, non pr
 - [[Mes aventures RPG/NOM_DU_RPG/15 — Économie et commerces/Revenus et niveaux de vie|Revenus et niveaux de vie]]
 - [[Mes aventures RPG/NOM_DU_RPG/15 — Économie et commerces/Commerce entre les royaumes|Commerce entre les royaumes]]
 - [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Réseaux de transport|Réseaux de transport]]
+
+## Entreprises des Blackwell
+- [[Mes aventures RPG/NOM_DU_RPG/15 — Économie et commerces/Entreprises/Blackwell Défense Arcanotech|Blackwell Défense Arcanotech]]
+- [[Mes aventures RPG/NOM_DU_RPG/15 — Économie et commerces/Entreprises/L'Écrin d'Éther|L'Écrin d'Éther]]

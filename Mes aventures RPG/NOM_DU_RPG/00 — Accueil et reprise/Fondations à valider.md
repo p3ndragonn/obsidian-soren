@@ -4,7 +4,7 @@ campagne: NOM_DU_RPG
 branche_narrative: null
 statut_documentaire: valide
 visibilite: joueur
-version: 6
+version: 7
 id: null
 date_univers: null
 derniere_validation: "2026-11-24"
@@ -29,4 +29,6 @@ Fondations du monde partiellement validées ; personnage non créé. Les donnée
 
 Identité, race, sous-race, famille, biographie et statut : [[Mes aventures RPG/NOM_DU_RPG/01 — Personnage principal/Fiche du personnage principal|Fiche du personnage principal]]. Fortune : [[Mes aventures RPG/NOM_DU_RPG/05 — Inventaire et finances/Comptabilité personnelle|Comptabilité personnelle]]. Ne pas déduire une fortune du rang.
 
-Peuples et villes : [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Peuples et démographie|Peuples et démographie]] ; [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Cartes/Carte schématique des 24 cités|Carte schématique des 24 cités]]. Huit races confirmées et 24 cités validées. Gnomes exclus ; proportions recalculées. Planète Elyndra, univers 827, populations, 24 provinces, familles royales et calendrier validés. Noblesse, familles, 14 entreprises, références économiques et transports validés, dont téléportation principalement entre capitales à environ 10 000 P/personne/trajet. Institutions, droit, sécurité, éducation, religions, guildes (neuf grades), explorations et donjons validés. Fondations générales suffisantes pour création du personnage. Langues, calendrier local détaillé, distances et autres éléments non indispensables restent à préciser selon besoins. Prochaine étape : identité, origines et création progressive du personnage principal. Aucune scène jouée.
+Peuples et villes : [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Peuples et démographie|Peuples et démographie]] ; [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Cartes/Carte schématique des 24 cités|Carte schématique des 24 cités]]. Huit races confirmées et 24 cités validées. Gnomes exclus ; proportions recalculées. Planète Elyndra, univers 827, populations, 24 provinces, familles royales et calendrier validés. Noblesse, familles, 14 entreprises, références économiques et transports validés, dont téléportation principalement entre capitales à environ 10 000 P/personne/trajet. Institutions, droit, sécurité, éducation, religions, guildes (neuf grades), explorations et donjons validés. Fondations générales suffisantes pour création du personnage. Langues, calendrier local détaillé, distances et autres éléments non indispensables restent à préciser selon besoins. Identité, origine et race d'Aedan Blackwell validées ; famille créée par délégation. Prochaine étape : sous-race, âge et apparence. Aucune scène jouée.
+
+[[Mes aventures RPG/NOM_DU_RPG/03 — Personnages et relations/Familles/Famille Blackwell|Famille Blackwell]]

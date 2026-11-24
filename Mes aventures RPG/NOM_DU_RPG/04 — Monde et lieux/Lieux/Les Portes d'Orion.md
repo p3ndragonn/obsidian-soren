@@ -4,7 +4,7 @@ campagne: NOM_DU_RPG
 branche_narrative: null
 statut_documentaire: valide
 visibilite: joueur
-version: 2
+version: 3
 id: MONDE-CITE-024
 date_univers: null
 derniere_validation: "2026-11-24"
@@ -26,3 +26,8 @@ sources:
 - **Première visite réelle :** aucune ; fiche encyclopédique.
 - **Illustration officielle :** non définie (références d'ambiance non archivées).
 - **Carte :** [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Cartes/Carte schématique des 24 cités|Carte schématique des 24 cités]].
+
+## Lieux et activités liés à la famille Blackwell
+- [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Lieux/Résidence Blackwell|Résidence Blackwell]]
+- [[Mes aventures RPG/NOM_DU_RPG/15 — Économie et commerces/Entreprises/Blackwell Défense Arcanotech|Blackwell Défense Arcanotech]]
+- [[Mes aventures RPG/NOM_DU_RPG/15 — Économie et commerces/Entreprises/L'Écrin d'Éther|L'Écrin d'Éther]]

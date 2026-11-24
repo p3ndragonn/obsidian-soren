@@ -4,7 +4,7 @@ campagne: NOM_DU_RPG
 branche_narrative: null
 statut_documentaire: a_definir
 visibilite: joueur
-version: 7
+version: 8
 id: null
 date_univers: null
 derniere_validation: "2026-11-24"
@@ -20,7 +20,7 @@ sources: []
 - **Identifiant et catégorie de sauvegarde :** À définir
 - **Chapitre, jour, date, heure et lieu :** À définir
 - **Dernière scène et dernière action du joueur :** À définir
-- **Décision attendue :** création progressive du personnage principal (identité et origines). Institutions, lois, sécurité, éducation, religions, guildes, explorations et donjons validés. Noblesse, économie et transports validés. Huit races (Gnomes exclus), 24 cités, 24 provinces, populations et familles royales validées. Personnage encore à créer.
+- **Décision attendue :** sous-race d'Aedan Blackwell, Tiefling masculin des Portes d'Orion (Valthéria), âge et apparence ; famille validée et créée par délégation. Institutions, lois, sécurité, éducation, religions, guildes, explorations et donjons validés. Noblesse, économie et transports validés. Huit races (Gnomes exclus), 24 cités, 24 provinces, populations et familles royales validées. Personnage en création, pas de scène jouée.
 - **Événements en cours et échéances :** À définir
 - **Version et référence du dernier instantané vérifié :** À définir
 - **Point majeur précédent :** À définir
@@ -39,3 +39,5 @@ Le complément réservé est conservé séparément. Ne pas avancer le temps pen
 
 ## Données et protocole
 [Reprise structurée](Données/reprise.json) · [[Mes aventures RPG/NOM_DU_RPG/18 — Contrôle de cohérence/Protocole de maintenance]]. Aucun point de reprise fictif. Distinguer sauvegarde de continuité et point majeur.
+
+- [[Mes aventures RPG/NOM_DU_RPG/03 — Personnages et relations/Familles/Famille Blackwell|Famille Blackwell]] · [[Mes aventures RPG/NOM_DU_RPG/01 — Personnage principal/Compétences/Socle racial Tiefling|Socle racial Tiefling]]
