@@ -4,7 +4,7 @@ campagne: NOM_DU_RPG
 branche_narrative: null
 statut_documentaire: valide
 visibilite: joueur
-version: 1
+version: 2
 id: MONDE-CONT-001
 date_univers: null
 derniere_validation: "2026-11-24"
@@ -35,4 +35,4 @@ Trois royaumes, voies de développement médiévale magique, magitech et hybride
 [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Histoire ancienne et époque actuelle|Histoire ancienne et époque actuelle]] · [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Institutions communes|Institutions communes]].
 
 ## À définir
-Répartition des races, noms et localisation des villes autres que les capitales validées, frontières précises, géographie détaillée et calendrier. Aucun chiffre de population établi.
+[[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Peuples et démographie|Peuples et démographie]] · [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Cartes/Carte schématique des 24 cités|Carte schématique des 24 cités]]. Huit races confirmées ; part démographique non attribuée en attente de clarification sur les Gnomes. 24 grandes cités et leurs localisations relatives validées. Frontières précises, géographie détaillée, calendrier, populations absolues, provinces et familles royales à définir.

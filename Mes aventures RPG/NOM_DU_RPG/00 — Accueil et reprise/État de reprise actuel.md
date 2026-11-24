@@ -4,7 +4,7 @@ campagne: NOM_DU_RPG
 branche_narrative: null
 statut_documentaire: a_definir
 visibilite: joueur
-version: 3
+version: 4
 id: null
 date_univers: null
 derniere_validation: null
@@ -20,7 +20,7 @@ sources: []
 - **Identifiant et catégorie de sauvegarde :** À définir
 - **Chapitre, jour, date, heure et lieu :** À définir
 - **Dernière scène et dernière action du joueur :** À définir
-- **Décision attendue :** choix des races présentes et répartition ; villes principales et localisation. Personnage encore à créer.
+- **Décision attendue :** planète, populations absolues, familles royales, provinces et calendrier ; clarification des Gnomes. Huit races et 24 cités validées. Personnage encore à créer.
 - **Événements en cours et échéances :** À définir
 - **Version et référence du dernier instantané vérifié :** À définir
 - **Point majeur précédent :** À définir
