@@ -4,11 +4,12 @@ campagne: NOM_DU_RPG
 branche_narrative: null
 statut_documentaire: a_definir
 visibilite: joueur
-version: 10
+version: 11
 id: null
 date_univers: null
 derniere_validation: "2026-11-24"
 sources:
+  - "Choix explicites du joueur — sceau arcanique, double formation avancée donjons/runes/arcanes, chronologie scolaire et rang B envisagé ; 24 novembre 2026"
   - "Validation explicite du joueur — morphologie d'Aedan, température corporelle et maturation des Tieflings d'Elyndra ; 24 novembre 2026"
   - "Validation du joueur — lignée écarlate, longévité locale, âges, études supérieures et rangs familiaux ; 24 novembre 2026"
 ---
@@ -22,7 +23,7 @@ sources:
 - **Identifiant et catégorie de sauvegarde :** À définir
 - **Chapitre, jour, date, heure et lieu :** À définir
 - **Dernière scène et dernière action du joueur :** À définir
-- **Décision attendue :** choix du domaine de formation supérieure, puis rang personnel, Classe et Profession d'Aedan Blackwell, Tiefling écarlate masculin, environ 65 ans, des Portes d'Orion. Morphologie et maturation validées ; motif du tatouage et portrait officiel à préciser. Formation supérieure terminée (domaine à choisir). Longévité locale des Tieflings ~500 ans ; Victor ~265 ans rang A, Elena ~255 ans rang B, Alyssa ~100 ans rang C. Âges précis parentaux retenus dans la plage demandée, dates de naissance non définies. Institutions, lois, sécurité, éducation, religions, guildes, explorations et donjons validés. Noblesse, économie et transports validés. Huit races (Gnomes exclus), 24 cités, 24 provinces, populations et familles royales validées. Personnage en création, pas de scène jouée.
+- **Décision attendue :** validation du parcours détaillé, du rang personnel B envisagé, puis de la Classe et Profession d'Aedan Blackwell, Tiefling écarlate masculin, environ 65 ans, des Portes d'Orion. Morphologie, maturation et tatouage sceau arcanique validés ; portrait officiel à créer. Double formation supérieure avancée en exploration de donjons et sciences runiques (magie/mana) et arcaniques (technologie), rare et risquée dès le jeune âge ; chronologie scolaire validée. [[Mes aventures RPG/NOM_DU_RPG/01 — Personnage principal/Parcours de formation|Parcours de formation]]. Longévité locale des Tieflings ~500 ans ; Victor ~265 ans rang A, Elena ~255 ans rang B, Alyssa ~100 ans rang C. Âges précis parentaux retenus dans la plage demandée, dates de naissance non définies. Institutions, lois, sécurité, éducation, religions, guildes, explorations et donjons validés. Noblesse, économie et transports validés. Huit races (Gnomes exclus), 24 cités, 24 provinces, populations et familles royales validées. Personnage en création, pas de scène jouée.
 - **Événements en cours et échéances :** À définir
 - **Version et référence du dernier instantané vérifié :** À définir
 - **Point majeur précédent :** À définir

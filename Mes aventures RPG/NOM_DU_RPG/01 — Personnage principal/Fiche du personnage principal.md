@@ -4,11 +4,12 @@ campagne: NOM_DU_RPG
 branche_narrative: null
 statut_documentaire: a_definir
 visibilite: joueur
-version: 4
+version: 5
 id: null
 date_univers: null
 derniere_validation: "2026-11-24"
 sources:
+  - "Choix explicites du joueur — sceau arcanique, double formation avancée donjons/runes/arcanes, chronologie scolaire et rang B envisagé ; 24 novembre 2026"
   - "Validation explicite du joueur — morphologie d'Aedan, température corporelle et maturation des Tieflings d'Elyndra ; 24 novembre 2026"
   - "Validation du joueur — lignée écarlate, longévité locale, âges, études supérieures et rangs familiaux ; 24 novembre 2026"
   - "Validation explicite d'Aedan et délégation de création de sa famille — 24 novembre 2026"
@@ -22,7 +23,7 @@ sources:
 - **Sexe :** Masculin
 - **Race et sous-race :** Tiefling écarlate (15.03 du Codex), race et sous-race validées.
 - **Origine :** [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Lieux/Les Portes d'Orion|Les Portes d'Orion]], Marche d'Orion, Valthéria ; univers 827, Elyndra
-- **Taille, morphologie, visage et signes distinctifs :** 187 cm, 88 kg, silhouette athlétique et musclée ; peau rouge sombre et profonde avec nuances pourpres ; cheveux noirs courts et texturés, yeux ambrés, barbe courte ; deux cornes noires recourbées vers l'arrière ; queue longue et fine à pointe en flèche ; ailes absentes ; tatouage sur le pectoral droit (motif non défini). Température corporelle naturelle ~45 °C. Apparence jeune adulte selon maturation locale validée ; équivalent humain approximatif de 25 ans. Détails fins du visage et motif du tatouage à préciser si souhaité.
+- **Taille, morphologie, visage et signes distinctifs :** 187 cm, 88 kg, silhouette athlétique et musclée ; peau rouge sombre et profonde avec nuances pourpres ; cheveux noirs courts et texturés, yeux ambrés, barbe courte ; deux cornes noires recourbées vers l'arrière ; queue longue et fine à pointe en flèche ; ailes absentes ; tatouage esthétique de type sceau arcanique sur le pectoral droit, encre noire, diamètre approximatif 15 cm ; pas d'enchantement. Température corporelle naturelle ~45 °C. Apparence jeune adulte selon maturation locale validée ; équivalent humain approximatif de 25 ans. Détails fins du visage et dessin exact du sceau à préciser si souhaité.
 - **Portrait officiel :** À définir
 
 ## 2 — Statut du SYSTÈME
@@ -38,7 +39,7 @@ sources:
 - **Famille (liens vers fiches) :** [[Mes aventures RPG/NOM_DU_RPG/03 — Personnages et relations/Familles/Famille Blackwell|Famille Blackwell]] ; [[Mes aventures RPG/NOM_DU_RPG/03 — Personnages et relations/Personnages/Victor Blackwell|Victor Blackwell]], [[Mes aventures RPG/NOM_DU_RPG/03 — Personnages et relations/Personnages/Elena Blackwell|Elena Blackwell]], [[Mes aventures RPG/NOM_DU_RPG/03 — Personnages et relations/Personnages/Alyssa Blackwell|Alyssa Blackwell]] ; Aedan fils cadet
 - **Biographie :** À définir
 - **Caractère :** À définir
-- **Formation :** formation supérieure achevée ; établissement, spécialité, diplôme exact et parcours à définir.
+- **Formation :** double formation supérieure avancée achevée, théorique et pratique en exploration de donjons, sciences runiques (magie/mana) et sciences arcaniques (technologie) ; cursus rare sur Elyndra et risqué dès le jeune âge. Chronologie scolaire validée ; établissements, diplôme exact et accomplissements détaillés en proposition à valider. [[Mes aventures RPG/NOM_DU_RPG/01 — Personnage principal/Parcours de formation|Parcours de formation]]. Rang B envisagé par le joueur, non verrouillé tant que les prérequis biographiques ne sont pas validés.
 - **Motivations et aspirations :** À définir
 - **Situation sociale :** famille indépendante très aisée, grande bourgeoisie sans noblesse ; accès facilité aux ressources familiales sans propriété personnelle automatique.
 [[Mes aventures RPG/NOM_DU_RPG/03 — Personnages et relations/Index — Personnages et relations|Index — Personnages et relations]]
