@@ -17,3 +17,6 @@ sources: []
 | --- | --- | --- | --- | --- |
 
 Conserver ici les fichiers d'images associés, les réutiliser lorsque leur identité reste inchangée. Aucune image créée à l'initialisation.
+
+## Préparation administrative
+[[Mes aventures RPG/Aeden/08 — Illustrations/Créatures/Illustrations des espèces en attente|Registre des illustrations à préparer (Fondateur)]]. Aucun fichier image fictif.
