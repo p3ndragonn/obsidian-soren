@@ -4,7 +4,7 @@ campagne: Aeden
 branche_narrative: null
 statut_documentaire: valide
 visibilite: joueur
-version: 3
+version: 4
 id: PNJ-BLACKWELL-001
 date_univers: null
 derniere_validation: "2026-11-24"
@@ -45,6 +45,8 @@ Aucun niveau numérique de compétence ; aucun pouvoir de police.
 Tenue de travail et équipement de protection, trousse d'instruments de calibration, terminal magitech personnel ; aucun bonus numérique ou rareté exceptionnelle attribué à ce stade. Propriétaire de l'entreprise Blackwell Défense Arcanotech ; patrimoine familial et parts distincts, voir [[Mes aventures RPG/Aeden/03 — Personnages et relations/Familles/Patrimoine Blackwell|Patrimoine Blackwell]].
 
 ## 5 — Histoire et personnalité
+Croyance validée : Cercle de la Raison, philosophie pragmatique. Aucun bonus mécanique.
+
 Natif des Portes d'Orion, ancien apprenti puis diplômé de l'Institut d'Innovation de Novaréa ; a travaillé sur les protections de bâtiments et les fortifications de la Marche. A créé son bureau après plusieurs années de pratique. Expert régional, contrats publics et privés sans allégeance personnelle à la maison Falkenor. Méthodique, pragmatique, protecteur, exigeant sur l'autonomie ; parle calmement, parfois trop sèchement. Souhaite rendre les installations plus fiables et former de jeunes spécialistes ; refuse les commandes incompatibles avec ses exigences de sécurité.
 Direction de [[Mes aventures RPG/Aeden/15 — Économie et commerces/Entreprises/Blackwell Défense Arcanotech|Blackwell Défense Arcanotech]] ; visites de chantier, réunions, contrôles techniques. Époux d'Elena, père d'Alyssa et Aedan. Relations affectueuses mais non complaisantes ; respecte les choix professionnels des enfants.
 Famille : [[Mes aventures RPG/Aeden/03 — Personnages et relations/Familles/Famille Blackwell|Famille Blackwell]].

@@ -4,7 +4,7 @@ campagne: Aeden
 branche_narrative: null
 statut_documentaire: valide
 visibilite: joueur
-version: 3
+version: 4
 id: PNJ-BLACKWELL-003
 date_univers: null
 derniere_validation: "2026-11-24"
@@ -45,6 +45,8 @@ Aucun niveau numérique de compétence ; aucun pouvoir de police.
 Trousse d'examen, loupe et instruments de mesure magitech, carnet, gants et terminal personnel. Aucun artefact exceptionnel possédé établi. Épargne personnelle 185 000 P ; aucun droit automatique aux comptes parentaux ou professionnels.
 
 ## 5 — Histoire et personnalité
+Croyance validée : Cercle de la Raison ; étudie le Culte des Anciens sans l’adopter. Aucun bonus mécanique.
+
 Née aux Portes d'Orion, études à l'Université royale d'Astréval puis formation pratique auprès de l'Ordre des Experts. Exerce des expertises rémunérées à titre indépendant, notamment pour les maisons de vente, marchands et chercheurs, sans obligation de travailler pour sa mère. Ambitieuse, protectrice et taquine ; rigoureuse face aux affirmations non prouvées, peut être impatiente. Souhaite développer sa réputation personnelle en étudiant les objets anciens et conserver son indépendance professionnelle.
 Rendez-vous d'expertise, recherches et déplacements ponctuels ; partage la résidence familiale. Fille aînée de Victor et Elena, sœur aînée d'Aedan ; affection et taquineries, refuse de cautionner une imprudence.
 Famille : [[Mes aventures RPG/Aeden/03 — Personnages et relations/Familles/Famille Blackwell|Famille Blackwell]].

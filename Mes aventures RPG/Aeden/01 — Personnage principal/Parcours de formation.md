@@ -4,7 +4,7 @@ campagne: Aeden
 branche_narrative: null
 statut_documentaire: valide
 visibilite: joueur
-version: 4
+version: 5
 id: PJ-FORM-001
 date_univers: null
 derniere_validation: "2026-11-24"
@@ -31,6 +31,6 @@ Diplôme supérieur d'exploration dimensionnelle et d'ingénierie runo-arcanique
 - 50–57 : expéditions plus complexes, notamment danger C, réparation en conditions difficiles, missions interrompues, erreurs et replis ; rang C.
 - 57–63 : expéditions de haut niveau, certaines danger B en équipes expérimentées ; neutralisation collective d'un mécanisme énergétique instable et contribution à l'évacuation d'explorateurs dans un complexe dimensionnel magitech ; rang B à l'issue de cette période.
 - 63–65 : perfectionnement, recherche sur les interactions runes/mana/arcanes, préparation de l'avenir professionnel.
-Ces faits sont biographiques, aucun événement de jeu, paiement, récompense, objet, grade de guilde ni EXP de combat fictivement enregistré. Lieux précis et autres participants non définis. Prototype académique validé : stabilisateur runo-arcanique régulant un flux de mana dans un dispositif compatible, essais réussis ; propriété non attribuée. Reconstitution biographique validée : ascensions E→D→C→B, deux voies niveau 100 et quêtes d'ascension réussies à chaque étape, salle blanche, niveaux repartis à 1. Les quêtes précises et dates restent non définies. Voir [[Mes aventures RPG/Aeden/01 — Personnage principal/Classe et Profession|Classe et Profession]] et [[Mes aventures RPG/Aeden/01 — Personnage principal/Statistiques et ressources|Statistiques et ressources]]. Références : Règlement p. 4, 6, 14–17 ; annexe C ; documents locaux Éducation et formation et Donjons et gestion des accès.
+Ces faits sont biographiques, aucun événement de jeu, paiement, récompense, objet, grade de guilde ni EXP de combat fictivement enregistré. Maël Varyn présent lors de l’incident dimensionnel ; lieux précis et autres participants non définis. Prototype académique validé : stabilisateur runo-arcanique régulant un flux de mana dans un dispositif compatible, essais réussis ; propriété non attribuée. Reconstitution biographique validée : ascensions E→D→C→B, deux voies niveau 100 et quêtes d'ascension réussies à chaque étape, salle blanche, niveaux repartis à 1. Les quêtes précises et dates restent non définies. Voir [[Mes aventures RPG/Aeden/01 — Personnage principal/Classe et Profession|Classe et Profession]] et [[Mes aventures RPG/Aeden/01 — Personnage principal/Statistiques et ressources|Statistiques et ressources]]. Références : Règlement p. 4, 6, 14–17 ; annexe C ; documents locaux Éducation et formation et Donjons et gestion des accès.
 
-Le joueur a validé l'existence d'un meilleur ami masculin ayant suivi les mêmes études et explorations, avec un domaine de recherche légèrement différent. Identité et spécialité proposées dans [[Mes aventures RPG/Aeden/01 — Personnage principal/Dernières fondations proposées|Dernières fondations proposées]] ; pas de rencontre jouée.
+Le joueur a validé l'existence d'un meilleur ami masculin ayant suivi les mêmes études et explorations, avec un domaine de recherche légèrement différent. Identité Maël Varyn et spécialité automates validées dans [[Mes aventures RPG/Aeden/01 — Personnage principal/Dernières fondations proposées|Dernières fondations proposées]] ; pas de rencontre jouée.

@@ -4,7 +4,7 @@ campagne: Aeden
 branche_narrative: null
 statut_documentaire: valide
 visibilite: joueur
-version: 3
+version: 4
 id: PNJ-BLACKWELL-002
 date_univers: null
 derniere_validation: "2026-11-24"
@@ -45,6 +45,8 @@ Aucun niveau numérique de compétence ; aucun pouvoir de police.
 Tenues de qualité, terminal magitech, nécessaire de tenue de comptes ; objets du magasin appartiennent au commerce, pas automatiquement à Elena personnellement. Propriétaire de L'Écrin d'Éther ; voir [[Mes aventures RPG/Aeden/03 — Personnages et relations/Familles/Patrimoine Blackwell|Patrimoine Blackwell]].
 
 ## 5 — Histoire et personnalité
+Croyance validée : Ordre des Astres, pratique modérée. Aucun bonus mécanique.
+
 Originaire de Port-Azur, formée au négoce et aux contrats auprès de la Guilde des Marchands. S'est installée aux Portes d'Orion et a ouvert L'Écrin d'Éther, développant un réseau de fournisseurs dans les trois royaumes. Sociable, perspicace, négociatrice, attentive ; sait refuser des demandes déraisonnables, souhaite développer les commandes personnalisées sans compromettre réputation et trésorerie. Encourage l'indépendance de ses enfants.
 Gère [[Mes aventures RPG/Aeden/15 — Économie et commerces/Entreprises/L'Écrin d'Éther|L'Écrin d'Éther]] ; achats, rendez-vous, négociations et contrôle des stocks. Épouse de Victor, mère d'Alyssa et Aedan.
 Famille : [[Mes aventures RPG/Aeden/03 — Personnages et relations/Familles/Famille Blackwell|Famille Blackwell]].

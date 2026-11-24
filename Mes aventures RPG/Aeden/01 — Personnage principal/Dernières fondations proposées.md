@@ -2,9 +2,9 @@
 type: proposition
 campagne: Aeden
 branche_narrative: null
-statut_documentaire: a_definir
+statut_documentaire: valide
 visibilite: joueur
-version: 2
+version: 3
 id: PJ-PROP-FIN-001
 date_univers: null
 derniere_validation: "2026-11-24"
@@ -15,7 +15,7 @@ sources:
 
 # Dernières fondations proposées
 
-Propositions non canoniques, sauf faits explicitement validés ci-dessus. Ne pas ouvrir la partie avant approbation finale.
+Décisions validées le 24 novembre 2026 ; formulations de proposition conservées comme historique. Les fiches individuelles et l’état de reprise prévalent. Ne pas ouvrir la partie avant approbation finale.
 
 ## Croyances individuelles
 Selon [[Mes aventures RPG/Aeden/12 — Encyclopédie du monde/Religions et philosophies|Religions et philosophies]], Aedan adhère à la philosophie non théiste du Cercle de la Raison (preuve, expérimentation, connaissance ; aucun culte du SYSTÈME) sans affiliation formelle ; Victor partage cette philosophie pragmatique ; Elena suit modérément l'Ordre des Astres (cycles, équilibre, traditions familiales) ; Alyssa se rapproche du Cercle de la Raison et étudie le Culte des Anciens sans l'adopter. Liberté de chacun, aucune foi imposée, aucun bonus.
@@ -32,8 +32,11 @@ Titre Les Arcanes d'Elyndra ; naissance 12 Sylvéor 1777 TC ; départ Aquaris 15
 ## Références visuelles archivées
 Aedan : ![[Mes aventures RPG/Aeden/08 — Illustrations/Personnages/Aedan Blackwell — Portrait officiel.webp]]
 
-Maël (identité et détails en attente de validation) :
+Maël (identité validée) :
 ![[Mes aventures RPG/Aeden/08 — Illustrations/Personnages/Maël Varyn — Portrait officiel.webp]]
 
-Darius (identité et détails en attente de validation) :
+Darius (identité validée) :
 ![[Mes aventures RPG/Aeden/08 — Illustrations/Personnages/Darius Azarion — Portrait officiel.webp]]
+
+## Résolution finale
+Titre Les Arcanes d’Elyndra, croyances, Maël, Darius, naissance et appartement validés. Portraits conservés. Branche narrative principale choisie pour l’initialisation ; date et heure proposées conservées. Fiches : [Maël](../03%20%E2%80%94%20Personnages%20et%20relations/Personnages/Ma%C3%ABl%20Varyn.md), [Darius](../03%20%E2%80%94%20Personnages%20et%20relations/Personnages/Darius%20Azarion.md).
