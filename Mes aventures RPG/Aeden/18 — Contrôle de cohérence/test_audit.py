@@ -1,6 +1,6 @@
 import unittest, tempfile, json
 from pathlib import Path
-from audit import audit, seuil, ROOT
+from audit import audit, seuil
 
 class TestAudit(unittest.TestCase):
     def test_seuil(self):
@@ -9,8 +9,18 @@ class TestAudit(unittest.TestCase):
     def test_fixture(self):
         with tempfile.TemporaryDirectory() as d:
             root=Path(d)
-            for p in ROOT.rglob("*.json"):
-                q=root/p.relative_to(ROOT); q.parent.mkdir(parents=True,exist_ok=True); q.write_text(p.read_text(encoding="utf-8"),encoding="utf-8")
+            # Jeux de données isolés : aucune dépendance à la sauvegarde réelle.
+            fixtures = {
+                "05 — Inventaire et finances/Données/finances.json": {"schema_version":1,"comptes":[],"transactions":[]},
+                "14 — Progression et combats/Données/progression.json": {"schema_version":1,"personnages":[],"evenements":[]},
+                "01 — Personnage principal/Données/statut.json": {"schema_version":1},
+                "11 — Calendrier et événements/Données/echeances.json": {"schema_version":1,"evenements":[]},
+                "00 — Accueil et reprise/Données/reprise.json": {"schema_version":1}
+            }
+            for rel, data in fixtures.items():
+                q=root/rel
+                q.parent.mkdir(parents=True,exist_ok=True)
+                q.write_text(json.dumps(data),encoding="utf-8")
             p=root/"05 — Inventaire et finances/Données/finances.json"
             f={"schema_version":1,"comptes":[{"id":"A","branche":"test","solde_initial":"10.10","solde_actuel":"9.90"}],"transactions":[{"id":"T","branche":"test","compte_id":"A","ordre":1,"source":"test","montant":"-0.20","statut":"effectue"}]}
             p.write_text(json.dumps(f))
