@@ -4,11 +4,12 @@ campagne: NOM_DU_RPG
 branche_narrative: null
 statut_documentaire: valide
 visibilite: joueur
-version: 1
+version: 2
 id: PNJ-BLACKWELL-003
 date_univers: null
 derniere_validation: "2026-11-24"
 sources:
+  - "Validation du joueur — lignée écarlate, longévité locale, âges, études supérieures et rangs familiaux ; 24 novembre 2026"
   - "Validation explicite d'Aedan et délégation de création de sa famille — 24 novembre 2026"
 ---
 
@@ -16,13 +17,13 @@ sources:
 
 ## 1 — Identité générale
 - Nom : Alyssa Blackwell
-- Âge : 30 ans au cadre initial 1842 TC ; date de naissance exacte à fixer avec la date initiale. Aînée d'Aedan ; Aedan devra être plus jeune.
+- Âge : environ 100 ans au cadre initial 1842 TC ; date de naissance exacte à fixer avec la date initiale. Aînée d'Aedan ; Aedan devra être plus jeune.
 - Sexe : Féminin ; race/sous-race : Tiefling cendré
 - Apparence : 1,77 m, silhouette athlétique élancée, peau gris cendré, cornes fines dirigées vers l'arrière, yeux dorés, cheveux noirs mi-longs souvent attachés. Tenue pratique et élégante, manteau à poches, gants d'examen.
 - Résidence : [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Lieux/Résidence Blackwell|Résidence Blackwell]]. Portrait officiel : non créé.
 
 ## 2 — Statut du SYSTÈME
-Rang personnel D. Classe **Éclaireuse arcanique [D]**, niveau 25, EXP 430/1732. Profession **Experte en artefacts anciens [C]**, niveau 34, EXP 1800/2938. Grade administratif : Argent — Ordre des Experts. Titres SYSTÈME : aucun actif établi. Statistiques permanentes initiales, déterminées selon parcours (pas de barème fixe par rang) :
+Rang personnel C. Classe **Éclaireuse arcanique [D]**, niveau 25, EXP 430/1732. Profession **Experte en artefacts anciens [C]**, niveau 34, EXP 1800/2938. Grade administratif : Argent — Ordre des Experts. Titres SYSTÈME : aucun actif établi. Statistiques permanentes initiales, déterminées selon parcours (pas de barème fixe par rang) :
 
 | FOR | VIT | END | AGI | SAG | PER |
 |---:|---:|---:|---:|---:|---:|
@@ -49,3 +50,5 @@ Famille : [[Mes aventures RPG/NOM_DU_RPG/03 — Personnages et relations/Famille
 
 ## 6 — Particularités et évolution
 État initial créé par délégation explicite ; aucune scène jouée, aucune récompense ou progression en jeu. Pas de secret majeur ni particularité exceptionnelle attribuée. Les capacités et objectifs évolueront indépendamment d'Aedan. Les dates, futurs contrats et équipements détaillés seront fixés si nécessaires, pas de faux événements joués.
+
+Révision initiale explicite : âge et rang modifiés avant toute scène ; longévité locale d'environ 500 ans. Classes, professions, niveaux, EXP, compétences, statistiques et patrimoine antérieurs conservés : pas de recalcul automatique des points acquis ni d'ascension jouée. Chronologie détaillée et éventuelle révision des caractéristiques selon parcours restent à valider si nécessaire.
