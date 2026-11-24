@@ -4,7 +4,7 @@ campagne: NOM_DU_RPG
 branche_narrative: null
 statut_documentaire: index
 visibilite: joueur
-version: 2
+version: 3
 id: null
 date_univers: null
 derniere_validation: null
@@ -13,7 +13,7 @@ sources: []
 
 # Tableau de bord — NOM_DU_RPG
 
-> [!note] Campagne non commencée — nom provisoire NOM_DU_RPG. Aucune donnée de jeu validée.
+> [!note] Campagne non commencée — nom provisoire NOM_DU_RPG. Fondations du monde partiellement validées : [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Aethranea|Aethranea]]. Aucun personnage ni événement joué.
 
 ## Navigation principale
 - [[Mes aventures RPG/NOM_DU_RPG/01 — Personnage principal/Index — Personnage principal|01 — Personnage principal]]

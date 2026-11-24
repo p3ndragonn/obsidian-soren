@@ -4,7 +4,7 @@ campagne: NOM_DU_RPG
 branche_narrative: null
 statut_documentaire: index
 visibilite: joueur
-version: 1
+version: 2
 id: null
 date_univers: null
 derniere_validation: null
@@ -14,6 +14,14 @@ sources: []
 # Index — Monde et lieux
 
 Index de navigation : renseigner les fiches réelles au fur et à mesure des validations.
+
+## Fondations validées
+- [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Aethranea|Aethranea]]
+- [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Territoires/Eldoria|Eldoria]]
+- [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Territoires/Nexaris|Nexaris]]
+- [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Territoires/Valthéria|Valthéria]]
+- [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Histoire ancienne et époque actuelle|Histoire ancienne et époque actuelle]]
+- [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Institutions communes|Institutions communes]]
 
 ## Documents de cette section
 - [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Lieux/Modèle — Lieu|Modèle — Lieu]]
