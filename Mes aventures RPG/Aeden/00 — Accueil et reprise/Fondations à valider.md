@@ -4,8 +4,8 @@ campagne: Aeden
 branche_narrative: null
 statut_documentaire: valide
 visibilite: joueur
-version: 15
-id: null
+version: 16
+id: DOC-AED-568C868F1AAB
 date_univers: null
 derniere_validation: "2026-11-24"
 sources:
