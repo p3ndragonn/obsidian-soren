@@ -4,11 +4,12 @@ campagne: NOM_DU_RPG
 branche_narrative: null
 statut_documentaire: valide
 visibilite: joueur
-version: 2
+version: 3
 id: PJ-FORM-001
 date_univers: null
 derniere_validation: "2026-11-24"
 sources:
+  - "Validation explicite du joueur — niveaux 32/27, statistiques, 7 compétences de Classe et 7 de Profession, 5 universelles, Manifestation infernale, prototype et reconstitution des ascensions ; 24 novembre 2026"
   - "Validation explicite du joueur — parcours et double cursus, rang personnel B, Combattant runo-arcanique [A] et Architecte runo-arcanique [S] ; 24 novembre 2026"
   - "Choix explicites du joueur — sceau arcanique, double formation avancée donjons/runes/arcanes, chronologie scolaire et rang B envisagé ; 24 novembre 2026"
 ---
@@ -29,4 +30,4 @@ Diplôme supérieur d'exploration dimensionnelle et d'ingénierie runo-arcanique
 - 50–57 : expéditions plus complexes, notamment danger C, réparation en conditions difficiles, missions interrompues, erreurs et replis ; rang C.
 - 57–63 : expéditions de haut niveau, certaines danger B en équipes expérimentées ; neutralisation collective d'un mécanisme énergétique instable et contribution à l'évacuation d'explorateurs dans un complexe dimensionnel magitech ; rang B à l'issue de cette période.
 - 63–65 : perfectionnement, recherche sur les interactions runes/mana/arcanes, préparation de l'avenir professionnel.
-Ces faits sont biographiques, aucun événement de jeu, paiement, récompense, objet, grade de guilde ni EXP de combat fictivement enregistré. Lieux précis et autres participants non définis. Historique détaillé des ascensions, prototype académique, statistiques, compétences et niveaux proposés dans [[Mes aventures RPG/NOM_DU_RPG/01 — Personnage principal/Proposition de statut initial|Proposition de statut initial]] restent à valider. Références : Règlement p. 4, 6, 14–17 ; annexe C ; documents locaux Éducation et formation et Donjons et gestion des accès.
+Ces faits sont biographiques, aucun événement de jeu, paiement, récompense, objet, grade de guilde ni EXP de combat fictivement enregistré. Lieux précis et autres participants non définis. Prototype académique validé : stabilisateur runo-arcanique régulant un flux de mana dans un dispositif compatible, essais réussis ; propriété non attribuée. Reconstitution biographique validée : ascensions E→D→C→B, deux voies niveau 100 et quêtes d'ascension réussies à chaque étape, salle blanche, niveaux repartis à 1. Les quêtes précises et dates restent non définies. Voir [[Mes aventures RPG/NOM_DU_RPG/01 — Personnage principal/Classe et Profession|Classe et Profession]] et [[Mes aventures RPG/NOM_DU_RPG/01 — Personnage principal/Statistiques et ressources|Statistiques et ressources]]. Références : Règlement p. 4, 6, 14–17 ; annexe C ; documents locaux Éducation et formation et Donjons et gestion des accès.

@@ -4,11 +4,12 @@ campagne: NOM_DU_RPG
 branche_narrative: null
 statut_documentaire: a_definir
 visibilite: joueur
-version: 6
+version: 7
 id: null
 date_univers: null
 derniere_validation: "2026-11-24"
 sources:
+  - "Validation explicite du joueur — niveaux 32/27, statistiques, 7 compétences de Classe et 7 de Profession, 5 universelles, Manifestation infernale, prototype et reconstitution des ascensions ; 24 novembre 2026"
   - "Validation explicite du joueur — parcours et double cursus, rang personnel B, Combattant runo-arcanique [A] et Architecte runo-arcanique [S] ; 24 novembre 2026"
   - "Choix explicites du joueur — sceau arcanique, double formation avancée donjons/runes/arcanes, chronologie scolaire et rang B envisagé ; 24 novembre 2026"
   - "Validation explicite du joueur — morphologie d'Aedan, température corporelle et maturation des Tieflings d'Elyndra ; 24 novembre 2026"
@@ -28,7 +29,7 @@ sources:
 - **Portrait officiel :** À définir
 
 ## 2 — Statut du SYSTÈME
-Rang personnel B ; Classe Combattant runo-arcanique [A] ; Profession Architecte runo-arcanique [S] (validés). Niveaux, EXP et statistiques en attente de validation ; [[Mes aventures RPG/NOM_DU_RPG/01 — Personnage principal/Proposition de statut initial|Proposition de statut initial]].
+Rang personnel B ; Classe Combattant runo-arcanique [A] ; Profession Architecte runo-arcanique [S] (validés). Niveaux, EXP, statistiques et compétences validés ; références maîtresses ci-dessous.
 [[Mes aventures RPG/NOM_DU_RPG/01 — Personnage principal/Statistiques et ressources|Statistiques et ressources]] · [[Mes aventures RPG/NOM_DU_RPG/01 — Personnage principal/Classe et Profession|Classe et Profession]] · [[Mes aventures RPG/NOM_DU_RPG/01 — Personnage principal/Titres|Titres]]
 
 ## 3 — Compétences et capacités
@@ -47,10 +48,10 @@ Rang personnel B ; Classe Combattant runo-arcanique [A] ; Profession Architecte 
 [[Mes aventures RPG/NOM_DU_RPG/03 — Personnages et relations/Index — Personnages et relations|Index — Personnages et relations]]
 
 ## 6 — Particularités et évolution
-- **Transformations et particularités connues :** À définir
+- **Transformations et particularités connues :** Manifestation infernale individualisée : marques lumineuses rouge sombre sur avant-bras et cornes ; voir [[Mes aventures RPG/NOM_DU_RPG/01 — Personnage principal/Compétences/Manifestation infernale|Manifestation infernale]]. Aucune transformation permanente.
 - **Jalons personnels :** À définir
 - **Exceptions validées :** À définir
-- **Validation définitive :** identité, race, sous-race, âge approximatif, origine, morphologie et formation supérieure achevée validés ; fiche finale non validée.
+- **Validation définitive :** identité, race, sous-race, âge approximatif, origine, morphologie, parcours, rang, Classe, Profession, niveaux, statistiques et compétences validés ; fiche finale non validée.
 [[Mes aventures RPG/NOM_DU_RPG/02 — Journal et chronologie/Chronologie générale|Chronologie générale]]
 
 Les données chiffrées et objets détaillés restent dans leurs fiches maîtresses. La vue Fondateur complète est distincte. Ne pas inventer les champs manquants.

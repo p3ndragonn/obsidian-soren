@@ -2,19 +2,20 @@
 type: proposition
 campagne: NOM_DU_RPG
 branche_narrative: null
-statut_documentaire: a_definir
+statut_documentaire: valide
 visibilite: joueur
-version: 1
+version: 2
 id: PJ-PROP-STAT-001
 date_univers: null
-derniere_validation: null
+derniere_validation: "2026-11-24"
 sources:
+  - "Validation explicite du joueur — niveaux 32/27, statistiques, 7 compétences de Classe et 7 de Profession, 5 universelles, Manifestation infernale, prototype et reconstitution des ascensions ; 24 novembre 2026"
   - "Validation explicite du joueur — parcours et double cursus, rang personnel B, Combattant runo-arcanique [A] et Architecte runo-arcanique [S] ; 24 novembre 2026"
 ---
 
 # Proposition de statut initial
 
-Seuls rang B, Classe A Combattant runo-arcanique, Profession S Architecte runo-arcanique et parcours précédemment validé sont canoniques. Tout ce qui suit est une proposition à valider, non acquis et non jouable avant confirmation.
+Document historique : proposition entièrement validée par le joueur le 24 novembre 2026. Les formulations « proposé » ci-dessous sont conservées comme trace de création. Pour les données courantes consulter [[Mes aventures RPG/NOM_DU_RPG/01 — Personnage principal/Classe et Profession|Classe et Profession]], [[Mes aventures RPG/NOM_DU_RPG/01 — Personnage principal/Statistiques et ressources|Statistiques et ressources]] et [[Mes aventures RPG/NOM_DU_RPG/01 — Personnage principal/Compétences/Index — Compétences|Index — Compétences]]. Aucun usage joué.
 
 ## Prérequis, niveaux, statistiques
 Prototype de mémoire : stabilisateur runo-arcanique régulant flux de mana dans un dispositif compatible, testé avec succès ; propriété non attribuée. Justifie spécialisation S avec cursus et expériences validées. Classe : combat physique, runes de combat, exploitation tactique des dispositifs. Profession : conception et intégration magique/technologique.

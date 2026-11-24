@@ -5,47 +5,47 @@
   "rang_personnel": "B",
   "classe": {
     "rarete": "A",
-    "niveau": null,
-    "exp": null
+    "niveau": 32,
+    "exp": 1450
   },
   "profession": {
     "rarete": "S",
-    "niveau": null,
-    "exp": null
+    "niveau": 27,
+    "exp": 900
   },
   "permanentes": {
-    "FOR": null,
-    "VIT": null,
-    "END": null,
-    "AGI": null,
-    "SAG": null,
-    "PER": null
+    "FOR": 250,
+    "VIT": 265,
+    "END": 295,
+    "AGI": 282,
+    "SAG": 395,
+    "PER": 330
   },
   "equipement": {
-    "FOR": null,
-    "VIT": null,
-    "END": null,
-    "AGI": null,
-    "SAG": null,
-    "PER": null
+    "FOR": 0,
+    "VIT": 0,
+    "END": 0,
+    "AGI": 0,
+    "SAG": 0,
+    "PER": 0
   },
   "ressources": {
     "HP": {
-      "actuelle": null,
-      "base": null,
-      "maximum": null
+      "actuelle": 2650,
+      "base": 2650,
+      "maximum": 2650
     },
     "MP": {
-      "actuelle": null,
-      "base": null,
-      "maximum": null
+      "actuelle": 3950,
+      "base": 3950,
+      "maximum": 3950
     },
     "EP": {
-      "actuelle": null,
-      "base": null,
-      "maximum": null
+      "actuelle": 2950,
+      "base": 2950,
+      "maximum": 2950
     }
   },
   "titres_actifs": [],
-  "points_libres": null
+  "points_libres": 0
 }
