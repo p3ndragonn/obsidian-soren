@@ -4,7 +4,7 @@ campagne: NOM_DU_RPG
 branche_narrative: null
 statut_documentaire: valide
 visibilite: joueur
-version: 3
+version: 4
 id: null
 date_univers: null
 derniere_validation: "2026-11-24"
@@ -18,9 +18,9 @@ Fondations du monde partiellement validées ; personnage non créé. Les donnée
 
 - **Nom définitif de la campagne :** À définir
 - **Identifiant de campagne :** À définir
-- **Univers et identifiant :** Supercontinent [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Aethranea|Aethranea]] ; nom de planète et identifiant d'univers à définir
+- **Univers et identifiant :** Supercontinent [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Aethranea|Aethranea]] ; [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Elyndra|Elyndra]] ; univers n° 827
 - **Branche narrative initiale :** À définir
-- **Époque et calendrier :** [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Histoire ancienne et époque actuelle|Histoire ancienne et époque actuelle]] ; calendrier et année exacte à définir
+- **Époque et calendrier :** [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Histoire ancienne et époque actuelle|Histoire ancienne et époque actuelle]] ; [[Mes aventures RPG/NOM_DU_RPG/11 — Calendrier et événements/Calendrier de l’univers|calendrier continental]] ; 1842 TC
 - **Géographie et histoire initiales :** [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Aethranea|Aethranea]] · [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Histoire ancienne et époque actuelle|Histoire ancienne et époque actuelle]]
 - **Civilisations, magie et technologies :** [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Territoires/Eldoria|Eldoria]] · [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Territoires/Nexaris|Nexaris]] · [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Territoires/Valthéria|Valthéria]] · [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Institutions communes|Institutions communes]]
 - **Situation de départ et lieu :** À définir
@@ -29,4 +29,4 @@ Fondations du monde partiellement validées ; personnage non créé. Les donnée
 
 Identité, race, sous-race, famille, biographie et statut : [[Mes aventures RPG/NOM_DU_RPG/01 — Personnage principal/Fiche du personnage principal|Fiche du personnage principal]]. Fortune : [[Mes aventures RPG/NOM_DU_RPG/05 — Inventaire et finances/Comptabilité personnelle|Comptabilité personnelle]]. Ne pas déduire une fortune du rang.
 
-Peuples et villes : [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Peuples et démographie|Peuples et démographie]] ; [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Cartes/Carte schématique des 24 cités|Carte schématique des 24 cités]]. Huit races confirmées et 24 cités validées. Gnomes : confirmation en attente. Prochaine étape : planète, populations absolues, familles royales, provinces et calendrier. Aucune scène jouée.
+Peuples et villes : [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Peuples et démographie|Peuples et démographie]] ; [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Cartes/Carte schématique des 24 cités|Carte schématique des 24 cités]]. Huit races confirmées et 24 cités validées. Gnomes exclus ; proportions recalculées. Planète Elyndra, univers 827, populations, 24 provinces, familles royales et calendrier validés. Prochaine étape : grandes maisons nobles, familles influentes, entreprises, économie, niveaux de vie et transports. Aucune scène jouée.

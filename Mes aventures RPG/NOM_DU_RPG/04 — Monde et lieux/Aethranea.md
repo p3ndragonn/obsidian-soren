@@ -4,7 +4,7 @@ campagne: NOM_DU_RPG
 branche_narrative: null
 statut_documentaire: valide
 visibilite: joueur
-version: 2
+version: 3
 id: MONDE-CONT-001
 date_univers: null
 derniere_validation: "2026-11-24"
@@ -14,7 +14,7 @@ sources:
 
 # Aethranea
 
-Supercontinent Aethranea, sur une planète plus vaste que la Terre. Surface d'environ 120 millions de km². Nom de la planète, identifiant d'univers, calendrier exact et année actuelle : À définir. L'époque actuelle est l'Âge des Trois Couronnes.
+Supercontinent Aethranea, sur une planète plus vaste que la Terre. Surface d'environ 120 millions de km². Planète [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Elyndra|Elyndra]], univers n° 827 ; année 1842 TC, [[Mes aventures RPG/NOM_DU_RPG/11 — Calendrier et événements/Calendrier de l’univers|calendrier continental]]. L'époque actuelle est l'Âge des Trois Couronnes.
 
 | Territoire | Part approximative | Position |
 |---|---:|---|
@@ -35,4 +35,4 @@ Trois royaumes, voies de développement médiévale magique, magitech et hybride
 [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Histoire ancienne et époque actuelle|Histoire ancienne et époque actuelle]] · [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Institutions communes|Institutions communes]].
 
 ## À définir
-[[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Peuples et démographie|Peuples et démographie]] · [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Cartes/Carte schématique des 24 cités|Carte schématique des 24 cités]]. Huit races confirmées ; part démographique non attribuée en attente de clarification sur les Gnomes. 24 grandes cités et leurs localisations relatives validées. Frontières précises, géographie détaillée, calendrier, populations absolues, provinces et familles royales à définir.
+[[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Peuples et démographie|Peuples et démographie]] · [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Cartes/Carte schématique des 24 cités|Carte schématique des 24 cités]]. Huit races confirmées ; Gnomes exclus, démographie recalculée. 1,5 milliard d'habitants recensés dans les trois royaumes, 24 provinces, 24 grandes cités, trois familles royales validées. Frontières précises, géographie détaillée, dirigeants provinciaux, économie locale et transports détaillés à définir.

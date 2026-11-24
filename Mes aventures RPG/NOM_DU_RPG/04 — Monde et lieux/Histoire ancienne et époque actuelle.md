@@ -4,7 +4,7 @@ campagne: NOM_DU_RPG
 branche_narrative: null
 statut_documentaire: valide
 visibilite: joueur
-version: 1
+version: 2
 id: MONDE-HIST-001
 date_univers: null
 derniere_validation: "2026-11-24"
@@ -22,4 +22,4 @@ sources:
 | Âge de la Reconstruction | Environ 12 000 à 2 000 ans avant le présent | Émergence de nouvelles sociétés, redécouverte progressive des savoirs. |
 | Âge des Trois Couronnes | Environ 2 000 ans avant le présent à aujourd'hui | Fondation successive des royaumes, commerce, territoires et institutions contemporaines. |
 
-Calendrier, année actuelle, dates exactes, ordre de fondation et véritables causes de l'Effondrement : À définir. Aucune théorie n'est automatiquement vraie. Ne pas divulguer de secrets non découverts ni inventer de chronologie précise.
+Année actuelle 1842 TC ; origine du calendrier : fondation du premier royaume actuel. Ordre de fondation, dates exactes et véritables causes de l'Effondrement à définir. [[Mes aventures RPG/NOM_DU_RPG/11 — Calendrier et événements/Calendrier de l’univers|Calendrier continental]]. Aucune théorie n'est automatiquement vraie. Ne pas divulguer de secrets non découverts ni inventer de chronologie précise.

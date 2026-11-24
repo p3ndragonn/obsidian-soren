@@ -2,18 +2,27 @@
 type: calendrier
 campagne: NOM_DU_RPG
 branche_narrative: null
-statut_documentaire: a_definir
+statut_documentaire: valide
 visibilite: joueur
-version: 1
+version: 2
 id: null
 date_univers: null
-derniere_validation: null
+derniere_validation: "2026-11-24"
 sources: []
 ---
 
 # Calendrier de l’univers
 
-Mois, jours, saisons, durée du jour, fuseaux éventuels, fêtes, règles d’intercalation : À définir. Ne pas inventer de correspondance avec le calendrier terrestre.
+Calendrier commun des trois royaumes, Âge des Trois Couronnes (TC), origine : fondation du premier royaume actuel. Année actuelle 1842 TC ; jour et mois de départ non définis. 24 h/jour, 360 jours/an, 12 mois de 30 jours, 6 jours/semaine, 60 semaines/an. Les mois débutent par Primis. Saisons tempérées septentrionales de référence, 90 jours chacune ; climat selon latitude.
+
+| Saison | Mois dans l'ordre |
+|---|---|
+| Printemps | Floréal, Sylvéor, Luméal |
+| Été | Soléor, Ignéal, Azuréal |
+| Automne | Doréal, Bruméal, Cendréor |
+| Hiver | Givréal, Nivéor, Noctéal |
+
+Jours : Primis, Terris, Aquaris, Ignis, Aéris, Astralis. Astralis traditionnellement repos selon obligations. Fuseaux et fêtes à définir. Pas de correspondance terrestre ni d'intercalation non validée.
 
 | Date ou période | Événement récurrent | Lieu | Source |
 | --- | --- | --- | --- |

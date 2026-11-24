@@ -4,7 +4,7 @@ campagne: NOM_DU_RPG
 branche_narrative: null
 statut_documentaire: valide
 visibilite: joueur
-version: 2
+version: 3
 id: MONDE-ROY-001
 date_univers: null
 derniere_validation: "2026-11-24"
@@ -23,7 +23,12 @@ sources:
 - **Transports :** montures, caravanes, navires, calèches.
 - **Forces :** chevaliers, mages et combattants.
 - **Vie quotidienne :** lampes et cristaux enchantés, soigneurs et alchimie, messagers et magie, agriculture traditionnelle et enchantée, maçons et mages, maîtres et académies.
-- **Ressources détaillées, population absolue, provinces, dirigeants :** À définir.
+- **Population :** 420 000 000 habitants ; 30 % urbains, 70 % ruraux ; superficie approximative 25 200 000 km².
+- **Maison royale :** [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Factions/Maison Aurelian|Maison Aurelian]].
+- **Devise :** L'honneur, le savoir et l'héritage.
+- **Emblème :** Griffon doré sur fond vert émeraude.
+- **Organisation administrative :** Monarchie héréditaire ; domaine royal direct et sept maisons ducales ; marquis, comtes, vicomtes, barons. Couronne, guildes et institutions magiques influentes.
+- **Ressources détaillées et dirigeants provinciaux :** À définir.
 - **Rang de danger et progression territoriale SYSTÈME :** À définir, ne pas confondre avec le développement politique ou la puissance individuelle.
 
 Aucune infériorité automatique vis-à-vis de Nexaris.
@@ -39,3 +44,13 @@ Aucune infériorité automatique vis-à-vis de Nexaris.
 - [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Lieux/Roc-Écarlate|Roc-Écarlate]] — Sud-est montagneux
 
 [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Peuples et démographie|Peuples et démographie]].
+
+## Provinces
+- [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Territoires/Provinces/Eldoria/Domaine royal|Domaine royal]] — [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Lieux/Auréval|Auréval]]
+- [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Territoires/Provinces/Eldoria/Hautes-Forges|Hautes-Forges]] — [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Lieux/Khazdûren|Khazdûren]]
+- [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Territoires/Provinces/Eldoria/Forêts d'Argent|Forêts d'Argent]] — [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Lieux/Sylvarën|Sylvarën]]
+- [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Territoires/Provinces/Eldoria/Côte des Lys|Côte des Lys]] — [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Lieux/Port-Lysandre|Port-Lysandre]]
+- [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Territoires/Provinces/Eldoria/Plaines Dorées|Plaines Dorées]] — [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Lieux/Valdoré|Valdoré]]
+- [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Territoires/Provinces/Eldoria/Marche du Nord|Marche du Nord]] — [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Lieux/Thornheim|Thornheim]]
+- [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Territoires/Provinces/Eldoria/Hautes-Terres arcanes|Hautes-Terres arcanes]] — [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Lieux/Arcanélys|Arcanélys]]
+- [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Territoires/Provinces/Eldoria/Montagnes Écarlates|Montagnes Écarlates]] — [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Lieux/Roc-Écarlate|Roc-Écarlate]]

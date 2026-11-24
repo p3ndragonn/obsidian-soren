@@ -4,10 +4,10 @@ campagne: NOM_DU_RPG
 branche_narrative: null
 statut_documentaire: index
 visibilite: joueur
-version: 3
+version: 4
 id: null
 date_univers: null
-derniere_validation: null
+derniere_validation: "2026-11-24"
 sources: []
 ---
 
@@ -25,6 +25,43 @@ Index de navigation : renseigner les fiches réelles au fur et à mesure des val
 
 - [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Peuples et démographie|Peuples et démographie]]
 - [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Cartes/Carte schématique des 24 cités|Carte schématique des 24 cités]]
+
+- [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Elyndra|Elyndra]]
+- [[Mes aventures RPG/NOM_DU_RPG/11 — Calendrier et événements/Calendrier de l’univers|Calendrier continental]]
+
+## Familles royales et provinces
+### Eldoria
+- [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Factions/Maison Aurelian|Maison Aurelian]]
+- [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Territoires/Provinces/Eldoria/Domaine royal|Domaine royal]]
+- [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Territoires/Provinces/Eldoria/Hautes-Forges|Hautes-Forges]]
+- [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Territoires/Provinces/Eldoria/Forêts d'Argent|Forêts d'Argent]]
+- [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Territoires/Provinces/Eldoria/Côte des Lys|Côte des Lys]]
+- [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Territoires/Provinces/Eldoria/Plaines Dorées|Plaines Dorées]]
+- [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Territoires/Provinces/Eldoria/Marche du Nord|Marche du Nord]]
+- [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Territoires/Provinces/Eldoria/Hautes-Terres arcanes|Hautes-Terres arcanes]]
+- [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Territoires/Provinces/Eldoria/Montagnes Écarlates|Montagnes Écarlates]]
+
+### Nexaris
+- [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Factions/Maison Veyron|Maison Veyron]]
+- [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Territoires/Provinces/Nexaris/District royal central|District royal central]]
+- [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Territoires/Provinces/Nexaris/Bassin de Ferron|Bassin de Ferron]]
+- [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Territoires/Provinces/Nexaris/Technopole septentrionale|Technopole septentrionale]]
+- [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Territoires/Provinces/Nexaris/Région d'Automéris|Région d'Automéris]]
+- [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Territoires/Provinces/Nexaris/Côte Orientale|Côte Orientale]]
+- [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Territoires/Provinces/Nexaris/Bassin de Verdan|Bassin de Verdan]]
+- [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Territoires/Provinces/Nexaris/District frontalier|District frontalier]]
+- [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Territoires/Provinces/Nexaris/Massif Cristallin|Massif Cristallin]]
+
+### Valthéria
+- [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Factions/Maison Vaelarys|Maison Vaelarys]]
+- [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Territoires/Provinces/Valthéria/Domaine d'Astrée|Domaine d'Astrée]]
+- [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Territoires/Provinces/Valthéria/Sylve Occidentale|Sylve Occidentale]]
+- [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Territoires/Provinces/Valthéria/Plateaux de Nova|Plateaux de Nova]]
+- [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Territoires/Provinces/Valthéria/Côte d'Azur|Côte d'Azur]]
+- [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Territoires/Provinces/Valthéria/Hautes-Forges|Hautes-Forges]]
+- [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Territoires/Provinces/Valthéria/Vallée des Rivières|Vallée des Rivières]]
+- [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Territoires/Provinces/Valthéria/Plateaux d'Éther|Plateaux d'Éther]]
+- [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Territoires/Provinces/Valthéria/Marche d'Orion|Marche d'Orion]]
 
 ## Grandes cités validées
 ### Eldoria

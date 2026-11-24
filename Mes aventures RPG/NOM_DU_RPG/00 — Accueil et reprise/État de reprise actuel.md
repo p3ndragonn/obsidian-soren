@@ -4,10 +4,10 @@ campagne: NOM_DU_RPG
 branche_narrative: null
 statut_documentaire: a_definir
 visibilite: joueur
-version: 4
+version: 5
 id: null
 date_univers: null
-derniere_validation: null
+derniere_validation: "2026-11-24"
 sources: []
 ---
 
@@ -15,12 +15,12 @@ sources: []
 
 > [!warning] Aucune partie commencée, aucune sauvegarde effective ni point majeur disponible.
 
-- **Campagne et univers validés :** fondations partielles : [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Aethranea|Aethranea]] ; identité de campagne et planète à définir
+- **Campagne et univers validés :** fondations partielles : [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Aethranea|Aethranea]] ; planète [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Elyndra|Elyndra]], univers 827, 1842 TC ; identité de campagne à définir
 - **Branche :** À définir
 - **Identifiant et catégorie de sauvegarde :** À définir
 - **Chapitre, jour, date, heure et lieu :** À définir
 - **Dernière scène et dernière action du joueur :** À définir
-- **Décision attendue :** planète, populations absolues, familles royales, provinces et calendrier ; clarification des Gnomes. Huit races et 24 cités validées. Personnage encore à créer.
+- **Décision attendue :** grandes maisons nobles, familles influentes, entreprises, économie, niveaux de vie et transports. Huit races (Gnomes exclus), 24 cités, 24 provinces, populations et familles royales validées. Personnage encore à créer.
 - **Événements en cours et échéances :** À définir
 - **Version et référence du dernier instantané vérifié :** À définir
 - **Point majeur précédent :** À définir
