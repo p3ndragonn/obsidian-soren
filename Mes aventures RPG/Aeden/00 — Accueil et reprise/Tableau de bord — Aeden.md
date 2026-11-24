@@ -4,7 +4,7 @@ campagne: Aeden
 branche_narrative: null
 statut_documentaire: index
 visibilite: joueur
-version: 3
+version: 4
 id: null
 date_univers: null
 derniere_validation: null
@@ -13,7 +13,7 @@ sources: []
 
 # Tableau de bord — Aeden
 
-> [!note] Campagne non commencée — nom provisoire Aeden. Fondations du monde partiellement validées : [[Mes aventures RPG/Aeden/04 — Monde et lieux/Aethranea|Aethranea]]. Aucun personnage ni événement joué.
+> [!note] Campagne non commencée — Les Arcanes d’Elyndra. Fondations principales validées : [[Mes aventures RPG/Aeden/04 — Monde et lieux/Aethranea|Aethranea]]. Aucun personnage ni événement joué.
 
 ## Navigation principale
 - [[Mes aventures RPG/Aeden/01 — Personnage principal/Index — Personnage principal|01 — Personnage principal]]
@@ -28,7 +28,7 @@ sources: []
 - [[Mes aventures RPG/Aeden/99 — Archives/Index — Archives|99 — Archives]]
 
 ## Démarrer ou reprendre
-Lire les fondations et l'état actuel. Aucun point de reprise réel n'existe encore.
+Lire les fondations et l'état actuel. Sauvegarde administrative initiale AED-INIT-000 ; aucun point majeur de jeu.
 
 ## Documents de cette section
 - [[Mes aventures RPG/Aeden/00 — Accueil et reprise/Fondations à valider|Fondations à valider]]

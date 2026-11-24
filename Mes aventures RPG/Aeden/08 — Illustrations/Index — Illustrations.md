@@ -4,7 +4,7 @@ campagne: Aeden
 branche_narrative: null
 statut_documentaire: index
 visibilite: joueur
-version: 2
+version: 3
 id: null
 date_univers: null
 derniere_validation: "2026-11-24"
@@ -30,4 +30,4 @@ Index de navigation : renseigner les fiches réelles au fur et à mesure des val
 Retour : [[Mes aventures RPG/Aeden/00 — Accueil et reprise/Tableau de bord — Aeden|Tableau de bord — Aeden]]
 
 ## Collection initiale
-10 visuels archivés : six portraits, trois lieux, un véhicule. Les fiches et index de catégorie les référencent ; Maël et Darius restent des propositions de PNJ. Les images ne remplacent pas les descriptions canoniques ni les plans validés.
+10 visuels archivés : six portraits, trois lieux, un véhicule. Les fiches et index de catégorie les référencent ; Maël et Darius sont validés ; portraits conservés. Les images ne remplacent pas les descriptions canoniques ni les plans validés.

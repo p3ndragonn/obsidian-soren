@@ -4,7 +4,7 @@ campagne: Aeden
 branche_narrative: null
 statut_documentaire: index
 visibilite: joueur
-version: 4
+version: 5
 id: null
 date_univers: null
 derniere_validation: "2026-11-24"
@@ -50,6 +50,6 @@ Index de navigation : renseigner les fiches réelles au fur et à mesure des val
 
 Retour : [[Mes aventures RPG/Aeden/00 — Accueil et reprise/Tableau de bord — Aeden|Tableau de bord — Aeden]]
 
-## Entourage d'Aedan — création en cours
-- Meilleur ami de cursus et d'explorations : existence validée ; identité à confirmer dans [[Mes aventures RPG/Aeden/01 — Personnage principal/Dernières fondations proposées|Dernières fondations proposées]].
-- Rival potentiel issu d'une famille concurrente : proposition dans [[Mes aventures RPG/Aeden/01 — Personnage principal/Dernières fondations proposées|Dernières fondations proposées]]. Aucun PNJ supplémentaire canonisé avant validation.
+## Entourage d’Aedan — validé
+- [[Mes aventures RPG/Aeden/03 — Personnages et relations/Personnages/Maël Varyn]] — meilleur ami
+- [[Mes aventures RPG/Aeden/03 — Personnages et relations/Personnages/Darius Azarion]] — rival
