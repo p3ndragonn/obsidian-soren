@@ -4,11 +4,12 @@ campagne: NOM_DU_RPG
 branche_narrative: null
 statut_documentaire: index
 visibilite: joueur
-version: 3
+version: 4
 id: null
 date_univers: null
 derniere_validation: "2026-11-24"
-sources: []
+sources:
+  - "Validation explicite du joueur — biographie, personnalité, goûts, relations familiales, ambitions Explorateur et Inventeur, attirance masculine et vie sentimentale, meilleur ami de cursus ; demande de croyances et rival ; 24 novembre 2026"
 ---
 
 # Index — Personnages et relations
@@ -48,3 +49,7 @@ Index de navigation : renseigner les fiches réelles au fur et à mesure des val
 - [[Mes aventures RPG/NOM_DU_RPG/03 — Personnages et relations/Réputation/Modèle — Réputation|Modèle — Réputation]]
 
 Retour : [[Mes aventures RPG/NOM_DU_RPG/00 — Accueil et reprise/Tableau de bord — NOM_DU_RPG|Tableau de bord — NOM_DU_RPG]]
+
+## Entourage d'Aedan — création en cours
+- Meilleur ami de cursus et d'explorations : existence validée ; identité à confirmer dans [[Mes aventures RPG/NOM_DU_RPG/01 — Personnage principal/Dernières fondations proposées|Dernières fondations proposées]].
+- Rival potentiel issu d'une famille concurrente : proposition dans [[Mes aventures RPG/NOM_DU_RPG/01 — Personnage principal/Dernières fondations proposées|Dernières fondations proposées]]. Aucun PNJ supplémentaire canonisé avant validation.

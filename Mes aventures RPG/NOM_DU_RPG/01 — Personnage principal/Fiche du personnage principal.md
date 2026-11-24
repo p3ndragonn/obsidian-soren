@@ -4,11 +4,12 @@ campagne: NOM_DU_RPG
 branche_narrative: null
 statut_documentaire: a_definir
 visibilite: joueur
-version: 9
+version: 10
 id: null
 date_univers: null
 derniere_validation: "2026-11-24"
 sources:
+  - "Validation explicite du joueur — biographie, personnalité, goûts, relations familiales, ambitions Explorateur et Inventeur, attirance masculine et vie sentimentale, meilleur ami de cursus ; demande de croyances et rival ; 24 novembre 2026"
   - "Validation explicite du joueur — enchantements, bonus, valeurs, liaisons, bracelet, moto, atelier-appartement, inventaire, patrimoine et financements ; 24 novembre 2026"
   - "Validation explicite du joueur — trois Titres, équipements, tenue légère B à runes défensives, bracelet B 20 m³, fortune 350 000 P, atelier-appartement indépendant et moto B ; 24 novembre 2026"
   - "Validation explicite du joueur — niveaux 32/27, statistiques, 7 compétences de Classe et 7 de Profession, 5 universelles, Manifestation infernale, prototype et reconstitution des ascensions ; 24 novembre 2026"
@@ -23,7 +24,7 @@ sources:
 
 ## 1 — Identité générale
 - **Nom et anciens noms :** Aedan Blackwell ; aucun ancien nom établi
-- **Âge et naissance :** Environ 65 ans en 1842 TC ; jour et date de naissance à définir. Plus jeune qu'Alyssa (~100 ans).
+- **Âge et naissance :** Environ 65 ans en 1842 TC ; naissance vers 1777 TC ; jour exact à définir. Plus jeune qu'Alyssa (~100 ans).
 - **Sexe :** Masculin
 - **Race et sous-race :** Tiefling écarlate (15.03 du Codex), race et sous-race validées.
 - **Origine :** [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Lieux/Les Portes d'Orion|Les Portes d'Orion]], Marche d'Orion, Valthéria ; univers 827, Elyndra
@@ -44,10 +45,13 @@ Fortune personnelle disponible 350 000 P ; atelier indépendant personnel avec a
 
 ## 5 — Histoire et personnalité
 - **Famille (liens vers fiches) :** [[Mes aventures RPG/NOM_DU_RPG/03 — Personnages et relations/Familles/Famille Blackwell|Famille Blackwell]] ; [[Mes aventures RPG/NOM_DU_RPG/03 — Personnages et relations/Personnages/Victor Blackwell|Victor Blackwell]], [[Mes aventures RPG/NOM_DU_RPG/03 — Personnages et relations/Personnages/Elena Blackwell|Elena Blackwell]], [[Mes aventures RPG/NOM_DU_RPG/03 — Personnages et relations/Personnages/Alyssa Blackwell|Alyssa Blackwell]] ; Aedan fils cadet
-- **Biographie :** parcours de formation et explorations validés ; voir [[Mes aventures RPG/NOM_DU_RPG/01 — Personnage principal/Parcours de formation|Parcours de formation]]. Biographie complète et personnalité à développer.
-- **Caractère :** À définir
+- **Biographie :** parcours de formation et explorations validés ; voir [[Mes aventures RPG/NOM_DU_RPG/01 — Personnage principal/Parcours de formation|Parcours de formation]]. Biographie complète validée : [[Mes aventures RPG/NOM_DU_RPG/01 — Personnage principal/Biographie et personnalité d’Aedan|Biographie et personnalité d’Aedan]].
+- **Caractère :** curieux, pragmatique, sociable, indépendant, ambitieux, persévérant, taquin et critique ; défauts et goûts dans [[Mes aventures RPG/NOM_DU_RPG/01 — Personnage principal/Biographie et personnalité d’Aedan|Biographie et personnalité d’Aedan]]. Profil indicatif, liberté du joueur entière.
 - **Formation :** double formation supérieure avancée achevée, théorique et pratique en exploration de donjons, sciences runiques (magie/mana) et sciences arcaniques (technologie) ; cursus rare sur Elyndra et risqué dès le jeune âge. Chronologie scolaire, établissements et accomplissements validés : diplôme supérieur d'exploration dimensionnelle et d'ingénierie runo-arcanique ; Université royale d'Astréval, Institut d'Innovation de Novaréa et pratique encadrée par la Guilde des Aventuriers. [[Mes aventures RPG/NOM_DU_RPG/01 — Personnage principal/Parcours de formation|Parcours de formation]]. Rang personnel B validé.
-- **Motivations et aspirations :** À définir
+- **Motivations et aspirations :** exploration et invention ; entrepreneuriat non retenu comme ambition initiale. Voir [[Mes aventures RPG/NOM_DU_RPG/01 — Personnage principal/Biographie et personnalité d’Aedan|Biographie et personnalité d’Aedan]].
+- **Vie sentimentale (privée) :** attiré par les hommes, célibataire par préférence, quelques relations d'un soir ou d'environ un mois, aucune relation sérieuse établie. Pas de partenaire ni d'ex nommé.
+- **Relations extérieures :** meilleur ami ayant suivi les mêmes études et explorations, recherches légèrement différentes ; identité détaillée et rival familial à confirmer. [[Mes aventures RPG/NOM_DU_RPG/01 — Personnage principal/Dernières fondations proposées|Dernières fondations proposées]].
+- **Croyances :** définition demandée pour Aedan et sa famille ; propositions dans [[Mes aventures RPG/NOM_DU_RPG/01 — Personnage principal/Dernières fondations proposées|Dernières fondations proposées]].
 - **Situation sociale :** famille indépendante très aisée, grande bourgeoisie sans noblesse ; accès facilité aux ressources familiales sans propriété personnelle automatique.
 [[Mes aventures RPG/NOM_DU_RPG/03 — Personnages et relations/Index — Personnages et relations|Index — Personnages et relations]]
 
@@ -55,7 +59,7 @@ Fortune personnelle disponible 350 000 P ; atelier indépendant personnel avec a
 - **Transformations et particularités connues :** Manifestation infernale individualisée : marques lumineuses rouge sombre sur avant-bras et cornes ; voir [[Mes aventures RPG/NOM_DU_RPG/01 — Personnage principal/Compétences/Manifestation infernale|Manifestation infernale]]. Aucune transformation permanente.
 - **Jalons personnels :** À définir
 - **Exceptions validées :** À définir
-- **Validation définitive :** identité, race, sous-race, âge approximatif, origine, morphologie, parcours, rang, Classe, Profession, niveaux, statistiques, compétences, Titres, équipements, inventaire et patrimoine validés ; fiche finale non validée.
+- **Validation définitive :** identité, race, sous-race, âge approximatif, origine, morphologie, parcours, rang, Classe, Profession, niveaux, statistiques, compétences, Titres, équipements, inventaire, patrimoine, biographie, personnalité, goûts et ambitions validés ; fiche finale non validée.
 [[Mes aventures RPG/NOM_DU_RPG/02 — Journal et chronologie/Chronologie générale|Chronologie générale]]
 
 Les données chiffrées et objets détaillés restent dans leurs fiches maîtresses. La vue Fondateur complète est distincte. Ne pas inventer les champs manquants.
