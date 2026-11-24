@@ -4,7 +4,7 @@ campagne: NOM_DU_RPG
 branche_narrative: null
 statut_documentaire: index
 visibilite: joueur
-version: 1
+version: 2
 id: null
 date_univers: null
 derniere_validation: null
@@ -34,3 +34,16 @@ Lire les fondations et l'état actuel. Aucun point de reprise réel n'existe enc
 - [[Mes aventures RPG/NOM_DU_RPG/00 — Accueil et reprise/Fondations à valider|Fondations à valider]]
 - [[Mes aventures RPG/NOM_DU_RPG/00 — Accueil et reprise/État de reprise actuel|État de reprise actuel]]
 - [[Mes aventures RPG/NOM_DU_RPG/00 — Accueil et reprise/Modèles/Modèle — État de reprise|Modèle — État de reprise]]
+
+## Modules complémentaires
+- [[Mes aventures RPG/NOM_DU_RPG/10 — Relations sentimentales/Index — Relations sentimentales|10 — Relations sentimentales]]
+- [[Mes aventures RPG/NOM_DU_RPG/11 — Calendrier et événements/Index — Calendrier et événements|11 — Calendrier et événements]]
+- [[Mes aventures RPG/NOM_DU_RPG/12 — Encyclopédie du monde/Index — Encyclopédie du monde|12 — Encyclopédie du monde]]
+- [[Mes aventures RPG/NOM_DU_RPG/13 — Artisanat et recherches/Index — Artisanat et recherches|13 — Artisanat et recherches]]
+- [[Mes aventures RPG/NOM_DU_RPG/14 — Progression et combats/Index — Progression et combats|14 — Progression et combats]]
+- [[Mes aventures RPG/NOM_DU_RPG/15 — Économie et commerces/Index — Économie et commerces|15 — Économie et commerces]]
+- [[Mes aventures RPG/NOM_DU_RPG/16 — Connaissances et découvertes/Index — Connaissances et découvertes|16 — Connaissances et découvertes]]
+- [[Mes aventures RPG/NOM_DU_RPG/18 — Contrôle de cohérence/Index — Contrôle de cohérence|18 — Contrôle de cohérence]]
+- [[Mes aventures RPG/NOM_DU_RPG/98 — Modèles documentaires/Index — Modèles documentaires|98 — Modèles documentaires]]
+
+La reprise courante est la seule entrée active ; les anciennes sauvegardes sont historiques.

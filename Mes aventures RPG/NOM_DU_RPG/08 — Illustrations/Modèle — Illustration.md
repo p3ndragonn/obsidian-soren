@@ -4,7 +4,7 @@ campagne: NOM_DU_RPG
 branche_narrative: null
 statut_documentaire: modele
 visibilite: joueur
-version: 1
+version: 2
 id: null
 date_univers: null
 derniere_validation: null
@@ -23,3 +23,9 @@ sources: []
 - **Version et statut :** À définir
 - **Contraintes de réutilisation :** À définir
 Portrait officiel : une scène, de préférence en pied, vertical 2:3, fantasy réaliste cinématographique, sans texte ni statistiques, vêtements et équipement cohérents, pouvoirs seulement justifiés. Respecter l'apparence validée.
+
+- Date dans l’univers et scène de référence : À définir
+- Morphologie, tenue, équipement et détails à préserver : À définir
+- Prompt de génération si accessible, modèle ou référence source : À définir
+- Statut : officiel / proposition / illustration artistique ; version remplacée : À définir
+- Droits ou provenance si connus : À définir

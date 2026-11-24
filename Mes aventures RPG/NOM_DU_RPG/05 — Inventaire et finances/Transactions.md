@@ -4,7 +4,7 @@ campagne: NOM_DU_RPG
 branche_narrative: null
 statut_documentaire: a_definir
 visibilite: joueur
-version: 1
+version: 2
 id: null
 date_univers: null
 derniere_validation: null
@@ -19,3 +19,6 @@ Journal maître des mouvements en Pièces, sans solde initial inventé.
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 
 Seuls les mouvements effectivement encaissés ou payés modifient la trésorerie. Prévisions et promesses restent dans les engagements. Un transfert entre comptes comporte deux écritures reliées par un même identifiant de transfert ; ne pas le compter comme revenu global. Un solde inconnu reste inconnu ; relever les écarts sans correction inventée.
+
+## Référence numérique
+[Registre structuré des finances](Données/finances.json) : source maîtresse des montants, comptes et soldes. Enregistrer le solde résultant par compte, calculable depuis la base et les écritures, ou inconnu. La table ci-dessus est une vue narrative liée aux IDs, non un second journal indépendant.

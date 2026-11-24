@@ -4,7 +4,7 @@ campagne: NOM_DU_RPG
 branche_narrative: null
 statut_documentaire: modele
 visibilite: joueur
-version: 1
+version: 2
 id: null
 date_univers: null
 derniere_validation: null
@@ -44,3 +44,11 @@ sources: []
 - **Évolution et sources :** À définir
 
 Les motivations cachées et connaissances individuelles non accessibles vont dans le registre Fondateur. Le rang réel ne dépend pas du joueur. Adapter le détail à l'importance.
+
+## Suivi autonome (informations accessibles uniquement)
+- Habitudes, occupations et responsabilités : À définir
+- Relations avec d’autres PNJ (liens) : À définir
+- Opinions exprimées et engagements datés : À définir
+- Projets connus et prochaines échéances : À définir
+- Changements depuis la dernière rencontre : À définir
+Le suivi réel hors champ et les motivations cachées restent dans les notes Fondateur, non dans cette vue.

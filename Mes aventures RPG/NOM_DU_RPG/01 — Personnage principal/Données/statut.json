@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "personnage_id": null,
+  "branche": null,
+  "rang_personnel": null,
+  "classe": {
+    "rarete": null,
+    "niveau": null,
+    "exp": null
+  },
+  "profession": {
+    "rarete": null,
+    "niveau": null,
+    "exp": null
+  },
+  "permanentes": {
+    "FOR": null,
+    "VIT": null,
+    "END": null,
+    "AGI": null,
+    "SAG": null,
+    "PER": null
+  },
+  "equipement": {
+    "FOR": null,
+    "VIT": null,
+    "END": null,
+    "AGI": null,
+    "SAG": null,
+    "PER": null
+  },
+  "ressources": {
+    "HP": {
+      "actuelle": null,
+      "base": null,
+      "maximum": null
+    },
+    "MP": {
+      "actuelle": null,
+      "base": null,
+      "maximum": null
+    },
+    "EP": {
+      "actuelle": null,
+      "base": null,
+      "maximum": null
+    }
+  },
+  "titres_actifs": [],
+  "points_libres": null
+}

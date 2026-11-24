@@ -4,7 +4,7 @@ campagne: NOM_DU_RPG
 branche_narrative: null
 statut_documentaire: protocole
 visibilite: joueur
-version: 1
+version: 2
 id: null
 date_univers: null
 derniere_validation: null
@@ -39,3 +39,6 @@ Avant une réponse : lire la reprise, les fiches touchées, les sources, vérifi
 
 ## Confidentialité
 Le dossier joueur et le registre Fondateur sont distincts. Les métadonnées ne constituent pas un contrôle d'accès : toute personne ayant accès au dépôt privé peut lire les notes, et Git conserve l'historique. Ne jamais transclure de secrets dans les vues joueur.
+
+## Contrôles complémentaires
+[[Mes aventures RPG/NOM_DU_RPG/18 — Contrôle de cohérence/Protocole de maintenance]] · [[Mes aventures RPG/NOM_DU_RPG/18 — Contrôle de cohérence/Schéma des données]]. Les registres structurés sont les seules sources numériques maîtresses. Maintenir des liens qualifiés dans tout le coffre. Ne pas exposer les dossiers Fondateur dans les vues joueur. La date d’effet et la source priment sur la simple date de modification Git.

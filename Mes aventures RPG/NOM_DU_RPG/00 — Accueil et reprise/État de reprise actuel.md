@@ -4,7 +4,7 @@ campagne: NOM_DU_RPG
 branche_narrative: null
 statut_documentaire: a_definir
 visibilite: joueur
-version: 1
+version: 2
 id: null
 date_univers: null
 derniere_validation: null
@@ -36,3 +36,6 @@ sources: []
 - [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Index — Monde et lieux|Index — Monde et lieux]]
 
 Le complément réservé est conservé séparément. Ne pas avancer le temps pendant une reprise administrative.
+
+## Données et protocole
+[Reprise structurée](Données/reprise.json) · [[Mes aventures RPG/NOM_DU_RPG/18 — Contrôle de cohérence/Protocole de maintenance]]. Aucun point de reprise fictif. Distinguer sauvegarde de continuité et point majeur.

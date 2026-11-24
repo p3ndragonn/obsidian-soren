@@ -4,7 +4,7 @@ campagne: NOM_DU_RPG
 branche_narrative: null
 statut_documentaire: index
 visibilite: joueur
-version: 1
+version: 2
 id: null
 date_univers: null
 derniere_validation: null
@@ -21,3 +21,6 @@ Les références et conventions sont administratives. Le registre Fondateur est 
 - [[Mes aventures RPG/NOM_DU_RPG/07 — Règles et secrets/Points de vigilance|Points de vigilance]]
 
 Retour : [[Mes aventures RPG/NOM_DU_RPG/00 — Accueil et reprise/Tableau de bord — NOM_DU_RPG|Tableau de bord — NOM_DU_RPG]]
+
+## Administration réservée
+[[Mes aventures RPG/NOM_DU_RPG/17 — Administration du Fondateur/Index — Administration du Fondateur]]

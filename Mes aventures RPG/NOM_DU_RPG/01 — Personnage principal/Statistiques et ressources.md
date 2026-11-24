@@ -4,7 +4,7 @@ campagne: NOM_DU_RPG
 branche_narrative: null
 statut_documentaire: a_definir
 visibilite: joueur
-version: 1
+version: 2
 id: null
 date_univers: null
 derniere_validation: null
@@ -37,3 +37,6 @@ Règlement p. 4 : HP max = 10 × VIT, MP max = 10 × SAG, EP max = 10 × END. Bo
 ## Historique des changements
 | Événement | Avant | Après | Justification et source |
 | --- | --- | --- | --- |
+
+## Référence numérique
+[Statut structuré](Données/statut.json) : source maîtresse des valeurs numériques. La table ci-dessus sert de présentation et doit être synchronisée ou renvoyer au fichier, jamais maintenue indépendamment.
