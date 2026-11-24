@@ -4,7 +4,7 @@ campagne: Aeden
 branche_narrative: null
 statut_documentaire: propose
 visibilite: fondateur
-version: 1
+version: 2
 id: BST-AED-014
 date_univers: null
 derniere_validation: null
@@ -15,6 +15,10 @@ sources:
 # Sanglier à plaques d'ardoise
 
 > Profil d'espèce proposé, adulte de référence ; pas de rencontre ni connaissance du PJ établie.
+
+![Sanglier à plaques d'ardoise](../../08%20%E2%80%94%20Illustrations/Cr%C3%A9atures/Monstres/Sanglier%20%C3%A0%20plaques%20d'ardoise.webp)
+
+*Illustration proposée ; non validée comme apparence canonique.*
 
 ## Identification et répartition
 - **Rang personnel indicatif :** D ; **niveau de combat de référence :** 28 (adultes typiques 18–40). Ni rareté d'objet ni grade de guilde ; variation individuelle possible.
@@ -38,5 +42,5 @@ Ressources maximales de base selon le règlement ; aucune réserve actuelle, Cla
 
 ## Suivi
 - Rencontres réellement jouées : aucune documentée.
-- Illustration : en attente ; emplacement prévu dans 08 — Illustrations/Créatures. Référence visuelle : 1,2 m au garrot, 320 kg, plaques dorsales sombres.
+- Illustration : proposition de référence, générée avec ChatGPT, version 1 ; à valider. La description morphologique reste prioritaire.
 - Ne pas adapter le rang au joueur ; résoudre opposition, dégâts, fatigue et effets selon les règles officielles, sans formule universelle de dégâts. Les techniques chiffrées sont des profils locaux proposés, pas des lois du SYSTÈME.

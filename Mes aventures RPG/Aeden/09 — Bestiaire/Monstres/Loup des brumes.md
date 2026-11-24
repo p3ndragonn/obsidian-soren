@@ -4,7 +4,7 @@ campagne: Aeden
 branche_narrative: null
 statut_documentaire: propose
 visibilite: fondateur
-version: 1
+version: 2
 id: BST-AED-013
 date_univers: null
 derniere_validation: null
@@ -15,6 +15,10 @@ sources:
 # Loup des brumes
 
 > Profil d'espèce proposé, adulte de référence ; pas de rencontre ni connaissance du PJ établie.
+
+![Loup des brumes](../../08%20%E2%80%94%20Illustrations/Cr%C3%A9atures/Monstres/Loup%20des%20brumes.webp)
+
+*Illustration proposée ; non validée comme apparence canonique.*
 
 ## Identification et répartition
 - **Rang personnel indicatif :** D ; **niveau de combat de référence :** 32 (adultes typiques 22–45). Ni rareté d'objet ni grade de guilde ; variation individuelle possible.
@@ -38,5 +42,5 @@ Ressources maximales de base selon le règlement ; aucune réserve actuelle, Cla
 
 ## Suivi
 - Rencontres réellement jouées : aucune documentée.
-- Illustration : en attente ; emplacement prévu dans 08 — Illustrations/Créatures. Référence visuelle : 1,15 m au garrot, 95 kg, pelage gris et crinière blanche.
+- Illustration : proposition de référence, générée avec ChatGPT, version 1 ; à valider. La description morphologique reste prioritaire.
 - Ne pas adapter le rang au joueur ; résoudre opposition, dégâts, fatigue et effets selon les règles officielles, sans formule universelle de dégâts. Les techniques chiffrées sont des profils locaux proposés, pas des lois du SYSTÈME.

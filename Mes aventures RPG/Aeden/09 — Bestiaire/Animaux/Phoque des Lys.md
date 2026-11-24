@@ -4,7 +4,7 @@ campagne: Aeden
 branche_narrative: null
 statut_documentaire: propose
 visibilite: fondateur
-version: 1
+version: 2
 id: BST-AED-007
 date_univers: null
 derniere_validation: null
@@ -15,6 +15,10 @@ sources:
 # Phoque des Lys
 
 > Profil d'espèce proposé, adulte de référence ; pas de rencontre ni connaissance du PJ établie.
+
+![Phoque des Lys](../../08%20%E2%80%94%20Illustrations/Cr%C3%A9atures/Animaux/Phoque%20des%20Lys.webp)
+
+*Illustration proposée ; non validée comme apparence canonique.*
 
 ## Identification et répartition
 - **Rang personnel indicatif :** E ; **niveau de combat de référence :** 13 (adultes typiques 7–20). Ni rareté d'objet ni grade de guilde ; variation individuelle possible.
@@ -38,5 +42,5 @@ Ressources maximales de base selon le règlement ; aucune réserve actuelle, Cla
 
 ## Suivi
 - Rencontres réellement jouées : aucune documentée.
-- Illustration : en attente ; emplacement prévu dans 08 — Illustrations/Créatures. Référence visuelle : 2,1 m, 180 kg, robe tachetée grise.
+- Illustration : proposition de référence, générée avec ChatGPT, version 1 ; à valider. La description morphologique reste prioritaire.
 - Ne pas adapter le rang au joueur ; résoudre opposition, dégâts, fatigue et effets selon les règles officielles, sans formule universelle de dégâts. Les techniques chiffrées sont des profils locaux proposés, pas des lois du SYSTÈME.
