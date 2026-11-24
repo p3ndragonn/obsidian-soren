@@ -1,5 +1,16 @@
 {
   "schema_version": 1,
-  "comptes": [],
+  "comptes": [
+    {
+      "id": "COMPTE-AED-001",
+      "titulaire": "Aedan Blackwell",
+      "nature": "personnel",
+      "devise": "P",
+      "solde_initial": 350000,
+      "solde_actuel": 350000,
+      "date_univers": null,
+      "source": "Validation explicite du joueur ; solde initial, pas transaction"
+    }
+  ],
   "transactions": []
 }

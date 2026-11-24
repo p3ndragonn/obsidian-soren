@@ -4,11 +4,12 @@ campagne: NOM_DU_RPG
 branche_narrative: null
 statut_documentaire: valide
 visibilite: joueur
-version: 1
+version: 2
 id: FIN-BLACKWELL-001
 date_univers: null
 derniere_validation: "2026-11-24"
 sources:
+  - "Validation explicite du joueur — trois Titres, équipements, tenue légère B à runes défensives, bracelet B 20 m³, fortune 350 000 P, atelier-appartement indépendant et moto B ; 24 novembre 2026"
   - "Validation explicite d'Aedan et délégation de création de sa famille — 24 novembre 2026"
 ---
 
@@ -26,4 +27,4 @@ sources:
 | **Patrimoine net estimé des parents** | Victor et Elena | **9 180 000** |
 | Épargne personnelle séparée | Alyssa | 185 000 |
 
-Aucune dette parentale ou dette d'Alyssa au départ. Les valeurs des sociétés incluent leurs actifs et leur trésorerie, ne pas additionner ces derniers au patrimoine parental. Trésoreries propres : voir fiches sociétés. Revenus personnels parentaux habituels estimés sur une moyenne de 12 mois : Victor 45 000 P/mois nets, Elena 30 000 P/mois nets (rémunérations et distributions variables, pas de garantie, pas d'encaissement automatique). Alyssa : revenus nets irréguliers d'expertise, moyenne indicative 8 000 P/mois. Aucun revenu effectivement encaissé pendant la campagne. Solde, ressources, allocations éventuelles et dette d'Aedan : non définis. Ne pas transférer d'argent automatiquement.
+Aucune dette parentale ou dette d'Alyssa au départ. Les valeurs des sociétés incluent leurs actifs et leur trésorerie, ne pas additionner ces derniers au patrimoine parental. Trésoreries propres : voir fiches sociétés. Revenus personnels parentaux habituels estimés sur une moyenne de 12 mois : Victor 45 000 P/mois nets, Elena 30 000 P/mois nets (rémunérations et distributions variables, pas de garantie, pas d'encaissement automatique). Alyssa : revenus nets irréguliers d'expertise, moyenne indicative 8 000 P/mois. Aucun revenu effectivement encaissé pendant la campagne. Solde initial d'Aedan : 350 000 P, distinct des comptes parentaux. Aide familiale antérieure incluse dans son patrimoine ; ventilation et financement à valider dans [[Mes aventures RPG/NOM_DU_RPG/05 — Inventaire et finances/Proposition de patrimoine et équipements initiaux|Proposition de patrimoine et équipements initiaux]]. Les montants parentaux existants ne sont pas modifiés ; proposition de les considérer comme état net après aides historiques, à confirmer. Dette d'Aedan non définie. Aucun transfert joué.

@@ -4,11 +4,12 @@ campagne: NOM_DU_RPG
 branche_narrative: null
 statut_documentaire: valide
 visibilite: joueur
-version: 4
+version: 5
 id: null
 date_univers: null
 derniere_validation: "2026-11-24"
 sources:
+  - "Validation explicite du joueur — trois Titres, équipements, tenue légère B à runes défensives, bracelet B 20 m³, fortune 350 000 P, atelier-appartement indépendant et moto B ; 24 novembre 2026"
   - "Validation explicite du joueur — niveaux 32/27, statistiques, 7 compétences de Classe et 7 de Profession, 5 universelles, Manifestation infernale, prototype et reconstitution des ascensions ; 24 novembre 2026"
   - "Validation explicite du joueur — parcours et double cursus, rang personnel B, Combattant runo-arcanique [A] et Architecte runo-arcanique [S] ; 24 novembre 2026"
 ---
@@ -43,4 +44,4 @@ Règlement p. 4 : HP max = 10 × VIT, MP max = 10 × SAG, EP max = 10 × END. Bo
 ## Référence numérique
 [Statut structuré](Données/statut.json) : source maîtresse des valeurs numériques. La table ci-dessus sert de présentation et doit être synchronisée ou renvoyer au fichier, jamais maintenue indépendamment.
 
-[[Mes aventures RPG/NOM_DU_RPG/01 — Personnage principal/Proposition de statut initial|Proposition de statut initial]] — trace de validation initiale. Total 1817 = socle 120 + gains 1697 ; 0 libre. Bonus équipement max cumulés : FOR 30, VIT 31, END 35, AGI 33, SAG 47, PER 39. Aucun équipement encore attribué.
+[[Mes aventures RPG/NOM_DU_RPG/01 — Personnage principal/Proposition de statut initial|Proposition de statut initial]] — trace de validation initiale. Total 1817 = socle 120 + gains 1697 ; 0 libre. Bonus équipement max cumulés : FOR 30, VIT 31, END 35, AGI 33, SAG 47, PER 39. Équipements sélectionnés et possédés, bonus détaillés en proposition dans [[Mes aventures RPG/NOM_DU_RPG/05 — Inventaire et finances/Proposition de patrimoine et équipements initiaux|Proposition de patrimoine et équipements initiaux]] ; aucun bonus appliqué avant validation et détermination de la tenue effectivement portée.

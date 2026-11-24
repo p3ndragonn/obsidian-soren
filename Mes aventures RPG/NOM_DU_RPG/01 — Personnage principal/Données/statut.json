@@ -46,6 +46,10 @@
       "maximum": 2950
     }
   },
-  "titres_actifs": [],
+  "titres_actifs": [
+    "Pionnier des deux disciplines",
+    "Protecteur des profondeurs",
+    "Vétéran des labyrinthes"
+  ],
   "points_libres": 0
 }
