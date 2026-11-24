@@ -1,12 +1,12 @@
 ---
 type: reprise
 campagne: Aeden
-branche_narrative: null
-statut_documentaire: a_definir
+branche_narrative: principale
+statut_documentaire: valide
 visibilite: joueur
-version: 17
-id: null
-date_univers: null
+version: 18
+id: AED-REPRISE-COURANTE
+date_univers: "1842 TC — 15 Doréal"
 derniere_validation: "2026-11-24"
 sources:
   - "Illustrations générées dans la conversation et intégration explicitement demandée par le joueur — 24 novembre 2026 ; WebP pleine résolution, référence visuelle sans modification des faits textuels"
@@ -22,17 +22,15 @@ sources:
 
 # État de reprise actuel
 
-> [!warning] Aucune partie commencée, aucune sauvegarde effective ni point majeur disponible.
+> [!note] Sauvegarde administrative initiale enregistrée ; aucune partie commencée.
 
-- **Campagne et univers validés :** fondations partielles : [[Mes aventures RPG/Aeden/04 — Monde et lieux/Aethranea|Aethranea]] ; planète [[Mes aventures RPG/Aeden/04 — Monde et lieux/Elyndra|Elyndra]], univers 827, 1842 TC ; identité de campagne à définir
-- **Branche :** À définir
-- **Identifiant et catégorie de sauvegarde :** À définir
-- **Chapitre, jour, date, heure et lieu :** À définir
-- **Dernière scène et dernière action du joueur :** À définir
-- **Décision attendue :** validation des dernières fondations (croyances proposées, identité du meilleur ami, rival et point de départ) d'Aedan Blackwell (3 Titres actifs, équipements et bonus validés, bracelet B 20 m³, fortune 350 000 P, patrimoine net estimé 2 135 000 P, atelier-appartement personnel et moto B ; [[Mes aventures RPG/Aeden/05 — Inventaire et finances/Possessions/Patrimoine personnel d’Aedan|Patrimoine personnel d’Aedan]]) (rang B, Classe Combattant runo-arcanique [A] niveau 32, Profession Architecte runo-arcanique [S] niveau 27, statistiques et 22 compétences validées, parcours et ascensions biographiques validés), Tiefling écarlate masculin, environ 65 ans, des Portes d'Orion. Morphologie, maturation et tatouage sceau arcanique validés ; portrait officiel archivé. Double formation supérieure avancée en exploration de donjons et sciences runiques (magie/mana) et arcaniques (technologie), rare et risquée dès le jeune âge ; chronologie scolaire validée. [[Mes aventures RPG/Aeden/01 — Personnage principal/Parcours de formation|Parcours de formation]]. Longévité locale des Tieflings ~500 ans ; Victor ~265 ans rang A, Elena ~255 ans rang B, Alyssa ~100 ans rang C. Âges précis parentaux retenus dans la plage demandée, dates de naissance non définies. Institutions, lois, sécurité, éducation, religions, guildes, explorations et donjons validés. Noblesse, économie et transports validés. Huit races (Gnomes exclus), 24 cités, 24 provinces, populations et familles royales validées. Personnage en création, pas de scène jouée.
-- **Événements en cours et échéances :** À définir
-- **Version et référence du dernier instantané vérifié :** À définir
-- **Point majeur précédent :** À définir
+- Campagne : Les Arcanes d’Elyndra, AED-827, univers 827.
+- Branche : principale ; sauvegarde AED-INIT-000, continuité administrative, ordre 0.
+- Chapitre I non ouvert ; Jour 1, Aquaris 15 Doréal 1842 TC, 08 h 00 ; appartement personnel, Les Portes d’Orion.
+- Dernière scène et action : aucune. Aucun événement joué.
+- Décision attendue : approbation finale et lancement.
+- Échéances : charges prévisionnelles ; aucun rendez-vous précis établi.
+- Instantané : [[Mes aventures RPG/Aeden/99 — Archives/États de reprise/AED-INIT-000]] ; aucun point majeur.
 
 ## Références actuelles
 - [[Mes aventures RPG/Aeden/01 — Personnage principal/Fiche du personnage principal|Fiche du personnage principal]]
@@ -53,6 +51,6 @@ Le complément réservé est conservé séparément. Ne pas avancer le temps pen
 
 - [[Mes aventures RPG/Aeden/01 — Personnage principal/Proposition de statut initial|Proposition de statut initial]] — proposition initiale conservée comme trace validée ; état courant dans les fiches maîtresses.
 
-- [[Mes aventures RPG/Aeden/01 — Personnage principal/Biographie et personnalité d’Aedan|Biographie et personnalité d’Aedan]] — validée ; [[Mes aventures RPG/Aeden/01 — Personnage principal/Dernières fondations proposées|Dernières fondations proposées]] — propositions à confirmer. Aucun chapitre ouvert.
+- [[Mes aventures RPG/Aeden/01 — Personnage principal/Biographie et personnalité d’Aedan|Biographie et personnalité d’Aedan]] — validée ; [[Mes aventures RPG/Aeden/01 — Personnage principal/Dernières fondations proposées|Dernières fondations proposées]] — dernières décisions validées. Aucun chapitre ouvert.
 
 - [[Mes aventures RPG/Aeden/08 — Illustrations/Index — Illustrations|Index des illustrations]] — dix visuels archivés ; aucune scène jouée.

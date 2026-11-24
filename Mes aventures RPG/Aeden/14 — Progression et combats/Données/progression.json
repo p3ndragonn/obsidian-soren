@@ -1,5 +1,78 @@
 {
   "schema_version": 1,
-  "personnages": [],
+  "personnages": [
+    {
+      "id": "PJ-AED-001",
+      "branche": "principale",
+      "classe": {
+        "niveau": 32,
+        "exp": 1450
+      },
+      "profession": {
+        "niveau": 27,
+        "exp": 900
+      }
+    },
+    {
+      "id": "PNJ-AED-MAEL",
+      "branche": "principale",
+      "classe": {
+        "niveau": 28,
+        "exp": 750
+      },
+      "profession": {
+        "niveau": 29,
+        "exp": 850
+      }
+    },
+    {
+      "id": "PNJ-AED-DARIUS",
+      "branche": "principale",
+      "classe": {
+        "niveau": 25,
+        "exp": 520
+      },
+      "profession": {
+        "niveau": 34,
+        "exp": 1100
+      }
+    },
+    {
+      "id": "PNJ-BLACKWELL-001",
+      "branche": "principale",
+      "classe": {
+        "niveau": 46,
+        "exp": 1200
+      },
+      "profession": {
+        "niveau": 63,
+        "exp": 4900
+      }
+    },
+    {
+      "id": "PNJ-BLACKWELL-002",
+      "branche": "principale",
+      "classe": {
+        "niveau": 29,
+        "exp": 650
+      },
+      "profession": {
+        "niveau": 57,
+        "exp": 3900
+      }
+    },
+    {
+      "id": "PNJ-BLACKWELL-003",
+      "branche": "principale",
+      "classe": {
+        "niveau": 25,
+        "exp": 430
+      },
+      "profession": {
+        "niveau": 34,
+        "exp": 1800
+      }
+    }
+  ],
   "evenements": []
 }

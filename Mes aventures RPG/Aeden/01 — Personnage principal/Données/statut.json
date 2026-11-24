@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "personnage_id": null,
-  "branche": null,
+  "personnage_id": "PJ-AED-001",
+  "branche": "principale",
   "rang_personnel": "B",
   "classe": {
     "rarete": "A",

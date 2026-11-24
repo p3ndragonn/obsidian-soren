@@ -8,8 +8,9 @@
       "devise": "P",
       "solde_initial": "350000",
       "solde_actuel": "350000",
-      "date_univers": null,
-      "source": "Validation explicite du joueur ; solde initial, pas transaction"
+      "date_univers": "1842 TC — 15 Doréal",
+      "source": "Validation explicite du joueur ; solde initial, pas transaction",
+      "branche": "principale"
     }
   ],
   "transactions": []

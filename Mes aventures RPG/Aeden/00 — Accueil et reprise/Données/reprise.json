@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
   "campagne": "Aeden",
-  "branche": null,
-  "sauvegarde_id": null,
-  "ordre": null,
-  "date_univers": null,
-  "heure": null,
-  "lieu": null,
-  "source_scene": null,
+  "branche": "principale",
+  "sauvegarde_id": "AED-INIT-000",
+  "ordre": 0,
+  "date_univers": "1842 TC — 15 Doréal",
+  "heure": "08:00",
+  "lieu": "Appartement personnel, Les Portes d’Orion",
+  "source_scene": "Mes aventures RPG/Aeden/99 — Archives/États de reprise/AED-INIT-000.md",
   "point_majeur": null
 }

@@ -4,7 +4,7 @@ campagne: Aeden
 branche_narrative: null
 statut_documentaire: a_definir
 visibilite: fondateur
-version: 2
+version: 3
 id: null
 date_univers: null
 derniere_validation: null
@@ -28,3 +28,6 @@ sources: []
 | ANOM-AED-011 | 2026-11-24 | Finances | Soldes JSON numériques au lieu de chaînes décimales | finances.json et Comptabilité personnelle | Technique | Correction autorisée par le joueur | 350 000 P conservées ; format corrigé ; aucune transaction |
 
 Aucune correction automatique du canon. Conserver la trace des résolutions.
+
+## Contrôle de finalisation
+Seuils EXP recalculés : Victor 46/63 → 5050/9028 ; Elena 29/57 → 2228/7492 ; Alyssa 25/34 → 1732/2938 ; Aedan 32/27 → 2642/1972. Tous corrects ; aucune correction de valeur nécessaire. Aucune transaction ni progression enregistrée. Vérification technique exhaustive du dépôt non exécutée dans cette session.
