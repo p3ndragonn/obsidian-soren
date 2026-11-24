@@ -4,7 +4,7 @@ campagne: NOM_DU_RPG
 branche_narrative: null
 statut_documentaire: index
 visibilite: joueur
-version: 4
+version: 5
 id: null
 date_univers: null
 derniere_validation: "2026-11-24"
@@ -28,6 +28,9 @@ Index de navigation : renseigner les fiches réelles au fur et à mesure des val
 
 - [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Elyndra|Elyndra]]
 - [[Mes aventures RPG/NOM_DU_RPG/11 — Calendrier et événements/Calendrier de l’univers|Calendrier continental]]
+
+- [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Noblesse et familles influentes|Noblesse et familles influentes]]
+- [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Réseaux de transport|Réseaux de transport]]
 
 ## Familles royales et provinces
 ### Eldoria

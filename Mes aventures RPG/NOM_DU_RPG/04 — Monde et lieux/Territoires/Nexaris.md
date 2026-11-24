@@ -4,7 +4,7 @@ campagne: NOM_DU_RPG
 branche_narrative: null
 statut_documentaire: valide
 visibilite: joueur
-version: 3
+version: 4
 id: MONDE-ROY-002
 date_univers: null
 derniere_validation: "2026-11-24"
@@ -28,7 +28,7 @@ sources:
 - **Devise :** Comprendre, créer, dépasser.
 - **Emblème :** Cristal argenté entouré de trois anneaux sur fond bleu nuit.
 - **Organisation administrative :** Monarchie constitutionnelle ; prérogatives royales limitées, gouvernement contrôlé par institutions représentatives, assemblée législative, haute juridiction et administrations scientifiques. Gouverneurs principalement élus, assemblées régionales. Noblesse sans pouvoir automatique.
-- **Ressources détaillées et dirigeants provinciaux :** À définir.
+- **Ressources détaillées et noms des dirigeants provinciaux :** À définir.
 - **Rang de danger et progression territoriale SYSTÈME :** À définir.
 
 Les technologies ont des coûts, ressources, compétences et besoins d'entretien ; elles ne contournent pas les règles universelles. Les appareils de communication ne sont pas la compétence Communication.
@@ -54,3 +54,13 @@ Les technologies ont des coûts, ressources, compétences et besoins d'entretien
 - [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Territoires/Provinces/Nexaris/Bassin de Verdan|Bassin de Verdan]] — [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Lieux/Verdanex|Verdanex]]
 - [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Territoires/Provinces/Nexaris/District frontalier|District frontalier]] — [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Lieux/Sentinelle-Prime|Sentinelle-Prime]]
 - [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Territoires/Provinces/Nexaris/Massif Cristallin|Massif Cristallin]] — [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Lieux/Crystalys|Crystalys]]
+
+## Maisons et familles
+- [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Factions/Maison Kessler|Maison Kessler]] — Néopolis
+- [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Factions/Maison Ironfeld|Maison Ironfeld]] — Ferronyx
+- [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Factions/Maison Noctarys|Maison Noctarys]] — Luméra
+- [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Factions/Maison Axiome|Maison Axiome]] — Automéria
+- [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Factions/Maison Westhaven|Maison Westhaven]] — Aéroportis
+- [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Factions/Maison Solvex|Maison Solvex]] — Crystalys
+- [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Factions/Maison Greenwell|Maison Greenwell]] — Verdanex
+[[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Noblesse et familles influentes|Noblesse et familles influentes]] · [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Réseaux de transport|Réseaux de transport]] · [[Mes aventures RPG/NOM_DU_RPG/15 — Économie et commerces/Commerce entre les royaumes|Commerce entre les royaumes]]

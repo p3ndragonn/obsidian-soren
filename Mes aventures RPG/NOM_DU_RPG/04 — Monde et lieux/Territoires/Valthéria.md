@@ -4,7 +4,7 @@ campagne: NOM_DU_RPG
 branche_narrative: null
 statut_documentaire: valide
 visibilite: joueur
-version: 3
+version: 4
 id: MONDE-ROY-003
 date_univers: null
 derniere_validation: "2026-11-24"
@@ -26,8 +26,8 @@ sources:
 - **Maison royale :** [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Factions/Maison Vaelarys|Maison Vaelarys]].
 - **Devise :** Deux héritages, un avenir.
 - **Emblème :** Épée et cristal entrelacés sur fond pourpre et or.
-- **Organisation administrative :** Monarchie héréditaire assistée du Conseil de la Couronne (noblesse, guildes, institutions scientifiques et provinces). Nobles ou gouverneurs civils nommés selon l'histoire et les institutions ; attribution individuelle à définir.
-- **Ressources détaillées et dirigeants provinciaux :** À définir.
+- **Organisation administrative :** Monarchie héréditaire assistée du Conseil de la Couronne (noblesse, guildes, institutions scientifiques et provinces). Nobles ou gouverneurs civils nommés selon l'histoire et les institutions ; attribution des provinces validée ci-dessous ; titulaires individuels à définir.
+- **Ressources détaillées et noms des dirigeants provinciaux :** À définir.
 - **Rang de danger et progression territoriale SYSTÈME :** À définir.
 
 ## Grandes cités validées
@@ -52,3 +52,17 @@ Les massifs et territoires sauvages séparent le royaume des principaux centres 
 - [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Territoires/Provinces/Valthéria/Vallée des Rivières|Vallée des Rivières]] — [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Lieux/Riveclaire|Riveclaire]]
 - [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Territoires/Provinces/Valthéria/Plateaux d'Éther|Plateaux d'Éther]] — [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Lieux/Aetheris|Aetheris]]
 - [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Territoires/Provinces/Valthéria/Marche d'Orion|Marche d'Orion]] — [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Lieux/Les Portes d'Orion|Les Portes d'Orion]]
+
+## Maisons et familles
+- [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Factions/Maison Elarion|Maison Elarion]] — Sylve Occidentale
+- [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Factions/Maison Marélys|Maison Marélys]] — Côte d'Azur
+- [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Factions/Maison Grimforge|Maison Grimforge]] — Hautes-Forges
+- [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Factions/Maison Falkenor|Maison Falkenor]] — Marche d'Orion
+- [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Factions/Maison Valcrest|Maison Valcrest]] — Astréval
+- [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Factions/Maison Azarion|Maison Azarion]] — Novaréa
+- [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Factions/Maison Riverwell|Maison Riverwell]] — Riveclaire
+- [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Factions/Maison Aetheron|Maison Aetheron]] — Aetheris
+- [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Factions/Maison Synthel|Maison Synthel]] — Astréval
+- [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Factions/Maison Silverfang|Maison Silverfang]] — Port-Azur
+Domaine d'Astrée : couronne ; Plateaux de Nova, Vallée des Rivières et Plateaux d'Éther : gouverneurs civils nommés.
+[[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Noblesse et familles influentes|Noblesse et familles influentes]] · [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Réseaux de transport|Réseaux de transport]] · [[Mes aventures RPG/NOM_DU_RPG/15 — Économie et commerces/Commerce entre les royaumes|Commerce entre les royaumes]]

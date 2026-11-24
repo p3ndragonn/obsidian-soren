@@ -4,10 +4,10 @@ campagne: NOM_DU_RPG
 branche_narrative: null
 statut_documentaire: index
 visibilite: joueur
-version: 1
+version: 2
 id: null
 date_univers: null
-derniere_validation: null
+derniere_validation: "2026-11-24"
 sources: []
 ---
 
@@ -20,3 +20,7 @@ Les prix observés restent locaux et datés ; barème officiel indicatif, non pr
 - [[Mes aventures RPG/NOM_DU_RPG/05 — Inventaire et finances/Transactions|Transactions]]
 - [[Mes aventures RPG/NOM_DU_RPG/05 — Inventaire et finances/Engagements financiers|Engagements financiers]]
 - [[Mes aventures RPG/NOM_DU_RPG/05 — Inventaire et finances/Possessions/Modèle — Bien ou propriété|Modèle — Bien ou propriété]]
+
+- [[Mes aventures RPG/NOM_DU_RPG/15 — Économie et commerces/Revenus et niveaux de vie|Revenus et niveaux de vie]]
+- [[Mes aventures RPG/NOM_DU_RPG/15 — Économie et commerces/Commerce entre les royaumes|Commerce entre les royaumes]]
+- [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Réseaux de transport|Réseaux de transport]]

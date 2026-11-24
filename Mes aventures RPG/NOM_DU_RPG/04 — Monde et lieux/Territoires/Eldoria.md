@@ -4,7 +4,7 @@ campagne: NOM_DU_RPG
 branche_narrative: null
 statut_documentaire: valide
 visibilite: joueur
-version: 3
+version: 4
 id: MONDE-ROY-001
 date_univers: null
 derniere_validation: "2026-11-24"
@@ -28,7 +28,7 @@ sources:
 - **Devise :** L'honneur, le savoir et l'héritage.
 - **Emblème :** Griffon doré sur fond vert émeraude.
 - **Organisation administrative :** Monarchie héréditaire ; domaine royal direct et sept maisons ducales ; marquis, comtes, vicomtes, barons. Couronne, guildes et institutions magiques influentes.
-- **Ressources détaillées et dirigeants provinciaux :** À définir.
+- **Ressources détaillées et noms des dirigeants provinciaux :** À définir.
 - **Rang de danger et progression territoriale SYSTÈME :** À définir, ne pas confondre avec le développement politique ou la puissance individuelle.
 
 Aucune infériorité automatique vis-à-vis de Nexaris.
@@ -54,3 +54,13 @@ Aucune infériorité automatique vis-à-vis de Nexaris.
 - [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Territoires/Provinces/Eldoria/Marche du Nord|Marche du Nord]] — [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Lieux/Thornheim|Thornheim]]
 - [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Territoires/Provinces/Eldoria/Hautes-Terres arcanes|Hautes-Terres arcanes]] — [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Lieux/Arcanélys|Arcanélys]]
 - [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Territoires/Provinces/Eldoria/Montagnes Écarlates|Montagnes Écarlates]] — [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Lieux/Roc-Écarlate|Roc-Écarlate]]
+
+## Maisons et familles
+- [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Factions/Maison Dornheim|Maison Dornheim]] — Hautes-Forges
+- [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Factions/Maison Sylvandor|Maison Sylvandor]] — Forêts d'Argent
+- [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Factions/Maison Montclair|Maison Montclair]] — Côte des Lys
+- [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Factions/Maison Bellecombe|Maison Bellecombe]] — Plaines Dorées
+- [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Factions/Maison Vargheim|Maison Vargheim]] — Marche du Nord
+- [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Factions/Maison Arvandell|Maison Arvandell]] — Hautes-Terres arcanes
+- [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Factions/Maison Drakarys|Maison Drakarys]] — Montagnes Écarlates
+[[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Noblesse et familles influentes|Noblesse et familles influentes]] · [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Réseaux de transport|Réseaux de transport]] · [[Mes aventures RPG/NOM_DU_RPG/15 — Économie et commerces/Commerce entre les royaumes|Commerce entre les royaumes]]

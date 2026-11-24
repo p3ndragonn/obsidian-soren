@@ -4,7 +4,7 @@ campagne: NOM_DU_RPG
 branche_narrative: null
 statut_documentaire: valide
 visibilite: joueur
-version: 3
+version: 4
 id: MONDE-CONT-001
 date_univers: null
 derniere_validation: "2026-11-24"
@@ -35,4 +35,6 @@ Trois royaumes, voies de développement médiévale magique, magitech et hybride
 [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Histoire ancienne et époque actuelle|Histoire ancienne et époque actuelle]] · [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Institutions communes|Institutions communes]].
 
 ## À définir
-[[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Peuples et démographie|Peuples et démographie]] · [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Cartes/Carte schématique des 24 cités|Carte schématique des 24 cités]]. Huit races confirmées ; Gnomes exclus, démographie recalculée. 1,5 milliard d'habitants recensés dans les trois royaumes, 24 provinces, 24 grandes cités, trois familles royales validées. Frontières précises, géographie détaillée, dirigeants provinciaux, économie locale et transports détaillés à définir.
+[[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Peuples et démographie|Peuples et démographie]] · [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Cartes/Carte schématique des 24 cités|Carte schématique des 24 cités]]. Huit races confirmées ; Gnomes exclus, démographie recalculée. 1,5 milliard d'habitants recensés dans les trois royaumes, 24 provinces, 24 grandes cités, trois familles royales validées. Frontières précises, géographie détaillée, dirigeants individuels, institutions détaillées, distances et prix locaux effectivement observés à définir.
+
+[[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Noblesse et familles influentes|Noblesse et familles influentes]] · [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Réseaux de transport|Réseaux de transport]] · [[Mes aventures RPG/NOM_DU_RPG/15 — Économie et commerces/Revenus et niveaux de vie|Revenus et niveaux de vie]] · [[Mes aventures RPG/NOM_DU_RPG/15 — Économie et commerces/Commerce entre les royaumes|Commerce entre les royaumes]]
