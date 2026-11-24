@@ -4,11 +4,12 @@ campagne: NOM_DU_RPG
 branche_narrative: null
 statut_documentaire: a_definir
 visibilite: joueur
-version: 5
+version: 6
 id: null
 date_univers: null
 derniere_validation: "2026-11-24"
 sources:
+  - "Validation explicite du joueur — parcours et double cursus, rang personnel B, Combattant runo-arcanique [A] et Architecte runo-arcanique [S] ; 24 novembre 2026"
   - "Choix explicites du joueur — sceau arcanique, double formation avancée donjons/runes/arcanes, chronologie scolaire et rang B envisagé ; 24 novembre 2026"
   - "Validation explicite du joueur — morphologie d'Aedan, température corporelle et maturation des Tieflings d'Elyndra ; 24 novembre 2026"
   - "Validation du joueur — lignée écarlate, longévité locale, âges, études supérieures et rangs familiaux ; 24 novembre 2026"
@@ -27,6 +28,7 @@ sources:
 - **Portrait officiel :** À définir
 
 ## 2 — Statut du SYSTÈME
+Rang personnel B ; Classe Combattant runo-arcanique [A] ; Profession Architecte runo-arcanique [S] (validés). Niveaux, EXP et statistiques en attente de validation ; [[Mes aventures RPG/NOM_DU_RPG/01 — Personnage principal/Proposition de statut initial|Proposition de statut initial]].
 [[Mes aventures RPG/NOM_DU_RPG/01 — Personnage principal/Statistiques et ressources|Statistiques et ressources]] · [[Mes aventures RPG/NOM_DU_RPG/01 — Personnage principal/Classe et Profession|Classe et Profession]] · [[Mes aventures RPG/NOM_DU_RPG/01 — Personnage principal/Titres|Titres]]
 
 ## 3 — Compétences et capacités
@@ -37,9 +39,9 @@ sources:
 
 ## 5 — Histoire et personnalité
 - **Famille (liens vers fiches) :** [[Mes aventures RPG/NOM_DU_RPG/03 — Personnages et relations/Familles/Famille Blackwell|Famille Blackwell]] ; [[Mes aventures RPG/NOM_DU_RPG/03 — Personnages et relations/Personnages/Victor Blackwell|Victor Blackwell]], [[Mes aventures RPG/NOM_DU_RPG/03 — Personnages et relations/Personnages/Elena Blackwell|Elena Blackwell]], [[Mes aventures RPG/NOM_DU_RPG/03 — Personnages et relations/Personnages/Alyssa Blackwell|Alyssa Blackwell]] ; Aedan fils cadet
-- **Biographie :** À définir
+- **Biographie :** parcours de formation et explorations validés ; voir [[Mes aventures RPG/NOM_DU_RPG/01 — Personnage principal/Parcours de formation|Parcours de formation]]. Biographie complète et personnalité à développer.
 - **Caractère :** À définir
-- **Formation :** double formation supérieure avancée achevée, théorique et pratique en exploration de donjons, sciences runiques (magie/mana) et sciences arcaniques (technologie) ; cursus rare sur Elyndra et risqué dès le jeune âge. Chronologie scolaire validée ; établissements, diplôme exact et accomplissements détaillés en proposition à valider. [[Mes aventures RPG/NOM_DU_RPG/01 — Personnage principal/Parcours de formation|Parcours de formation]]. Rang B envisagé par le joueur, non verrouillé tant que les prérequis biographiques ne sont pas validés.
+- **Formation :** double formation supérieure avancée achevée, théorique et pratique en exploration de donjons, sciences runiques (magie/mana) et sciences arcaniques (technologie) ; cursus rare sur Elyndra et risqué dès le jeune âge. Chronologie scolaire, établissements et accomplissements validés : diplôme supérieur d'exploration dimensionnelle et d'ingénierie runo-arcanique ; Université royale d'Astréval, Institut d'Innovation de Novaréa et pratique encadrée par la Guilde des Aventuriers. [[Mes aventures RPG/NOM_DU_RPG/01 — Personnage principal/Parcours de formation|Parcours de formation]]. Rang personnel B validé.
 - **Motivations et aspirations :** À définir
 - **Situation sociale :** famille indépendante très aisée, grande bourgeoisie sans noblesse ; accès facilité aux ressources familiales sans propriété personnelle automatique.
 [[Mes aventures RPG/NOM_DU_RPG/03 — Personnages et relations/Index — Personnages et relations|Index — Personnages et relations]]
