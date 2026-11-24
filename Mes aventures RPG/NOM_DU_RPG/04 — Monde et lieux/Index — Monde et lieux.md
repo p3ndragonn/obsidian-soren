@@ -4,7 +4,7 @@ campagne: NOM_DU_RPG
 branche_narrative: null
 statut_documentaire: index
 visibilite: joueur
-version: 5
+version: 6
 id: null
 date_univers: null
 derniere_validation: "2026-11-24"
@@ -31,6 +31,12 @@ Index de navigation : renseigner les fiches réelles au fur et à mesure des val
 
 - [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Noblesse et familles influentes|Noblesse et familles influentes]]
 - [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Réseaux de transport|Réseaux de transport]]
+
+- [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Grades des organisations continentales|Grades des organisations continentales]]
+- [[Mes aventures RPG/NOM_DU_RPG/12 — Encyclopédie du monde/Convention des Trois Couronnes et justice|Convention des Trois Couronnes et justice]]
+- [[Mes aventures RPG/NOM_DU_RPG/12 — Encyclopédie du monde/Explorations et droits sur les découvertes|Explorations et droits sur les découvertes]]
+- [[Mes aventures RPG/NOM_DU_RPG/12 — Encyclopédie du monde/Donjons et gestion des accès|Donjons et gestion des accès]]
+- [[Mes aventures RPG/NOM_DU_RPG/12 — Encyclopédie du monde/Index — Encyclopédie du monde|Institutions, cultures et éducation]]
 
 ## Familles royales et provinces
 ### Eldoria

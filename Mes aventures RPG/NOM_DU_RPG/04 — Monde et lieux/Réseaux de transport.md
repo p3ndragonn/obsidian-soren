@@ -4,7 +4,7 @@ campagne: NOM_DU_RPG
 branche_narrative: null
 statut_documentaire: valide
 visibilite: joueur
-version: 1
+version: 2
 id: MONDE-TRANS-001
 date_univers: null
 derniere_validation: "2026-11-24"
@@ -47,4 +47,4 @@ Hors arrêts, maintenance et contrôles.
 Distances réelles, tracés, horaires, tarifs hors téléportation et capacité non définis. Carte antérieure schématique non métrique.
 
 ## Téléportation — précision validée
-Principalement réservée aux voyages entre les trois capitales Auréval, Néopolis, Astréval ; environ **10 000 P par personne et trajet**. Service coûteux, non accessible à tous, non gratuit. Autres usages éventuels selon capacités établies ; aucune téléportation automatique. Conditions exactes, installation, exploitant, fréquence, durée, bagages et autorisations à définir. Aucun déplacement ni paiement effectué.
+Principalement réservée aux voyages entre les trois capitales Auréval, Néopolis, Astréval ; environ **10 000 P par personne et trajet**. Service coûteux, non accessible à tous, non gratuit. Autres usages éventuels selon capacités établies ; aucune téléportation automatique. Chaque capitale possède une gare de téléportation sécurisée sous autorité royale, accessible sur réservation ; contrôles frontaliers applicables. Capacité, fréquence, durée, bagages et modalités administratives précises non définies. Aucun déplacement ni paiement effectué.

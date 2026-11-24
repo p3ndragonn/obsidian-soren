@@ -4,7 +4,7 @@ campagne: NOM_DU_RPG
 branche_narrative: null
 statut_documentaire: a_definir
 visibilite: joueur
-version: 6
+version: 7
 id: null
 date_univers: null
 derniere_validation: "2026-11-24"
@@ -20,7 +20,7 @@ sources: []
 - **Identifiant et catégorie de sauvegarde :** À définir
 - **Chapitre, jour, date, heure et lieu :** À définir
 - **Dernière scène et dernière action du joueur :** À définir
-- **Décision attendue :** institutions, lois, sécurité, éducation, religions, guildes, explorations et donjons. Noblesse, économie et transports validés. Huit races (Gnomes exclus), 24 cités, 24 provinces, populations et familles royales validées. Personnage encore à créer.
+- **Décision attendue :** création progressive du personnage principal (identité et origines). Institutions, lois, sécurité, éducation, religions, guildes, explorations et donjons validés. Noblesse, économie et transports validés. Huit races (Gnomes exclus), 24 cités, 24 provinces, populations et familles royales validées. Personnage encore à créer.
 - **Événements en cours et échéances :** À définir
 - **Version et référence du dernier instantané vérifié :** À définir
 - **Point majeur précédent :** À définir

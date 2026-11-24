@@ -4,7 +4,7 @@ campagne: NOM_DU_RPG
 branche_narrative: null
 statut_documentaire: valide
 visibilite: joueur
-version: 4
+version: 5
 id: MONDE-CONT-001
 date_univers: null
 derniere_validation: "2026-11-24"
@@ -38,3 +38,12 @@ Trois royaumes, voies de développement médiévale magique, magitech et hybride
 [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Peuples et démographie|Peuples et démographie]] · [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Cartes/Carte schématique des 24 cités|Carte schématique des 24 cités]]. Huit races confirmées ; Gnomes exclus, démographie recalculée. 1,5 milliard d'habitants recensés dans les trois royaumes, 24 provinces, 24 grandes cités, trois familles royales validées. Frontières précises, géographie détaillée, dirigeants individuels, institutions détaillées, distances et prix locaux effectivement observés à définir.
 
 [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Noblesse et familles influentes|Noblesse et familles influentes]] · [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Réseaux de transport|Réseaux de transport]] · [[Mes aventures RPG/NOM_DU_RPG/15 — Économie et commerces/Revenus et niveaux de vie|Revenus et niveaux de vie]] · [[Mes aventures RPG/NOM_DU_RPG/15 — Économie et commerces/Commerce entre les royaumes|Commerce entre les royaumes]]
+
+## Cadre institutionnel validé
+- [[Mes aventures RPG/NOM_DU_RPG/12 — Encyclopédie du monde/Convention des Trois Couronnes et justice|Convention des Trois Couronnes et justice]]
+- [[Mes aventures RPG/NOM_DU_RPG/12 — Encyclopédie du monde/Forces de sécurité|Forces de sécurité]]
+- [[Mes aventures RPG/NOM_DU_RPG/12 — Encyclopédie du monde/Éducation et formation|Éducation et formation]]
+- [[Mes aventures RPG/NOM_DU_RPG/12 — Encyclopédie du monde/Religions et philosophies|Religions et philosophies]]
+- [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Grades des organisations continentales|Grades des organisations continentales]]
+- [[Mes aventures RPG/NOM_DU_RPG/12 — Encyclopédie du monde/Explorations et droits sur les découvertes|Explorations et droits sur les découvertes]]
+- [[Mes aventures RPG/NOM_DU_RPG/12 — Encyclopédie du monde/Donjons et gestion des accès|Donjons et gestion des accès]]
