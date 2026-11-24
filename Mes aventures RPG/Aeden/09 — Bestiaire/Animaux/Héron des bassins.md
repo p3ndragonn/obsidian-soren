@@ -4,7 +4,7 @@ campagne: Aeden
 branche_narrative: null
 statut_documentaire: propose
 visibilite: fondateur
-version: 1
+version: 2
 id: BST-AED-035
 date_univers: null
 derniere_validation: null
@@ -15,6 +15,10 @@ sources:
 # Héron des bassins
 
 > Profil proposé, adulte de référence ; aucune rencontre ni connaissance du PJ établie.
+
+![Héron des bassins](../../08%20%E2%80%94%20Illustrations/Cr%C3%A9atures/Animaux/H%C3%A9ron%20des%20bassins.webp)
+
+*Illustration proposée ; non validée comme apparence canonique.*
 
 ## Identification et écologie
 - **Rang indicatif :** F ; **niveau de combat :** 8 (adultes 4–13). Variation individuelle possible.
@@ -38,5 +42,5 @@ Ressources maximales de base selon règlement ; aucune réserve actuelle, Classe
 
 ## Suivi
 - Rencontres : aucune documentée.
-- Illustration : en attente dans 08 — Illustrations/Créatures ; référence visuelle : 1 m, 3 kg, plumage cendré.
+- Illustration : proposition de référence, générée avec ChatGPT, version 2 ; à valider. La description morphologique reste prioritaire.
 - Rang indépendant du joueur ; arbitrage contextuel, sans formule universelle de dégâts. Coûts locaux proposés, non lois universelles.

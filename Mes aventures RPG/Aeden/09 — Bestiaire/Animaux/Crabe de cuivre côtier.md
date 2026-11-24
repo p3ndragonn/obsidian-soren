@@ -4,7 +4,7 @@ campagne: Aeden
 branche_narrative: null
 statut_documentaire: propose
 visibilite: fondateur
-version: 1
+version: 2
 id: BST-AED-036
 date_univers: null
 derniere_validation: null
@@ -15,6 +15,10 @@ sources:
 # Crabe de cuivre côtier
 
 > Profil proposé, adulte de référence ; aucune rencontre ni connaissance du PJ établie.
+
+![Crabe de cuivre côtier](../../08%20%E2%80%94%20Illustrations/Cr%C3%A9atures/Animaux/Crabe%20de%20cuivre%20c%C3%B4tier.webp)
+
+*Illustration proposée ; non validée comme apparence canonique.*
 
 ## Identification et écologie
 - **Rang indicatif :** F ; **niveau de combat :** 7 (adultes 3–12). Variation individuelle possible.
@@ -38,5 +42,5 @@ Ressources maximales de base selon règlement ; aucune réserve actuelle, Classe
 
 ## Suivi
 - Rencontres : aucune documentée.
-- Illustration : en attente dans 08 — Illustrations/Créatures ; référence visuelle : 25 cm, 1,8 kg, carapace cuivrée.
+- Illustration : proposition de référence, générée avec ChatGPT, version 2 ; à valider. La description morphologique reste prioritaire.
 - Rang indépendant du joueur ; arbitrage contextuel, sans formule universelle de dégâts. Coûts locaux proposés, non lois universelles.

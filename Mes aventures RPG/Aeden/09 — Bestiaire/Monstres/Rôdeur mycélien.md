@@ -4,7 +4,7 @@ campagne: Aeden
 branche_narrative: null
 statut_documentaire: propose
 visibilite: fondateur
-version: 1
+version: 2
 id: BST-AED-027
 date_univers: null
 derniere_validation: null
@@ -15,6 +15,10 @@ sources:
 # Rôdeur mycélien
 
 > Profil d'espèce proposé, adulte de référence ; pas de rencontre ni connaissance du PJ établie.
+
+![Rôdeur mycélien](../../08%20%E2%80%94%20Illustrations/Cr%C3%A9atures/Monstres/R%C3%B4deur%20myc%C3%A9lien.webp)
+
+*Illustration proposée ; non validée comme apparence canonique.*
 
 ## Identification et répartition
 - **Rang personnel indicatif :** D ; **niveau de combat de référence :** 33 (adultes typiques 23–46). Ni rareté d'objet ni grade de guilde ; variation individuelle possible.
@@ -38,5 +42,5 @@ Ressources maximales de base selon le règlement ; aucune réserve actuelle, Cla
 
 ## Suivi
 - Rencontres réellement jouées : aucune documentée.
-- Illustration : en attente ; emplacement prévu dans 08 — Illustrations/Créatures. Référence visuelle : 1,6 m, 75 kg, masse quadrupède fibreuse.
+- Illustration : proposition de référence, générée avec ChatGPT, version 2 ; à valider. La description morphologique reste prioritaire.
 - Ne pas adapter le rang au joueur ; résoudre opposition, dégâts, fatigue et effets selon les règles officielles, sans formule universelle de dégâts. Les techniques chiffrées sont des profils locaux proposés, pas des lois du SYSTÈME.

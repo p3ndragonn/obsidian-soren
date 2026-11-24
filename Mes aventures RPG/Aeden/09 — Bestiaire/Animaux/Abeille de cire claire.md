@@ -4,7 +4,7 @@ campagne: Aeden
 branche_narrative: null
 statut_documentaire: propose
 visibilite: fondateur
-version: 1
+version: 2
 id: BST-AED-010
 date_univers: null
 derniere_validation: null
@@ -15,6 +15,10 @@ sources:
 # Abeille de cire claire
 
 > Profil d'espèce proposé, adulte de référence ; pas de rencontre ni connaissance du PJ établie.
+
+![Abeille de cire claire](../../08%20%E2%80%94%20Illustrations/Cr%C3%A9atures/Animaux/Abeille%20de%20cire%20claire.webp)
+
+*Illustration proposée ; non validée comme apparence canonique.*
 
 ## Identification et répartition
 - **Rang personnel indicatif :** F ; **niveau de combat de référence :** 1 (adultes typiques 1–3). Ni rareté d'objet ni grade de guilde ; variation individuelle possible.
@@ -38,5 +42,5 @@ Ressources maximales de base selon le règlement ; aucune réserve actuelle, Cla
 
 ## Suivi
 - Rencontres réellement jouées : aucune documentée.
-- Illustration : en attente ; emplacement prévu dans 08 — Illustrations/Créatures. Référence visuelle : 2 cm, 0,15 g, bandes crème.
+- Illustration : proposition de référence, générée avec ChatGPT, version 2 ; à valider. La description morphologique reste prioritaire.
 - Ne pas adapter le rang au joueur ; résoudre opposition, dégâts, fatigue et effets selon les règles officielles, sans formule universelle de dégâts. Les techniques chiffrées sont des profils locaux proposés, pas des lois du SYSTÈME.

@@ -4,7 +4,7 @@ campagne: Aeden
 branche_narrative: null
 statut_documentaire: propose
 visibilite: fondateur
-version: 1
+version: 2
 id: BST-AED-037
 date_univers: null
 derniere_validation: null
@@ -15,6 +15,10 @@ sources:
 # Anguille lumineuse
 
 > Profil proposé, adulte de référence ; aucune rencontre ni connaissance du PJ établie.
+
+![Anguille lumineuse](../../08%20%E2%80%94%20Illustrations/Cr%C3%A9atures/Animaux/Anguille%20lumineuse.webp)
+
+*Illustration proposée ; non validée comme apparence canonique.*
 
 ## Identification et écologie
 - **Rang indicatif :** E ; **niveau de combat :** 15 (adultes 8–23). Variation individuelle possible.
@@ -38,5 +42,5 @@ Ressources maximales de base selon règlement ; aucune réserve actuelle, Classe
 
 ## Suivi
 - Rencontres : aucune documentée.
-- Illustration : en attente dans 08 — Illustrations/Créatures ; référence visuelle : 1,3 m, 9 kg, bandes électriques.
+- Illustration : proposition de référence, générée avec ChatGPT, version 2 ; à valider. La description morphologique reste prioritaire.
 - Rang indépendant du joueur ; arbitrage contextuel, sans formule universelle de dégâts. Coûts locaux proposés, non lois universelles.

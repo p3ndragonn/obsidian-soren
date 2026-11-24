@@ -4,7 +4,7 @@ campagne: Aeden
 branche_narrative: null
 statut_documentaire: propose
 visibilite: fondateur
-version: 1
+version: 2
 id: BST-AED-034
 date_univers: null
 derniere_validation: null
@@ -15,6 +15,10 @@ sources:
 # Chèvre de Ferron
 
 > Profil proposé, adulte de référence ; aucune rencontre ni connaissance du PJ établie.
+
+![Chèvre de Ferron](../../08%20%E2%80%94%20Illustrations/Cr%C3%A9atures/Animaux/Ch%C3%A8vre%20de%20Ferron.webp)
+
+*Illustration proposée ; non validée comme apparence canonique.*
 
 ## Identification et écologie
 - **Rang indicatif :** E ; **niveau de combat :** 14 (adultes 8–22). Variation individuelle possible.
@@ -38,5 +42,5 @@ Ressources maximales de base selon règlement ; aucune réserve actuelle, Classe
 
 ## Suivi
 - Rencontres : aucune documentée.
-- Illustration : en attente dans 08 — Illustrations/Créatures ; référence visuelle : 90 cm au garrot, 70 kg, cornes striées.
+- Illustration : proposition de référence, générée avec ChatGPT, version 2 ; à valider. La description morphologique reste prioritaire.
 - Rang indépendant du joueur ; arbitrage contextuel, sans formule universelle de dégâts. Coûts locaux proposés, non lois universelles.
