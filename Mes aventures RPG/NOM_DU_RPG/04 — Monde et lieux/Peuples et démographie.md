@@ -4,11 +4,12 @@ campagne: NOM_DU_RPG
 branche_narrative: null
 statut_documentaire: valide
 visibilite: joueur
-version: 3
+version: 4
 id: MONDE-DEM-001
 date_univers: null
 derniere_validation: "2026-11-24"
 sources:
+  - "Validation explicite du joueur — morphologie d'Aedan, température corporelle et maturation des Tieflings d'Elyndra ; 24 novembre 2026"
   - "Validation du joueur — lignée écarlate, longévité locale, âges, études supérieures et rangs familiaux ; 24 novembre 2026"
   - "Validation explicite du joueur — peuples et cités, 24 novembre 2026"
   - "Validation explicite du joueur — planète, populations, royautés, provinces et calendrier, 24 novembre 2026"
@@ -46,4 +47,4 @@ Huit races confirmées ; Gnomes explicitement exclus d'Elyndra, sans modifier le
 Recensement des trois royaumes uniquement. Autres peuples non confirmés. Codex p. 4 : rangs minimaux ; aucune aptitude ou rareté inventée. Automates conscients distincts des machines programmées ; race ne détermine ni métier, ni moralité, ni culture.
 
 ## Physiologie locale — Tieflings
-Espérance de vie approximative de 500 ans sur Elyndra, suivant décision explicite du joueur. Codex p. 47 : longévité variable selon lignée et univers ; cette donnée ne modifie pas le référentiel universel, n'est pas un âge maximal garanti et n'accorde ni immunité ni bonus. Les étapes de maturation et l'apparence selon âge restent à valider.
+Espérance de vie approximative de 500 ans sur Elyndra, suivant décision explicite du joueur. Codex p. 47 : longévité variable selon lignée et univers ; cette donnée ne modifie pas le référentiel universel, n'est pas un âge maximal garanti et n'accorde ni immunité ni bonus. Étapes de maturation approximatives validées pour Elyndra : 0–40 ans enfance et adolescence ; 40–80 jeune adulte ; 80–200 adulte ; 200–360 adulte mature ; 360–440 âge avancé ; 440 ans et plus vieillesse. Intervalles indicatifs sans seuil mécanique, ni âge légal, ni conversion humaine universelle. Aedan ~65 ans, jeune adulte, apparence humaine comparable à ~25 ans. Température ~45 °C propre à Aedan ; aucune généralisation de cette température à toute la race.

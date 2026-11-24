@@ -4,19 +4,20 @@ campagne: NOM_DU_RPG
 branche_narrative: null
 statut_documentaire: a_definir
 visibilite: joueur
-version: 3
+version: 4
 id: null
 date_univers: null
 derniere_validation: "2026-11-24"
 sources:
+  - "Validation explicite du joueur — morphologie d'Aedan, température corporelle et maturation des Tieflings d'Elyndra ; 24 novembre 2026"
   - "Validation du joueur — lignée écarlate, longévité locale, âges, études supérieures et rangs familiaux ; 24 novembre 2026"
 ---
 
 # Aptitudes raciales et biologie
 
 - **Référence exacte dans le Codex :** pp. 47–49, 15.03 Tiefling écarlate
-- **Physiologie et besoins :** pigmentation rouge ou pourpre ; organisme vivant, nourriture, repos et soins ; détails morphologiques individuels en attente.
-- **Longévité et taille de référence :** espérance de vie approximative de 500 ans sur Elyndra (canon local ; pas de limite universelle). Taille variable, taille individuelle non validée.
+- **Physiologie et besoins :** pigmentation rouge profond et nuances pourpres ; organisme vivant, nourriture, repos et soins ; température corporelle de référence individuelle ~45 °C (normale pour Aedan, non seuil universel), cornes noires recourbées vers l'arrière, queue longue et fine à pointe en flèche, pas d'ailes. Ni immunité thermique ni capacité offensive automatique ; préhension avancée non établie.
+- **Longévité et taille de référence :** espérance de vie approximative de 500 ans sur Elyndra (canon local ; pas de limite universelle). Taille variable ; Aedan 187 cm et 88 kg, silhouette athlétique et musclée. Maturation locale validée : 0–40 ans enfance/adolescence ; 40–80 jeune adulte ; 80–200 adulte ; 200–360 adulte mature ; 360–440 âge avancé ; 440+ vieillesse. Bornes approximatives, pas seuils mécaniques.
 - **Transformations reconnues :** aucune transformation permanente ; Manifestation infernale temporaire, forme individuelle à définir.
 Race et sous-race : [[Mes aventures RPG/NOM_DU_RPG/01 — Personnage principal/Fiche du personnage principal|Fiche du personnage principal]].
 
@@ -41,4 +42,4 @@ Race et sous-race : [[Mes aventures RPG/NOM_DU_RPG/01 — Personnage principal/F
 
 Compétences raciales : [[Mes aventures RPG/NOM_DU_RPG/01 — Personnage principal/Compétences/Index — Compétences|Index — Compétences]]. Ne pas cumuler deux fois aptitude et compétence couvrant le même effet. Aucun bonus racial numérique automatique.
 
-Race et sous-race confirmées : Tiefling écarlate. [[Mes aventures RPG/NOM_DU_RPG/01 — Personnage principal/Compétences/Socle racial Tiefling|Socle racial Tiefling]]. Physiologie individuelle et effets propres à valider ; rang minimal E, pas de Stockage racial.
+Race et sous-race confirmées : Tiefling écarlate. [[Mes aventures RPG/NOM_DU_RPG/01 — Personnage principal/Compétences/Socle racial Tiefling|Socle racial Tiefling]]. Physiologie individuelle validée pour les traits explicitement choisis ; effets propres de Manifestation infernale à définir ; rang minimal E, pas de Stockage racial.

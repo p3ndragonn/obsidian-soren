@@ -4,11 +4,12 @@ campagne: NOM_DU_RPG
 branche_narrative: null
 statut_documentaire: a_definir
 visibilite: joueur
-version: 3
+version: 4
 id: null
 date_univers: null
 derniere_validation: "2026-11-24"
 sources:
+  - "Validation explicite du joueur — morphologie d'Aedan, température corporelle et maturation des Tieflings d'Elyndra ; 24 novembre 2026"
   - "Validation du joueur — lignée écarlate, longévité locale, âges, études supérieures et rangs familiaux ; 24 novembre 2026"
   - "Validation explicite d'Aedan et délégation de création de sa famille — 24 novembre 2026"
 ---
@@ -21,7 +22,7 @@ sources:
 - **Sexe :** Masculin
 - **Race et sous-race :** Tiefling écarlate (15.03 du Codex), race et sous-race validées.
 - **Origine :** [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Lieux/Les Portes d'Orion|Les Portes d'Orion]], Marche d'Orion, Valthéria ; univers 827, Elyndra
-- **Taille, morphologie, visage et signes distinctifs :** À définir
+- **Taille, morphologie, visage et signes distinctifs :** 187 cm, 88 kg, silhouette athlétique et musclée ; peau rouge sombre et profonde avec nuances pourpres ; cheveux noirs courts et texturés, yeux ambrés, barbe courte ; deux cornes noires recourbées vers l'arrière ; queue longue et fine à pointe en flèche ; ailes absentes ; tatouage sur le pectoral droit (motif non défini). Température corporelle naturelle ~45 °C. Apparence jeune adulte selon maturation locale validée ; équivalent humain approximatif de 25 ans. Détails fins du visage et motif du tatouage à préciser si souhaité.
 - **Portrait officiel :** À définir
 
 ## 2 — Statut du SYSTÈME
@@ -46,7 +47,7 @@ sources:
 - **Transformations et particularités connues :** À définir
 - **Jalons personnels :** À définir
 - **Exceptions validées :** À définir
-- **Validation définitive :** identité, race, sous-race, âge approximatif, origine et formation supérieure achevée validés ; fiche finale non validée.
+- **Validation définitive :** identité, race, sous-race, âge approximatif, origine, morphologie et formation supérieure achevée validés ; fiche finale non validée.
 [[Mes aventures RPG/NOM_DU_RPG/02 — Journal et chronologie/Chronologie générale|Chronologie générale]]
 
 Les données chiffrées et objets détaillés restent dans leurs fiches maîtresses. La vue Fondateur complète est distincte. Ne pas inventer les champs manquants.
