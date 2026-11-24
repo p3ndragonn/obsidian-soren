@@ -2,11 +2,11 @@
   "schema_version": 1,
   "campagne": "Aeden",
   "branche": "principale",
-  "sauvegarde_id": "AED-INIT-000",
-  "ordre": 0,
+  "sauvegarde_id": "AED-J1-001",
+  "ordre": 1,
   "date_univers": "1842 TC — 15 Doréal",
   "heure": "08:00",
   "lieu": "Appartement personnel, Les Portes d’Orion",
-  "source_scene": "Mes aventures RPG/Aeden/99 — Archives/États de reprise/AED-INIT-000.md",
+  "source_scene": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 1 — Ouverture.md",
   "point_majeur": null
 }

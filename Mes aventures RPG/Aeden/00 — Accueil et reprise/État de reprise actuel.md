@@ -4,7 +4,7 @@ campagne: Aeden
 branche_narrative: principale
 statut_documentaire: valide
 visibilite: joueur
-version: 18
+version: 19
 id: AED-REPRISE-COURANTE
 date_univers: "1842 TC — 15 Doréal"
 derniere_validation: "2026-11-24"
@@ -22,13 +22,13 @@ sources:
 
 # État de reprise actuel
 
-> [!note] Sauvegarde administrative initiale enregistrée ; aucune partie commencée.
+> [!note] Campagne lancée ; ouverture du chapitre I.
 
 - Campagne : Les Arcanes d’Elyndra, AED-827, univers 827.
 - Branche : principale ; sauvegarde AED-INIT-000, continuité administrative, ordre 0.
-- Chapitre I non ouvert ; Jour 1, Aquaris 15 Doréal 1842 TC, 08 h 00 ; appartement personnel, Les Portes d’Orion.
-- Dernière scène et action : aucune. Aucun événement joué.
-- Décision attendue : approbation finale et lancement.
+- Chapitre I — Un nouveau départ ; Jour 1, Aquaris 15 Doréal 1842 TC, 08 h 00 ; appartement personnel, Les Portes d’Orion.
+- Dernière scène : ouverture dans le séjour de l’appartement ; aucune action volontaire du joueur.
+- Décision attendue : première action d’Aedan.
 - Échéances : charges prévisionnelles ; aucun rendez-vous précis établi.
 - Instantané : [[Mes aventures RPG/Aeden/99 — Archives/États de reprise/AED-INIT-000]] ; aucun point majeur.
 
@@ -51,6 +51,6 @@ Le complément réservé est conservé séparément. Ne pas avancer le temps pen
 
 - [[Mes aventures RPG/Aeden/01 — Personnage principal/Proposition de statut initial|Proposition de statut initial]] — proposition initiale conservée comme trace validée ; état courant dans les fiches maîtresses.
 
-- [[Mes aventures RPG/Aeden/01 — Personnage principal/Biographie et personnalité d’Aedan|Biographie et personnalité d’Aedan]] — validée ; [[Mes aventures RPG/Aeden/01 — Personnage principal/Dernières fondations proposées|Dernières fondations proposées]] — dernières décisions validées. Aucun chapitre ouvert.
+- [[Mes aventures RPG/Aeden/01 — Personnage principal/Biographie et personnalité d’Aedan|Biographie et personnalité d’Aedan]] — validée ; [[Mes aventures RPG/Aeden/01 — Personnage principal/Dernières fondations proposées|Dernières fondations proposées]] — dernières décisions validées. Chapitre I ouvert.
 
-- [[Mes aventures RPG/Aeden/08 — Illustrations/Index — Illustrations|Index des illustrations]] — dix visuels archivés ; aucune scène jouée.
+- [[Mes aventures RPG/Aeden/08 — Illustrations/Index — Illustrations|Index des illustrations]] — dix visuels archivés ; scène d’ouverture présentée.

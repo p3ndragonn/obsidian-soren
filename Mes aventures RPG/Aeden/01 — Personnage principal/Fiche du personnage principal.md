@@ -1,10 +1,10 @@
 ---
 type: personnage_principal
 campagne: Aeden
-branche_narrative: null
-statut_documentaire: a_definir
+branche_narrative: principale
+statut_documentaire: valide
 visibilite: joueur
-version: 12
+version: 13
 id: PJ-AED-001
 date_univers: null
 derniere_validation: "2026-11-24"
@@ -60,7 +60,7 @@ Fortune personnelle disponible 350 000 P ; atelier indépendant personnel avec a
 - **Transformations et particularités connues :** Manifestation infernale individualisée : marques lumineuses rouge sombre sur avant-bras et cornes ; voir [[Mes aventures RPG/Aeden/01 — Personnage principal/Compétences/Manifestation infernale|Manifestation infernale]]. Aucune transformation permanente.
 - **Jalons personnels :** À définir
 - **Exceptions validées :** À définir
-- **Validation définitive :** identité, race, sous-race, âge approximatif, origine, morphologie, parcours, rang, Classe, Profession, niveaux, statistiques, compétences, Titres, équipements, inventaire, patrimoine, biographie, personnalité, goûts et ambitions validés ; dernières décisions intégrées ; approbation finale de lancement attendue.
+- **Validation définitive :** identité, race, sous-race, âge approximatif, origine, morphologie, parcours, rang, Classe, Profession, niveaux, statistiques, compétences, Titres, équipements, inventaire, patrimoine, biographie, personnalité, goûts et ambitions validés ; dernières décisions intégrées ; validation définitive explicite du joueur le 24 novembre 2026 ; fiche verrouillée.
 [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Chronologie générale|Chronologie générale]]
 
 Les données chiffrées et objets détaillés restent dans leurs fiches maîtresses. La vue Fondateur complète est distincte. Ne pas inventer les champs manquants.

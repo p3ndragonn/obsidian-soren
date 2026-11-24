@@ -1,6 +1,6 @@
 # Les Arcanes d’Elyndra — Accueil
 
-Campagne AED-827, univers 827, branche narrative principale. Fondations validées par étapes ; lancement non effectué.
+Campagne AED-827, univers 827, branche narrative principale. Fondations validées par étapes ; lancement autorisé et chapitre I ouvert.
 
 [[Mes aventures RPG/Aeden/00 — Accueil et reprise/Tableau de bord — Aeden|Tableau de bord]] · [[Mes aventures RPG/Aeden/00 — Accueil et reprise/État de reprise actuel|État de reprise actuel]] · [[Mes aventures RPG/Aeden/00 — Accueil et reprise/Fondations à valider|Fondations à valider]]
 
