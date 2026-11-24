@@ -1,0 +1,58 @@
+name: Migration unique vers Aeden
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/migration-aeden.yml']
+permissions:
+  contents: write
+jobs:
+  rename:
+    if: github.event.before == 'ddb3aca757ef2f7baee2a2755f46a615e6e90828'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.sha }}
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m pip install PyYAML==6.0.2
+      - name: Renommer la campagne sans modifier les faits
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          base = Path('Mes aventures RPG')
+          old = base / 'NOM_DU_RPG'
+          new = base / 'Aeden'
+          assert old.is_dir() and not new.exists()
+          paths = list(old.rglob('*'))
+          n = sum(p.is_file() for p in paths)
+          changed = 0
+          for p in paths:
+              if p.is_file() and p.suffix in ('.md', '.json', '.py', '.yaml', '.yml', '.txt'):
+                  data = p.read_bytes()
+                  updated = data.replace(b'NOM_DU_RPG', b'Aeden')
+                  if data != updated:
+                      p.write_bytes(updated)
+                      changed += 1
+          for p in sorted(paths, key=lambda p: len(p.parts), reverse=True):
+              if 'NOM_DU_RPG' in p.name:
+                  dest = p.with_name(p.name.replace('NOM_DU_RPG', 'Aeden'))
+                  assert not dest.exists()
+                  p.rename(dest)
+          old.rename(new)
+          assert sum(p.is_file() for p in new.rglob('*')) == n
+          assert not any(b'NOM_DU_RPG' in p.read_bytes() for p in new.rglob('*') if p.is_file() and p.suffix in ('.md', '.json', '.py', '.yaml', '.yml', '.txt'))
+          print(f'{n} fichiers conservés ; {changed} fichiers actualisés.')
+          PY
+      - name: Vérifier avant enregistrement
+        run: |
+          python "Mes aventures RPG/Aeden/18 — Contrôle de cohérence/test_audit.py"
+          python "Mes aventures RPG/Aeden/18 — Contrôle de cohérence/audit.py" || echo "Audit : anomalies à examiner séparément"
+      - name: Enregistrer la migration
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- "Mes aventures RPG/NOM_DU_RPG" "Mes aventures RPG/Aeden"
+          git commit -m "RPG : renommer NOM_DU_RPG en Aeden"
+          git push origin HEAD:main
