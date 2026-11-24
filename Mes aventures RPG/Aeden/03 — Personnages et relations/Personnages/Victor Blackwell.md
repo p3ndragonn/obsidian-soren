@@ -4,11 +4,12 @@ campagne: Aeden
 branche_narrative: null
 statut_documentaire: valide
 visibilite: joueur
-version: 2
+version: 3
 id: PNJ-BLACKWELL-001
 date_univers: null
 derniere_validation: "2026-11-24"
 sources:
+  - "Illustrations générées dans la conversation et intégration explicitement demandée par le joueur — 24 novembre 2026 ; WebP pleine résolution, référence visuelle sans modification des faits textuels"
   - "Validation du joueur — lignée écarlate, longévité locale, âges, études supérieures et rangs familiaux ; 24 novembre 2026"
   - "Validation explicite d'Aedan et délégation de création de sa famille — 24 novembre 2026"
 ---
@@ -20,7 +21,7 @@ sources:
 - Âge : environ 265 ans au cadre initial 1842 TC ; date de naissance exacte à fixer avec la date initiale. 
 - Sexe : Masculin ; race/sous-race : Tiefling cornu
 - Apparence : 1,91 m, épaules larges, peau gris brun, cornes épaisses recourbées vers l'arrière, yeux ambrés, cheveux noirs grisonnants courts, barbe courte soignée. Tenues professionnelles sobres, veste anthracite, bottes de travail en atelier.
-- Résidence : [[Mes aventures RPG/Aeden/04 — Monde et lieux/Lieux/Résidence Blackwell|Résidence Blackwell]]. Portrait officiel : non créé.
+- Résidence : [[Mes aventures RPG/Aeden/04 — Monde et lieux/Lieux/Résidence Blackwell|Résidence Blackwell]]. Portrait officiel : [[Mes aventures RPG/Aeden/08 — Illustrations/Personnages/Victor Blackwell — Portrait officiel.webp|Victor Blackwell]].
 
 ## 2 — Statut du SYSTÈME
 Rang personnel A. Classe **Gardien de bastion [C]**, niveau 46, EXP 1200/5050. Profession **Ingénieur des remparts runiques [B]**, niveau 63, EXP 4900/9028. Grade administratif : Or — Guilde des Artisans. Titres SYSTÈME : aucun actif établi. Statistiques permanentes initiales, déterminées selon parcours (pas de barème fixe par rang) :
@@ -52,3 +53,6 @@ Famille : [[Mes aventures RPG/Aeden/03 — Personnages et relations/Familles/Fam
 État initial créé par délégation explicite ; aucune scène jouée, aucune récompense ou progression en jeu. Pas de secret majeur ni particularité exceptionnelle attribuée. Les capacités et objectifs évolueront indépendamment d'Aedan. Les dates, futurs contrats et équipements détaillés seront fixés si nécessaires, pas de faux événements joués.
 
 Révision initiale explicite : âge et rang modifiés avant toute scène ; longévité locale d'environ 500 ans. Classes, professions, niveaux, EXP, compétences, statistiques et patrimoine antérieurs conservés : pas de recalcul automatique des points acquis ni d'ascension jouée. Chronologie détaillée et éventuelle révision des caractéristiques selon parcours restent à valider si nécessaire.
+
+## Portrait officiel
+![[Mes aventures RPG/Aeden/08 — Illustrations/Personnages/Victor Blackwell — Portrait officiel.webp]]

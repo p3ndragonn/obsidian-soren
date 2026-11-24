@@ -4,11 +4,12 @@ campagne: Aeden
 branche_narrative: null
 statut_documentaire: a_definir
 visibilite: joueur
-version: 10
+version: 11
 id: null
 date_univers: null
 derniere_validation: "2026-11-24"
 sources:
+  - "Illustrations générées dans la conversation et intégration explicitement demandée par le joueur — 24 novembre 2026 ; WebP pleine résolution, référence visuelle sans modification des faits textuels"
   - "Validation explicite du joueur — biographie, personnalité, goûts, relations familiales, ambitions Explorateur et Inventeur, attirance masculine et vie sentimentale, meilleur ami de cursus ; demande de croyances et rival ; 24 novembre 2026"
   - "Validation explicite du joueur — enchantements, bonus, valeurs, liaisons, bracelet, moto, atelier-appartement, inventaire, patrimoine et financements ; 24 novembre 2026"
   - "Validation explicite du joueur — trois Titres, équipements, tenue légère B à runes défensives, bracelet B 20 m³, fortune 350 000 P, atelier-appartement indépendant et moto B ; 24 novembre 2026"
@@ -29,7 +30,7 @@ sources:
 - **Race et sous-race :** Tiefling écarlate (15.03 du Codex), race et sous-race validées.
 - **Origine :** [[Mes aventures RPG/Aeden/04 — Monde et lieux/Lieux/Les Portes d'Orion|Les Portes d'Orion]], Marche d'Orion, Valthéria ; univers 827, Elyndra
 - **Taille, morphologie, visage et signes distinctifs :** 187 cm, 88 kg, silhouette athlétique et musclée ; peau rouge sombre et profonde avec nuances pourpres ; cheveux noirs courts et texturés, yeux ambrés, barbe courte ; deux cornes noires recourbées vers l'arrière ; queue longue et fine à pointe en flèche ; ailes absentes ; tatouage esthétique de type sceau arcanique sur le pectoral droit, encre noire, diamètre approximatif 15 cm ; pas d'enchantement. Température corporelle naturelle ~45 °C. Apparence jeune adulte selon maturation locale validée ; équivalent humain approximatif de 25 ans. Détails fins du visage et dessin exact du sceau à préciser si souhaité.
-- **Portrait officiel :** À définir
+- **Portrait officiel :** [[Mes aventures RPG/Aeden/08 — Illustrations/Personnages/Aedan Blackwell — Portrait officiel.webp|Aedan Blackwell]]
 
 ## 2 — Statut du SYSTÈME
 Rang personnel B ; Classe Combattant runo-arcanique [A] ; Profession Architecte runo-arcanique [S] (validés). Niveaux, EXP, statistiques et compétences validés ; références maîtresses ci-dessous.
@@ -63,3 +64,6 @@ Fortune personnelle disponible 350 000 P ; atelier indépendant personnel avec a
 [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Chronologie générale|Chronologie générale]]
 
 Les données chiffrées et objets détaillés restent dans leurs fiches maîtresses. La vue Fondateur complète est distincte. Ne pas inventer les champs manquants.
+
+## Portrait officiel
+![[Mes aventures RPG/Aeden/08 — Illustrations/Personnages/Aedan Blackwell — Portrait officiel.webp]]
