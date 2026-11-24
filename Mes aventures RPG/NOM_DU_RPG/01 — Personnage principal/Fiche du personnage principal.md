@@ -4,11 +4,12 @@ campagne: NOM_DU_RPG
 branche_narrative: null
 statut_documentaire: a_definir
 visibilite: joueur
-version: 8
+version: 9
 id: null
 date_univers: null
 derniere_validation: "2026-11-24"
 sources:
+  - "Validation explicite du joueur — enchantements, bonus, valeurs, liaisons, bracelet, moto, atelier-appartement, inventaire, patrimoine et financements ; 24 novembre 2026"
   - "Validation explicite du joueur — trois Titres, équipements, tenue légère B à runes défensives, bracelet B 20 m³, fortune 350 000 P, atelier-appartement indépendant et moto B ; 24 novembre 2026"
   - "Validation explicite du joueur — niveaux 32/27, statistiques, 7 compétences de Classe et 7 de Profession, 5 universelles, Manifestation infernale, prototype et reconstitution des ascensions ; 24 novembre 2026"
   - "Validation explicite du joueur — parcours et double cursus, rang personnel B, Combattant runo-arcanique [A] et Architecte runo-arcanique [S] ; 24 novembre 2026"
@@ -38,7 +39,7 @@ Trois Titres validés et actifs initialement : Pionnier des deux disciplines, Pr
 [[Mes aventures RPG/NOM_DU_RPG/01 — Personnage principal/Compétences/Index — Compétences|Index — Compétences]] · [[Mes aventures RPG/NOM_DU_RPG/01 — Personnage principal/Aptitudes raciales et biologie|Aptitudes raciales et biologie]]
 
 ## 4 — Équipement et possessions
-Fortune personnelle disponible 350 000 P ; atelier indépendant personnel avec appartement à l'étage, accès conservé à la suite familiale (non possédée) ; moto magitech B ; équipement choisi et bracelet B 20 m³. Détails, estimations et financement proposés : [[Mes aventures RPG/NOM_DU_RPG/05 — Inventaire et finances/Proposition de patrimoine et équipements initiaux|Proposition de patrimoine et équipements initiaux]]. [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Lieux/Atelier et appartement d’Aedan Blackwell|Atelier et appartement d’Aedan Blackwell]].
+Fortune personnelle disponible 350 000 P ; atelier indépendant personnel avec appartement à l'étage, accès conservé à la suite familiale (non possédée) ; moto magitech B ; équipement choisi et bracelet B 20 m³. Détails, estimations et financement validés ; patrimoine net estimé 2 135 000 P, aucune dette. [[Mes aventures RPG/NOM_DU_RPG/05 — Inventaire et finances/Possessions/Patrimoine personnel d’Aedan|Patrimoine personnel d’Aedan]]. [[Mes aventures RPG/NOM_DU_RPG/04 — Monde et lieux/Lieux/Atelier et appartement d’Aedan Blackwell|Atelier et appartement d’Aedan Blackwell]].
 [[Mes aventures RPG/NOM_DU_RPG/05 — Inventaire et finances/Équipement porté|Équipement porté]] · [[Mes aventures RPG/NOM_DU_RPG/05 — Inventaire et finances/Inventaire actuel|Inventaire actuel]] · [[Mes aventures RPG/NOM_DU_RPG/05 — Inventaire et finances/Comptabilité personnelle|Comptabilité personnelle]]
 
 ## 5 — Histoire et personnalité
@@ -54,7 +55,7 @@ Fortune personnelle disponible 350 000 P ; atelier indépendant personnel avec a
 - **Transformations et particularités connues :** Manifestation infernale individualisée : marques lumineuses rouge sombre sur avant-bras et cornes ; voir [[Mes aventures RPG/NOM_DU_RPG/01 — Personnage principal/Compétences/Manifestation infernale|Manifestation infernale]]. Aucune transformation permanente.
 - **Jalons personnels :** À définir
 - **Exceptions validées :** À définir
-- **Validation définitive :** identité, race, sous-race, âge approximatif, origine, morphologie, parcours, rang, Classe, Profession, niveaux, statistiques et compétences validés ; fiche finale non validée.
+- **Validation définitive :** identité, race, sous-race, âge approximatif, origine, morphologie, parcours, rang, Classe, Profession, niveaux, statistiques, compétences, Titres, équipements, inventaire et patrimoine validés ; fiche finale non validée.
 [[Mes aventures RPG/NOM_DU_RPG/02 — Journal et chronologie/Chronologie générale|Chronologie générale]]
 
 Les données chiffrées et objets détaillés restent dans leurs fiches maîtresses. La vue Fondateur complète est distincte. Ne pas inventer les champs manquants.

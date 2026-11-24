@@ -2,19 +2,20 @@
 type: proposition
 campagne: NOM_DU_RPG
 branche_narrative: null
-statut_documentaire: a_definir
+statut_documentaire: valide
 visibilite: joueur
-version: 1
+version: 2
 id: PJ-PROP-PATR-001
 date_univers: null
 derniere_validation: "2026-11-24"
 sources:
+  - "Validation explicite du joueur — enchantements, bonus, valeurs, liaisons, bracelet, moto, atelier-appartement, inventaire, patrimoine et financements ; 24 novembre 2026"
   - "Validation explicite du joueur — trois Titres, équipements, tenue légère B à runes défensives, bracelet B 20 m³, fortune 350 000 P, atelier-appartement indépendant et moto B ; 24 novembre 2026"
 ---
 
 # Proposition de patrimoine et équipements initiaux
 
-Seuls choix explicites du joueur sont canoniques : possession des 9 objets et raretés, tenue B avec runes défensives, bracelet B 20 m³, atelier-appartement et accès familial, 350 000 P disponibles, moto B, 3 Titres. Tous les paramètres nouveaux suivants attendent validation.
+Proposition historique validée intégralement par le joueur le 24 novembre 2026. Les formulations provisoires ci-dessous sont conservées comme trace ; données courantes dans les fiches d'objets, [[Mes aventures RPG/NOM_DU_RPG/05 — Inventaire et finances/Possessions/Patrimoine personnel d’Aedan|Patrimoine personnel d’Aedan]], [[Mes aventures RPG/NOM_DU_RPG/05 — Inventaire et finances/Inventaire actuel|Inventaire actuel]] et [[Mes aventures RPG/NOM_DU_RPG/01 — Personnage principal/Statistiques et ressources|Statistiques et ressources]]. Effets exacts des potions et date de première scène restent à définir.
 
 | Objet | Rareté | Valeur estimée P | Propriétés et limites proposées | Bonus proposés | Lien proposé |
 | --- | --- | ---: | --- | --- | --- |

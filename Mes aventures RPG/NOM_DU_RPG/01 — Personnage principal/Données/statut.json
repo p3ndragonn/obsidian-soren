@@ -22,28 +22,28 @@
     "PER": 330
   },
   "equipement": {
-    "FOR": 0,
-    "VIT": 0,
-    "END": 0,
-    "AGI": 0,
-    "SAG": 0,
-    "PER": 0
+    "FOR": 6,
+    "VIT": 18,
+    "END": 26,
+    "AGI": 22,
+    "SAG": 22,
+    "PER": 16
   },
   "ressources": {
     "HP": {
-      "actuelle": 2650,
+      "actuelle": 2830,
       "base": 2650,
-      "maximum": 2650
+      "maximum": 2830
     },
     "MP": {
-      "actuelle": 3950,
+      "actuelle": 4170,
       "base": 3950,
-      "maximum": 3950
+      "maximum": 4170
     },
     "EP": {
-      "actuelle": 2950,
+      "actuelle": 3210,
       "base": 2950,
-      "maximum": 2950
+      "maximum": 3210
     }
   },
   "titres_actifs": [
