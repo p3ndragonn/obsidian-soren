@@ -4,7 +4,7 @@ campagne: NOM_DU_RPG
 branche_narrative: null
 statut_documentaire: valide
 visibilite: joueur
-version: 2
+version: 3
 id: PJ-COMP-004
 date_univers: null
 derniere_validation: "2026-11-24"
@@ -16,6 +16,6 @@ sources:
 
 # Identification
 
-Catégorie : universelle. Attribuée par règle officielle à Aedan. Attribuée à tous les intégrés ; objets et vivants selon règlement VIII ; vivants au maximum Espèce — Rang, aucune révélation automatique des classes, professions ou statistiques. Seuil de base B validé ; bonus de pénétration +1 au rang personnel B conformément au règlement. Maîtrise qualitative non définie ; pas de niveau numérique ajouté, coût/durée non inventés. Aucun usage joué.
+Catégorie : universelle. Attribuée par règle officielle à Aedan. Attribuée à tous les intégrés ; objets et vivants selon règlement VIII ; vivants au maximum Espèce — Rang, aucune révélation automatique des classes, professions ou statistiques. Maîtrise qualitative non définie ; pas de niveau numérique ajouté, coût/durée non inventés. Aucun usage joué.
 
 Seuil de base B validé ; pénétration de rang personnel B : +1 selon Règlement p. 7. Sur objets : complet au seuil applicable, partiel +1, faible +2, échec +3 ou plus ; sur vivants : espèce et rang au maximum selon opposition et pénétration, jamais Classe, Profession, statistiques ni secrets. Aucun usage joué.

@@ -4,7 +4,7 @@ campagne: NOM_DU_RPG
 branche_narrative: null
 statut_documentaire: valide
 visibilite: joueur
-version: 2
+version: 3
 id: PJ-COMP-003
 date_univers: null
 derniere_validation: "2026-11-24"
@@ -16,6 +16,6 @@ sources:
 
 # Manifestation infernale
 
-Catégorie : raciale. Attribuée par règle officielle à Aedan. Expression temporaire de traits ou effets infernaux propres à l'individu ; pas de transformation raciale permanente. Forme et conditions individuelles à définir. Maîtrise qualitative non définie ; pas de niveau numérique ajouté, coût/durée non inventés. Aucun usage joué.
+Catégorie : raciale. Attribuée par règle officielle à Aedan. Expression temporaire de traits ou effets infernaux propres à l'individu ; pas de transformation raciale permanente. Maîtrise qualitative non définie ; pas de niveau numérique ajouté, Aucun usage joué.
 
 Manifestation individuelle validée : marques lumineuses rouge sombre sur les avant-bras, reflets écarlates sur les cornes ; accompagne la concentration/canalisation de l'énergie infernale acquise. Active, 50 MP à l'activation + 15 MP/min, durée maximale 3 minutes. Aucun bonus automatique, changement permanent, immunité ni sort gratuit.
