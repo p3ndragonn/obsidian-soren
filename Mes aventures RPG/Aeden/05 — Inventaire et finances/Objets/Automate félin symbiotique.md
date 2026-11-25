@@ -4,7 +4,7 @@ campagne: Aeden
 branche_narrative: principale
 statut_documentaire: valide
 visibilite: joueur
-version: 2
+version: 3
 id: OBJ-AED-AUTOMATE-FELIN
 date_univers: "1842 TC — 15 Doréal"
 derniere_validation: null
@@ -19,3 +19,7 @@ Même objet OBJ-AED-AUTOMATE-FELIN. Propriété Aedan, acquis J1 32 000 P avec d
 État J2 09:04 : microfissure réparée, recharge ambiante active, liaison Aedan établie 08:41, nom ORION attribué 08:42. Cinq fonctions testées avec succès en environnement domestique, limites non extrapolées. Forme compacte 26 × 12 × 11 cm, masse <2 kg inchangée, tenu par Aedan dans l'atelier. Mallette toujours possédée. Fabricant inconnu. Provenance Seravhen, rapport 1794 TC.
 
 Historique J1 : pont temporaire retiré, recharge interrompue, pas de liaison à cette époque. Ces états historiques ne constituent plus l'état courant.
+
+
+## J3
+Intact ; transfert infernal250 MP total, signature conservée temporairement, recharge ambiante continue, aucune nouvelle fonction ni rareté. Voir fiche maîtresse ORION.

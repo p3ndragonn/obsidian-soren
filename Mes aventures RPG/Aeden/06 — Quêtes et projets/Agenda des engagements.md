@@ -4,7 +4,7 @@ campagne: Aeden
 branche_narrative: null
 statut_documentaire: a_definir
 visibilite: joueur
-version: 3
+version: 4
 id: null
 date_univers: null
 derniere_validation: null
@@ -33,3 +33,7 @@ Un rendez-vous prévu n'est pas joué. Garder les retards, annulations et change
 
 ## Actualisation J2
 AG001–004 réalisés ; AG005 confirmé17 Doréal09:00 Lydia ménage/lessive accès appartement uniquement jusqu'à23:59 ; AG006 retour22 Doréal. 17 Doréal06:30 réveil,06:40 déjeuner, Aedan café,07:20 N2/inventaire Eryan, messages réguliers, photos serrure N3 si accessible, récupération N1, archives, rapport quotidien. Mira/Thoren analyse demain, copie données si accessibles. Pâtisserie Alyssa au retour, examen ORION et plaques ; pas de prix/délai précis. [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 2 — Bilan.md]].
+
+
+## J3 — échéances à suivre
+J4 06:30 réveil, contrôle ORION proposé, inspection N2-06, rapport quotidien. Mira traduction quatre documents S demandée17:36, accusé17:42, délai non garanti. KH-002 envoyé20:39, réponses attendues. Lydia ménage prévu J3 09:00 accès expire23:59, réalisation/coût non confirmés. Retour22 Doréal, restitution prêts, pâtisserie Alyssa et plaques à récupérer. Entraînement Eryan et couteau secondaire envisagés, aucune date ni dépense.

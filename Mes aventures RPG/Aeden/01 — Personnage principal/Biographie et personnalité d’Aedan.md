@@ -4,7 +4,7 @@ campagne: Aeden
 branche_narrative: null
 statut_documentaire: valide
 visibilite: joueur
-version: 3
+version: 4
 id: PJ-BIO-001
 date_univers: null
 derniere_validation: "2026-11-24"
@@ -33,3 +33,7 @@ Explorateur : régions inexplorées d'Aethranea, donjons complexes, technologies
 
 ## Précisions J2
 Aedan déclare à Eryan plus de cinquante missions guilde, certaines avec pertes de participants (aucun détail ou récompense inventé). Souhaite explorer ruines profondes inconnues et déchiffrer anciens ; pas de rang cible ni échéance, saisit occasions. Confidentialité auprès parents promise Eryan. Célibat choisi, ne souhaite pas se poser jeune comme parents. [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 2 — Bilan.md]].
+
+
+## Précisions J3
+Aedan raconte première élimination insecte rang E (espèce/date inconnues), liquide vert malodorant et vomissement, habituation ultérieure. Préférence initiale distance, formation mêlée, ancien enseignant non nommé griffes rétractables. Tendance semer soutiens, équipe permanente non trouvée. Entraînement Eryan et couteau long secondaire envisagés sans engagement financier. [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 3 — Bilan.md]]

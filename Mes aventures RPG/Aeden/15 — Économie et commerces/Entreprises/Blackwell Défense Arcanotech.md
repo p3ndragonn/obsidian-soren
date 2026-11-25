@@ -4,7 +4,7 @@ campagne: Aeden
 branche_narrative: null
 statut_documentaire: valide
 visibilite: joueur
-version: 2
+version: 3
 id: ENT-BLACKWELL-001
 date_univers: null
 derniere_validation: "2026-11-24"
@@ -19,3 +19,7 @@ Bureau indépendant de conception et d'installation de protections arcanotech, [
 
 ## Fin J2
 Trésorerie990000 P après J1 (85000 lot,25000 prestation), hors coûts non chiffrés. Permis17000 P facturés dont5000 caution, locations10000 P engagées, paiement non confirmé, fournitures/salaire mission non quantifiés. Aucun encaissement. N1 propriété entreprise selon CTR-AED-KH-001,400000 P estimation partielle,726 objets/8 docs. Prêts deux S, mise à terre B, matériel mission. [[Mes aventures RPG/Aeden/06 — Quêtes et projets/Projets/Contrat et permis de Kharvoss]] · [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 2 — Bilan.md]].
+
+
+## J3 Kharvoss
+Aucun flux confirmé. Engagements27000 P, solde de référence990000 P hors frais non chiffrés. Récupérations entreprise1605 objets149 docs25,019m³, estimation partielle544320–558640 P, installations non retirées328000 P, aucune vente. KH-002 transmis20:39, traduction demandée Mira.
