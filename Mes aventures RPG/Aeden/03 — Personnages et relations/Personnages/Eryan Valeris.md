@@ -4,7 +4,7 @@ campagne: Aeden
 branche_narrative: principale
 statut_documentaire: valide
 visibilite: joueur
-version: 2
+version: 3
 id: PNJ-AED-ERYAN
 date_univers: "1842 TC — 16 Doréal"
 derniere_validation: "2026-11-25"
@@ -25,7 +25,7 @@ sources:
 - Voix douce et claire, débit plus rapide lorsqu'il s'enthousiasme. Droitier, habile de ses deux mains pour la microgravure. Pas de tatouage ni de modification corporelle.
 - Tenue habituelle : uniforme d'ingénieur bleu marine avec manches ajustées ; hors travail chemise de lin claire, pantalon sombre, bottines. Tenue actuelle : manteau d'exploration bleu sombre, protections légères en cuir renforcé, bottes de marche, bâton arcanique court dans le dos.
 - Résidence : appartement loué de 42 m² dans un quartier mixte résidentiel et artisanal des Portes d'Orion (adresse exacte non fixée). Un bureau de microgravure domestique, une chambre, séjour/cuisine et salle d'eau ; aucune entreprise propre.
-- Portrait officiel : à générer et archiver, aucune image officielle préexistante dans le dépôt.
+- Portrait officiel : [[Mes aventures RPG/Aeden/08 — Illustrations/Personnages/Eryan Valeris — Portrait officiel.webp|Eryan Valeris — portrait officiel]], version 1, tenue d'exploration du J2.
 
 ## 2 — Statut du SYSTÈME
 **Rang personnel B** (minimum racial officiel, né B ; l'ancien C est une erreur documentaire corrigée, pas une ascension). Classe **Tisseur de liens protecteurs [C]**, niveau 22, EXP 680/1402. Profession **Micrograveur de circuits arcaniques [B]**, niveau 46, EXP 2370/5050. Deux voies distinctes, niveau initial de référence à J2 ; aucun gain de jeu imputé. Aucun point libre ; aucun titre actif ou possédé. La faible expérience du combat reste un fait et ne découle pas du rang.
@@ -123,3 +123,9 @@ Devenir autonome dans la conception de circuits compacts et fiables, financer se
 
 ## Suivi autonome
 Détail des motivations, finances privées et informations non communiquées dans le registre réservé au Fondateur. Les choix d'Eryan sont autonomes : il peut refuser, interrompre une mission dangereuse et poursuivre ses recherches indépendamment d'Aedan.
+
+## Portrait officiel — tenue d’exploration
+
+![Eryan Valeris — portrait officiel](../../08%20%E2%80%94%20Illustrations/Personnages/Eryan%20Valeris%20%E2%80%94%20Portrait%20officiel.webp)
+
+Génération originale du 25 novembre 2026, WebP 1024 × 1536, version 1. Référence officielle ; les détails décoratifs du décor et des accessoires ne constituent pas de nouveaux objets ni des faits mécaniques.

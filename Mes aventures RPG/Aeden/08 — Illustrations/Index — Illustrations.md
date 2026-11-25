@@ -4,7 +4,7 @@ campagne: Aeden
 branche_narrative: null
 statut_documentaire: index
 visibilite: joueur
-version: 5
+version: 6
 id: null
 date_univers: null
 derniere_validation: "2026-11-24"
@@ -34,3 +34,6 @@ Retour : [[Mes aventures RPG/Aeden/00 — Accueil et reprise/Tableau de bord —
 
 ## ORION — deux illustrations officielles archivées
 Les deux références WebP sont intégrées et liées à [[Mes aventures RPG/Aeden/03 — Personnages et relations/Familiers/ORION]] et à [[Mes aventures RPG/Aeden/08 — Illustrations/Objets/Index — Illustrations objets]].
+
+## Eryan Valeris
+Portrait officiel v1 archivé, lié à [[Mes aventures RPG/Aeden/03 — Personnages et relations/Personnages/Eryan Valeris]] et à [[Mes aventures RPG/Aeden/08 — Illustrations/Personnages/Index — Illustrations personnages]].
