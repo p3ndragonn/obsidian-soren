@@ -6,7 +6,7 @@
   "classe": {
     "rarete": "A",
     "niveau": 32,
-    "exp": 1450
+    "exp": 1503
   },
   "profession": {
     "rarete": "S",
@@ -55,6 +55,23 @@
   "points_libres": 0,
   "affiliations_ref": "affiliations.json",
   "etat_date": "1842 TC — 16 Doréal 22:24",
-  "exp_j2_statut": "en_attente_niveaux_specimens_et_arbitrage_profession",
-  "ressources_note": "HP sans blessure, maxima base au coucher ; MP et EP exacts non mesurés, récupération non chiffrée"
+  "exp_j2_statut": "combat_attribue_profession_en_attente",
+  "ressources_note": "HP sans blessure, maxima base au coucher ; MP et EP exacts non mesurés, récupération non chiffrée",
+  "exp_combat_j2": {
+    "gain": 53,
+    "avant": 1450,
+    "apres": 1503,
+    "registre": "Mes aventures RPG/Aeden/01 — Personnage principal/Registre de progression.md",
+    "ids": [
+      "KH-R01",
+      "KH-R02",
+      "KH-R03",
+      "KH-S01",
+      "KH-R04",
+      "KH-R05",
+      "KH-R06",
+      "KH-S02",
+      "KH-S03"
+    ]
+  }
 }

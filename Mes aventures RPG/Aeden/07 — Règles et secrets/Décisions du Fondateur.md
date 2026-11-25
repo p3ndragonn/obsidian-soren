@@ -4,7 +4,7 @@ campagne: Aeden
 branche_narrative: null
 statut_documentaire: valide
 visibilite: fondateur
-version: 6
+version: 7
 id: DOC-AED-DECISIONS-FONDATEUR
 date_univers: null
 derniere_validation: null
@@ -35,3 +35,6 @@ Nom officiel : Vesperyx - la lame du sceau pourpre. Même objet OBJ-AED-001, auc
 
 ## AED-FON-005 — Emboîtement dimensionnel vide
 J2 10:57, décision du Fondateur en cours de préparation : équipements dimensionnels vides autorisés dans bracelet, pas de module chargé. Abri plié vide et module vide vérifiés par fournisseur. Le module chargé sera porté manuellement par Eryan. [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 2 — Bilan.md]].
+
+## AED-FON-006 — EXP immédiate à chaque élimination
+Demande explicite du joueur, 25 novembre 2026, J3 07:08 : régulariser les monstres J2 et calculer chaque élimination dès maintenant. Avant chaque combat, fixer rang/niveau individuel et suivre contribution réelle ; à chaque élimination calculer et créditer EXP selon règlement p.6, notifier gain et progression, enregistrer ID unique dans registre, vérifier éventuel changement de niveau. Ne pas attendre fin de journée ; à sauvegarde, synchroniser sans double crédit. [[Mes aventures RPG/Aeden/01 — Personnage principal/Registre de progression]].

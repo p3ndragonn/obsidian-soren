@@ -4,7 +4,7 @@ campagne: Aeden
 branche_narrative: null
 statut_documentaire: valide
 visibilite: joueur
-version: 8
+version: 9
 id: DOC-AED-E4C0D2822FEA
 date_univers: null
 derniere_validation: "2026-11-24"
@@ -50,3 +50,6 @@ Règlement p. 4 : HP max = 10 × VIT, MP max = 10 × SAG, EP max = 10 × END. Bo
 
 ## État réel fin J2 22:24
 Table précédente = configuration de référence, non état actuel. Short nuit, équipement combat retiré, maxima base 2650/3950/2950, aucune blessure. Débits confirmés 390 MP J2 (20+30+80+30+80+150). Récupération et EP exacts non mesurés. EXP classe/profession dernière valeur validée ; gains J2 en attente de niveaux individuels et arbitrage. Aucun point attribué. [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 2 — Bilan.md]].
+
+## Régularisation EXP combat J2
+Régularisation J2 effectuée au J3 07:08 (temps figé), demande explicite du joueur. Règlement universel p.6 : référence 0,10 × 2642 = 264,2 ; rang personnel B contre D ×0,05 ; interpolation linéaire de niveau, arrondi individuel au plus proche (conventions d'arbitrage, pas modifications universelles). Niveaux et rangs individuels fixés rétroactivement par MJ, cohérents avec rang D rapporté, taille/maturité et combats joués ; aucune Identification rétroactive ni modification de résultat. ORION a repoussé le jeune sans dégâts établis, Aedan seul auteur des éliminations ; pas de groupe ni bonus fatal de groupe. Gains 53 EXP classe, 1450 → 1503/2642, niveau32 inchangé. Profession non traitée par cette demande. [[Mes aventures RPG/Aeden/01 — Personnage principal/Registre de progression]].
