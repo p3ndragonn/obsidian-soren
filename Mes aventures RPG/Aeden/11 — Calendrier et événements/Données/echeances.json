@@ -1,4 +1,47 @@
 {
   "schema_version": 1,
-  "evenements": []
+  "evenements": [
+    {
+      "id": "AED-AG-001",
+      "date": "16 Doréal 1842 TC",
+      "heure": "07:30",
+      "engagement": "Réveil",
+      "statut": "prévu"
+    },
+    {
+      "id": "AED-AG-002",
+      "date": "16 Doréal 1842 TC",
+      "heure": "09:30",
+      "engagement": "Rendez-vous Eryan à la Guilde, permis",
+      "statut": "prévu"
+    },
+    {
+      "id": "AED-AG-003",
+      "date": "16 Doréal 1842 TC",
+      "heure": "matin",
+      "engagement": "Réception matériel et deux artefacts",
+      "statut": "prévu"
+    },
+    {
+      "id": "AED-AG-004",
+      "date": "16 Doréal 1842 TC",
+      "heure": "12:00",
+      "engagement": "Départ Kharvoss",
+      "statut": "prévu"
+    },
+    {
+      "id": "AED-AG-005",
+      "date": "17 Doréal 1842 TC",
+      "heure": "à confirmer",
+      "engagement": "Ménage Lydia, accès à transmettre",
+      "statut": "conditionnel"
+    },
+    {
+      "id": "AED-AG-006",
+      "date": "22 Doréal 1842 TC",
+      "heure": "à confirmer",
+      "engagement": "Retour expédition",
+      "statut": "prévu"
+    }
+  ]
 }

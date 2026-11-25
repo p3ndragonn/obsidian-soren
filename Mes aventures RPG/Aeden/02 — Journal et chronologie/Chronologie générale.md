@@ -13,9 +13,13 @@ sources: []
 
 # Chronologie générale
 
-Ouverture du chapitre I à 08 h 00 ; aucune action du joueur. Historique biographique validé dans les fiches ; naissance d’Aedan le 12 Sylvéor 1777 TC. Départ configuré au 15 Doréal 1842 TC, 08 h 00, appartement personnel. Aucun temps narratif écoulé.
+Ouverture du chapitre I à 08 h 00 ; aucune action du joueur. Historique biographique validé dans les fiches ; naissance d’Aedan le 12 Sylvéor 1777 TC. Départ configuré au 15 Doréal 1842 TC, 08 h 00, appartement personnel. Situation initiale historique, désormais dépassée.
 
 | ID événement | Branche | Jour/date/heure | Lieu | Fait établi ou statut | Source principale |
 | --- | --- | --- | --- | --- | --- |
 
 Distinguer date exacte, estimée, relative ou inconnue. Les récits conservent les scènes ; les bilans indexent les faits et conséquences sans réécrire le récit.
+
+## Jour 1 — 15 Doréal
+Bilan intégral et chronologie détaillée : - [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 1 — Bilan]]
+Fin 23:08, coucher ; reprise AED-J1-002.

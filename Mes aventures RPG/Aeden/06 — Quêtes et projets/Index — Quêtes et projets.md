@@ -23,3 +23,6 @@ Index de navigation : renseigner les fiches réelles au fur et à mesure des val
 - [[Mes aventures RPG/Aeden/06 — Quêtes et projets/Agenda des engagements|Agenda des engagements]]
 
 Retour : [[Mes aventures RPG/Aeden/00 — Accueil et reprise/Tableau de bord — Aeden|Tableau de bord — Aeden]]
+
+## Projet en préparation
+- [[Mes aventures RPG/Aeden/06 — Quêtes et projets/Projets/Les vestiges de Kharvoss]]

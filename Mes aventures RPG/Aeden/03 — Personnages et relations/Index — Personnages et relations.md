@@ -53,3 +53,12 @@ Retour : [[Mes aventures RPG/Aeden/00 — Accueil et reprise/Tableau de bord —
 ## Entourage d’Aedan — validé
 - [[Mes aventures RPG/Aeden/03 — Personnages et relations/Personnages/Maël Varyn]] — meilleur ami
 - [[Mes aventures RPG/Aeden/03 — Personnages et relations/Personnages/Darius Azarion]] — rival
+
+## Interactions du jour 1
+- [[Mes aventures RPG/Aeden/03 — Personnages et relations/Personnages/Mira Ferrocendre]]
+- [[Mes aventures RPG/Aeden/03 — Personnages et relations/Personnages/Thoren Brisemétal]]
+- [[Mes aventures RPG/Aeden/03 — Personnages et relations/Personnages/Eryan Valeris]]
+- [[Mes aventures RPG/Aeden/03 — Personnages et relations/Personnages/Garrick]]
+- [[Mes aventures RPG/Aeden/03 — Personnages et relations/Personnages/Marielle Doucesève]]
+- [[Mes aventures RPG/Aeden/03 — Personnages et relations/Personnages/Edric Valmont]]
+- [[Mes aventures RPG/Aeden/03 — Personnages et relations/Personnages/Lydia]]

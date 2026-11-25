@@ -110,3 +110,8 @@ Index de navigation : renseigner les fiches réelles au fur et à mesure des val
 - [[Mes aventures RPG/Aeden/04 — Monde et lieux/Cartes/Modèle — Carte|Modèle — Carte]]
 
 Retour : [[Mes aventures RPG/Aeden/00 — Accueil et reprise/Tableau de bord — Aeden|Tableau de bord — Aeden]]
+
+## Lieux connus au jour 1
+- [[Mes aventures RPG/Aeden/04 — Monde et lieux/Lieux/Complexe souterrain de Kharvoss]]
+- [[Mes aventures RPG/Aeden/04 — Monde et lieux/Lieux/Vestiges de Seravhen]]
+- [[Mes aventures RPG/Aeden/04 — Monde et lieux/Lieux/Les Délices d’Ambre]]
