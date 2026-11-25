@@ -4,7 +4,7 @@ campagne: Aeden
 branche_narrative: principale
 statut_documentaire: valide
 visibilite: joueur
-version: 2
+version: 3
 id: PROJ-AED-KH
 date_univers: "1842 TC — 15 Doréal"
 derniere_validation: null
@@ -19,3 +19,7 @@ Préparation, aucun contrat de quête SYSTÈME. Aedan et Eryan, 16–22 Doréal.
 
 ## Fin J2
 Contrat et permis définitifs [[Mes aventures RPG/Aeden/06 — Quêtes et projets/Projets/Contrat et permis de Kharvoss]] priment préparation. N1 reconnaissance terminée,3 salles récupérées,726 objets/8 docs/3,127m³. [[Mes aventures RPG/Aeden/06 — Quêtes et projets/Projets/Rapport KH-001]] envoyé. Demain07:20 N2 Aedan, inventaire Eryan, reprise N1. N3 cristal accréditation compatibilité inconnue, trois S à comparer. Retour22 Doréal. [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 2 — Bilan.md]].
+
+
+## Fin J3
+N1 utile terminé sauf distribution, N2 reconnu,6 ennemis, récupérations amorcées.1605 objets149 docs25,019m³ cumul,544320–558640 P estimés. Rapport KH-002 envoyé20:39. Demain N2-06 priorité éclairage autonome isolé puis démontages, N3 reporté. Traductions quatre documents S attendues. [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 3 — Bilan.md]]

@@ -4,7 +4,7 @@ campagne: Aeden
 branche_narrative: principale
 statut_documentaire: valide
 visibilite: joueur
-version: 2
+version: 3
 id: REL-AED-ERYAN-001
 date_univers: "1842 TC — 16 Doréal"
 sources:
@@ -18,3 +18,7 @@ sources:
 
 ## Fin J2
 Confiance technique/terrain renforcée, humour « monsieur Prudence », collaboration sans subordination. Aedan révèle >50 missions et aspiration ruines profondes, Eryan promet confidentialité parents ; Eryan révèle ancien compagnon Térian, célibat ~2 ans, Aedan célibat choisi, apprécie compagnie malgré solitude. Autres expéditions évoquées sans accord ferme. Pas de romance établie. Demain inventaire Eryan, N2 Aedan, nouvelles régulières, petit-déjeuner ensemble. [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 2 — Bilan.md]].
+
+
+## Fin J3
+Confiance de travail renforcée, plaisanteries et conseils terrain. Aedan raconte première élimination, préférence initiale distance, tendance semer soutiens, explique difficulté équipe permanente ; Eryan souhaite entraînement commun, Aedan accepte en principe. Aide technique couteau envisagée, pas contrat. Aucune romance établie. [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 3 — Bilan.md]]

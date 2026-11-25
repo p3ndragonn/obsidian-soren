@@ -4,7 +4,7 @@ campagne: Aeden
 branche_narrative: principale
 statut_documentaire: valide
 visibilite: joueur
-version: 4
+version: 5
 id: PNJ-AED-ERYAN
 date_univers: "1842 TC — 16 Doréal"
 derniere_validation: "2026-11-25"
@@ -133,3 +133,7 @@ Génération originale du 25 novembre 2026, WebP 1024 × 1536, version 1. Réfé
 
 ## Fin J2 22:24
 État09:23 historique. Permis signé, première ruine réelle, collaboration N1 et rapport. 14 P café payé09:45, solde49586 P. Débits MP55 (15 éclairage,15 machine,25 coffret), récupération/EP inconnus, pas blessure ; tenue détente. Niveaux/EXP derniers validés, gains profession à arbitrer. Réveil06:30 inventaire07:20, demande nouvelles Aedan, étude artefacts complexes ensemble. [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 2 — Bilan.md]].
+
+
+## Fin J3
+Inventaire et démontages N1, relevés quatre S sans connexion, tests passifs ORION. Fatigue normale, pas de blessure persistante, aucune dépense MP J3 chiffrée. Souhaite expéditions de tête et entraînement avec Aedan, accord de principe sans date, congés et équipe à trouver. Propose aide couteau secondaire et contrôle ORION J4. Coucher21:56, réveil06:30. [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 3 — Bilan.md]]
