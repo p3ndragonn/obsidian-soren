@@ -4,7 +4,7 @@ campagne: Aeden
 branche_narrative: principale
 statut_documentaire: valide
 visibilite: joueur
-version: 1
+version: 2
 id: AED-EXP-001
 date_univers: "1842 TC — 17 Doréal"
 derniere_validation: null
@@ -29,3 +29,15 @@ Régularisation J2 effectuée au J3 07:08 (temps figé), demande explicite du jo
 | KH-S03 | J2 | D | 27 | 8 | 1503 |
 
 Total J2 combat 53. Classe niveau32 1503/2642. Ces neuf IDs sont liquidés, ne pas recréditer. Profession en attente.
+
+
+## J3 — combat liquidé
+| Spécimen | Jour | Rang | Niveau | Gain EXP | Cumul classe |
+|---|---|---|---:|---:|---:|
+| KH-T01 | J3 | C | 42 | 119 | 1622 |
+| KH-S04 | J3 | D | 33 | 15 | 1637 |
+| KH-S05 | J3 | D | 35 | 18 | 1655 |
+| KH-T02 | J3 | C | 47 | 152 | 1807 |
+| KH-T03 | J3 | C | 44 | 132 | 1939 |
+| KH-T04 | J3 | C | 38 | 92 | 2031 |
++528 EXP, classe32 2031/2642, six IDs liquidés. Profession en attente. [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 3 — Bilan.md]]
