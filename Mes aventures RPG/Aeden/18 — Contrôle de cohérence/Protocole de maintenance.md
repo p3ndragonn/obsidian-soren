@@ -4,7 +4,7 @@ campagne: Aeden
 branche_narrative: null
 statut_documentaire: protocole
 visibilite: joueur
-version: 3
+version: 4
 id: null
 date_univers: null
 derniere_validation: null
@@ -32,3 +32,7 @@ Avant chaque sauvegarde GitHub, inclure les dix champs YAML du schéma sur chaqu
 
 ## EXP immédiate (AED-FON-006)
 Établir rang et niveau individuels avant résolution, suivre dégâts par participant si groupe. À chaque élimination, appliquer règlement p.6, notifier gain et cumul de classe, inscrire ID spécimen/gain/avant/après au registre de progression et conserver jusqu'à synchronisation. Aucun double crédit, ne pas reporter le calcul à la fin du jour. Si donnée absente, arbitrer explicitement sans changer un fait établi.
+
+
+## Suivi mana Aedan et EXP profession
+AED-FON-007 : 95 MP/min passifs propres à Aedan, plafond effectif, suivre minutes écoulées et débits séparément, jamais de surplus. À l'avenir, créditer activités professionnelles justifiées par règlement p.6 et annexe C art.C.4, selon difficulté/qualité/nouveauté/apprentissage ; consigner IDs, éviter répétitions triviales et double crédit. Convention d'arbitrage documentée au registre, pas de barème universel imposé.

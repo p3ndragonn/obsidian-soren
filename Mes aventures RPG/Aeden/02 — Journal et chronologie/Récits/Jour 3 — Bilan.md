@@ -4,7 +4,7 @@ campagne: Aeden
 branche_narrative: principale
 statut_documentaire: valide
 visibilite: joueur
-version: 1
+version: 2
 id: AED-J3-BILAN
 date_univers: "1842 TC — 17 Doréal"
 derniere_validation: null
@@ -32,3 +32,6 @@ Aedan B classe A32 2031/2642, profession S27 900/1972 dernière valeur validée,
 342932 P personnel, Eryan49586 P, entreprise990000 P hors frais non chiffrés, engagements27000 non confirmés payés, aucun flux J3. 34 repas, eau/thé/café non quantifiés, potions/soins intacts. J3 879 objets141 docs21,892m³ ; cumul1605 objets149 docs25,019m³, entreprise sous réserve patrimoine ; occupation module exacte inférieure (objets/docs au camp). Quatre S séparés rangés, deux prêts à restituer, module A/abri B loués, mise à terre B prêtée. Moto bracelet, tenue/épée chambre. Aucun nouvel objet personnel.
 ## Reprise
 J4 18 Doréal06:30 camp, contrôle ORION proposé, petit déjeuner puis inspection N2-06 réseau éclairage isolé, récupérations. N3 fermé jusqu'à récupérations N1/N2. Traductions Mira et réponses KH-002 attendues. Lydia tâche prévue non confirmée. Alyssa plaques/pâtisserie, Maël retour non confirmé. Entraînement et couteau secondaire envisagés sans engagement. Permis expire22 Doréal23:59.
+
+## Régularisation administrative du Fondateur — AED-FON-007
+Temps figé au coucher J3, aucun événement narratif supplémentaire. Aedan récupère désormais passivement 95 MP/min (plafond effectif), effet immédiat ; réserve pleine au réveil J4 3950/3950 sans équipement. EXP professionnelle régularisée : J1 +370, J2 +400, J3 +560, total +1330 ; profession S niveau28 258/2098, +6 points libres non distribués. Classe A32 2031/2642 inchangée. Les valeurs historiques du bilan avant régularisation sont conservées. Détail et IDs liquidés dans [[Mes aventures RPG/Aeden/01 — Personnage principal/Registre de progression.md]].
