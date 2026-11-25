@@ -10,8 +10,8 @@
   },
   "profession": {
     "rarete": "S",
-    "niveau": 27,
-    "exp": 900
+    "niveau": 28,
+    "exp": 258
   },
   "permanentes": {
     "FOR": 250,
@@ -40,7 +40,10 @@
       "base": 3950,
       "maximum": 3950,
       "debit_confirme_j2": 390,
-      "debit_confirme_j3": 2090
+      "debit_confirme_j3": 2090,
+      "regeneration_passive_par_minute": 95,
+      "regeneration_source": "AED-FON-007",
+      "reveil_j4_prevu": 3950
     },
     "EP": {
       "actuelle": null,
@@ -53,10 +56,10 @@
     "Protecteur des profondeurs",
     "Vétéran des labyrinthes"
   ],
-  "points_libres": 0,
+  "points_libres": 6,
   "affiliations_ref": "affiliations.json",
   "etat_date": "1842 TC — 17 Doréal 21:56",
-  "exp_j2_statut": "combat_attribue_profession_en_attente",
+  "exp_j2_statut": "combat_et_profession_attribues",
   "ressources_note": "HP sans blessure, maxima base au coucher ; MP et EP exacts non mesurés, récupération non chiffrée",
   "exp_combat_j2": {
     "gain": 53,
@@ -75,7 +78,7 @@
       "KH-S03"
     ]
   },
-  "exp_j3_statut": "combat_attribue_profession_en_attente",
+  "exp_j3_statut": "combat_et_profession_attribues",
   "exp_combat_j3": {
     "gain": 528,
     "avant": 1503,
@@ -88,5 +91,18 @@
       "KH-T03",
       "KH-T04"
     ]
+  },
+  "exp_profession_regularisation": {
+    "id": "AED-PRO-J1-J3",
+    "j1": 370,
+    "j2": 400,
+    "j3": 560,
+    "total": 1330,
+    "niveau_avant": 27,
+    "exp_avant": 900,
+    "niveau_apres": 28,
+    "exp_apres": 258,
+    "points_libres_gagnes": 6,
+    "registre": "Mes aventures RPG/Aeden/01 — Personnage principal/Registre de progression.md"
   }
 }

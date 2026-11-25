@@ -4,7 +4,7 @@ campagne: Aeden
 branche_narrative: principale
 statut_documentaire: valide
 visibilite: joueur
-version: 23
+version: 24
 id: AED-REPRISE-COURANTE
 date_univers: "1842 TC — 17 Doréal"
 derniere_validation: null
@@ -23,3 +23,7 @@ EXP classe J2 créditée : +53, 1503/2642 niveau32. Profession et récupération
 
 ## Reprise J3 (état courant, prime sur historique)
 AED-J3-004 ordre4,17 Doréal21:56 sommeil camp, réveil06:30 J4. Classe32 2031/2642 profession27 900/1972 dernière valeur.2090 MP débités J3, MP/EP exacts inconnus. N1 utile terminé sauf04, N2 reconnu, N3 fermé.1605 objets149 docs25,019m³,544320–558640 P estimés.342932 P personnel,34 repas. KH-002 transmis20:39, traductions attendues. Demain contrôle ORION et inspection N2-06 éclairage. [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 3 — Bilan.md]] ; [[Mes aventures RPG/Aeden/99 — Archives/États de reprise/AED-J3-004.md]].
+
+
+## Régularisation Fondateur au coucher J3 (état courant)
+AED-FON-007 : récupération passive95 MP/min propre à Aedan, plafond effectif, effet immédiat. Au réveil J4 06:30 MP3950/3950 sans équipement. Profession S28 258/2098 après +1330 EXP J1–J3,6 points libres non distribués. Classe32 2031/2642. Aucune action ni heure narrative ajoutée. [[Mes aventures RPG/Aeden/01 — Personnage principal/Registre de progression.md]].

@@ -4,7 +4,7 @@ campagne: Aeden
 branche_narrative: null
 statut_documentaire: valide
 visibilite: fondateur
-version: 7
+version: 8
 id: DOC-AED-DECISIONS-FONDATEUR
 date_univers: null
 derniere_validation: null
@@ -38,3 +38,7 @@ J2 10:57, décision du Fondateur en cours de préparation : équipements dimensi
 
 ## AED-FON-006 — EXP immédiate à chaque élimination
 Demande explicite du joueur, 25 novembre 2026, J3 07:08 : régulariser les monstres J2 et calculer chaque élimination dès maintenant. Avant chaque combat, fixer rang/niveau individuel et suivre contribution réelle ; à chaque élimination calculer et créditer EXP selon règlement p.6, notifier gain et progression, enregistrer ID unique dans registre, vérifier éventuel changement de niveau. Ne pas attendre fin de journée ; à sauvegarde, synchroniser sans double crédit. [[Mes aventures RPG/Aeden/01 — Personnage principal/Registre de progression]].
+
+
+## AED-FON-007 — Régénération passive personnelle d’Aedan
+Décision explicite du Fondateur, 25 novembre 2026, fin J3 21:56, temps figé : « toutes les minutes Aedan recouvre passivement 95mp ». Portée exclusive Aedan, effet immédiat, toutes activités et sommeil, plafond MP effectif, aucun surplus ni restauration des autres ressources. Pas de rétroactivité chiffrée sur scènes antérieures ; au réveil J4 06:30 réserve pleine (3950 MP sans équipement, 42 min au maximum). Aucun coût, compétence ou changement racial ajouté. Le Fondateur autorise également calcul gains EXP profession en attente ; arbitrage documenté dans [[Mes aventures RPG/Aeden/01 — Personnage principal/Registre de progression.md]], non nouveau barème universel.

@@ -4,7 +4,7 @@ campagne: Aeden
 branche_narrative: principale
 statut_documentaire: valide
 visibilite: joueur
-version: 2
+version: 3
 id: AED-EXP-001
 date_univers: "1842 TC — 17 Doréal"
 derniere_validation: null
@@ -41,3 +41,28 @@ Total J2 combat 53. Classe niveau32 1503/2642. Ces neuf IDs sont liquidés, ne p
 | KH-T03 | J3 | C | 44 | 132 | 1939 |
 | KH-T04 | J3 | C | 38 | 92 | 2031 |
 +528 EXP, classe32 2031/2642, six IDs liquidés. Profession en attente. [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 3 — Bilan.md]]
+
+
+## Régularisation professionnelle AED-PRO-J1-J3 — fin J3 21:56
+Autorisation explicite Fondateur, temps figé. Règlement universel p.6 et Annexe C art.C.4 : difficulté, qualité, nouveauté, apprentissage ; aucun barème numérique officiel. Arbitrage contextuel MJ : chaque critère D/Q/N/A noté 0–3 (nul/faible/moyen/fort), 10 EXP par point. Groupes de travaux distincts, pas de gain par objet ni combat, pas de double crédit. Les scores ne sont pas des constantes universelles. Eryan non concerné par cette régularisation personnelle.
+| ID | Jour | Activité réalisée | D/Q/N/A | EXP |
+|---|---|---|---|---:|
+| AED-PRO-001 |1|Diagnostic et cartographie convertisseur S|2/2/2/2|80|
+| AED-PRO-002 |1|Restauration et essais comparatifs neuf affinités à faible charge|3/3/3/3|120|
+| AED-PRO-003 |1|Analyse module S, deux signatures et fréquence intermédiaire|2/2/2/2|80|
+| AED-PRO-004 |1|Diagnostic ORION et pont provisoire, recharge observée|2/2/3/2|90|
+| AED-PRO-005 |2|Microfusion et réparation définitive du circuit de captation ORION|3/3/2/2|100|
+| AED-PRO-006 |2|Essais cinq fonctions et transport compact|1/2/2/2|70|
+| AED-PRO-007 |2|Diagnostic et ouverture/fermeture archive N1|2/2/1/1|60|
+| AED-PRO-008 |2|Analyse alimentation et remise en service éclairage avec Eryan|2/2/1/1|60|
+| AED-PRO-009 |2|Démontage sécurisé machine ancrée avec Eryan|2/2/1/2|70|
+| AED-PRO-010 |2|Identification coffret A/contenus, examen technique, ouverture par Eryan|1/1/1/1|40|
+| AED-PRO-011 |3|Diagnostic et ouverture/fermeture archives N2, procédure apparentée|2/2/1/2|70|
+| AED-PRO-012 |3|Analyse et documentation purificateur/propulseur/générateurs et accès N3|2/2/2/2|80|
+| AED-PRO-013 |3|Récupération conservatoire archives N1, entrepôt et classement technique|2/2/1/2|70|
+| AED-PRO-014 |3|Démontage filtration et séparation matériaux avec Eryan|2/3/1/2|80|
+| AED-PRO-015 |3|Recherche et rapprochement quatre documents S|2/2/2/1|70|
+| AED-PRO-016 |3|Traduction partielle et interprétation technique des plaques ORION|2/1/2/1|60|
+| AED-PRO-017 |3|Essai mana infernal et observations captation ORION avec Eryan|2/2/3/2|90|
+| AED-PRO-018 |3|Inventaire technique et échantillonnage soirée|1/2/0/1|40|
+J1 +370, J2 +400, J3 +560, total +1330. Profession S27 900/1972 → J1 1270/1972 → J2 1670/1972 → J3 2230 brut, niveau28 258/2098 (formule règlement p.6). Gain de niveau professionnel au J3, rang personnel B/rareté S : +6 points libres (table p.5), aucun point distribué sans joueur. Classe A32 2031/2642 inchangée. Tous IDs liquidés, ne pas recréditer. Régularisation administrative, pas de temps ajouté.

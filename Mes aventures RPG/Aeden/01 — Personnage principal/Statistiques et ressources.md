@@ -4,7 +4,7 @@ campagne: Aeden
 branche_narrative: null
 statut_documentaire: valide
 visibilite: joueur
-version: 10
+version: 11
 id: DOC-AED-E4C0D2822FEA
 date_univers: null
 derniere_validation: "2026-11-24"
@@ -57,3 +57,7 @@ Régularisation J2 effectuée au J3 07:08 (temps figé), demande explicite du jo
 
 ## Fin J3 21:56
 Classe A32 2031/2642 (+528 J3), profession S27 900/1972 dernière valeur. 2090 MP J3, maxima HP2650 MP3950 EP2950 au coucher, aucune blessure, MP/EP exacts non mesurés, pas potion ni point libre. Gains profession et récupération à arbitrer. [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 3 — Bilan.md]]
+
+
+## Correction administrative fin J3 — AED-FON-007
+Profession S niveau28 258/2098 (+1330 EXP J1–J3), +6 points libres non distribués. Classe A32 2031/2642 inchangée. Régénération passive Aedan 95 MP/min, plafond effectif, effet immédiat. MP courant au coucher historiquement non mesuré ; au réveil J4 plein3950/3950 sans équipement. HP2650/2650, EP exact inconnu/2950. [[Mes aventures RPG/Aeden/01 — Personnage principal/Registre de progression.md]].
