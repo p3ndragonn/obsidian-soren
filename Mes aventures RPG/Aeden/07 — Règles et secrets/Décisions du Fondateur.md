@@ -4,7 +4,7 @@ campagne: Aeden
 branche_narrative: null
 statut_documentaire: valide
 visibilite: fondateur
-version: 4
+version: 5
 id: DOC-AED-DECISIONS-FONDATEUR
 date_univers: null
 derniere_validation: null
@@ -28,3 +28,6 @@ Nom officiel : Vesperyx - la lame du sceau pourpre. Même objet OBJ-AED-001, auc
 
 ## AED-FON-003 — Affiliations d’Aedan
 25 novembre 2026, J2 09:23, temps figé. Le Fondateur fixe Or à la Guilde des Aventuriers et délègue les autres choix. Attributions : Artisans Argent, Explorateurs Argent, Académie des Savoirs Argent, Experts Fer, Marchands Bronze ; Banque client sans grade, Soigneurs non affilié. Complément rétroactif des fondations sans promotion jouée ni effets mécaniques. [[Mes aventures RPG/Aeden/01 — Personnage principal/Affiliations et grades administratifs|Affiliations et grades administratifs]].
+
+## AED-FON-004 — Profil définitif d'Eryan Valeris
+25 novembre 2026, J2 09:23, temps figé. Le Fondateur délègue intégralement la création des éléments non établis du PNJ et valide d'avance leur contenu. Les faits joués restent préservés. Correction de cohérence : rang personnel B, minimum elfique (Codex p.11 et démographie locale), au lieu du C erroné des premières mentions. Pas d'ascension, ni modification des règles raciales, ni réécriture de résultats de scène ; aucune confrontation jouée n'est affectée. Classe, profession, statistiques, compétences, affiliations, équipement, biographie et données privées définis dans [[Mes aventures RPG/Aeden/03 — Personnages et relations/Personnages/Eryan Valeris]] et [[Mes aventures RPG/Aeden/07 — Règles et secrets/Registre réservé au Fondateur/Eryan Valeris — Profil privé]]. Aucune connaissance automatique du PJ. Aucun temps ni paiement ajouté.

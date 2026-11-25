@@ -4,7 +4,7 @@ campagne: Aeden
 branche_narrative: null
 statut_documentaire: index
 visibilite: joueur
-version: 6
+version: 7
 id: null
 date_univers: null
 derniere_validation: "2026-11-24"
@@ -65,3 +65,6 @@ Retour : [[Mes aventures RPG/Aeden/00 — Accueil et reprise/Tableau de bord —
 
 ## Compagnon arcanotech
 - [[Mes aventures RPG/Aeden/03 — Personnages et relations/Familiers/ORION|ORION]] — automate félin symbiotique [A], lié à Aedan au J2.
+
+## Relation et suivi d'Eryan
+- [[Mes aventures RPG/Aeden/03 — Personnages et relations/Relations/Aedan et Eryan Valeris]] — relation évolutive, expédition commune en préparation.
