@@ -4,7 +4,7 @@ campagne: Aeden
 branche_narrative: principale
 statut_documentaire: valide
 visibilite: joueur
-version: 24
+version: 25
 id: AED-REPRISE-COURANTE
 date_univers: "1842 TC — 17 Doréal"
 derniere_validation: null
@@ -27,3 +27,7 @@ AED-J3-004 ordre4,17 Doréal21:56 sommeil camp, réveil06:30 J4. Classe32 2031/2
 
 ## Régularisation Fondateur au coucher J3 (état courant)
 AED-FON-007 : récupération passive95 MP/min propre à Aedan, plafond effectif, effet immédiat. Au réveil J4 06:30 MP3950/3950 sans équipement. Profession S28 258/2098 après +1330 EXP J1–J3,6 points libres non distribués. Classe32 2031/2642. Aucune action ni heure narrative ajoutée. [[Mes aventures RPG/Aeden/01 — Personnage principal/Registre de progression.md]].
+
+
+## Répartition des points — AED-STAT-001
+Répartition AED-STAT-001, choix explicite du joueur fin J3 21:56 (temps figé) : +5 END (295 → 300), +1 PER (330 → 331), six points dépensés, zéro libre. Total permanent1823. EP max base3000 (+50), avec équipement3260 ; END équipée326, PER équipée347. HP/MP inchangés ; EP actuel non mesuré, pas de restauration gratuite. Classe et profession inchangées.

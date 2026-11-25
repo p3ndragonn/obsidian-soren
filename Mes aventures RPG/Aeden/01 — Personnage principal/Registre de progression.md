@@ -4,7 +4,7 @@ campagne: Aeden
 branche_narrative: principale
 statut_documentaire: valide
 visibilite: joueur
-version: 3
+version: 4
 id: AED-EXP-001
 date_univers: "1842 TC — 17 Doréal"
 derniere_validation: null
@@ -66,3 +66,7 @@ Autorisation explicite Fondateur, temps figé. Règlement universel p.6 et Annex
 | AED-PRO-017 |3|Essai mana infernal et observations captation ORION avec Eryan|2/2/3/2|90|
 | AED-PRO-018 |3|Inventaire technique et échantillonnage soirée|1/2/0/1|40|
 J1 +370, J2 +400, J3 +560, total +1330. Profession S27 900/1972 → J1 1270/1972 → J2 1670/1972 → J3 2230 brut, niveau28 258/2098 (formule règlement p.6). Gain de niveau professionnel au J3, rang personnel B/rareté S : +6 points libres (table p.5), aucun point distribué sans joueur. Classe A32 2031/2642 inchangée. Tous IDs liquidés, ne pas recréditer. Régularisation administrative, pas de temps ajouté.
+
+
+## Répartition des points — AED-STAT-001
+Répartition AED-STAT-001, choix explicite du joueur fin J3 21:56 (temps figé) : +5 END (295 → 300), +1 PER (330 → 331), six points dépensés, zéro libre. Total permanent1823. EP max base3000 (+50), avec équipement3260 ; END équipée326, PER équipée347. HP/MP inchangés ; EP actuel non mesuré, pas de restauration gratuite. Classe et profession inchangées.

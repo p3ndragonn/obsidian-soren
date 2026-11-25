@@ -16,10 +16,10 @@
   "permanentes": {
     "FOR": 250,
     "VIT": 265,
-    "END": 295,
+    "END": 300,
     "AGI": 282,
     "SAG": 395,
-    "PER": 330
+    "PER": 331
   },
   "equipement": {
     "FOR": 0,
@@ -47,8 +47,8 @@
     },
     "EP": {
       "actuelle": null,
-      "base": 2950,
-      "maximum": 2950
+      "base": 3000,
+      "maximum": 3000
     }
   },
   "titres_actifs": [
@@ -56,7 +56,7 @@
     "Protecteur des profondeurs",
     "Vétéran des labyrinthes"
   ],
-  "points_libres": 6,
+  "points_libres": 0,
   "affiliations_ref": "affiliations.json",
   "etat_date": "1842 TC — 17 Doréal 21:56",
   "exp_j2_statut": "combat_et_profession_attribues",
@@ -104,5 +104,12 @@
     "exp_apres": 258,
     "points_libres_gagnes": 6,
     "registre": "Mes aventures RPG/Aeden/01 — Personnage principal/Registre de progression.md"
+  },
+  "repartition_statistiques_j3": {
+    "id": "AED-STAT-001",
+    "END": 5,
+    "PER": 1,
+    "points_depenses": 6,
+    "source": "Choix explicite du joueur"
   }
 }

@@ -4,7 +4,7 @@ campagne: Aeden
 branche_narrative: null
 statut_documentaire: valide
 visibilite: joueur
-version: 11
+version: 12
 id: DOC-AED-E4C0D2822FEA
 date_univers: null
 derniere_validation: "2026-11-24"
@@ -25,16 +25,16 @@ sources:
 | --- | --- | --- | --- | --- | --- |
 | FOR | 250 | 6 | 0 | 256 | Équipement de référence, épée au fourreau |
 | VIT | 265 | 18 | 0 | 283 | Équipement de référence, épée au fourreau |
-| END | 295 | 26 | 0 | 321 | Équipement de référence, épée au fourreau |
+| END | 300 | 26 | 0 | 326 | Équipement de référence, épée au fourreau |
 | AGI | 282 | 22 | 0 | 304 | Équipement de référence, épée au fourreau |
 | SAG | 395 | 22 | 0 | 417 | Équipement de référence, épée au fourreau |
-| PER | 330 | 16 | 0 | 346 | Équipement de référence, épée au fourreau |
+| PER | 331 | 16 | 0 | 347 | Équipement de référence, épée au fourreau |
 
 | Ressource | Actuelle | Maximum de base | Maximum effectif | Source |
 | --- | --- | --- | --- | --- |
 | HP | 2830 | 2650 | 2830 | Règlement p. 4 ; équipement de référence au repos |
 | MP | 4170 | 3950 | 4170 | Règlement p. 4 ; équipement de référence au repos |
-| EP | 3210 | 2950 | 3210 | Règlement p. 4 ; équipement de référence au repos |
+| EP | Non mesuré | 3000 | 3260 | Règlement p. 4 ; équipement de référence au repos |
 
 Règlement p. 4 : HP max = 10 × VIT, MP max = 10 × SAG, EP max = 10 × END. Bonus d'équipement séparés, plafond de 12 % arrondi à l'inférieur pour chaque statistique permanente. Aucun calcul sans données validées ; distinguer effets explicites et valeurs permanentes.
 
@@ -45,7 +45,7 @@ Règlement p. 4 : HP max = 10 × VIT, MP max = 10 × SAG, EP max = 10 × END. Bo
 ## Référence numérique
 [Statut structuré](Données/statut.json) : source maîtresse des valeurs numériques. La table ci-dessus sert de présentation et doit être synchronisée ou renvoyer au fichier, jamais maintenue indépendamment.
 
-[[Mes aventures RPG/Aeden/01 — Personnage principal/Proposition de statut initial|Proposition de statut initial]] — trace de validation initiale. Total 1817 = socle 120 + gains 1697 ; 0 libre. Bonus équipement max cumulés : FOR 30, VIT 31, END 35, AGI 33, SAG 47, PER 39. Équipements et bonus validés. Référence administrative au repos : tenue, ceinture, brassards et bottes portés, épée au fourreau. Épée tenue en main : FOR +16, AGI +8, SAG +12 supplémentaires ; maximum MP 4290. Aucune restauration gratuite lors des changements. Tenue et ressources réelles à vérifier au début de la première scène.
+[[Mes aventures RPG/Aeden/01 — Personnage principal/Proposition de statut initial|Proposition de statut initial]] — trace de validation initiale. Total initial 1817 = socle 120 + gains 1697 ; total actuel 1823 après AED-STAT-001, 0 libre. Bonus équipement max cumulés : FOR 30, VIT 31, END 36, AGI 33, SAG 47, PER 39. Équipements et bonus validés. Référence administrative au repos : tenue, ceinture, brassards et bottes portés, épée au fourreau. Épée tenue en main : FOR +16, AGI +8, SAG +12 supplémentaires ; maximum MP 4290. Aucune restauration gratuite lors des changements. Tenue et ressources réelles à vérifier au début de la première scène.
 
 
 ## État réel fin J2 22:24
@@ -61,3 +61,7 @@ Classe A32 2031/2642 (+528 J3), profession S27 900/1972 dernière valeur. 2090 M
 
 ## Correction administrative fin J3 — AED-FON-007
 Profession S niveau28 258/2098 (+1330 EXP J1–J3), +6 points libres non distribués. Classe A32 2031/2642 inchangée. Régénération passive Aedan 95 MP/min, plafond effectif, effet immédiat. MP courant au coucher historiquement non mesuré ; au réveil J4 plein3950/3950 sans équipement. HP2650/2650, EP exact inconnu/2950. [[Mes aventures RPG/Aeden/01 — Personnage principal/Registre de progression.md]].
+
+
+## Répartition des points — AED-STAT-001
+Répartition AED-STAT-001, choix explicite du joueur fin J3 21:56 (temps figé) : +5 END (295 → 300), +1 PER (330 → 331), six points dépensés, zéro libre. Total permanent1823. EP max base3000 (+50), avec équipement3260 ; END équipée326, PER équipée347. HP/MP inchangés ; EP actuel non mesuré, pas de restauration gratuite. Classe et profession inchangées.
