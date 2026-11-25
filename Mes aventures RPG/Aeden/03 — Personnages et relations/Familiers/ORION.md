@@ -4,7 +4,7 @@ campagne: Aeden
 branche_narrative: principale
 statut_documentaire: valide
 visibilite: joueur
-version: 2
+version: 3
 id: COMP-AED-ORION
 date_univers: "1842 TC — 16 Doréal"
 derniere_validation: "2026-11-25"
@@ -51,3 +51,7 @@ Deux illustrations originales générées le 25 novembre 2026, validées par le 
 
 ### Forme compacte
 ![ORION — forme compacte](../../08%20%E2%80%94%20Illustrations/Objets/ORION%20-%20Forme%20compacte.webp)
+
+
+## J2 terrain et soir
+Compact bracelet09:05–13:31, réactivation réussie, pas signal dedans. Reconnaissance N1, quatre signatures entrepôt, cavité4m. Repousse jeune rongeur par esquive/patte, griffes rétractables observées ; aucune compétence combat ni dégâts chiffrés. Aedan priorité reconnaissance. Intact. Vidéo1min24 envoyée Alyssa21:38, compactage/réactivation. Eryan tentative donner patte échouée. 22:24 au pied du lit Aedan, recharge passive, réserve inconnue. Hypothèse espèce automate non démontrée. [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 2 — Bilan.md]].

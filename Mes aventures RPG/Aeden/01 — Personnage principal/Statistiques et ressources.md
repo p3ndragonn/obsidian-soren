@@ -4,7 +4,7 @@ campagne: Aeden
 branche_narrative: null
 statut_documentaire: valide
 visibilite: joueur
-version: 7
+version: 8
 id: DOC-AED-E4C0D2822FEA
 date_univers: null
 derniere_validation: "2026-11-24"
@@ -46,3 +46,7 @@ Règlement p. 4 : HP max = 10 × VIT, MP max = 10 × SAG, EP max = 10 × END. Bo
 [Statut structuré](Données/statut.json) : source maîtresse des valeurs numériques. La table ci-dessus sert de présentation et doit être synchronisée ou renvoyer au fichier, jamais maintenue indépendamment.
 
 [[Mes aventures RPG/Aeden/01 — Personnage principal/Proposition de statut initial|Proposition de statut initial]] — trace de validation initiale. Total 1817 = socle 120 + gains 1697 ; 0 libre. Bonus équipement max cumulés : FOR 30, VIT 31, END 35, AGI 33, SAG 47, PER 39. Équipements et bonus validés. Référence administrative au repos : tenue, ceinture, brassards et bottes portés, épée au fourreau. Épée tenue en main : FOR +16, AGI +8, SAG +12 supplémentaires ; maximum MP 4290. Aucune restauration gratuite lors des changements. Tenue et ressources réelles à vérifier au début de la première scène.
+
+
+## État réel fin J2 22:24
+Table précédente = configuration de référence, non état actuel. Short nuit, équipement combat retiré, maxima base 2650/3950/2950, aucune blessure. Débits confirmés 390 MP J2 (20+30+80+30+80+150). Récupération et EP exacts non mesurés. EXP classe/profession dernière valeur validée ; gains J2 en attente de niveaux individuels et arbitrage. Aucun point attribué. [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 2 — Bilan.md]].

@@ -4,7 +4,7 @@ campagne: Aeden
 branche_narrative: null
 statut_documentaire: valide
 visibilite: joueur
-version: 7
+version: 8
 id: DOC-AED-CF67C3C4AFE5
 date_univers: null
 derniere_validation: "2026-11-24"
@@ -56,3 +56,7 @@ Consommables, matériaux et mobilier validés ; valeurs dans fiches maîtresses.
 
 ## Actualisation ORION — J2 09:04
 L'automate félin symbiotique acquis J1 est désormais nommé ORION, réparé, lié et opérationnel. Tenu par Aedan dans l'atelier en configuration compacte, hors bracelet. Sa mallette reste possédée. Référence unique [[Mes aventures RPG/Aeden/03 — Personnages et relations/Familiers/ORION|ORION]]. Pas de nouveau paiement ni de matériau consommé.
+
+
+## Fin J2 — état courant
+Table initiale historique. ORION déployé au lit, moto bracelet depuis12:19, équipement combat retiré, terminal et outils au camp, vêtements/toilettes et deux casques emportés. Réserves personnelles6HP/6MP/4EP,2 soins,4 rations intactes. Tous lots entreprise transférés au module industriel sauf coffret/contenus et8 docs sur établi. Prêts reçus deux S et mise à terre B ; abri B/module A loués installés. 40 repas collectifs restants sur42 ; eau/café/énergie non mesurés,12/12/8 potions intactes,2 projecteurs/8 cristaux réserve (usage exact inconnu),2 kits secours,2 couchages,4 caisses, kits lourds. Volume bracelet actuel inconnu. [[Mes aventures RPG/Aeden/05 — Inventaire et finances/Registre des récupérations de Kharvoss]] · [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 2 — Bilan.md]].

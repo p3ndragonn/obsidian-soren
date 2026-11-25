@@ -4,7 +4,7 @@ campagne: Aeden
 branche_narrative: principale
 statut_documentaire: valide
 visibilite: joueur
-version: 3
+version: 4
 id: PNJ-AED-ERYAN
 date_univers: "1842 TC — 16 Doréal"
 derniere_validation: "2026-11-25"
@@ -129,3 +129,7 @@ Détail des motivations, finances privées et informations non communiquées dan
 ![Eryan Valeris — portrait officiel](../../08%20%E2%80%94%20Illustrations/Personnages/Eryan%20Valeris%20%E2%80%94%20Portrait%20officiel.webp)
 
 Génération originale du 25 novembre 2026, WebP 1024 × 1536, version 1. Référence officielle ; les détails décoratifs du décor et des accessoires ne constituent pas de nouveaux objets ni des faits mécaniques.
+
+
+## Fin J2 22:24
+État09:23 historique. Permis signé, première ruine réelle, collaboration N1 et rapport. 14 P café payé09:45, solde49586 P. Débits MP55 (15 éclairage,15 machine,25 coffret), récupération/EP inconnus, pas blessure ; tenue détente. Niveaux/EXP derniers validés, gains profession à arbitrer. Réveil06:30 inventaire07:20, demande nouvelles Aedan, étude artefacts complexes ensemble. [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 2 — Bilan.md]].
