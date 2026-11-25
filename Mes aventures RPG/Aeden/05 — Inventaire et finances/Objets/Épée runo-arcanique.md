@@ -4,7 +4,7 @@ campagne: Aeden
 branche_narrative: null
 statut_documentaire: valide
 visibilite: joueur
-version: 2
+version: 3
 id: OBJ-AED-001
 date_univers: null
 derniere_validation: "2026-11-24"
@@ -13,7 +13,9 @@ sources:
   - "Validation explicite du joueur — trois Titres, équipements, tenue légère B à runes défensives, bracelet B 20 m³, fortune 350 000 P, atelier-appartement indépendant et moto B ; 24 novembre 2026"
 ---
 
-# Épée runo-arcanique
+# Vesperyx - la lame du sceau pourpre
+
+**Désignation générique :** épée runo-arcanique. Nom validé par le Fondateur le 25 novembre 2026.
 
 **Propriétaire :** Aedan Blackwell. Quantité : 1. Rareté : B. Valeur marchande estimée : 185000 P. État initial : bon. Liaison : lien propriétaire. Emplacement initial de référence : Fourreau (non dégainée).
 

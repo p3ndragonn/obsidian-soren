@@ -4,7 +4,7 @@ campagne: Aeden
 branche_narrative: null
 statut_documentaire: valide
 visibilite: joueur
-version: 4
+version: 5
 id: DOC-AED-1C2A07C6125D
 date_univers: null
 derniere_validation: "2026-11-24"
@@ -17,7 +17,7 @@ sources:
 
 | Emplacement | Objet (lien fiche) | Bonus appliqués | État | Source |
 | --- | --- | --- | --- | --- |
-| Fourreau (non dégainée) | [[Mes aventures RPG/Aeden/05 — Inventaire et finances/Objets/Épée runo-arcanique|Épée runo-arcanique]] | 0 (au fourreau) ; bonus seulement en main | Bon | Validation initiale |
+| Fourreau (non dégainée) | [[Mes aventures RPG/Aeden/05 — Inventaire et finances/Objets/Épée runo-arcanique|Vesperyx - la lame du sceau pourpre]] | 0 (au fourreau) ; bonus seulement en main | Bon | Validation initiale |
 | Portée | [[Mes aventures RPG/Aeden/05 — Inventaire et finances/Objets/Tenue légère runo-arcanique|Tenue légère runo-arcanique]] | VIT +18, END +12, AGI +10 portée | Bon | Validation initiale |
 | Portée | [[Mes aventures RPG/Aeden/05 — Inventaire et finances/Objets/Ceinture d’exploration|Ceinture d’exploration]] | END +5, PER +6 portée | Bon | Validation initiale |
 | Portés | [[Mes aventures RPG/Aeden/05 — Inventaire et finances/Objets/Brassards de canalisation|Brassards de canalisation]] | FOR +6, SAG +22, PER +10 portés | Bon | Validation initiale |
@@ -27,3 +27,5 @@ sources:
 Les propriétés détaillées restent dans la fiche d'objet ; aucune durabilité numérique universelle. Contrôler les bonus dans [[Mes aventures RPG/Aeden/01 — Personnage principal/Statistiques et ressources|Statistiques et ressources]].
 
 Référence administrative : épée au fourreau ; tenue réelle au lancement à confirmer. Le terminal et la trousse sont dans le bracelet. Aucun double comptage.
+
+État de fin J1 : équipement de combat retiré pour dormir ; tableau = configuration de référence, non bonus actifs au coucher.

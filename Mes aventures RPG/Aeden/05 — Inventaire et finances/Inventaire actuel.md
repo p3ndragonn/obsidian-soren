@@ -4,7 +4,7 @@ campagne: Aeden
 branche_narrative: null
 statut_documentaire: valide
 visibilite: joueur
-version: 5
+version: 6
 id: DOC-AED-CF67C3C4AFE5
 date_univers: null
 derniere_validation: "2026-11-24"
@@ -22,7 +22,7 @@ sources:
 
 | ID objet ou lot | Lien fiche | Quantité | Propriétaire | Emplacement | État | Source |
 | --- | --- | --- | --- | --- | --- | --- |
-| OBJ-AED-001 | [[Mes aventures RPG/Aeden/05 — Inventaire et finances/Objets/Épée runo-arcanique|Épée runo-arcanique]] | 1 | Aedan | Fourreau (non dégainée) | Bon | Validation explicite |
+| OBJ-AED-001 | [[Mes aventures RPG/Aeden/05 — Inventaire et finances/Objets/Épée runo-arcanique|Vesperyx - la lame du sceau pourpre]] | 1 | Aedan | Fourreau (non dégainée) | Bon | Validation explicite |
 | OBJ-AED-002 | [[Mes aventures RPG/Aeden/05 — Inventaire et finances/Objets/Tenue légère runo-arcanique|Tenue légère runo-arcanique]] | 1 | Aedan | Portée | Bon | Validation explicite |
 | OBJ-AED-003 | [[Mes aventures RPG/Aeden/05 — Inventaire et finances/Objets/Ceinture d’exploration|Ceinture d’exploration]] | 1 | Aedan | Portée | Bon | Validation explicite |
 | OBJ-AED-004 | [[Mes aventures RPG/Aeden/05 — Inventaire et finances/Objets/Brassards de canalisation|Brassards de canalisation]] | 1 paire | Aedan | Portés | Bon | Validation explicite |

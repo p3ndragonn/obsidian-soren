@@ -4,7 +4,7 @@ campagne: Aeden
 branche_narrative: null
 statut_documentaire: protocole
 visibilite: joueur
-version: 1
+version: 2
 id: null
 date_univers: null
 derniere_validation: null
@@ -23,3 +23,6 @@ sources: []
 8. À la reprise, restituer la dernière scène sans action nouvelle et attendre le joueur.
 
 Ne pas faire de commit pour une simple question. Un point de continuité n’est pas forcément un point majeur. Les dossiers documentaires ne constituent pas une séparation technique des droits d’accès.
+
+## Obligation de fin de journée (AED-FON-001)
+À chaque coucher/fin de journée, synchroniser toutes les fiches affectées et les nouveaux éléments, index, données structurées, illustrations officielles accessibles, bilan et archive de reprise. Vérifier cohérence et commit avant d'annoncer la réussite ; signaler les exceptions restantes. Ne pas attendre une nouvelle demande du joueur.

@@ -4,7 +4,7 @@ campagne: Aeden
 branche_narrative: principale
 statut_documentaire: valide
 visibilite: joueur
-version: 13
+version: 14
 id: PJ-AED-001
 date_univers: null
 derniere_validation: "2026-11-24"
@@ -41,8 +41,10 @@ Trois Titres validés et actifs initialement : Pionnier des deux disciplines, Pr
 [[Mes aventures RPG/Aeden/01 — Personnage principal/Compétences/Index — Compétences|Index — Compétences]] · [[Mes aventures RPG/Aeden/01 — Personnage principal/Aptitudes raciales et biologie|Aptitudes raciales et biologie]]
 
 ## 4 — Équipement et possessions
-Fortune personnelle disponible 350 000 P ; atelier indépendant personnel avec appartement à l'étage, accès conservé à la suite familiale (non possédée) ; moto magitech B ; équipement choisi et bracelet B 20 m³. Détails, estimations et financement validés ; patrimoine net estimé 2 135 000 P, aucune dette. [[Mes aventures RPG/Aeden/05 — Inventaire et finances/Possessions/Patrimoine personnel d’Aedan|Patrimoine personnel d’Aedan]]. [[Mes aventures RPG/Aeden/04 — Monde et lieux/Lieux/Atelier et appartement d’Aedan Blackwell|Atelier et appartement d’Aedan Blackwell]].
+Fortune personnelle disponible 342 932 P (fin J1 ; initiale 350 000 P) ; atelier indépendant personnel avec appartement à l'étage, accès conservé à la suite familiale (non possédée) ; moto magitech B ; équipement choisi et bracelet B 20 m³. Détails, estimations et financement validés ; patrimoine net initial estimé 2 135 000 P, aucune dette. [[Mes aventures RPG/Aeden/05 — Inventaire et finances/Possessions/Patrimoine personnel d’Aedan|Patrimoine personnel d’Aedan]]. [[Mes aventures RPG/Aeden/04 — Monde et lieux/Lieux/Atelier et appartement d’Aedan Blackwell|Atelier et appartement d’Aedan Blackwell]].
 [[Mes aventures RPG/Aeden/05 — Inventaire et finances/Équipement porté|Équipement porté]] · [[Mes aventures RPG/Aeden/05 — Inventaire et finances/Inventaire actuel|Inventaire actuel]] · [[Mes aventures RPG/Aeden/05 — Inventaire et finances/Comptabilité personnelle|Comptabilité personnelle]]
+
+Arme personnelle : [[Mes aventures RPG/Aeden/05 — Inventaire et finances/Objets/Épée runo-arcanique|Vesperyx - la lame du sceau pourpre]] [B]. Automate félin symbiotique [A] acquis au J1.
 
 ## 5 — Histoire et personnalité
 - **Famille (liens vers fiches) :** [[Mes aventures RPG/Aeden/03 — Personnages et relations/Familles/Famille Blackwell|Famille Blackwell]] ; [[Mes aventures RPG/Aeden/03 — Personnages et relations/Personnages/Victor Blackwell|Victor Blackwell]], [[Mes aventures RPG/Aeden/03 — Personnages et relations/Personnages/Elena Blackwell|Elena Blackwell]], [[Mes aventures RPG/Aeden/03 — Personnages et relations/Personnages/Alyssa Blackwell|Alyssa Blackwell]] ; Aedan fils cadet

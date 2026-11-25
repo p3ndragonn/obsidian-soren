@@ -2,9 +2,9 @@
 type: decisions
 campagne: Aeden
 branche_narrative: null
-statut_documentaire: a_definir
+statut_documentaire: valide
 visibilite: fondateur
-version: 2
+version: 3
 id: null
 date_univers: null
 derniere_validation: null
@@ -19,3 +19,9 @@ sources: []
 Une proposition n'est pas une décision. Toute révision majeure rétroactive exige validation après analyse des conséquences.
 
 Pour chaque ID : date d’effet dans l’univers, rétroactivité éventuelle, portée (personnage/univers/universel), directive remplacée, conséquences, validation explicite et source. Les décisions ne sont jamais inventées.
+
+## AED-FON-001 — Sauvegardes quotidiennes
+Décision explicite du Fondateur, 25 novembre 2026, effet dès fin J1 : à chaque fin de journée jouée, synchroniser intégralement les fiches maîtresses, journal, finances, inventaires, progression, PNJ, relations, lieux, bestiaire, objets, quêtes, agenda, illustrations disponibles et état de reprise sur GitHub. Vérifier le commit et signaler tout manque réel. Ne pas inventer de données ni de sauvegarde ; pas de progression temporelle administrative.
+
+## AED-FON-002 — Nom de l'épée
+Nom officiel : Vesperyx - la lame du sceau pourpre. Même objet OBJ-AED-001, aucune modification mécanique, acquisition ou dépense. Ancienne désignation générique conservée comme alias et chemin pour préserver les liens.
