@@ -6,7 +6,7 @@
   "classe": {
     "rarete": "A",
     "niveau": 32,
-    "exp": 1503
+    "exp": 2031
   },
   "profession": {
     "rarete": "S",
@@ -39,7 +39,8 @@
       "actuelle": null,
       "base": 3950,
       "maximum": 3950,
-      "debit_confirme_j2": 390
+      "debit_confirme_j2": 390,
+      "debit_confirme_j3": 2090
     },
     "EP": {
       "actuelle": null,
@@ -54,7 +55,7 @@
   ],
   "points_libres": 0,
   "affiliations_ref": "affiliations.json",
-  "etat_date": "1842 TC — 16 Doréal 22:24",
+  "etat_date": "1842 TC — 17 Doréal 21:56",
   "exp_j2_statut": "combat_attribue_profession_en_attente",
   "ressources_note": "HP sans blessure, maxima base au coucher ; MP et EP exacts non mesurés, récupération non chiffrée",
   "exp_combat_j2": {
@@ -72,6 +73,20 @@
       "KH-R06",
       "KH-S02",
       "KH-S03"
+    ]
+  },
+  "exp_j3_statut": "combat_attribue_profession_en_attente",
+  "exp_combat_j3": {
+    "gain": 528,
+    "avant": 1503,
+    "apres": 2031,
+    "ids": [
+      "KH-T01",
+      "KH-S04",
+      "KH-S05",
+      "KH-T02",
+      "KH-T03",
+      "KH-T04"
     ]
   }
 }
