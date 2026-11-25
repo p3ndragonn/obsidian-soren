@@ -22,28 +22,29 @@
     "PER": 330
   },
   "equipement": {
-    "FOR": 6,
-    "VIT": 18,
-    "END": 26,
-    "AGI": 22,
-    "SAG": 22,
-    "PER": 16
+    "FOR": 0,
+    "VIT": 0,
+    "END": 0,
+    "AGI": 0,
+    "SAG": 0,
+    "PER": 0
   },
   "ressources": {
     "HP": {
-      "actuelle": 2830,
+      "actuelle": 2650,
       "base": 2650,
-      "maximum": 2830
+      "maximum": 2650
     },
     "MP": {
-      "actuelle": 4170,
+      "actuelle": null,
       "base": 3950,
-      "maximum": 4170
+      "maximum": 3950,
+      "debit_confirme_j2": 390
     },
     "EP": {
-      "actuelle": 3210,
+      "actuelle": null,
       "base": 2950,
-      "maximum": 3210
+      "maximum": 2950
     }
   },
   "titres_actifs": [
@@ -52,5 +53,8 @@
     "Vétéran des labyrinthes"
   ],
   "points_libres": 0,
-  "affiliations_ref": "affiliations.json"
+  "affiliations_ref": "affiliations.json",
+  "etat_date": "1842 TC — 16 Doréal 22:24",
+  "exp_j2_statut": "en_attente_niveaux_specimens_et_arbitrage_profession",
+  "ressources_note": "HP sans blessure, maxima base au coucher ; MP et EP exacts non mesurés, récupération non chiffrée"
 }

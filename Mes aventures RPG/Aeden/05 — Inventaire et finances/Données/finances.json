@@ -8,7 +8,7 @@
       "devise": "P",
       "solde_initial": "350000",
       "solde_actuel": "342932",
-      "date_univers": "1842 TC — 15 Doréal",
+      "date_univers": "1842 TC — 16 Doréal",
       "source": "Validation explicite du joueur ; solde initial, pas transaction",
       "branche": "principale"
     }
@@ -53,5 +53,6 @@
       "ordre": 3,
       "source": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 1 — Bilan.md — 18:48"
     }
-  ]
+  ],
+  "note_j2": "Aucun flux Aedan. Eryan 49586 P ; entreprise 990000 P hors coûts non quantifiés, permis 17000 et locations 10000 P engagés, règlements non confirmés."
 }

@@ -4,7 +4,7 @@ campagne: Aeden
 branche_narrative: null
 statut_documentaire: a_definir
 visibilite: joueur
-version: 2
+version: 3
 id: null
 date_univers: null
 derniere_validation: null
@@ -29,3 +29,7 @@ Un rendez-vous prévu n'est pas joué. Garder les retards, annulations et change
 - AED-AG-006 : 22 Doréal 1842 TC à confirmer — Retour expédition (prévu)
 - Alyssa : récupération plaques et recherche inscriptions pendant expédition, date non fixée.
 - Maël : retour estimé dans 7–8 jours selon souvenir Aedan, non confirmé.
+
+
+## Actualisation J2
+AG001–004 réalisés ; AG005 confirmé17 Doréal09:00 Lydia ménage/lessive accès appartement uniquement jusqu'à23:59 ; AG006 retour22 Doréal. 17 Doréal06:30 réveil,06:40 déjeuner, Aedan café,07:20 N2/inventaire Eryan, messages réguliers, photos serrure N3 si accessible, récupération N1, archives, rapport quotidien. Mira/Thoren analyse demain, copie données si accessibles. Pâtisserie Alyssa au retour, examen ORION et plaques ; pas de prix/délai précis. [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 2 — Bilan.md]].

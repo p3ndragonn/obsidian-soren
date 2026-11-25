@@ -4,7 +4,7 @@ campagne: Aeden
 branche_narrative: null
 statut_documentaire: a_definir
 visibilite: joueur
-version: 3
+version: 4
 id: null
 date_univers: null
 derniere_validation: null
@@ -23,3 +23,7 @@ Distinguer date exacte, estimée, relative ou inconnue. Les récits conservent l
 ## Jour 1 — 15 Doréal
 Bilan intégral et chronologie détaillée : - [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 1 — Bilan]]
 Fin 23:08, coucher ; reprise AED-J1-002.
+
+
+## Jour 2 — 16 Doréal
+Chapitre II ouvert, expédition Kharvoss, ORION opérationnel, six lots, neuf ennemis. Fin22:24 campement, reprise AED-J2-003. [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 2 — Bilan.md]].
