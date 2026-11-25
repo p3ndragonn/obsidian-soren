@@ -4,7 +4,7 @@ campagne: Aeden
 branche_narrative: null
 statut_documentaire: index
 visibilite: joueur
-version: 5
+version: 6
 id: null
 date_univers: null
 derniere_validation: "2026-11-24"
@@ -62,3 +62,6 @@ Retour : [[Mes aventures RPG/Aeden/00 — Accueil et reprise/Tableau de bord —
 - [[Mes aventures RPG/Aeden/03 — Personnages et relations/Personnages/Marielle Doucesève]]
 - [[Mes aventures RPG/Aeden/03 — Personnages et relations/Personnages/Edric Valmont]]
 - [[Mes aventures RPG/Aeden/03 — Personnages et relations/Personnages/Lydia]]
+
+## Compagnon arcanotech
+- [[Mes aventures RPG/Aeden/03 — Personnages et relations/Familiers/ORION|ORION]] — automate félin symbiotique [A], lié à Aedan au J2.

@@ -4,7 +4,7 @@ campagne: Aeden
 branche_narrative: null
 statut_documentaire: valide
 visibilite: joueur
-version: 6
+version: 7
 id: DOC-AED-CF67C3C4AFE5
 date_univers: null
 derniere_validation: "2026-11-24"
@@ -53,3 +53,6 @@ Consommables, matériaux et mobilier validés ; valeurs dans fiches maîtresses.
 - Terminal : rapport Seravhen, 18 photos, photos plaques, historique et acte de cession, dossier Kharvoss et annotations hors connexion.
 - Vêtements de rechange et nécessaire de toilette préparés ; volume non établi. Chocolat individuel offert, consommation non établie. Dessert consommé au dîner.
 - Matériel expédition et deux artefacts S : prêts/réservations, non réceptionnés.
+
+## Actualisation ORION — J2 09:04
+L'automate félin symbiotique acquis J1 est désormais nommé ORION, réparé, lié et opérationnel. Tenu par Aedan dans l'atelier en configuration compacte, hors bracelet. Sa mallette reste possédée. Référence unique [[Mes aventures RPG/Aeden/03 — Personnages et relations/Familiers/ORION|ORION]]. Pas de nouveau paiement ni de matériau consommé.
