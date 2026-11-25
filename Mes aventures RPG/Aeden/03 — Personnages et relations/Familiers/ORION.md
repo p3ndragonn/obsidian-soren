@@ -4,7 +4,7 @@ campagne: Aeden
 branche_narrative: principale
 statut_documentaire: valide
 visibilite: joueur
-version: 1
+version: 2
 id: COMP-AED-ORION
 date_univers: "1842 TC — 16 Doréal"
 derniere_validation: "2026-11-25"
@@ -43,13 +43,11 @@ Imite un chat : miaulement cristallin, ronronnement, curiosité, frottements, in
 ## Provenance et documentation
 Vestiges de Seravhen, environ 85 km à l'ouest de Novaréa ; rapport de découverte de 1794 TC, acquisition Valmont 1795 TC, photos des deux plaques et documents numériques sur terminal d'Aedan. Fabricant et fonction historique exacte inconnus. Alyssa prévoit de récupérer les plaques originales et d'en étudier les inscriptions.
 
-## Références visuelles
-Deux illustrations originales générées le 25 novembre 2026, validées comme références par demande d'intégration du joueur. Fichiers WebP 1254 × 1254 préparés, transfert binaire GitHub non effectué. Emplacements prévus :
-- 08 — Illustrations/Objets/ORION - Forme déployée.webp
-- 08 — Illustrations/Objets/ORION - Forme compacte.webp
+## Références visuelles officielles
+Deux illustrations originales générées le 25 novembre 2026, validées par le joueur. Version 1, WebP 1254 × 1254 pixels, archivées sans perte de résolution. Les deux configurations représentent le même automate.
 
-Une fois les fichiers déposés, les liens d'illustration ci-dessous s'afficheront automatiquement dans Obsidian. Ne pas les déclarer présents avant vérification.
+### Forme déployée
+![ORION — forme déployée](../../08%20%E2%80%94%20Illustrations/Objets/ORION%20-%20Forme%20d%C3%A9ploy%C3%A9e.webp)
 
-![[Mes aventures RPG/Aeden/08 — Illustrations/Objets/ORION - Forme déployée.webp]]
-
-![[Mes aventures RPG/Aeden/08 — Illustrations/Objets/ORION - Forme compacte.webp]]
+### Forme compacte
+![ORION — forme compacte](../../08%20%E2%80%94%20Illustrations/Objets/ORION%20-%20Forme%20compacte.webp)
