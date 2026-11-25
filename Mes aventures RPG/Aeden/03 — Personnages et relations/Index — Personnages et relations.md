@@ -4,7 +4,7 @@ campagne: Aeden
 branche_narrative: null
 statut_documentaire: index
 visibilite: joueur
-version: 7
+version: 8
 id: null
 date_univers: null
 derniere_validation: "2026-11-24"
@@ -68,3 +68,7 @@ Retour : [[Mes aventures RPG/Aeden/00 — Accueil et reprise/Tableau de bord —
 
 ## Relation et suivi d'Eryan
 - [[Mes aventures RPG/Aeden/03 — Personnages et relations/Relations/Aedan et Eryan Valeris]] — relation évolutive, expédition commune en préparation.
+
+
+## J2
+[[Mes aventures RPG/Aeden/03 — Personnages et relations/Personnages/Léna Arven]] — réceptionniste rencontrée ; Eryan et ORION actualisés.

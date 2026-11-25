@@ -4,7 +4,7 @@ campagne: Aeden
 branche_narrative: null
 statut_documentaire: index
 visibilite: joueur
-version: 6
+version: 7
 id: null
 date_univers: null
 derniere_validation: "2026-11-24"
@@ -115,3 +115,7 @@ Retour : [[Mes aventures RPG/Aeden/00 — Accueil et reprise/Tableau de bord —
 - [[Mes aventures RPG/Aeden/04 — Monde et lieux/Lieux/Complexe souterrain de Kharvoss]]
 - [[Mes aventures RPG/Aeden/04 — Monde et lieux/Lieux/Vestiges de Seravhen]]
 - [[Mes aventures RPG/Aeden/04 — Monde et lieux/Lieux/Les Délices d’Ambre]]
+
+
+## J2
+[[Mes aventures RPG/Aeden/04 — Monde et lieux/Lieux/Campement de Kharvoss]] ; complexe N1 reconnu et actualisé.

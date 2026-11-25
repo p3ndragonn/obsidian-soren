@@ -4,7 +4,7 @@ campagne: Aeden
 branche_narrative: null
 statut_documentaire: index
 visibilite: joueur
-version: 1
+version: 2
 id: null
 date_univers: null
 derniere_validation: null
@@ -26,3 +26,7 @@ Retour : [[Mes aventures RPG/Aeden/00 — Accueil et reprise/Tableau de bord —
 
 ## Projet en préparation
 - [[Mes aventures RPG/Aeden/06 — Quêtes et projets/Projets/Les vestiges de Kharvoss]]
+
+
+## J2
+[[Mes aventures RPG/Aeden/06 — Quêtes et projets/Projets/Contrat et permis de Kharvoss]] ; [[Mes aventures RPG/Aeden/06 — Quêtes et projets/Projets/Rapport KH-001]].

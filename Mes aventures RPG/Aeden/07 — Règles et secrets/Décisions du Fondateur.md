@@ -4,7 +4,7 @@ campagne: Aeden
 branche_narrative: null
 statut_documentaire: valide
 visibilite: fondateur
-version: 5
+version: 6
 id: DOC-AED-DECISIONS-FONDATEUR
 date_univers: null
 derniere_validation: null
@@ -31,3 +31,7 @@ Nom officiel : Vesperyx - la lame du sceau pourpre. Même objet OBJ-AED-001, auc
 
 ## AED-FON-004 — Profil définitif d'Eryan Valeris
 25 novembre 2026, J2 09:23, temps figé. Le Fondateur délègue intégralement la création des éléments non établis du PNJ et valide d'avance leur contenu. Les faits joués restent préservés. Correction de cohérence : rang personnel B, minimum elfique (Codex p.11 et démographie locale), au lieu du C erroné des premières mentions. Pas d'ascension, ni modification des règles raciales, ni réécriture de résultats de scène ; aucune confrontation jouée n'est affectée. Classe, profession, statistiques, compétences, affiliations, équipement, biographie et données privées définis dans [[Mes aventures RPG/Aeden/03 — Personnages et relations/Personnages/Eryan Valeris]] et [[Mes aventures RPG/Aeden/07 — Règles et secrets/Registre réservé au Fondateur/Eryan Valeris — Profil privé]]. Aucune connaissance automatique du PJ. Aucun temps ni paiement ajouté.
+
+
+## AED-FON-005 — Emboîtement dimensionnel vide
+J2 10:57, décision du Fondateur en cours de préparation : équipements dimensionnels vides autorisés dans bracelet, pas de module chargé. Abri plié vide et module vide vérifiés par fournisseur. Le module chargé sera porté manuellement par Eryan. [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 2 — Bilan.md]].
