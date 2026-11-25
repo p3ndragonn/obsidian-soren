@@ -4,7 +4,7 @@ campagne: Aeden
 branche_narrative: null
 statut_documentaire: valide
 visibilite: joueur
-version: 4
+version: 5
 id: DOC-AED-CF67C3C4AFE5
 date_univers: null
 derniere_validation: "2026-11-24"
@@ -17,7 +17,7 @@ sources:
 
 - **Propriétaire :** Aedan Blackwell
 - **Mécanisme de rangement réellement acquis :** bracelet dimensionnel B (objet, pas compétence Stockage)
-- **Capacité et volume occupé si applicables :** 20 m³ ; occupation initiale estimée 0,133 m³ ; libre ~19,867 m³.
+- **Capacité et volume occupé si applicables :** 20 m³ ; occupation initiale estimée 0,133 m³ ; volume actuel à mesurer après ajouts.
 - **Localisation :** Référence administrative au repos : objets portés, épée au fourreau, bracelet, atelier et appartement.
 
 | ID objet ou lot | Lien fiche | Quantité | Propriétaire | Emplacement | État | Source |
@@ -46,4 +46,10 @@ sources:
 
 Les objets équipés sont recensés ici une seule fois et référencés dans [[Mes aventures RPG/Aeden/05 — Inventaire et finances/Équipement porté|Équipement porté]]. Ne pas supposer la compétence Stockage ; pour un Humain qui la possède, utiliser la formule du règlement p. 7–8. La Pièce virtuelle n'occupe pas de volume.
 
-Consommables, matériaux et mobilier validés ; valeurs dans fiches maîtresses. Effets exacts des potions non définis. Aucun paiement ni utilisation joué.
+Consommables, matériaux et mobilier validés ; valeurs dans fiches maîtresses. Effets exacts des potions non définis. Consommables initiaux non utilisés. Équipement de référence rangé au coucher, tenue de nuit.
+
+## Ajouts du jour 1
+- Automate félin symbiotique [A], mallette, bracelet ; propriété Aedan, liaison absente, recharge défectueuse, matrice réactivée temporairement. Achat 32 000 P incluant deux plaques gravées (originaux à récupérer chez Valmont).
+- Terminal : rapport Seravhen, 18 photos, photos plaques, historique et acte de cession, dossier Kharvoss et annotations hors connexion.
+- Vêtements de rechange et nécessaire de toilette préparés ; volume non établi. Chocolat individuel offert, consommation non établie. Dessert consommé au dîner.
+- Matériel expédition et deux artefacts S : prêts/réservations, non réceptionnés.

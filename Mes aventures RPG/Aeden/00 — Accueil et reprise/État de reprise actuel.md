@@ -4,7 +4,7 @@ campagne: Aeden
 branche_narrative: principale
 statut_documentaire: valide
 visibilite: joueur
-version: 19
+version: 20
 id: AED-REPRISE-COURANTE
 date_univers: "1842 TC — 15 Doréal"
 derniere_validation: "2026-11-24"
@@ -25,12 +25,12 @@ sources:
 > [!note] Campagne lancée ; ouverture du chapitre I.
 
 - Campagne : Les Arcanes d’Elyndra, AED-827, univers 827.
-- Branche : principale ; sauvegarde AED-INIT-000, continuité administrative, ordre 0.
-- Chapitre I — Un nouveau départ ; Jour 1, Aquaris 15 Doréal 1842 TC, 08 h 00 ; appartement personnel, Les Portes d’Orion.
-- Dernière scène : ouverture dans le séjour de l’appartement ; aucune action volontaire du joueur.
-- Décision attendue : première action d’Aedan.
-- Échéances : charges prévisionnelles ; aucun rendez-vous précis établi.
-- Instantané : [[Mes aventures RPG/Aeden/99 — Archives/États de reprise/AED-INIT-000]] ; aucun point majeur.
+- Branche : principale ; sauvegarde AED-J1-002, ordre 2.
+- Chapitre I — Un nouveau départ ; Jour 1, 15 Doréal 1842 TC, 23 h 08 ; appartement personnel.
+- Dernière scène : douche et coucher. Réveil prévu 07:30 le 16 Doréal.
+- Décision attendue : reprise au réveil ; aucune récupération nocturne encore appliquée.
+- Échéances : Eryan 09:30 Guilde, permis et réception matériel, départ 12:00 ; Lydia 17 Doréal sous réserve.
+- Instantané : [[Mes aventures RPG/Aeden/99 — Archives/États de reprise/AED-J1-002]] ; [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 1 — Bilan]].
 
 ## Références actuelles
 - [[Mes aventures RPG/Aeden/01 — Personnage principal/Fiche du personnage principal|Fiche du personnage principal]]

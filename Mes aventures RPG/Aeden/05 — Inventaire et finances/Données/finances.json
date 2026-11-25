@@ -7,11 +7,42 @@
       "nature": "personnel",
       "devise": "P",
       "solde_initial": "350000",
-      "solde_actuel": "350000",
+      "solde_actuel": "342932",
       "date_univers": "1842 TC — 15 Doréal",
       "source": "Validation explicite du joueur ; solde initial, pas transaction",
       "branche": "principale"
     }
   ],
-  "transactions": []
+  "transactions": [
+    {
+      "id": "AED-T001",
+      "heure": "12:43",
+      "montant": "25000",
+      "libelle": "Expertise 5000 et restauration 20000",
+      "contrepartie": "Blackwell Défense Arcanotech",
+      "date_univers": "1842 TC — 15 Doréal",
+      "compte_id": "COMPTE-AED-001",
+      "statut": "effectue"
+    },
+    {
+      "id": "AED-T002",
+      "heure": "16:31",
+      "montant": "-68",
+      "libelle": "Le Cœur rubis",
+      "contrepartie": "Les Délices d'Ambre",
+      "date_univers": "1842 TC — 15 Doréal",
+      "compte_id": "COMPTE-AED-001",
+      "statut": "effectue"
+    },
+    {
+      "id": "AED-T003",
+      "heure": "18:48",
+      "montant": "-32000",
+      "libelle": "Automate félin symbiotique et plaques",
+      "contrepartie": "Edric Valmont",
+      "date_univers": "1842 TC — 15 Doréal",
+      "compte_id": "COMPTE-AED-001",
+      "statut": "effectue"
+    }
+  ]
 }
