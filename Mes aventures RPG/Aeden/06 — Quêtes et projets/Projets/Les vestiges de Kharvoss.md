@@ -7,6 +7,7 @@ visibilite: joueur
 version: 1
 id: PROJ-AED-KH
 date_univers: "1842 TC — 15 Doréal"
+derniere_validation: null
 sources:
   - "Scènes jouées du jour 1 ; bilan AED-J1-002"
 ---

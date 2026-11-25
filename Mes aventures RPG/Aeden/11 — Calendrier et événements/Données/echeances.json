@@ -6,42 +6,72 @@
       "date": "16 Doréal 1842 TC",
       "heure": "07:30",
       "engagement": "Réveil",
-      "statut": "prévu"
+      "statut": "prevu",
+      "branche": "principale",
+      "ordre_creation": 1,
+      "source": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 1 — Bilan.md",
+      "titre": "Réveil",
+      "date_univers": "16 Doréal 1842 TC"
     },
     {
       "id": "AED-AG-002",
       "date": "16 Doréal 1842 TC",
       "heure": "09:30",
       "engagement": "Rendez-vous Eryan à la Guilde, permis",
-      "statut": "prévu"
+      "statut": "prevu",
+      "branche": "principale",
+      "ordre_creation": 1,
+      "source": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 1 — Bilan.md",
+      "titre": "Rendez-vous Eryan à la Guilde, permis",
+      "date_univers": "16 Doréal 1842 TC"
     },
     {
       "id": "AED-AG-003",
       "date": "16 Doréal 1842 TC",
       "heure": "matin",
       "engagement": "Réception matériel et deux artefacts",
-      "statut": "prévu"
+      "statut": "prevu",
+      "branche": "principale",
+      "ordre_creation": 1,
+      "source": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 1 — Bilan.md",
+      "titre": "Réception matériel et deux artefacts",
+      "date_univers": "16 Doréal 1842 TC"
     },
     {
       "id": "AED-AG-004",
       "date": "16 Doréal 1842 TC",
       "heure": "12:00",
       "engagement": "Départ Kharvoss",
-      "statut": "prévu"
+      "statut": "prevu",
+      "branche": "principale",
+      "ordre_creation": 1,
+      "source": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 1 — Bilan.md",
+      "titre": "Départ Kharvoss",
+      "date_univers": "16 Doréal 1842 TC"
     },
     {
       "id": "AED-AG-005",
       "date": "17 Doréal 1842 TC",
       "heure": "à confirmer",
       "engagement": "Ménage Lydia, accès à transmettre",
-      "statut": "conditionnel"
+      "statut": "conditionnel",
+      "branche": "principale",
+      "ordre_creation": 1,
+      "source": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 1 — Bilan.md",
+      "titre": "Ménage Lydia, accès à transmettre",
+      "date_univers": "17 Doréal 1842 TC"
     },
     {
       "id": "AED-AG-006",
       "date": "22 Doréal 1842 TC",
       "heure": "à confirmer",
       "engagement": "Retour expédition",
-      "statut": "prévu"
+      "statut": "prevu",
+      "branche": "principale",
+      "ordre_creation": 1,
+      "source": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 1 — Bilan.md",
+      "titre": "Retour expédition",
+      "date_univers": "22 Doréal 1842 TC"
     }
   ]
 }

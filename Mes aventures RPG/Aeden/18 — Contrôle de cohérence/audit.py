@@ -23,9 +23,12 @@ def decimal(v):
     if not x.is_finite(): raise ValueError("montant non fini")
     return x
 
-def audit(root=ROOT, vault=VAULT):
+def audit(root=ROOT, vault=VAULT, details=None):
     errors=[]; warnings=[]
-    def err(code): errors.append(code)
+    context=None
+    def err(code):
+        errors.append(code)
+        if details is not None: details.append((code, context))
     def warn(code): warnings.append(code)
     def load(p):
         try:
@@ -47,7 +50,8 @@ def audit(root=ROOT, vault=VAULT):
         for key in {rel,p.name,rel[:-3] if rel.endswith(".md") else rel,p.stem if p.suffix==".md" else p.name}:
             lookup[key].append(p)
     ids=set()
-    for p in root.rglob("*.md"):
+    for p in sorted(root.rglob("*.md")):
+        context=p.relative_to(root).as_posix()
         s=p.read_text(encoding="utf-8")
         if p.name!="README.md":
             try:
@@ -74,6 +78,7 @@ def audit(root=ROOT, vault=VAULT):
             # Les chemins avec espaces doivent être encodés ou entre chevrons.
             if not (p.parent/t.strip("<>")).is_file(): err("lien Markdown local ou média introuvable")
     # Les fichiers actuels utilisent des liens qualifiés à la racine du coffre.
+    context="05 — Inventaire et finances/Données/finances.json"
     f=load("05 — Inventaire et finances/Données/finances.json")
     comptes=f.get("comptes",[]); tx=f.get("transactions",[])
     unique(comptes,"ID compte absent ou dupliqué"); unique(tx,"ID transaction absent ou dupliqué")
@@ -100,6 +105,7 @@ def audit(root=ROOT, vault=VAULT):
         except (ValueError,InvalidOperation): err("solde invalide")
     for rows in transfers.values():
         if len(rows)!=2 or rows[0][0]==rows[1][0] or any(n is None for _,n in rows) or sum(n for _,n in rows)!=0: err("transfert non équilibré")
+    context="14 — Progression et combats/Données/progression.json"
     g=load("14 — Progression et combats/Données/progression.json")
     chars=g.get("personnages",[]); events=g.get("evenements",[])
     unique(chars,"ID progression absent ou dupliqué"); unique(events,"ID événement progression absent ou dupliqué")
@@ -119,6 +125,7 @@ def audit(root=ROOT, vault=VAULT):
             else: warn("EXP non calculable ou invalide")
         elif e.get("type") not in {"ascension","correction"} or not e.get("exception"): err("évolution spéciale sans référence")
         states[key]=after
+    context="01 — Personnage principal/Données/statut.json"
     st=load("01 — Personnage principal/Données/statut.json")
     if st.get("rang_personnel") is not None and st["rang_personnel"] not in RANKS: err("rang personnel invalide")
     for domain in ("classe","profession"):
@@ -140,12 +147,14 @@ def audit(root=ROOT, vault=VAULT):
         if isinstance(a,(int,float)) and isinstance(m,(int,float)) and a>m: err("ressource actuelle supérieure au maximum")
     titles=st.get("titres_actifs",[])
     if len(titles)>5 or len(set(titles))!=len(titles): err("titres actifs invalides")
+    context="11 — Calendrier et événements/Données/echeances.json"
     agenda=load("11 — Calendrier et événements/Données/echeances.json").get("evenements",[])
     unique(agenda,"ID échéance absent ou dupliqué")
     for e in agenda:
         a,b=e.get("ordre_creation"),e.get("ordre_realisation")
-        if e.get("statut") not in {"prevu","realise","annule","reporte"} or not e.get("source") or not isinstance(a,int): err("échéance invalide")
+        if e.get("statut") not in {"prevu","conditionnel","realise","annule","reporte"} or not e.get("source") or not isinstance(a,int): err("échéance invalide")
         if e.get("statut")=="realise" and (not isinstance(b,int) or not isinstance(a,int) or b<a): err("chronologie échéance incohérente")
+    context="00 — Accueil et reprise/Données/reprise.json"
     r=load("00 — Accueil et reprise/Données/reprise.json")
     if r.get("sauvegarde_id"):
         if any(r.get(k) is None for k in ("branche","ordre","date_univers","lieu","source_scene")): err("reprise incomplète")
@@ -157,12 +166,19 @@ def audit(root=ROOT, vault=VAULT):
 
 if __name__=="__main__":
     from collections import Counter
+    import argparse, os
+    parser=argparse.ArgumentParser(description="Audit en lecture seule")
+    parser.add_argument("--details", action="store_true", help="Chemins des erreurs, uniquement en local")
+    args=parser.parse_args()
+    details=[] if args.details and not os.getenv("GITHUB_ACTIONS") else None
     try:
-        e,w=audit()
+        e,w=audit(details=details)
     except Exception:
         print("ERREUR : structure inattendue ; vérifier localement sans publier les données.")
         sys.exit(2)
     for kind,rows in (("ERREUR",e),("VIGILANCE",w)):
         for code,count in sorted(Counter(rows).items()): print(f"{kind} : {code} ({count})")
+    if details is not None:
+        for code, context in details: print(f"{context}: {code}")
     print(f"Audit : {len(e)} erreur(s), {len(w)} vigilance(s). Aucune modification.")
     sys.exit(1 if e else 0)

@@ -32,4 +32,15 @@ class TestAudit(unittest.TestCase):
             f["transactions"].append(f["transactions"][0])
             p.write_text(json.dumps(f))
             self.assertIn("ID transaction absent ou dupliqué",audit(root,root)[0])
+            f["transactions"].pop()
+            p.write_text(json.dumps(f))
+            q=root/"11 — Calendrier et événements/Données/echeances.json"
+            agenda={"schema_version":1,"evenements":[{"id":"E1","branche":"test","ordre_creation":1,"statut":"conditionnel","source":"test"}]}
+            q.write_text(json.dumps(agenda))
+            self.assertEqual(audit(root,root)[0],[])
+            agenda["evenements"][0]["statut"]="invalide"
+            q.write_text(json.dumps(agenda))
+            details=[]
+            self.assertIn("échéance invalide",audit(root,root,details=details)[0])
+            self.assertIn(("échéance invalide","11 — Calendrier et événements/Données/echeances.json"),details)
 if __name__=="__main__": unittest.main()

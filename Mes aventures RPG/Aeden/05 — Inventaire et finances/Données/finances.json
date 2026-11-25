@@ -22,7 +22,10 @@
       "contrepartie": "Blackwell Défense Arcanotech",
       "date_univers": "1842 TC — 15 Doréal",
       "compte_id": "COMPTE-AED-001",
-      "statut": "effectue"
+      "statut": "effectue",
+      "branche": "principale",
+      "ordre": 1,
+      "source": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 1 — Bilan.md — 12:43"
     },
     {
       "id": "AED-T002",
@@ -32,7 +35,10 @@
       "contrepartie": "Les Délices d'Ambre",
       "date_univers": "1842 TC — 15 Doréal",
       "compte_id": "COMPTE-AED-001",
-      "statut": "effectue"
+      "statut": "effectue",
+      "branche": "principale",
+      "ordre": 2,
+      "source": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 1 — Bilan.md — 16:31"
     },
     {
       "id": "AED-T003",
@@ -42,7 +48,10 @@
       "contrepartie": "Edric Valmont",
       "date_univers": "1842 TC — 15 Doréal",
       "compte_id": "COMPTE-AED-001",
-      "statut": "effectue"
+      "statut": "effectue",
+      "branche": "principale",
+      "ordre": 3,
+      "source": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 1 — Bilan.md — 18:48"
     }
   ]
 }

@@ -26,3 +26,6 @@ Ne pas faire de commit pour une simple question. Un point de continuité n’est
 
 ## Obligation de fin de journée (AED-FON-001)
 À chaque coucher/fin de journée, synchroniser toutes les fiches affectées et les nouveaux éléments, index, données structurées, illustrations officielles accessibles, bilan et archive de reprise. Vérifier cohérence et commit avant d'annoncer la réussite ; signaler les exceptions restantes. Ne pas attendre une nouvelle demande du joueur.
+
+## Prévention des erreurs d'audit
+Avant chaque sauvegarde GitHub, inclure les dix champs YAML du schéma sur chaque fiche Markdown (hors README.md) ; `derniere_validation: null` si aucune date de validation n'est établie. Une fiche validée doit avoir un ID stable. Respecter les champs JSON, les statuts exacts sans accents et les références de fichiers réelles. Renseigner branche, ordre et source pour chaque transaction ; rapprocher le solde sans créer de mouvement fictif. Renseigner les échéances avec `ordre_creation`, source et statut exact, y compris `conditionnel` si nécessaire. Ne pas transformer une sauvegarde quotidienne en point majeur sans qualification explicite. En local, `python audit.py --details` depuis le dossier de contrôle identifie les fichiers concernés ; les logs GitHub restent agrégés pour ne pas exposer les données confidentielles.

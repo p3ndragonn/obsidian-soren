@@ -1,3 +1,17 @@
+---
+type: bilan
+campagne: Aeden
+branche_narrative: principale
+statut_documentaire: valide
+visibilite: joueur
+version: 1
+id: AED-BILAN-J1
+date_univers: "1842 TC — 15 Doréal"
+derniere_validation: null
+sources:
+  - "Scènes jouées du jour 1 ; sauvegarde AED-J1-002 (commit d6680106)"
+---
+
 # Jour 1 — Bilan de fin de journée
 15 Doréal 1842 TC, Aquaris, 23 h 08. Aedan couché chez lui, réveil prévu 7 h 30 le lendemain. Aucun jour 2 joué.
 ## Chronologie

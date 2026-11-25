@@ -21,4 +21,6 @@ sources: []
 | ID sauvegarde | Catégorie | Branche | Date | Lien figé | Vérification |
 | --- | --- | --- | --- | --- | --- |
 
-Aucun point majeur enregistré. Après décès, respecter le choix du joueur entre reprise depuis un point réel et nouveau personnage dans la même continuité.
+| AED-J1-002 | Continuité | principale | 15 Doréal 1842 TC, 23:08 | [[Mes aventures RPG/Aeden/99 — Archives/États de reprise/AED-J1-002]] | Bilan et instantané enregistrés au commit d6680106 ; compléments J1 aux commits 4b25c03 et 60177a8. |
+
+Aucun point majeur enregistré. La mention antérieure « Fin du jour 1 » dans le champ point_majeur ne désignait pas un chemin valide ; AED-J1-002 est conservée comme sauvegarde de continuité, sans qualification nouvelle de point majeur. Après décès, respecter le choix du joueur entre reprise depuis un point réel et nouveau personnage dans la même continuité.
