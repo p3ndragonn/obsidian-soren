@@ -4,7 +4,7 @@ campagne: Aeden
 branche_narrative: principale
 statut_documentaire: valide
 visibilite: fondateur
-version: 1
+version: 2
 id: PNJ-AED-ERYAN-PRIVE
 date_univers: "1842 TC — 16 Doréal"
 sources:
@@ -28,3 +28,7 @@ Convictions : Cercle de la Raison, sympathisant non affilié ; respecte les trad
 
 ## Projet autonome et relations
 Souhaite présenter un prototype de matrice compacte à son employeur avant la fin de l'année 1842 TC, si les essais le permettent. Préfère négocier une reconnaissance de sa contribution et conserver des droits sur les projets personnels qu'il développe hors contrat, mais aucun accord de propriété intellectuelle n'est établi. Il n'attend pas qu'Aedan finance ses recherches. Expédition : enthousiaste à l'idée d'apprendre, conscient du manque d'expérience de terrain, se réserve le droit de signaler un risque ou de demander un repli. Relation avec Aedan à suivre selon actes réels, aucune romance forcée. Aucun secret majeur, trahison, récompense ou intrigue future fixé.
+
+
+## J2
+14 P café payé09:45, solde49586 P. A révélé ancien compagnon Térian, rupture amiable et célibat ; orientation non étiquetée, aucune attirance présumée. Discrétion promise sur aspirations Aedan. [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 2 — Bilan.md]].

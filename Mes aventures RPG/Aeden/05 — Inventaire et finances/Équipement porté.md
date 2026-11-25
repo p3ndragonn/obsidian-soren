@@ -4,7 +4,7 @@ campagne: Aeden
 branche_narrative: null
 statut_documentaire: valide
 visibilite: joueur
-version: 5
+version: 6
 id: DOC-AED-1C2A07C6125D
 date_univers: null
 derniere_validation: "2026-11-24"
@@ -29,3 +29,7 @@ Les propriétés détaillées restent dans la fiche d'objet ; aucune durabilité
 Référence administrative : épée au fourreau ; tenue réelle au lancement à confirmer. Le terminal et la trousse sont dans le bracelet. Aucun double comptage.
 
 État de fin J1 : équipement de combat retiré pour dormir ; tableau = configuration de référence, non bonus actifs au coucher.
+
+
+## Fin J2
+Short de nuit, tenue de combat/bottes/ceinture/brassards/Vesperyx non actifs. Bracelet possédé, aucun bonus. Table = référence équipée et non état coucher. [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 2 — Bilan.md]].

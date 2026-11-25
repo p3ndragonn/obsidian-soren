@@ -4,7 +4,7 @@ campagne: Aeden
 branche_narrative: null
 statut_documentaire: valide
 visibilite: joueur
-version: 2
+version: 3
 id: PJ-BIO-001
 date_univers: null
 derniere_validation: "2026-11-24"
@@ -29,3 +29,7 @@ Relations familiales : respect et transmission avec Victor, complicité et conse
 
 ## Aspirations
 Explorateur : régions inexplorées d'Aethranea, donjons complexes, technologies oubliées et vestiges anciens. Inventeur : applications runo-arcaniques, équipements innovants et perfectionnement de technologies, artefacts exceptionnels à terme. Entrepreneuriat non sélectionné comme ambition initiale. Ces objectifs sont libres, pas des quêtes imposées ni des résultats garantis. Cercle de la Raison, sans affiliation formelle. Aucun événement joué ni modification des valeurs mécaniques.
+
+
+## Précisions J2
+Aedan déclare à Eryan plus de cinquante missions guilde, certaines avec pertes de participants (aucun détail ou récompense inventé). Souhaite explorer ruines profondes inconnues et déchiffrer anciens ; pas de rang cible ni échéance, saisit occasions. Confidentialité auprès parents promise Eryan. Célibat choisi, ne souhaite pas se poser jeune comme parents. [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 2 — Bilan.md]].
