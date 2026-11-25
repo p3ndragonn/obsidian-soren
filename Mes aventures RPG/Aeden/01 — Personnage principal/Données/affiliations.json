@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "personnage_id": "PJ-AED-001",
+  "branche": "principale",
+  "source": "AED-FON-003",
+  "date_effet": "fondations initiales, complément rétroactif au J2 09:23",
+  "affiliations": [
+    {
+      "organisation_id": "MONDE-ORG-001",
+      "organisation": "Guilde des Aventuriers",
+      "statut": "membre",
+      "grade": "Or",
+      "echelon": 5,
+      "date_adhesion": null,
+      "justification": "Expéditions encadrées jusqu'au danger B, cursus spécialisé, expérience du combat et évacuation collective."
+    },
+    {
+      "organisation_id": "MONDE-ORG-002",
+      "organisation": "Guilde des Artisans",
+      "statut": "membre",
+      "grade": "Argent",
+      "echelon": 4,
+      "date_adhesion": null,
+      "justification": "Conception et réparation runo-arcanique, double diplôme, prototype académique et début de carrière indépendante."
+    },
+    {
+      "organisation_id": "MONDE-ORG-004",
+      "organisation": "Guilde des Explorateurs",
+      "statut": "membre",
+      "grade": "Argent",
+      "echelon": 4,
+      "date_adhesion": null,
+      "justification": "Expéditions, reconnaissance et cartographie ; carrière indépendante encore récente."
+    },
+    {
+      "organisation_id": "MONDE-ORG-006",
+      "organisation": "Académie des Savoirs",
+      "statut": "membre",
+      "grade": "Argent",
+      "echelon": 4,
+      "date_adhesion": null,
+      "justification": "Double cursus supérieur, recherche et prototype expérimental."
+    },
+    {
+      "organisation_id": "MONDE-ORG-007",
+      "organisation": "Ordre des Experts",
+      "statut": "membre",
+      "grade": "Fer",
+      "echelon": 3,
+      "date_adhesion": null,
+      "justification": "Expertise technique des dispositifs, sans qualification généraliste inventée."
+    },
+    {
+      "organisation_id": "MONDE-ORG-003",
+      "organisation": "Guilde des Marchands",
+      "statut": "membre",
+      "grade": "Bronze",
+      "echelon": 2,
+      "date_adhesion": null,
+      "justification": "Activités accessoires d'achat, vente de découvertes et négociation de prestations ; aucune entreprise propre."
+    },
+    {
+      "organisation_id": "MONDE-ORG-005",
+      "organisation": "Banque continentale",
+      "statut": "client",
+      "grade": null,
+      "echelon": null,
+      "date_adhesion": null,
+      "justification": "Client, aucun grade professionnel."
+    },
+    {
+      "organisation_id": "MONDE-ORG-008",
+      "organisation": "Ordre des Soigneurs",
+      "statut": "non_affilie",
+      "grade": null,
+      "echelon": null,
+      "date_adhesion": null,
+      "justification": "Non affilié, aucune formation médicale spécialisée."
+    }
+  ]
+}

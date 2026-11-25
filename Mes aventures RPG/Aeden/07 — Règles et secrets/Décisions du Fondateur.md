@@ -4,7 +4,7 @@ campagne: Aeden
 branche_narrative: null
 statut_documentaire: valide
 visibilite: fondateur
-version: 3
+version: 4
 id: DOC-AED-DECISIONS-FONDATEUR
 date_univers: null
 derniere_validation: null
@@ -25,3 +25,6 @@ Décision explicite du Fondateur, 25 novembre 2026, effet dès fin J1 : à chaqu
 
 ## AED-FON-002 — Nom de l'épée
 Nom officiel : Vesperyx - la lame du sceau pourpre. Même objet OBJ-AED-001, aucune modification mécanique, acquisition ou dépense. Ancienne désignation générique conservée comme alias et chemin pour préserver les liens.
+
+## AED-FON-003 — Affiliations d’Aedan
+25 novembre 2026, J2 09:23, temps figé. Le Fondateur fixe Or à la Guilde des Aventuriers et délègue les autres choix. Attributions : Artisans Argent, Explorateurs Argent, Académie des Savoirs Argent, Experts Fer, Marchands Bronze ; Banque client sans grade, Soigneurs non affilié. Complément rétroactif des fondations sans promotion jouée ni effets mécaniques. [[Mes aventures RPG/Aeden/01 — Personnage principal/Affiliations et grades administratifs|Affiliations et grades administratifs]].

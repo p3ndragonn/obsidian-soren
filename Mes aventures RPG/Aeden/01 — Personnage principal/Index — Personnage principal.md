@@ -4,7 +4,7 @@ campagne: Aeden
 branche_narrative: null
 statut_documentaire: index
 visibilite: joueur
-version: 1
+version: 2
 id: null
 date_univers: null
 derniere_validation: null
@@ -25,3 +25,5 @@ Index de navigation : renseigner les fiches réelles au fur et à mesure des val
 - [[Mes aventures RPG/Aeden/01 — Personnage principal/Compétences/Index — Compétences|Index — Compétences]]
 
 Retour : [[Mes aventures RPG/Aeden/00 — Accueil et reprise/Tableau de bord — Aeden|Tableau de bord — Aeden]]
+
+- [[Mes aventures RPG/Aeden/01 — Personnage principal/Affiliations et grades administratifs|Affiliations et grades administratifs]]

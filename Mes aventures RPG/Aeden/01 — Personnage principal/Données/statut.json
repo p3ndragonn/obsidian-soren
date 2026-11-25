@@ -51,5 +51,6 @@
     "Protecteur des profondeurs",
     "Vétéran des labyrinthes"
   ],
-  "points_libres": 0
+  "points_libres": 0,
+  "affiliations_ref": "affiliations.json"
 }

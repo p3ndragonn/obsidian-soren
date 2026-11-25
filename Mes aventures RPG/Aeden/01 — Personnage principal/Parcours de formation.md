@@ -4,7 +4,7 @@ campagne: Aeden
 branche_narrative: null
 statut_documentaire: valide
 visibilite: joueur
-version: 5
+version: 6
 id: PJ-FORM-001
 date_univers: null
 derniere_validation: "2026-11-24"
@@ -34,3 +34,6 @@ Diplôme supérieur d'exploration dimensionnelle et d'ingénierie runo-arcanique
 Ces faits sont biographiques, aucun événement de jeu, paiement, récompense, objet, grade de guilde ni EXP de combat fictivement enregistré. Maël Varyn présent lors de l’incident dimensionnel ; lieux précis et autres participants non définis. Prototype académique validé : stabilisateur runo-arcanique régulant un flux de mana dans un dispositif compatible, essais réussis ; propriété non attribuée. Reconstitution biographique validée : ascensions E→D→C→B, deux voies niveau 100 et quêtes d'ascension réussies à chaque étape, salle blanche, niveaux repartis à 1. Les quêtes précises et dates restent non définies. Voir [[Mes aventures RPG/Aeden/01 — Personnage principal/Classe et Profession|Classe et Profession]] et [[Mes aventures RPG/Aeden/01 — Personnage principal/Statistiques et ressources|Statistiques et ressources]]. Références : Règlement p. 4, 6, 14–17 ; annexe C ; documents locaux Éducation et formation et Donjons et gestion des accès.
 
 Le joueur a validé l'existence d'un meilleur ami masculin ayant suivi les mêmes études et explorations, avec un domaine de recherche légèrement différent. Identité Maël Varyn et spécialité automates validées dans [[Mes aventures RPG/Aeden/01 — Personnage principal/Dernières fondations proposées|Dernières fondations proposées]] ; pas de rencontre jouée.
+
+## Complément administratif validé (AED-FON-003)
+Les grades initialement non établis ont été définis ultérieurement par décision du Fondateur : [[Mes aventures RPG/Aeden/01 — Personnage principal/Affiliations et grades administratifs|Affiliations et grades administratifs]]. La description historique du cursus reste inchangée ; aucune mission ou promotion biographique supplémentaire inventée.

@@ -4,7 +4,7 @@ campagne: Aeden
 branche_narrative: principale
 statut_documentaire: valide
 visibilite: joueur
-version: 14
+version: 15
 id: PJ-AED-001
 date_univers: null
 derniere_validation: "2026-11-24"
@@ -35,6 +35,9 @@ sources:
 ## 2 — Statut du SYSTÈME
 Rang personnel B ; Classe Combattant runo-arcanique [A] ; Profession Architecte runo-arcanique [S] (validés). Niveaux, EXP, statistiques et compétences validés ; références maîtresses ci-dessous.
 [[Mes aventures RPG/Aeden/01 — Personnage principal/Statistiques et ressources|Statistiques et ressources]] · [[Mes aventures RPG/Aeden/01 — Personnage principal/Classe et Profession|Classe et Profession]] · [[Mes aventures RPG/Aeden/01 — Personnage principal/Titres|Titres]]
+
+### Affiliations administratives
+Aventuriers **Or** ; Artisans, Explorateurs et Académie des Savoirs **Argent** ; Ordre des Experts **Fer** ; Marchands **Bronze**. Banque continentale : client ; Ordre des Soigneurs : non affilié. [[Mes aventures RPG/Aeden/01 — Personnage principal/Affiliations et grades administratifs|Affiliations et grades administratifs]]. Complément de fondations AED-FON-003, distinct du statut SYSTÈME.
 
 ## 3 — Compétences et capacités
 Trois Titres validés et actifs initialement : Pionnier des deux disciplines, Protecteur des profondeurs, Vétéran des labyrinthes. Deux emplacements libres ; aucun bonus numérique.
