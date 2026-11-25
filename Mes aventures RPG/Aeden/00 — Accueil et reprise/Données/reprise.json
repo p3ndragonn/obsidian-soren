@@ -2,11 +2,11 @@
   "schema_version": 1,
   "campagne": "Aeden",
   "branche": "principale",
-  "sauvegarde_id": "AED-J1-002",
-  "ordre": 2,
-  "date_univers": "1842 TC — 15 Doréal",
-  "heure": "23:08",
-  "lieu": "Appartement personnel, Les Portes d’Orion",
-  "source_scene": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 1 — Bilan.md",
+  "sauvegarde_id": "AED-J2-003",
+  "ordre": 3,
+  "date_univers": "1842 TC — 16 Doréal",
+  "heure": "22:24",
+  "lieu": "Chambre Aedan, campement Kharvoss",
+  "source_scene": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 2 — Bilan.md",
   "point_majeur": null
 }

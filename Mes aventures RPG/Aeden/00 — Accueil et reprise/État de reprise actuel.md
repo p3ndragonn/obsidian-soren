@@ -4,53 +4,14 @@ campagne: Aeden
 branche_narrative: principale
 statut_documentaire: valide
 visibilite: joueur
-version: 20
+version: 21
 id: AED-REPRISE-COURANTE
-date_univers: "1842 TC — 15 Doréal"
-derniere_validation: "2026-11-24"
+date_univers: "1842 TC — 16 Doréal"
+derniere_validation: null
 sources:
-  - "Illustrations générées dans la conversation et intégration explicitement demandée par le joueur — 24 novembre 2026 ; WebP pleine résolution, référence visuelle sans modification des faits textuels"
-  - "Validation explicite du joueur — biographie, personnalité, goûts, relations familiales, ambitions Explorateur et Inventeur, attirance masculine et vie sentimentale, meilleur ami de cursus ; demande de croyances et rival ; 24 novembre 2026"
-  - "Validation explicite du joueur — enchantements, bonus, valeurs, liaisons, bracelet, moto, atelier-appartement, inventaire, patrimoine et financements ; 24 novembre 2026"
-  - "Validation explicite du joueur — trois Titres, équipements, tenue légère B à runes défensives, bracelet B 20 m³, fortune 350 000 P, atelier-appartement indépendant et moto B ; 24 novembre 2026"
-  - "Validation explicite du joueur — niveaux 32/27, statistiques, 7 compétences de Classe et 7 de Profession, 5 universelles, Manifestation infernale, prototype et reconstitution des ascensions ; 24 novembre 2026"
-  - "Validation explicite du joueur — parcours et double cursus, rang personnel B, Combattant runo-arcanique [A] et Architecte runo-arcanique [S] ; 24 novembre 2026"
-  - "Choix explicites du joueur — sceau arcanique, double formation avancée donjons/runes/arcanes, chronologie scolaire et rang B envisagé ; 24 novembre 2026"
-  - "Validation explicite du joueur — morphologie d'Aedan, température corporelle et maturation des Tieflings d'Elyndra ; 24 novembre 2026"
-  - "Validation du joueur — lignée écarlate, longévité locale, âges, études supérieures et rangs familiaux ; 24 novembre 2026"
+  - "Scènes jouées du jour 2, 25 novembre 2026"
 ---
 
 # État de reprise actuel
 
-> [!note] Campagne lancée ; ouverture du chapitre I.
-
-- Campagne : Les Arcanes d’Elyndra, AED-827, univers 827.
-- Branche : principale ; sauvegarde AED-J1-002, ordre 2.
-- Chapitre I — Un nouveau départ ; Jour 1, 15 Doréal 1842 TC, 23 h 08 ; appartement personnel.
-- Dernière scène : douche et coucher. Réveil prévu 07:30 le 16 Doréal.
-- Décision attendue : reprise au réveil ; aucune récupération nocturne encore appliquée.
-- Échéances : Eryan 09:30 Guilde, permis et réception matériel, départ 12:00 ; Lydia 17 Doréal sous réserve.
-- Instantané : [[Mes aventures RPG/Aeden/99 — Archives/États de reprise/AED-J1-002]] ; [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 1 — Bilan]].
-
-## Références actuelles
-- [[Mes aventures RPG/Aeden/01 — Personnage principal/Fiche du personnage principal|Fiche du personnage principal]]
-- [[Mes aventures RPG/Aeden/01 — Personnage principal/Statistiques et ressources|Statistiques et ressources]]
-- [[Mes aventures RPG/Aeden/05 — Inventaire et finances/Inventaire actuel|Inventaire actuel]]
-- [[Mes aventures RPG/Aeden/05 — Inventaire et finances/Comptabilité personnelle|Comptabilité personnelle]]
-- [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Chronologie générale|Chronologie générale]]
-- [[Mes aventures RPG/Aeden/03 — Personnages et relations/Index — Personnages et relations|Index — Personnages et relations]]
-- [[Mes aventures RPG/Aeden/06 — Quêtes et projets/Index — Quêtes et projets|Index — Quêtes et projets]]
-- [[Mes aventures RPG/Aeden/04 — Monde et lieux/Index — Monde et lieux|Index — Monde et lieux]]
-
-Le complément réservé est conservé séparément. Ne pas avancer le temps pendant une reprise administrative.
-
-## Données et protocole
-[Reprise structurée](Données/reprise.json) · [[Mes aventures RPG/Aeden/18 — Contrôle de cohérence/Protocole de maintenance]]. Aucun point de reprise fictif. Distinguer sauvegarde de continuité et point majeur.
-
-- [[Mes aventures RPG/Aeden/03 — Personnages et relations/Familles/Famille Blackwell|Famille Blackwell]] · [[Mes aventures RPG/Aeden/01 — Personnage principal/Compétences/Socle racial Tiefling|Socle racial Tiefling]]
-
-- [[Mes aventures RPG/Aeden/01 — Personnage principal/Proposition de statut initial|Proposition de statut initial]] — proposition initiale conservée comme trace validée ; état courant dans les fiches maîtresses.
-
-- [[Mes aventures RPG/Aeden/01 — Personnage principal/Biographie et personnalité d’Aedan|Biographie et personnalité d’Aedan]] — validée ; [[Mes aventures RPG/Aeden/01 — Personnage principal/Dernières fondations proposées|Dernières fondations proposées]] — dernières décisions validées. Chapitre I ouvert.
-
-- [[Mes aventures RPG/Aeden/08 — Illustrations/Index — Illustrations|Index des illustrations]] — dix visuels archivés ; scène d’ouverture présentée.
+Campagne Les Arcanes d’Elyndra AED-827, branche principale. Sauvegarde AED-J2-003, ordre3. Chapitre II — Les vestiges de Kharvoss ; Ignis16 Doréal 1842 TC 22:24, chambre Aedan campement Kharvoss. Aedan endormi, ORION au pied du lit, Eryan chambre. Reprise réveil06:30 Aéris17 Doréal. Aucune récupération nocturne appliquée. N1 reconnu,9 ennemis éliminés,01/02/05 récupérations terminées,03/04/07/08 restent. 726 objets/8 docs/3,127m³, entreprise,400000 P estimés hors reste. Solde342932 P ;390 MP débités J2, EXP et récupération en attente de données. Demain07:20 N2/inventaire, Lydia09:00, rapport quotidien. Pâtisserie Alyssa au retour. [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 2 — Bilan.md]] ; [[Mes aventures RPG/Aeden/99 — Archives/États de reprise/AED-J2-003]]. Voir [reprise structurée](Données/reprise.json). Point de continuité, non majeur.
