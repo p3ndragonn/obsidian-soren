@@ -11,7 +11,7 @@
   "profession": {
     "rarete": "S",
     "niveau": 28,
-    "exp": 258
+    "exp": 808
   },
   "permanentes": {
     "FOR": 250,
@@ -43,7 +43,8 @@
       "debit_confirme_j3": 2090,
       "regeneration_passive_par_minute": 95,
       "regeneration_source": "AED-FON-007",
-      "reveil_j4_prevu": 3950
+      "reveil_j4_prevu": 3950,
+      "reveil_j5_prevu": 3950
     },
     "EP": {
       "actuelle": null,
@@ -58,9 +59,9 @@
   ],
   "points_libres": 0,
   "affiliations_ref": "affiliations.json",
-  "etat_date": "1842 TC — 17 Doréal 21:56",
+  "etat_date": "1842 TC — 18 Doréal 21:15",
   "exp_j2_statut": "combat_et_profession_attribues",
-  "ressources_note": "HP sans blessure, maxima base au coucher ; MP et EP exacts non mesurés, récupération non chiffrée",
+  "ressources_note": "Au coucher short, équipement retiré ; HP dernière valeur sans blessure rapportée ; MP exact coucher, débit J4 et EP exact inconnus. MP plein au réveil J5.",
   "exp_combat_j2": {
     "gain": 53,
     "avant": 1450,
@@ -111,5 +112,19 @@
     "PER": 1,
     "points_depenses": 6,
     "source": "Choix explicite du joueur"
+  },
+  "exp_j4_statut": "profession_total_rapporte_classe_aucun_gain_verifie",
+  "exp_profession_j4": {
+    "gain_total_rapporte": 550,
+    "avant": 258,
+    "apres": 808,
+    "details": {
+      "architecture_energetique": 100,
+      "fabrication_calibration": 90,
+      "matrices_adaptatives": 80,
+      "inventaire_soir": 0,
+      "solde_non_ventile": 280
+    },
+    "note": "Déjà compris dans le total, ne pas recréditer."
   }
 }

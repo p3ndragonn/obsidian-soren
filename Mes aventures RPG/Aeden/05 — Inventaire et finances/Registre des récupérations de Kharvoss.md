@@ -41,3 +41,6 @@ Propriétaire entreprise, patrimoine sous réserve.
 | KH-N1-009 |07|232|0|18,650|
 | KH-N2-001 |02|13|0|0,012|
 J3 879 objets141 docs21,892m³ ; cumul1605 objets149 docs25,019m³. KH-N2-001 6 sondes B51000 P,3 cartouches A72000 P,1 matrice conversion S valeur inconnue,3 coffrets.400000+123000=523000 P ; estimations N1-007 supplémentaires21320–35640 P, cumul544320–558640 P, sans vente. Machines sur place328000 P exclues. Quantités et échantillonnage détaillés [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 3 — Bilan.md]].
+
+## J4 — cumul KH-003
+1735 objets hors docs,149 docs physiques,31,499m³. Delta J4 +130 objets,+6,480m³,0 doc physique ; ventilation des lots non retrouvée, ne pas créer de lots fictifs. N1 terminé ; valeur partielle746320–760640 P, installations encore sur place1007000 P. Propriété entreprise sous réserve ; aucune vente. Relevé du soir 60 matrices déjà recensées, pas d'ajout. [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 4 — Bilan.md]]

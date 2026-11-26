@@ -27,3 +27,9 @@ Fin 23:08, coucher ; reprise AED-J1-002.
 
 ## Jour 2 — 16 Doréal
 Chapitre II ouvert, expédition Kharvoss, ORION opérationnel, six lots, neuf ennemis. Fin22:24 campement, reprise AED-J2-003. [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 2 — Bilan.md]].
+
+## Jour 3 — 17 Doréal
+Bilan : [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 3 — Bilan.md]]. Fin21:56, reprise AED-J3-004.
+
+## Jour 4 — 18 Doréal
+Éclairage autonome N1/N2, N1 terminé, archives N2, rapport KH-003 18:32, accord de principe prolongation, projet équipe d'exploration. Fin21:15 coucher ; reprise AED-J4-005 au réveil J5 05:30. [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 4 — Bilan.md]]

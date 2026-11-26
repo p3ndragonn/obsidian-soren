@@ -2,11 +2,16 @@
   "schema_version": 1,
   "campagne": "Aeden",
   "branche": "principale",
-  "sauvegarde_id": "AED-J3-004",
-  "ordre": 4,
-  "date_univers": "1842 TC — 17 Doréal",
-  "heure": "21:56",
+  "sauvegarde_id": "AED-J4-005",
+  "ordre": 5,
+  "date_univers": "1842 TC — 18 Doréal",
+  "heure": "21:15",
   "lieu": "Chambre Aedan, campement Kharvoss",
-  "source_scene": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 3 — Bilan.md",
-  "point_majeur": null
+  "source_scene": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 4 — Bilan.md",
+  "point_majeur": null,
+  "reprise_prevue": {
+    "date_univers": "1842 TC — 19 Doréal",
+    "heure": "05:30",
+    "lieu": "Campement Kharvoss"
+  }
 }

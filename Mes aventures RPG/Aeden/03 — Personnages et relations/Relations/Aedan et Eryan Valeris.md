@@ -22,3 +22,6 @@ Confiance technique/terrain renforcée, humour « monsieur Prudence », collabor
 
 ## Fin J3
 Confiance de travail renforcée, plaisanteries et conseils terrain. Aedan raconte première élimination, préférence initiale distance, tendance semer soutiens, explique difficulté équipe permanente ; Eryan souhaite entraînement commun, Aedan accepte en principe. Aide technique couteau envisagée, pas contrat. Aucune romance établie. [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 3 — Bilan.md]]
+
+## Fin J4
+Collaboration de terrain et confiance renforcées. Aedan propose conditionnellement une station S personnelle comme prime d'entrée dans une future entreprise ; Eryan intéressé même indépendamment de la station, souhaite participer aux explorations et conserver du temps de recherche. Doit honorer engagements Victor/Mira ; pas de démission, transfert ni contrat. Eryan propose de rembourser les investissements initiaux avant partage ; conditions à négocier. Maël envisagé comme troisième membre, quatrième à rechercher. Aucun changement sentimental établi. [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 4 — Bilan.md]]

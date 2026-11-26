@@ -65,3 +65,6 @@ Profession S niveau28 258/2098 (+1330 EXP J1–J3), +6 points libres non distrib
 
 ## Répartition des points — AED-STAT-001
 Répartition AED-STAT-001, choix explicite du joueur fin J3 21:56 (temps figé) : +5 END (295 → 300), +1 PER (330 → 331), six points dépensés, zéro libre. Total permanent1823. EP max base3000 (+50), avec équipement3260 ; END équipée326, PER équipée347. HP/MP inchangés ; EP actuel non mesuré, pas de restauration gratuite. Classe et profession inchangées.
+
+## Fin J4 et réveil J5
+Classe A32 2031/2642 ; profession S28 808/2098 (+550 rapportés dont +280 non ventilés). Statistiques permanentes inchangées, zéro point libre. Maxima au coucher HP2650 MP3950 EP3000, équipement retiré. Débit MP et EP exacts J4 inconnus. Régénération AED-FON-007 95 MP/min, MP3950/3950 au réveil J5 05:30. [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 4 — Bilan.md]]

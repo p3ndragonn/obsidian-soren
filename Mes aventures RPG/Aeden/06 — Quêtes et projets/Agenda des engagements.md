@@ -37,3 +37,6 @@ AG001–004 réalisés ; AG005 confirmé17 Doréal09:00 Lydia ménage/lessive ac
 
 ## J3 — échéances à suivre
 J4 06:30 réveil, contrôle ORION proposé, inspection N2-06, rapport quotidien. Mira traduction quatre documents S demandée17:36, accusé17:42, délai non garanti. KH-002 envoyé20:39, réponses attendues. Lydia ménage prévu J3 09:00 accès expire23:59, réalisation/coût non confirmés. Retour22 Doréal, restitution prêts, pâtisserie Alyssa et plaques à récupérer. Entraînement Eryan et couteau secondaire envisagés, aucune date ni dépense.
+
+## J4 — échéances à suivre
+KH-003 transmis18:32 Victor/Mira. Prolongation +7 jours jusqu'au29 Doréal23:59 acceptée de principe, frais Guilde à rembourser, équipe/ravitaillement/module et Eryan sous réserve, trois jours d'expertise ; permis non délivré, aucune dépense confirmée. Échéance22 Doréal23:59 toujours officielle jusqu'à émission. J5 05:30 réveil, petit-déjeuner puis récupérations rapides N2 et démontage. Projet futur : discussion avec Maël à son retour, aucun rendez-vous fixé. [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 4 — Bilan.md]]

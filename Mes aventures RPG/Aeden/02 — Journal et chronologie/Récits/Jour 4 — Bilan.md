@@ -1,0 +1,35 @@
+---
+type: bilan
+campagne: Aeden
+branche_narrative: principale
+statut_documentaire: valide
+visibilite: joueur
+version: 1
+id: AED-J4-005
+date_univers: "1842 TC — 18 Doréal"
+sources:
+  - "Scènes jouées J4, Début Histoire Aeden et Branche Début Histoire Aeden, 26 novembre 2026 ; extraits disponibles et conversation actuelle"
+---
+# Jour 4 — Bilan
+Astralis 18 Doréal 1842 TC, chapitre II — Les vestiges de Kharvoss, branche principale.
+
+## Journée et découvertes
+- Réveil 06:30 prévu par J3 ; réserve de base restaurée par AED-FON-007. Deux portions de petit-déjeuner mentionnées dans les extraits ; détail des autres repas et stock final non vérifié.
+- Éclairage autonome N1/N2 établi, installations énergétiques N2 identifiées ; récupération N1 terminée. Six dossiers mémoriels consultés/copiés aux archives N2. Cristal d'accréditation III et extension IV partielle ; plans détaillés du N3 obtenus. Architecture commune des quatre artefacts S confirmée par les documents : convergence, banc N3-04 ; fabrication/calibration, têtes interchangeables, suspension, microgravure 3D, 18 alliages ; matrices adaptatives, modularité et lien Seravhen–ORION. Études jusqu'à 17:42. Ne pas confondre plans documentaires et installations effectivement récupérées.
+- Retour campement 17:59 ; rapport KH-003 transmis à Victor et Mira 18:32. Cumul récupéré entreprise : 1 735 objets hors documents, 149 documents physiques, 31,499 m³ ; progression depuis J3 +130 objets, +6,480 m³, aucun document physique supplémentaire. Estimation partielle 746 320–760 640 P ; installations identifiées sur place 1 007 000 P, non récupérées/non encaissées. Détail des lots et consommation de mana non retrouvé avec précision.
+- Négociation avec le père jusqu'à 18:44 ; accord de principe sur prolongation de 7 jours jusqu'au 29 Doréal 23:59, remboursement des frais Guilde, équipe/ravitaillement/module de stockage, Eryan sous réserve, trois jours d'expertise. Aucune prolongation délivrée ni paiement confirmé ; échéance officielle antérieure 22 Doréal 23:59 tant que non modifiée. État vérifié 18:46.
+- 18:46 départ Aedan vers archives N2 avec matrices ; Eryan douche et repas. Consultation rapide d'environ 1 h 20, retour vers 20:15. Relevé de 60 matrices mémorielles déjà recensées (22 N1, 38 N2), aucune nouvelle récupération physique établie. Catégories du relevé narratif : ingénierie arcanique, métallurgie, microgravure, énergie, automates, fabrication, recherche expérimentale, administration, maintenance. Les titres exacts individuels ne sont pas vérifiés exhaustivement. Références ORION, Seravhen et quatre artefacts S. Pas d'EXP supplémentaire pour ce simple classement.
+- Douche, short, torse nu ; repas avec Eryan vers 20:30, remerciements, compte rendu des archives. Thé ensemble. Aedan évoque la possibilité d'offrir personnellement à Eryan une station de microgravure S, si les deux existent encore et peuvent être légalement récupérées (précision documentée évoquée 0,8 µm, positionnement 0,2 µm). Proposition conditionnelle de prime d'entrée dans une future entreprise ; aucun transfert.
+- Projet d'équipe de quatre : Aedan finance potentiellement les deux premières expéditions ; modèle hybride entreprise/aventuriers, butin commun, allocation des artefacts selon recherches, parts financières fixées par contrat et réserve entreprise ; recherches individuelles libres hors expédition. Eryan intéressé, souhaite participer au terrain et garder sa liberté de recherche, propose remboursement de l'investissement initial et réserves communes ; doit honorer ses engagements auprès de Victor et Mira. Pas de contrat, démission ni acceptation définitive. Maël Varyn, meilleur ami depuis le début des études, expérience comparable des ruines, Technicien de combat arcanotech et concepteur d'automates, envisagé pour reconnaissance des dangers et applications pratiques ; non contacté pour ce projet. Quatrième membre recherché : combattant et spécialiste de l'histoire des ruines ; non identifié.
+- Vers 21:05 discussion terminée ; rangement et coucher vers 21:15, chambres respectives. Réveil convenu 05:30 J5. Récupérations rapides N2 d'abord, démontage fixe ensuite, préserver les circuits encore nécessaires.
+
+## État et progression
+- Aedan B, Combattant runo-arcanique A32 2031/2642 EXP ; aucun nouveau gain de Classe vérifié J4. Architecte runo-arcanique S28 808/2098 EXP ; +550 depuis J3 258/2098, dont +100 architecture énergétique, +90 fabrication/calibration, +80 matrices adaptatives ; solde +280 inclus dans le total rapporté mais ventilation non retrouvée. Ne pas recréditer ces gains. Aucun nouveau niveau ni point libre.
+- FOR250 VIT265 END300 AGI282 SAG395 PER331 ; points libres 0. Au coucher, short sans équipement de combat : maxima de base HP2650, MP3950, EP3000. HP dernière valeur 2650 sans nouvelle blessure rapportée ; EP exact et débit MP J4 non documentés. Réserve MP au réveil J5 3950/3950 (95 MP/min, plafond, absence de consommation nocturne rapportée). Eryan et ORION : aucun changement chiffré nouveau vérifié ; conserver dernier état connu.
+- Fortune personnelle 342 932 P ; aucun encaissement ni nouvelle dépense confirmée ; comptes entreprise/Eryan et engagements précédents à conserver sans réévaluation arbitraire. Stock exact de rations non réconcilié. Aucun changement de propriété lié au projet futur.
+
+## Reprise
+Jour 5 — 19 Doréal 1842 TC, 05:30, campement Kharvoss. Réveil après environ 8 h 15 de sommeil ; Eryan prépare le petit-déjeuner, quantité non encore décomptée. Aucune récupération ou démontage J5 réalisé. Vérifier inventaire des six salles N2 avant prélèvement ; N3 non ouvert dans les faits retrouvés. Rapports, traductions, permis prolongé et engagements précédents à suivre.
+
+## Limites de continuité
+Bilan établi à partir des scènes accessibles et du dernier état GitHub J3. Les détails horaires manquants, les lots exacts du jour, les quantités de rations et les débits MP ne sont pas reconstruits arbitrairement. Les totaux EXP et inventaire sont des états rapportés, pas de nouveaux crédits. Les anciennes sauvegardes restent intactes.

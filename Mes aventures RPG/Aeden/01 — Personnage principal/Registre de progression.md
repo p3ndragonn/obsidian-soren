@@ -70,3 +70,6 @@ J1 +370, J2 +400, J3 +560, total +1330. Profession S27 900/1972 → J1 1270/1972
 
 ## Répartition des points — AED-STAT-001
 Répartition AED-STAT-001, choix explicite du joueur fin J3 21:56 (temps figé) : +5 END (295 → 300), +1 PER (330 → 331), six points dépensés, zéro libre. Total permanent1823. EP max base3000 (+50), avec équipement3260 ; END équipée326, PER équipée347. HP/MP inchangés ; EP actuel non mesuré, pas de restauration gratuite. Classe et profession inchangées.
+
+## J4 — progression professionnelle rapportée
+S28 258 → 808/2098, +550 EXP rapportés. Architecture énergétique +100, fabrication/calibration +90, matrices adaptatives +80 ; inventaire documentaire du soir +0. Différence +280 déjà incluse, ventilation non retrouvée ; ne pas recréditer. Classe A32 2031/2642 inchangée, aucun gain supplémentaire vérifié. Aucun niveau ni point libre nouveau. [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 4 — Bilan.md]]
