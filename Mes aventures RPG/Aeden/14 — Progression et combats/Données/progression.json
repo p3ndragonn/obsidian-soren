@@ -74,5 +74,20 @@
       }
     }
   ],
-  "evenements": []
+  "evenements": [
+    {
+      "id": "AED-PRO-J4-BILAN",
+      "personnage_id": "PJ-AED-001",
+      "branche": "principale",
+      "date_univers": "1842 TC — 18 Doréal",
+      "voie": "profession",
+      "gain": 550,
+      "exp_avant": 258,
+      "exp_apres": 808,
+      "niveau": 28,
+      "statut": "total_rapporte_deja_comptabilise",
+      "source": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 4 — Bilan.md",
+      "note": "270 ventilés, 280 non ventilés ; ne pas additionner à nouveau."
+    }
+  ]
 }

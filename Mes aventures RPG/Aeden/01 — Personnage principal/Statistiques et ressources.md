@@ -4,7 +4,7 @@ campagne: Aeden
 branche_narrative: null
 statut_documentaire: valide
 visibilite: joueur
-version: 12
+version: 13
 id: DOC-AED-E4C0D2822FEA
 date_univers: null
 derniere_validation: "2026-11-24"
@@ -32,8 +32,8 @@ sources:
 
 | Ressource | Actuelle | Maximum de base | Maximum effectif | Source |
 | --- | --- | --- | --- | --- |
-| HP | 2830 | 2650 | 2830 | Règlement p. 4 ; équipement de référence au repos |
-| MP | 4170 | 3950 | 4170 | Règlement p. 4 ; équipement de référence au repos |
+| HP | 2650 (dernière valeur connue) | 2650 | 2830 | Configuration équipée de référence ; état réel au coucher ci-dessous |
+| MP | Non mesuré au coucher ; 3950 au réveil J5 | 3950 | 4170 | AED-FON-007 ; maximum équipé de référence |
 | EP | Non mesuré | 3000 | 3260 | Règlement p. 4 ; équipement de référence au repos |
 
 Règlement p. 4 : HP max = 10 × VIT, MP max = 10 × SAG, EP max = 10 × END. Bonus d'équipement séparés, plafond de 12 % arrondi à l'inférieur pour chaque statistique permanente. Aucun calcul sans données validées ; distinguer effets explicites et valeurs permanentes.

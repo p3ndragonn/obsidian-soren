@@ -4,7 +4,7 @@ campagne: Aeden
 branche_narrative: null
 statut_documentaire: index
 visibilite: joueur
-version: 5
+version: 6
 id: null
 date_univers: null
 derniere_validation: null
@@ -13,7 +13,7 @@ sources: []
 
 # Tableau de bord — Aeden
 
-> [!note] Campagne lancée — Les Arcanes d’Elyndra. Fondations principales validées : [[Mes aventures RPG/Aeden/04 — Monde et lieux/Aethranea|Aethranea]]. Chapitre I ouvert ; première action attendue.
+> [!note] Campagne lancée — Les Arcanes d’Elyndra. Fondations principales validées : [[Mes aventures RPG/Aeden/04 — Monde et lieux/Aethranea|Aethranea]]. Chapitre II — Les vestiges de Kharvoss ; jour 5, 19 Doréal 1842 TC, réveil 05:30.
 
 ## Navigation principale
 - [[Mes aventures RPG/Aeden/01 — Personnage principal/Index — Personnage principal|01 — Personnage principal]]
@@ -28,7 +28,7 @@ sources: []
 - [[Mes aventures RPG/Aeden/99 — Archives/Index — Archives|99 — Archives]]
 
 ## Démarrer ou reprendre
-Lire les fondations et l'état actuel. Sauvegarde administrative initiale AED-INIT-000 ; aucun point majeur de jeu.
+Lire les fondations et l'état actuel. Sauvegarde courante AED-J4-005 (continuité, non majeure). Reprise au réveil J5 05:30 ; petit-déjeuner puis récupérations N2. [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 4 — Bilan.md]]
 
 ## Documents de cette section
 - [[Mes aventures RPG/Aeden/00 — Accueil et reprise/Fondations à valider|Fondations à valider]]

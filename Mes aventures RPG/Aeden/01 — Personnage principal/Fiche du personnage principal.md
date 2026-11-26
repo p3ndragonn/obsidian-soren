@@ -4,7 +4,7 @@ campagne: Aeden
 branche_narrative: principale
 statut_documentaire: valide
 visibilite: joueur
-version: 15
+version: 16
 id: PJ-AED-001
 date_univers: null
 derniere_validation: "2026-11-24"
@@ -44,7 +44,7 @@ Trois Titres validés et actifs initialement : Pionnier des deux disciplines, Pr
 [[Mes aventures RPG/Aeden/01 — Personnage principal/Compétences/Index — Compétences|Index — Compétences]] · [[Mes aventures RPG/Aeden/01 — Personnage principal/Aptitudes raciales et biologie|Aptitudes raciales et biologie]]
 
 ## 4 — Équipement et possessions
-Fortune personnelle disponible 342 932 P (fin J1 ; initiale 350 000 P) ; atelier indépendant personnel avec appartement à l'étage, accès conservé à la suite familiale (non possédée) ; moto magitech B ; équipement choisi et bracelet B 20 m³. Détails, estimations et financement validés ; patrimoine net initial estimé 2 135 000 P, aucune dette. [[Mes aventures RPG/Aeden/05 — Inventaire et finances/Possessions/Patrimoine personnel d’Aedan|Patrimoine personnel d’Aedan]]. [[Mes aventures RPG/Aeden/04 — Monde et lieux/Lieux/Atelier et appartement d’Aedan Blackwell|Atelier et appartement d’Aedan Blackwell]].
+Fortune personnelle disponible 342 932 P (fin J4, aucun flux nouveau confirmé ; initiale 350 000 P) ; atelier indépendant personnel avec appartement à l'étage, accès conservé à la suite familiale (non possédée) ; moto magitech B ; équipement choisi et bracelet B 20 m³. Détails, estimations et financement validés ; patrimoine net initial estimé 2 135 000 P, aucune dette. [[Mes aventures RPG/Aeden/05 — Inventaire et finances/Possessions/Patrimoine personnel d’Aedan|Patrimoine personnel d’Aedan]]. [[Mes aventures RPG/Aeden/04 — Monde et lieux/Lieux/Atelier et appartement d’Aedan Blackwell|Atelier et appartement d’Aedan Blackwell]].
 [[Mes aventures RPG/Aeden/05 — Inventaire et finances/Équipement porté|Équipement porté]] · [[Mes aventures RPG/Aeden/05 — Inventaire et finances/Inventaire actuel|Inventaire actuel]] · [[Mes aventures RPG/Aeden/05 — Inventaire et finances/Comptabilité personnelle|Comptabilité personnelle]]
 
 Arme personnelle : [[Mes aventures RPG/Aeden/05 — Inventaire et finances/Objets/Épée runo-arcanique|Vesperyx - la lame du sceau pourpre]] [B]. Automate félin symbiotique [A] acquis au J1.
@@ -54,7 +54,7 @@ Arme personnelle : [[Mes aventures RPG/Aeden/05 — Inventaire et finances/Objet
 - **Biographie :** parcours de formation et explorations validés ; voir [[Mes aventures RPG/Aeden/01 — Personnage principal/Parcours de formation|Parcours de formation]]. Biographie complète validée : [[Mes aventures RPG/Aeden/01 — Personnage principal/Biographie et personnalité d’Aedan|Biographie et personnalité d’Aedan]].
 - **Caractère :** curieux, pragmatique, sociable, indépendant, ambitieux, persévérant, taquin et critique ; défauts et goûts dans [[Mes aventures RPG/Aeden/01 — Personnage principal/Biographie et personnalité d’Aedan|Biographie et personnalité d’Aedan]]. Profil indicatif, liberté du joueur entière.
 - **Formation :** double formation supérieure avancée achevée, théorique et pratique en exploration de donjons, sciences runiques (magie/mana) et sciences arcaniques (technologie) ; cursus rare sur Elyndra et risqué dès le jeune âge. Chronologie scolaire, établissements et accomplissements validés : diplôme supérieur d'exploration dimensionnelle et d'ingénierie runo-arcanique ; Université royale d'Astréval, Institut d'Innovation de Novaréa et pratique encadrée par la Guilde des Aventuriers. [[Mes aventures RPG/Aeden/01 — Personnage principal/Parcours de formation|Parcours de formation]]. Rang personnel B validé.
-- **Motivations et aspirations :** exploration et invention ; entrepreneuriat non retenu comme ambition initiale. Voir [[Mes aventures RPG/Aeden/01 — Personnage principal/Biographie et personnalité d’Aedan|Biographie et personnalité d’Aedan]].
+- **Motivations et aspirations :** exploration et invention ; entrepreneuriat non retenu comme ambition initiale ; projet de compagnie d’exploration discuté au J4, non constitué. [[Mes aventures RPG/Aeden/06 — Quêtes et projets/Entreprise/Projet de compagnie d’exploration]] Voir [[Mes aventures RPG/Aeden/01 — Personnage principal/Biographie et personnalité d’Aedan|Biographie et personnalité d’Aedan]].
 - **Vie sentimentale (privée) :** attiré par les hommes, célibataire par préférence, quelques relations d'un soir ou d'environ un mois, aucune relation sérieuse établie. Pas de partenaire ni d'ex nommé.
 - **Relations extérieures :** meilleur ami ayant suivi les mêmes études et explorations, recherches légèrement différentes ; Maël Varyn, meilleur ami ; Darius Azarion, rival intellectuel et commercial. [[Mes aventures RPG/Aeden/01 — Personnage principal/Dernières fondations proposées|Dernières fondations proposées]].
 - **Croyances :** Cercle de la Raison sans affiliation formelle ; convictions familiales validées dans [[Mes aventures RPG/Aeden/01 — Personnage principal/Dernières fondations proposées|Dernières fondations proposées]].
@@ -64,7 +64,7 @@ Arme personnelle : [[Mes aventures RPG/Aeden/05 — Inventaire et finances/Objet
 ## 6 — Particularités et évolution
 - **Transformations et particularités connues :** Manifestation infernale individualisée : marques lumineuses rouge sombre sur avant-bras et cornes ; voir [[Mes aventures RPG/Aeden/01 — Personnage principal/Compétences/Manifestation infernale|Manifestation infernale]]. Aucune transformation permanente.
 - **Jalons personnels :** À définir
-- **Exceptions validées :** À définir
+- **Exceptions validées :** AED-FON-007, régénération passive personnelle 95 MP/min, plafond effectif.
 - **Validation définitive :** identité, race, sous-race, âge approximatif, origine, morphologie, parcours, rang, Classe, Profession, niveaux, statistiques, compétences, Titres, équipements, inventaire, patrimoine, biographie, personnalité, goûts et ambitions validés ; dernières décisions intégrées ; validation définitive explicite du joueur le 24 novembre 2026 ; fiche verrouillée.
 [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Chronologie générale|Chronologie générale]]
 

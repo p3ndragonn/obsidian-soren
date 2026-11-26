@@ -4,7 +4,7 @@ campagne: Aeden
 branche_narrative: principale
 statut_documentaire: valide
 visibilite: joueur
-version: 3
+version: 4
 id: PROJ-AED-KH
 date_univers: "1842 TC — 15 Doréal"
 derniere_validation: null
@@ -23,3 +23,6 @@ Contrat et permis définitifs [[Mes aventures RPG/Aeden/06 — Quêtes et projet
 
 ## Fin J3
 N1 utile terminé sauf distribution, N2 reconnu,6 ennemis, récupérations amorcées.1605 objets149 docs25,019m³ cumul,544320–558640 P estimés. Rapport KH-002 envoyé20:39. Demain N2-06 priorité éclairage autonome isolé puis démontages, N3 reporté. Traductions quatre documents S attendues. [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 3 — Bilan.md]]
+
+## Fin J4
+N1 terminé, éclairage autonome N1/N2, archives consultées, rapport KH-003 transmis18:32. Cumul1735 objets149 docs31,499m³ ; estimations partielles746320–760640 P, installations sur place1007000 P. N3 fermé. Prolongation accord de principe uniquement. J5 réveil05:30, récupérations rapides N2 puis démontage. [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 4 — Bilan.md]]

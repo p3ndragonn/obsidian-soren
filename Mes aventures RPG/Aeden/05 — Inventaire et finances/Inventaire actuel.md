@@ -4,7 +4,7 @@ campagne: Aeden
 branche_narrative: null
 statut_documentaire: valide
 visibilite: joueur
-version: 9
+version: 10
 id: DOC-AED-CF67C3C4AFE5
 date_univers: null
 derniere_validation: "2026-11-24"
@@ -64,3 +64,6 @@ Table initiale historique. ORION déployé au lit, moto bracelet depuis12:19, é
 
 ## Fin J3
 34 portions collectives, potions intactes, eau/thé/café non quantifiés. Récupérations entreprise1605 objets149 docs25,019m³, occupation module exacte inconnue, éléments au camp.4 S rangés séparément,2 prêtés. Équipement combat chambre, moto bracelet, ORION au lit, aucun nouvel achat. [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 3 — Bilan.md]]
+
+## Fin J4
+Cumul entreprise 1735 objets hors documents,149 documents physiques,31,499 m³ ; pas de vente. 60 matrices recensées, aucune nouvelle récupération physique lors de la consultation du soir. Stock collectif exact des repas non réconcilié, ne pas reprendre les 34 portions J3 comme solde J4. Équipement de combat retiré au coucher, short. [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 4 — Bilan.md]]

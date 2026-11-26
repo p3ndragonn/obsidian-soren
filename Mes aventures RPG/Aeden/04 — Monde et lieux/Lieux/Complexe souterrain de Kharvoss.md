@@ -4,7 +4,7 @@ campagne: Aeden
 branche_narrative: principale
 statut_documentaire: valide
 visibilite: joueur
-version: 3
+version: 4
 id: LIEU-AED-KHARVOSS
 date_univers: "1842 TC — 15 Doréal"
 derniere_validation: null
@@ -23,3 +23,6 @@ N1 reconnu : entrée, stockage01, maintenance02, entrepôt03 20×15m quatre sour
 
 ## Actualisation J3
 N1 03/07/08 récupérations utiles terminées,04 maintenue, lumière éteinte16:43. Rail déformé et structure laissés. N2 hall01, atelier02 16×12, labo03 22×14, archives04 10×8 refermées, filtration05 24×18, énergie06 35×25, porte N3 scellée5m. Six créatures tuées (4 C,2 D), zones reconnues provisoirement sécurisées.268 photos, lot N2-001 récupéré, purificateur A142000 et propulseur A186000 restent. N2-06 trois machines, distributeur5m,6 accumulateurs,4 pupitres, inspection prioritaire demain. [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 3 — Bilan.md]]
+
+## Actualisation J4
+Éclairage autonome N1/N2 établi, récupérations N1 terminées. N2 six salles reconnues ; archives 38 matrices déjà recensées. Plans N3 documentés, entrée effective non établie ; stations de microgravure et autres équipements décrits dans archives, non récupérés. J5 priorité équipements mobiles puis démontage, conserver alimentation nécessaire. [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 4 — Bilan.md]]

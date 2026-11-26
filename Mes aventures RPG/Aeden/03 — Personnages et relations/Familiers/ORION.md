@@ -4,7 +4,7 @@ campagne: Aeden
 branche_narrative: principale
 statut_documentaire: valide
 visibilite: joueur
-version: 4
+version: 5
 id: COMP-AED-ORION
 date_univers: "1842 TC — 16 Doréal"
 derniere_validation: "2026-11-25"
@@ -59,3 +59,6 @@ Compact bracelet09:05–13:31, réactivation réussie, pas signal dedans. Reconn
 
 ## J3
 Reconnaissance N2, leurre deux scolopendres sur ordre, aucune compétence combat. Traduction partielle plaques Seravhen : matrice adaptative, mémoire, extension fonctionnelle/interfaces auxiliaires, fonctions non confirmées.18:50–19:08 250 MP infernaux (10+240), pas fuite/échauffement/perturbation détectés, yeux bleus, nuances violettes runes, signature infernale persistante.19:08–22 captation ambiante continue, coexistence affinités, pas amélioration prouvée à faible réserve, capacité inconnue. Contrôle demain proposé. Intact, lit Aedan21:56. [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 3 — Bilan.md]]
+
+## J4 — documentation
+Les études N2 apportent des correspondances documentaires Seravhen–ORION et des informations sur les matrices adaptatives. Aucune nouvelle fonction, transformation, réserve chiffrée, acquisition ou dépense établie dans le bilan disponible. État mécanique exact et détail du contrôle de signature non retrouvés ; conserver les résultats J3 comme dernière mesure vérifiée. [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 4 — Bilan.md]]

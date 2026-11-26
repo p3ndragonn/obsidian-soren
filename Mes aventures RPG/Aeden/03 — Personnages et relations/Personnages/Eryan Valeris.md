@@ -4,7 +4,7 @@ campagne: Aeden
 branche_narrative: principale
 statut_documentaire: valide
 visibilite: joueur
-version: 5
+version: 6
 id: PNJ-AED-ERYAN
 date_univers: "1842 TC — 16 Doréal"
 derniere_validation: "2026-11-25"
@@ -137,3 +137,6 @@ Génération originale du 25 novembre 2026, WebP 1024 × 1536, version 1. Réfé
 
 ## Fin J3
 Inventaire et démontages N1, relevés quatre S sans connexion, tests passifs ORION. Fatigue normale, pas de blessure persistante, aucune dépense MP J3 chiffrée. Souhaite expéditions de tête et entraînement avec Aedan, accord de principe sans date, congés et équipe à trouver. Propose aide couteau secondaire et contrôle ORION J4. Coucher21:56, réveil06:30. [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 3 — Bilan.md]]
+
+## Fin J4
+Campement Kharvoss, coucher vers21:15, réveil convenu05:30 J5. Participe à la mission ; prépare le repas du soir. Intéressé par une future compagnie d'exploration, souhaite terrain et recherches personnelles ; engagements Victor/Mira maintenus. Proposition conditionnelle station S, aucun don ni contrat. Classe/profession, ressources et fortune : pas de nouveau changement chiffré vérifié. [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 4 — Bilan.md]]
