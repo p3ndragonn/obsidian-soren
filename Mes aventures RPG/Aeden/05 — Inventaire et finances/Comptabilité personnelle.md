@@ -31,3 +31,7 @@ Solde342932 P, aucun nouveau mouvement Aedan. Pâtisserie Alyssa promise, non ac
 ## Fin J5 — 19 Doréal
 Aucun flux confirmé J5,342932 P personnel. Aucun achat hydromel, paiement prolongation, remboursement ni revenu récupérations. Valeur estimée entreprise non encaissée.
 [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 5 — Bilan.md]]
+
+## J6
+Aucune transaction personnelle confirmée ; solde Aedan342932 P, Eryan49586 P, entreprise990000 P hors dépenses non attestées ; engagements27000 P non confirmés payés. Pas de paiement pour livraison, hydromel, restaurant ou association, ni vente d'artefact. Valeur du butin non encaissée.
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 6 — Bilan.md]]

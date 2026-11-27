@@ -66,3 +66,7 @@ Les études N2 apportent des correspondances documentaires Seravhen–ORION et d
 ## Fin J5 — 19 Doréal
 Bon état apparent, comportement ludique avec cartes et queue Aedan, repos sur genoux puis au pied du lit. Aucun nouveau test ou changement mécanique.
 [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 5 — Bilan.md]]
+
+## J6
+Reconnaissance N2-06 (trois passages étroits documentés avec cartographie Aedan), aucun nouveau pouvoir démontré. Présenté à Maël par terminal, Maël souhaite examiner avec permission. ORION intact, au pied du lit21:55, prévu ouverture N3 demain. Aucun coût ni EXP ajouté.
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 6 — Bilan.md]]

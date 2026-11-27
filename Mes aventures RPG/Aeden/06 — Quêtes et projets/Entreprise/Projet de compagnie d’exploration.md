@@ -16,3 +16,7 @@ Discussion J4 au dîner : équipe complémentaire de quatre, hybride entreprise/
 ## Fin J5 — 19 Doréal
 Pas de nouvel engagement entrepreneurial. Eryan souhaite continuer à explorer avec Aedan, demande que compagnons puissent conseiller arrêt pour sécurité. Pas de contrat ni changement emploi.
 [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 5 — Bilan.md]]
+
+## J6 — premier contact
+21:02–21:29 appel Maël, présenté à Eryan. Maël intéressé, pas d'engagement ferme, souhaite discuter financement, propriété intellectuelle, responsabilités et répartition. Eryan souhaite associé autonome, pas salarié Aedan ; séparation recherches privées/projets communs et continuité collective en cas de décès évoquées. Maël travaille sur miniaturisation commandes automates ; convergence technique avec Eryan. Rendez-vous3 Bruméal midi restaurant Portes d'Orion salon privé après-midi, Maël organisateur, non réservé. Retour Maël24 Doréal annoncé. Quatrième membre non trouvé, aucun statut/partage/dépense arrêté.
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 6 — Bilan.md]]

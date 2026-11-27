@@ -22,3 +22,7 @@ Accord de principe avec Victor pour +7 jours jusqu'au29 Doréal23:59, remboursem
 ## Fin J5 — 19 Doréal
 KH-004 transmis20:23, relance prolongation et second module. Aucun avenant, permis délivré, livraison ou paiement confirmé. Échéance officielle22 Doréal23:59 ;29 Doréal23:59 conditionnelle.
 [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 5 — Bilan.md]]
+
+## J6
+Victor message J5 20:51 lu05:21 : prolongation déposée, second module A100m³ et prolongations abri/premier module réservés ; équipe annoncée J7 10:00. Aedan demande17:00, ravitaillement +2 hydromels05:23, quatre caisses sécurisées et transfert quatre S17:16. Confirmation non lue, aucune livraison/avenant/paiement. Permis officiel22 Doréal23:59, cible29 conditionnelle. KH-005 transmis17:43. Conditions contractuelles inchangées.
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 6 — Bilan.md]]

@@ -41,3 +41,7 @@ Aedan raconte première élimination insecte rang E (espèce/date inconnues), li
 ## Fin J5 — 19 Doréal
 Vacances familiales ~15 ans auparavant une semaine capitale ; idéal vacances solo contrées inexplorées. Préférence relation domiciles séparés et retrouvailles entre missions. Refuse exploration nocturne depuis ancienne mission confidentielle [[Mes aventures RPG/Aeden/07 — Règles et secrets/Registre réservé au Fondateur/Secret racial Tiefling — confidence J5.md]].
 [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 5 — Bilan.md]]
+
+## Confidences J6
+Au retour d'expédition Aedan s'isole habituellement3–4 jours dans ses travaux avant de voir ses parents, néglige repas et hygiène quand absorbé. Admiration initiale de Maël puis amitié durable, nombreux donjons, quatre situations de non-retour redouté. Maël rappelle hygiène, repas et sorties ; Aedan lui rappelle de travailler. Informations sensibles sur formation et protocole consignées séparément.
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 6 — Bilan.md]]

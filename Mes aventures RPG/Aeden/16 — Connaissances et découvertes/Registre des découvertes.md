@@ -28,3 +28,7 @@ sources: []
 ## Fin J5 — 19 Doréal
 N2-05 deux réseaux indépendants de régulation sur même substrat observés Eryan ; redondance hypothétique non validée. Fonctions précises chambre et machines à étudier.
 [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 5 — Bilan.md]]
+
+## J6
+AED-INFO-J6-001 : branche énergétique N2 vers accréditation et mécanisme N3 observée par diagnostic, puissance nécessaire non testée. AED-INFO-J6-002 : KH-TR-001, 3 traductions presque complètes, 1 partielle ; convertisseur polarité, module reconnaissance/fréquence commune, noyau stabilisation non accumulation, matrice adaptation fréquentielle douze cercles ; montage théorique non validé. AED-INFO-J6-003 : Maël intéressé projet, retour24 Doréal annoncé. AED-INFO-J6-004 : Lïanna Merivel, amie d'enfance Eryan, informations de sa bouche, non rencontrée. Aucun secret privé intégré ici.
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 6 — Bilan.md]]

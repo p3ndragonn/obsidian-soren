@@ -166,3 +166,7 @@ Eryan rang B, classe C22 680/1402 inchangée (aucun combat/entraînement défens
 | ERY-PRO-015 | 5 | Récupération propulseur | 1/2/0/1 | 40 |
 | ERY-PRO-016 | 5 | Démontage et analyse hydraulique | 2/3/2/2 | 90 |
 [[Mes aventures RPG/Aeden/99 — Archives/États de reprise/Régularisation AED-REG-J5-001.md]]
+
+## Fin J6
+Profession B46 3890/5050 (+450 :180 petites salles,90 diagnostic/cartographie énergie,100 G2/G3,80 A3/A4/P3/P4), classe C22 680/1402 inchangée ; 30MP diagnostic confirmés, ressources exactes coucher non mesurées, aucune blessure. Solde49586 P inchangé. Accord prolongation conditionnel, ouverture N3 ensemble, repli archives et Communication après vérification verrou intérieur. Présent au premier appel Maël, intérêt réel association autonome, rendez-vous3 Bruméal midi. Projet matrice miniaturisée non fonctionnel (interférences/précision). Meilleure amie d'enfance Lïanna Merivel, Haute-Elfe restauratrice instruments anciens Novaréa, connue depuis ~20 ans d'âge, familles voisines, soutien après Térian, appels2–3/mois, sait expédition avec Aedan. Souhait éventuel adoption chat, aucune adoption. Coucher21:55, réveil05:30.
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 6 — Bilan.md]]
