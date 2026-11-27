@@ -23,3 +23,7 @@ Propriété personnelle d'Aedan aux Portes d'Orion, quartier mixte artisanal/ré
 
 ## Appartement — intérieur
 ![[Mes aventures RPG/Aeden/08 — Illustrations/Lieux/Appartement d’Aedan — Intérieur officiel.webp]]
+
+## J8
+Domicile provisoire Arche Industries, bâtiment reste propriété Aedan. Retour14:26, moto garage, ORION canapé. [[Mes aventures RPG/Aeden/15 — Économie et commerces/Entreprises/Arche Industries.md]].
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 8 — Bilan intermédiaire.md]]

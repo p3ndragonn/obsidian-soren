@@ -33,3 +33,7 @@ Prix en P, non constatés lors d'une transaction, pas de tarifs garantis.
 | Coupe de cheveux | 15 | 30 | 20 |
 
 Téléportation entre les trois capitales : environ 10 000 P par personne et trajet (voir [[Mes aventures RPG/Aeden/04 — Monde et lieux/Réseaux de transport|Réseaux de transport]]).
+
+## Prix constatés J8
+Constitution SPA3000 P payé ; tenue compte Arche60 P/mois non prélevée ; international0,05% négocié. Le Chêne d'Argent cerf38, eau0, crème brûlée10 ; total48 payé. Contrat spectres9680 P payé. Prix spécifiques non barèmes universels.
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 8 — Bilan intermédiaire.md]]

@@ -63,3 +63,7 @@ Situation après les récupérations et avant les travaux d’aménagement. Sch�
 
 ### Niveau 3
 ![Kharvoss — Niveau 3](../../08%20%E2%80%94%20Illustrations/Lieux/Kharvoss%20-%20Situation%20actuelle%20-%20Niveau%203.webp)
+
+## J8 — convention et sécurisation
+Propriété Aedan maintenue, société Arche bénéficie usage gratuit, finance travaux N1/N2 et préservation N3, pas d'apport immobilier. Dorgan disponible23 horaire en attente, Arvand sollicité N3 uniquement, devis non reçu. [[Mes aventures RPG/Aeden/15 — Économie et commerces/Entreprises/Arche Industries.md]] ; [[Mes aventures RPG/Aeden/06 — Quêtes et projets/Contrats/KH-SP-1842-001 — Sécurisation spectrale.md]].
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 8 — Bilan intermédiaire.md]]

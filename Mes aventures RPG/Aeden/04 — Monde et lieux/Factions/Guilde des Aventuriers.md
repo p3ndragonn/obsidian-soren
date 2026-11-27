@@ -35,3 +35,7 @@ Aventuriers jamais police : exécutent seulement des contrats, port d'armes auto
 ## J7 — 21 Doréal 1842 TC
 Edhran Varek, maître local Portes d'Orion, ancien aventurier Mithril, humain ~56 ans. Acte C33-KH-1842-001 signé16:46, propriété personnelle Kharvoss Aedan,0 P, permis caduc. C07-SER-1842-001 exclusivité Seravhen17:09, aucune propriété,0 P, public temporairement indisponible. Voir charte et registre confidentiel. Demande de mission élimination spectrale à venir22 Doréal, intervention souhaitée23 soir, aucun contrat.
 [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 7 — Bilan.md]]
+
+## J8
+Contrat personnel [[Mes aventures RPG/Aeden/06 — Quêtes et projets/Contrats/KH-SP-1842-001 — Sécurisation spectrale.md]] payé9680 P ; équipe [[Mes aventures RPG/Aeden/03 — Personnages et relations/Groupes/Les Veilleurs d’Argent.md]]. [[Mes aventures RPG/Aeden/06 — Quêtes et projets/Missions/Propositions de missions — Eryan J8.md]] envoyées14:05. Aucune directive imposée Bruméal (Fondateur).
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 8 — Bilan intermédiaire.md]]

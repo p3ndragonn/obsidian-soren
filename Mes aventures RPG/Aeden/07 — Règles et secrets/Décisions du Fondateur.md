@@ -51,3 +51,7 @@ Décision J7 : clause33 officielle, tout aventurier grade Or ou supérieur sur t
 
 ## J8 — AED-FON-AUT-001
 Le Fondateur délègue explicitement la création d'une histoire locale et de trois méthodes d'éveil des Automates conscients, destinées aux découvertes ultérieures d'Alyssa. Complément canonique réservé, sans modification du Codex ni évolution automatique d'ORION. [[Mes aventures RPG/Aeden/07 — Règles et secrets/Registre réservé au Fondateur/Automates conscients — Origines et voies d’éveil.md|Dossier confidentiel — Origines et voies d'éveil]].
+
+## J8 — décision 14:07
+Aucune directive ou mission imposée par Couronne/Guilde durant Bruméal1842 TC. Obligations préexistantes inchangées.
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 8 — Bilan intermédiaire.md]]

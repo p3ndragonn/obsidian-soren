@@ -30,3 +30,6 @@ Charte continentale, sièges nationaux et antennes locales ; autonomie interne e
 
 [[Mes aventures RPG/Aeden/04 — Monde et lieux/Grades des organisations continentales|Grades des organisations continentales]]. Grade 9 attribué exclusivement par le maître général (ou dirigeant général équivalent). Aucun titulaire identifié, siège exact ou dirigeant inventé.
 
+## J8
+[[Mes aventures RPG/Aeden/03 — Personnages et relations/Personnages/Thélian Arvand.md]] sollicité pour N3 Kharvoss ; indépendant Mithril, devis/disponibilité en attente.
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 8 — Bilan intermédiaire.md]]

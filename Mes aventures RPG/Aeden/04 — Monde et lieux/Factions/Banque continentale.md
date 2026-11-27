@@ -30,3 +30,6 @@ Charte continentale, sièges nationaux et antennes locales ; autonomie interne e
 
 [[Mes aventures RPG/Aeden/04 — Monde et lieux/Grades des organisations continentales|Grades des organisations continentales]]. Grade 9 attribué exclusivement par le maître général (ou dirigeant général équivalent). Aucun titulaire identifié, siège exact ou dirigeant inventé.
 
+## J8
+[[Mes aventures RPG/Aeden/03 — Personnages et relations/Personnages/Gabriel Veldran.md]] ouvre compte Arche12:27, capital100000 P, commission internationale0,05%, tenue60 P/mois, aucun emprunt. [[Mes aventures RPG/Aeden/15 — Économie et commerces/Entreprises/Arche Industries.md]].
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 8 — Bilan intermédiaire.md]]
