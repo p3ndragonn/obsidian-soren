@@ -30,3 +30,31 @@ Conserver ici les fichiers d'images associés, les réutiliser lorsque leur iden
 - Version 1, WebP 1672 × 941 px, référence visuelle ; les faits textuels priment en cas d'écart.
 
 ![Entrée de Kharvoss](Kharvoss%20-%20Entr%C3%A9e%20officielle.webp)
+
+
+## Kharvoss — état au 21 Doréal 1842 TC
+Plans illustrés validés pour archivage par le joueur le 27 novembre 2026. Version 1, génération originale ChatGPT, WebP, schémas non métriques. Les faits textuels et les schémas sources priment sur les détails graphiques non établis.
+
+### Niveau 1
+- Fichier : Kharvoss - Situation actuelle - Niveau 1.webp
+- Dimensions : 1199 × 1312 px
+- Entité : [[Mes aventures RPG/Aeden/04 — Monde et lieux/Lieux/Complexe souterrain de Kharvoss]]
+- Description : stockage et distribution après récupération.
+
+![Kharvoss — Niveau 1](Kharvoss%20-%20Situation%20actuelle%20-%20Niveau%201.webp)
+
+### Niveau 2
+- Fichier : Kharvoss - Situation actuelle - Niveau 2.webp
+- Dimensions : 1226 × 1283 px
+- Entité : [[Mes aventures RPG/Aeden/04 — Monde et lieux/Lieux/Complexe souterrain de Kharvoss]]
+- Description : recherche et énergie après démontages.
+
+![Kharvoss — Niveau 2](Kharvoss%20-%20Situation%20actuelle%20-%20Niveau%202.webp)
+
+### Niveau 3
+- Fichier : Kharvoss - Situation actuelle - Niveau 3.webp
+- Dimensions : 1230 × 1278 px
+- Entité : [[Mes aventures RPG/Aeden/04 — Monde et lieux/Lieux/Complexe souterrain de Kharvoss]]
+- Description : complexe scientifique intact, 14 salles.
+
+![Kharvoss — Niveau 3](Kharvoss%20-%20Situation%20actuelle%20-%20Niveau%203.webp)

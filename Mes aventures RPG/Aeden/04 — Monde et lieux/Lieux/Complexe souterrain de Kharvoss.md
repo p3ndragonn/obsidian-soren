@@ -50,3 +50,16 @@ Propriété personnelle d'Aedan depuis16:46, acte C33-KH-1842-001, gratuit. N1/N
 ![Entrée de Kharvoss](../../08%20%E2%80%94%20Illustrations/Lieux/Kharvoss%20-%20Entr%C3%A9e%20officielle.webp)
 
 Illustration originale, version 1, 27 novembre 2026. Référence visuelle sans modification des faits canoniques textuels.
+
+
+## Plans illustrés — état au 21 Doréal 1842 TC
+Situation après les récupérations et avant les travaux d’aménagement. Schémas non métriques ; en cas d'écart, les faits textuels et les schémas sources priment. Les positions exactes et les connexions non documentées ne sont pas validées par le dessin.
+
+### Niveau 1
+![Kharvoss — Niveau 1](../../08%20%E2%80%94%20Illustrations/Lieux/Kharvoss%20-%20Situation%20actuelle%20-%20Niveau%201.webp)
+
+### Niveau 2
+![Kharvoss — Niveau 2](../../08%20%E2%80%94%20Illustrations/Lieux/Kharvoss%20-%20Situation%20actuelle%20-%20Niveau%202.webp)
+
+### Niveau 3
+![Kharvoss — Niveau 3](../../08%20%E2%80%94%20Illustrations/Lieux/Kharvoss%20-%20Situation%20actuelle%20-%20Niveau%203.webp)
