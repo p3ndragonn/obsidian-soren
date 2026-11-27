@@ -18,15 +18,15 @@ sources: []
 
 Conserver ici les fichiers d'images associés, les réutiliser lorsque leur identité reste inchangée. Aucune image créée à l'initialisation.
 
-## ARCHE Industries — illustrations en attente de transfert
+## ARCHE Industries
 
-Six logos originaux générés le 27 novembre 2026, version 1, PNG transparent 1254 × 1254. Les fichiers binaires ne sont pas encore présents dans le dépôt. Emplacements prévus dans le sous-dossier `ARCHE Industries/`. Le statut d'intégration doit être actualisé après vérification de leur présence effective.
+Six logos originaux générés le 27 novembre 2026, version 1, PNG transparent 1254 × 1254.
 
-| Fichier prévu | Entité | Description | Statut |
+| Fichier | Entité | Description | Statut |
 | --- | --- | --- | --- |
-| `ARCHE Industries/arche-industries.png` | ARCHE Industries | Arche de pierre, étoile dorée et ruines | En attente de transfert |
-| `ARCHE Industries/arche-exploration.png` | ARCHE Exploration | Boussole, carte et matériel d’expédition | En attente de transfert |
-| `ARCHE Industries/arche-laboratories.png` | ARCHE Laboratories | Fiole, orbites et cristaux | En attente de transfert |
-| `ARCHE Industries/arche-technologies.png` | ARCHE Technologies | Engrenage et cristal arcanotech | En attente de transfert |
-| `ARCHE Industries/arche-restoration.png` | ARCHE Restoration | Buste restauré et jointures dorées | En attente de transfert |
-| `ARCHE Industries/arche-commerce.png` | ARCHE Commerce | Balance, artefacts et marchandises | En attente de transfert |
+| [`arche-industries.png`](ARCHE%20Industries/arche-industries.png) | [ARCHE Industries](../../04%20%E2%80%94%20Monde%20et%20lieux/Factions/ARCHE%20Industries/ARCHE%20Industries.md) | Arche de pierre, étoile dorée et ruines | Présent dans le dépôt |
+| [`arche-exploration.png`](ARCHE%20Industries/arche-exploration.png) | [ARCHE Exploration](../../04%20%E2%80%94%20Monde%20et%20lieux/Factions/ARCHE%20Industries/ARCHE%20Exploration.md) | Boussole, carte et matériel d’expédition | Présent dans le dépôt |
+| [`arche-laboratories.png`](ARCHE%20Industries/arche-laboratories.png) | [ARCHE Laboratories](../../04%20%E2%80%94%20Monde%20et%20lieux/Factions/ARCHE%20Industries/ARCHE%20Laboratories.md) | Fiole, orbites et cristaux | Présent dans le dépôt |
+| [`arche-technologies.png`](ARCHE%20Industries/arche-technologies.png) | [ARCHE Technologies](../../04%20%E2%80%94%20Monde%20et%20lieux/Factions/ARCHE%20Industries/ARCHE%20Technologies.md) | Engrenage et cristal arcanotech | Présent dans le dépôt |
+| [`arche-restoration.png`](ARCHE%20Industries/arche-restoration.png) | [ARCHE Restoration](../../04%20%E2%80%94%20Monde%20et%20lieux/Factions/ARCHE%20Industries/ARCHE%20Restoration.md) | Buste restauré et jointures dorées | Présent dans le dépôt |
+| [`arche-commerce.png`](ARCHE%20Industries/arche-commerce.png) | [ARCHE Commerce](../../04%20%E2%80%94%20Monde%20et%20lieux/Factions/ARCHE%20Industries/ARCHE%20Commerce.md) | Balance, artefacts et marchandises | Présent dans le dépôt |
