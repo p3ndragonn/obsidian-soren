@@ -63,3 +63,7 @@ Révision initiale explicite : âge et rang modifiés avant toute scène ; long�
 ## J7 — 21 Doréal 1842 TC
 J7 reçoit Eryan pour dîner19:30, accueille chaleureusement, propose fournisseurs meubles et introduction conseiller bancaire connu de longue date, conseille propriété personnelle Kharvoss et usage contractuel par société. Chambre amis pour Eryan, soirée anecdotes, invite à revenir. Aucun achat/financement.
 [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 7 — Bilan.md]]
+
+## J8
+Petit-déjeuner Aedan/Eryan/Alyssa, informée familier ORION.11:31–38 facilite rendez-vous bancaire Gabriel Veldran qu'elle connaît depuis30 ans, conseille négocier. Aucun prêt ni garantie parentale.
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 8 — Bilan intermédiaire.md]]

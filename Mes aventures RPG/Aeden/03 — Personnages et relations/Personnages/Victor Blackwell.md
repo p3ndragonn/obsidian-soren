@@ -63,3 +63,7 @@ Révision initiale explicite : âge et rang modifiés avant toute scène ; long�
 ## J7 — 21 Doréal 1842 TC
 KH-AV-001 signe personnel/entreprise15:24 renonciation Kharvoss, Aedan signature non jouée. Reçoit module plein15:18, quatre S22:18, stockage atelier familial23:31. Propose inspection sécurité extérieur/N1/N2 23 Doréal avec3 spécialistes et Dorgan, à confirmer demain. Mira accepte15j Eryan, devis9600 P après20% remise, payé22:23, convention tripartite demain, salaire/droits maintenus. Offre conseil aménagement, prêt, pas financement ni devis signé.
 [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 7 — Bilan.md]]
+
+## J8
+06:48 Dorgan disponible23, horaire à confirmer, sécurité non confirmée. Convention mise à disposition Eryan signée tripartite08:40, 9600 P encaissés J7 ; quatre S au labo Mira07:19, KH-006 demandé non envoyé. Aucun apport de Victor à Arche ni financement accordé.
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 8 — Bilan intermédiaire.md]]

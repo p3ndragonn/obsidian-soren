@@ -34,3 +34,7 @@ Retour : [[Mes aventures RPG/Aeden/00 — Accueil et reprise/Tableau de bord —
 
 ## J8 — Arche Industries
 [[Mes aventures RPG/Aeden/15 — Économie et commerces/Entreprises/Arche Industries.md]] ; [[Mes aventures RPG/Aeden/06 — Quêtes et projets/Entreprise/Arche Industries/Activités, projets et gouvernance.md]].
+
+## Contrats et missions J8
+[[Mes aventures RPG/Aeden/06 — Quêtes et projets/Contrats/BDA-MAD-1842-027 — Mise à disposition Eryan.md]] ; [[Mes aventures RPG/Aeden/06 — Quêtes et projets/Contrats/KH-SP-1842-001 — Sécurisation spectrale.md]] ; [[Mes aventures RPG/Aeden/06 — Quêtes et projets/Missions/Propositions de missions — Eryan J8.md]].
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 8 — Bilan intermédiaire.md]]

@@ -48,3 +48,7 @@ Appel21:02–21:29, rencontre à distance Eryan. Intéressé association, souhai
 ## J7 — 21 Doréal 1842 TC
 J7 05:08 réservation demandée3 Bruméal midi–18h, non confirmée. 17:17 message Aedan,17:24 réponse, appel17:34 confirme retour Aedan, protocole non-retour levé, aucun accès transmis. Photos N3 et titre envoyés ; enthousiasme, retour24 maintenu, souhaite visite avant3 Bruméal, propose automates sécurité/maintenance. Aucun engagement d'association. Ne sait pas qu'Aedan refuse son accès ORION.
 [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 7 — Bilan.md]]
+
+## J8
+07:02 confirme table trois le3 Bruméal12h et salon privé jusqu'à18h, restaurant et prix inconnus. Retour annoncé24 Doréal. Aucun engagement associé ni accès ORION.
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 8 — Bilan intermédiaire.md]]

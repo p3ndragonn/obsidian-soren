@@ -30,3 +30,7 @@ Eryan connaît IV, N3, acquisition, clause07 appliquée mais pas détails missio
 
 ## J8 — Cloisonnement des connaissances
 Alyssa, Elena et Eryan ont vu la notification du familier ; Alyssa et Eryan connaissent les perceptions passives rapportées et les résultats d'Identification comparés. Alyssa autorisée à chercher anonymement. Les vérités historiques et voies d'éveil créées par délégation du Fondateur restent réservées (AED-FON-AUT-001) jusqu'aux découvertes jouées. Aedan ne reçoit pas automatiquement ces informations ; Victor et Maël non informés à ce stade.
+
+## J8 jusqu'à14:26
+Aedan/Eryan/Alyssa/Elena connaissent statut familier ORION ; Aedan perçoit passivement, Alyssa identification partielle, recherche anonyme autorisée ; aucune preuve conscience. Victor/Maël non informés du nouveau statut. Gabriel connaît dossier Arche, plans Kharvoss et travaux envisagés, pas secrets fabrication ni dossier Automates. Arvand sollicité N3, pas encore rencontré. Employée Guilde connaît demande spectres et missions Eryan, pas confidences Couronne. Eryan destinataire des propositions non encore lues de manière confirmée.
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 8 — Bilan intermédiaire.md]]

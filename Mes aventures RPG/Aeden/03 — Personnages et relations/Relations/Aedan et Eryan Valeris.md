@@ -38,3 +38,7 @@ Confiance technique et personnelle renforcée, humour sur tenue et hygiène, dis
 ## J7 — 21 Doréal 1842 TC
 J7 collaboration N3, Eryan soutient acquisition personnelle, confidence clause07 gardée, intérêt association autonome et indépendance. Visite domicile et famille, dîner, anecdotes. Eryan exprime que la compagnie d'Aedan lui manquera indépendamment du travail ; Aedan dit séjour agréable et hâte de retourner avec Eryan/Maël. Plaisanteries pudeur, expert pas salarié direct. Aucun couple, baiser ni déclaration sentimentale. Eryan dort chambre d'amis.15j mis à disposition payés par Aedan, convention en attente, ne crée pas de dépendance personnelle.
 [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 7 — Bilan.md]]
+
+## J8
+Amitié mutuelle explicitement affirmée, droit de tirer Aedan du travail pour sorties comme Maël ; aucun couple ni rapprochement intime établi. Eryan veut autonomie, Aedan souhaite progression avec groupes différents.14:05 trois missions transmises par Guilde « De la part d'Aeden. Progresse, et plus de M. Prudence ! » Aucun choix confirmé. [[Mes aventures RPG/Aeden/06 — Quêtes et projets/Missions/Propositions de missions — Eryan J8.md]].
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 8 — Bilan intermédiaire.md]]

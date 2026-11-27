@@ -28,3 +28,7 @@ Aucun flux confirmé. Engagements27000 P, solde de référence990000 P hors frai
 ## J7 — 21 Doréal 1842 TC
 J7 module plein100m³ reçu15:18, quatre S remis22:18 et stockés atelier familial. Renonciation Victor/entreprise KH-AV-001 signée, signature Aedan en attente. Aucune vente. +9600 P avance Eryan15j encaissée22:23, trésorerie de référence999600 P hors dépenses non chiffrées, engagements27000 P anciens non attestés réglés. Convention à signer, début25. Devis sécurité Kharvoss à préparer.
 [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 7 — Bilan.md]]
+
+## J8
+07:19 quatre artefacts S remis au laboratoire Mira, analyses débutent, demande KH-006. Convention Eryan signée08:40, [[Mes aventures RPG/Aeden/06 — Quêtes et projets/Contrats/BDA-MAD-1842-027 — Mise à disposition Eryan.md]]. Entreprise distincte d'Arche ; ancien butin Kharvoss reste à Victor/entreprise ; aucun transfert. Référence trésorerie999600 P hors frais non quantifiés, engagements27000 P non attestés payés.
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 8 — Bilan intermédiaire.md]]

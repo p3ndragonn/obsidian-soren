@@ -19,3 +19,7 @@ Données structurées maîtresses : [progression.json](Données/progression.json
 | --- | --- | --- | --- |
 
 EXP de Classe et Profession séparées ; maîtrise qualitative, jamais de niveau numérique universel. Seuil EXP 100 + 20 × (n − 1) + 2 × (n − 1)² ; appliquer les exceptions validées et les barèmes officiels.
+
+## J8 — 14:26
+Aucun combat ni EXP attribué, profession J7 à arbitrer. Familiérisation ORION sans gain automatique.
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 8 — Bilan intermédiaire.md]]
