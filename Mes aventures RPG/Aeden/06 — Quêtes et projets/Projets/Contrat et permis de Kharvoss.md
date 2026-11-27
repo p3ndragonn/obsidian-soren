@@ -18,3 +18,7 @@ Permis EXP-KH-1842-016 signé09:39, Aedan Or/Eryan Bronze, exclusivité16–22 D
 
 ## J4 — négociation de prolongation
 Accord de principe avec Victor pour +7 jours jusqu'au29 Doréal23:59, remboursement frais Guilde, équipe/ravitaillement/module, Eryan sous réserve, trois jours d'expertise. Aucun avenant signé, permis délivré ou paiement confirmé dans les faits retrouvés. Échéance officielle22 Doréal23:59 maintenue jusqu'à confirmation. Les clauses N1/N2/N3 existantes restent applicables. [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 4 — Bilan.md]]
+
+## Fin J5 — 19 Doréal
+KH-004 transmis20:23, relance prolongation et second module. Aucun avenant, permis délivré, livraison ou paiement confirmé. Échéance officielle22 Doréal23:59 ;29 Doréal23:59 conditionnelle.
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 5 — Bilan.md]]

@@ -19,3 +19,7 @@ sources: []
 | --- | --- | --- | --- | --- | --- | --- |
 
 Séparer vérité du monde, savoir de chaque PNJ, savoir du personnage et connaissance du joueur. Le simple accès technique à cette note ne donne aucune connaissance diégétique.
+
+## Fin J5 — 19 Doréal
+Confidence raciale Aedan à Eryan, accès diégétique restreint [[Mes aventures RPG/Aeden/07 — Règles et secrets/Registre réservé au Fondateur/Secret racial Tiefling — confidence J5.md]]. Pas d'effet mécanique chiffré ou propagation automatique.
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 5 — Bilan.md]]

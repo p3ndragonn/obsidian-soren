@@ -67,3 +67,8 @@ Table initiale historique. ORION déployé au lit, moto bracelet depuis12:19, é
 
 ## Fin J4
 Cumul entreprise 1735 objets hors documents,149 documents physiques,31,499 m³ ; pas de vente. 60 matrices recensées, aucune nouvelle récupération physique lors de la consultation du soir. Stock collectif exact des repas non réconcilié, ne pas reprendre les 34 portions J3 comme solde J4. Équipement de combat retiré au coucher, short. [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 4 — Bilan.md]]
+
+## Fin J5 — 19 Doréal
+Aucun nouvel objet personnel acquis. N1 terminé, N2 mobiles intégralement retirés, fixes partiellement démontés, N3 fermé. J5 minimum683 objets157 docs32,440m³ ; cumul minimum2418 objets306 docs63,939m³, volumes purificateur/propulseur non mesurés ; occupation réelle module inconnue. Valeur partielle1074320–1088640 P non encaissée, propriété entreprise sous réserve patrimoine. Détail registre récupérations.
+Six portions collectives consommées J5 ; stock exact inconnu. Deux barres céréales fournies Eryan hors portions ; hydromel seulement envisagé.
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 5 — Bilan.md]]

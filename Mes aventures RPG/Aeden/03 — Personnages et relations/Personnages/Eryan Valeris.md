@@ -140,3 +140,7 @@ Inventaire et démontages N1, relevés quatre S sans connexion, tests passifs OR
 
 ## Fin J4
 Campement Kharvoss, coucher vers21:15, réveil convenu05:30 J5. Participe à la mission ; prépare le repas du soir. Intéressé par une future compagnie d'exploration, souhaite terrain et recherches personnelles ; engagements Victor/Mira maintenus. Proposition conditionnelle station S, aucun don ni contrat. Classe/profession, ressources et fortune : pas de nouveau changement chiffré vérifié. [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 4 — Bilan.md]]
+
+## Fin J5 — 19 Doréal
+Collaboration démontages N2, repas et soirée cartes/vérité. Dit trouver Aedan séduisant sans relation établie ; préfère relation avec nouvelles régulières, domiciles distincts possibles ; ancien intérêt Haut-Elfe librairie sans suite. Grand-père maternel mort paisiblement en sa présence à52 ans ; jamais témoin décès violent, jamais tué personne ni connu situation crue fatale. Connaît confidences privées [[Mes aventures RPG/Aeden/07 — Règles et secrets/Registre réservé au Fondateur/Secret racial Tiefling — confidence J5.md]], promet discrétion. Accord aucun accès ruines de nuit. Coucher chambre camp vers22:00, réveil prévu05:30. Gains EXP à arbitrer, derniers chiffres et solde49586 P conservés ; aucune blessure rapportée.
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 5 — Bilan.md]]

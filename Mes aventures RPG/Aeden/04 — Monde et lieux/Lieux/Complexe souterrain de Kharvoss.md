@@ -26,3 +26,8 @@ N1 03/07/08 récupérations utiles terminées,04 maintenue, lumière éteinte16:
 
 ## Actualisation J4
 Éclairage autonome N1/N2 établi, récupérations N1 terminées. N2 six salles reconnues ; archives 38 matrices déjà recensées. Plans N3 documentés, entrée effective non établie ; stations de microgravure et autres équipements décrits dans archives, non récupérés. J5 priorité équipements mobiles puis démontage, conserver alimentation nécessaire. [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 4 — Bilan.md]]
+
+## Fin J5 — 19 Doréal
+N1 terminé, N2 mobiles intégralement retirés, fixes partiellement démontés, N3 fermé. J5 minimum683 objets157 docs32,440m³ ; cumul minimum2418 objets306 docs63,939m³, volumes purificateur/propulseur non mesurés ; occupation réelle module inconnue. Valeur partielle1074320–1088640 P non encaissée, propriété entreprise sous réserve patrimoine. Détail registre récupérations.
+J6 réveil05:30, lire messages, petit-déjeuner ; départ06:15, petites salles jusqu'à09:00, énergie N2-06 jusqu'à12:30, repas jusqu'à13:15, reliquats et connexions N3 jusqu'à17:00. Préserver énergie nécessaire et éclairage ; tentative N3 uniquement si marge avant coucher du soleil, sinon reporter. Aucun accès aux ruines après coucher du soleil. Vérifier permis, second module, traductions et capacité réelle. Deux bouteilles hydromel envisagées au ravitaillement, non commandées.
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 5 — Bilan.md]]

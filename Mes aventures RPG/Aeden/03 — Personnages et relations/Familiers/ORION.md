@@ -62,3 +62,7 @@ Reconnaissance N2, leurre deux scolopendres sur ordre, aucune compétence combat
 
 ## J4 — documentation
 Les études N2 apportent des correspondances documentaires Seravhen–ORION et des informations sur les matrices adaptatives. Aucune nouvelle fonction, transformation, réserve chiffrée, acquisition ou dépense établie dans le bilan disponible. État mécanique exact et détail du contrôle de signature non retrouvés ; conserver les résultats J3 comme dernière mesure vérifiée. [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 4 — Bilan.md]]
+
+## Fin J5 — 19 Doréal
+Bon état apparent, comportement ludique avec cartes et queue Aedan, repos sur genoux puis au pied du lit. Aucun nouveau test ou changement mécanique.
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 5 — Bilan.md]]

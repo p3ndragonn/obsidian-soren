@@ -27,3 +27,7 @@ Patrimoine des parents et d'Alyssa : [[Mes aventures RPG/Aeden/03 — Personnage
 
 ## Fin J2
 Solde342932 P, aucun nouveau mouvement Aedan. Pâtisserie Alyssa promise, non achetée. Eryan paye14 P café personnel. Entreprise finance intégralement mission ; pas recette Aedan. [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 2 — Bilan.md]].
+
+## Fin J5 — 19 Doréal
+Aucun flux confirmé J5,342932 P personnel. Aucun achat hydromel, paiement prolongation, remboursement ni revenu récupérations. Valeur estimée entreprise non encaissée.
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 5 — Bilan.md]]

@@ -17,3 +17,7 @@ Liens réciproques ou non, limites et consentement ; aucune jauge numérique uni
 
 - [[Mes aventures RPG/Aeden/03 — Personnages et relations/Relations/Modèle — Relation|Chronologie sentimentale]]
 - [[Mes aventures RPG/Aeden/10 — Relations sentimentales/Modèle — Lien sentimental|Modèle — Lien sentimental]]
+
+## Fin J5 — 19 Doréal
+Échanges ouverts Aedan/Eryan sur attirance et indépendance. Aucun couple ou engagement établi. Voir [[Mes aventures RPG/Aeden/03 — Personnages et relations/Relations/Aedan et Eryan Valeris.md]].
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 5 — Bilan.md]]

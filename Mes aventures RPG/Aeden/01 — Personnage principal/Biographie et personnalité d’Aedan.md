@@ -37,3 +37,7 @@ Aedan déclare à Eryan plus de cinquante missions guilde, certaines avec pertes
 
 ## Précisions J3
 Aedan raconte première élimination insecte rang E (espèce/date inconnues), liquide vert malodorant et vomissement, habituation ultérieure. Préférence initiale distance, formation mêlée, ancien enseignant non nommé griffes rétractables. Tendance semer soutiens, équipe permanente non trouvée. Entraînement Eryan et couteau long secondaire envisagés sans engagement financier. [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 3 — Bilan.md]]
+
+## Fin J5 — 19 Doréal
+Vacances familiales ~15 ans auparavant une semaine capitale ; idéal vacances solo contrées inexplorées. Préférence relation domiciles séparés et retrouvailles entre missions. Refuse exploration nocturne depuis ancienne mission confidentielle [[Mes aventures RPG/Aeden/07 — Règles et secrets/Registre réservé au Fondateur/Secret racial Tiefling — confidence J5.md]].
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 5 — Bilan.md]]

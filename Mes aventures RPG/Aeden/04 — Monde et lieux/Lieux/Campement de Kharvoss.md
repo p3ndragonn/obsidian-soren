@@ -19,3 +19,7 @@ Terrasse rocheuse50m entrée, abri expansif B loué6m² extérieur/45 intérieur
 
 ## Fin J3
 Aedan/Eryan couchés21:56, ORION au lit Aedan. Module rempli avec lots entreprise ; volume récupéré total25,019m³ hors déduction éléments au camp ; occupation exacte non mesurée.34 repas. Quatre S séparés et rangés, pas activation. Réveil06:30 J4.
+
+## Fin J5 — 19 Doréal
+Aedan et Eryan dîner partagé et sommeil vers22:00 ; réveil prévu05:30. Six portions collectives consommées J5, stock exact inconnu faute de J4 chiffré. Module A100m³, occupation exacte à vérifier.
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 5 — Bilan.md]]

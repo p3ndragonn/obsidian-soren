@@ -68,3 +68,7 @@ Répartition AED-STAT-001, choix explicite du joueur fin J3 21:56 (temps figé) 
 
 ## Fin J4 et réveil J5
 Classe A32 2031/2642 ; profession S28 808/2098 (+550 rapportés dont +280 non ventilés). Statistiques permanentes inchangées, zéro point libre. Maxima au coucher HP2650 MP3950 EP3000, équipement retiré. Débit MP et EP exacts J4 inconnus. Régénération AED-FON-007 95 MP/min, MP3950/3950 au réveil J5 05:30. [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 4 — Bilan.md]]
+
+## Fin J5 — 19 Doréal
+Permanentes inchangées, zéro libre. HP2650 base sans blessure ; MP plein au réveil J5 et aucun débit J5 confirmé,3950 prévu J6 (95/min). EP exact inconnu, équipement de nuit non détaillé.
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 5 — Bilan.md]]

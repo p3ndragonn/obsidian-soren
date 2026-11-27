@@ -12,3 +12,7 @@ sources:
 ---
 # Projet de compagnie d’exploration
 Discussion J4 au dîner : équipe complémentaire de quatre, hybride entreprise/aventuriers. Aedan envisage financement personnel des deux premières expéditions ; butin commun, artefacts attribués suivant besoins des recherches, gains répartis selon pourcentages contractuels, réserve pour la structure, liberté de recherche hors expédition. Eryan intéressé sous conditions (terrain, liberté scientifique, engagements actuels) ; station S proposée conditionnellement, aucun don réalisé. Proposition Eryan de rembourser les investissements initiaux avant partage, à négocier. Maël Varyn envisagé (non contacté), reconnaissance des dangers et applications ; quatrième combattant/historien des ruines non identifié. Aucun nom, statut juridique, capital, pourcentage, contrat ou dépense arrêté. [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 4 — Bilan.md]]
+
+## Fin J5 — 19 Doréal
+Pas de nouvel engagement entrepreneurial. Eryan souhaite continuer à explorer avec Aedan, demande que compagnons puissent conseiller arrêt pour sécurité. Pas de contrat ni changement emploi.
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 5 — Bilan.md]]

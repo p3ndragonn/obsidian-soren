@@ -72,3 +72,7 @@ Les données chiffrées et objets détaillés restent dans leurs fiches maîtres
 
 ## Portrait officiel
 ![[Mes aventures RPG/Aeden/08 — Illustrations/Personnages/Aedan Blackwell — Portrait officiel.webp]]
+
+## Fin J5 — 19 Doréal
+Fin J5 19 Doréal22:00, camp Kharvoss ; sommeil, réveil prévu20 Doréal05:30. Classe A32 2031/2642, profession S28 1148/2098 (+340), fortune342932 P, zéro point libre. Queue préhensile/expressive précisée dans aptitudes raciales ; préférences vacances solo et relation domiciles séparés. Confidences privées [[Mes aventures RPG/Aeden/07 — Règles et secrets/Registre réservé au Fondateur/Secret racial Tiefling — confidence J5.md]].
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 5 — Bilan.md]]

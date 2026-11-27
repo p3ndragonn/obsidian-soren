@@ -24,3 +24,7 @@ sources: []
 | AED-INFO-J4-003 | 18 Doréal | 60 matrices recensées : 22 N1, 38 N2 ; neuf catégories de classement | Consultation | Relevé narratif, titres individuels non vérifiés | [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 4 — Bilan.md]] | Archives |
 | AED-INFO-J4-004 | 18 Doréal | Cristal accréditation III et extension IV partielle, plans N3 | Archives | Informations rapportées ; accès N3 non effectué | [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 4 — Bilan.md]] | Accréditation |
 | AED-INFO-J4-005 | 18 Doréal | Correspondances documentaires Seravhen–ORION | Étude documentaire | Fonctionnement et capacités supplémentaires non démontrés | [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 4 — Bilan.md]] | ORION |
+
+## Fin J5 — 19 Doréal
+N2-05 deux réseaux indépendants de régulation sur même substrat observés Eryan ; redondance hypothétique non validée. Fonctions précises chambre et machines à étudier.
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 5 — Bilan.md]]
