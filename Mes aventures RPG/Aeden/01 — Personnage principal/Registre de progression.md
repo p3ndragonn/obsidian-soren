@@ -76,3 +76,25 @@ S28 258 → 808/2098, +550 EXP rapportés. Architecture énergétique +100, fabr
 
 ## J5 — AED-PRO-J5-BILAN
 Purificateur +70 D/Q/N/A2/3/1/1 ; étude chambre +50 1/2/1/1 ; démontage +100 3/3/2/2 ; propulseur +40 1/2/0/1 ; hydraulique +80 2/3/1/2. Total340,808→1148/2098 niveau28. Classe0, mobiles0. Ne pas recréditer. [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 5 — Bilan.md]]
+
+## AED-REG-J5-001 — état régularisé, prime sur chiffres historiques incomplets
+Eryan rang B, classe C22 680/1402 inchangée (aucun combat/entraînement défensif éligible). Profession B46 2370/5050 référence J2 → +230 J2 → +250 J3 → +270 J4 → +320 J5 = +1070, 3440/5050, reste1610, aucun niveau ni point libre. J1 inclus dans référence, aucun recrédit. Règlement p.6, annexe C art.C.4, arbitrage D/Q/N/A 0–3,10 EXP/point ; pas de barème universel. Seuls travaux techniques attestés, pas de gains routine. J4 études documentaires, pas de fabrication matérielle supposée. [[Mes aventures RPG/Aeden/99 — Archives/États de reprise/Régularisation AED-REG-J5-001.md]]
+| ID | Jour | Activité | D/Q/N/A | EXP |
+|---|---:|---|---|---:|
+| ERY-PRO-001 | 2 | Diagnostic énergétique | 2/2/1/1 | 60 |
+| ERY-PRO-002 | 2 | Tri technique | 1/2/0/0 | 30 |
+| ERY-PRO-003 | 2 | Démontage sécurisé machine N1 | 2/3/1/1 | 70 |
+| ERY-PRO-004 | 2 | Analyse et ouverture coffret A | 2/3/1/1 | 70 |
+| ERY-PRO-005 | 3 | Inventaire et conservation | 1/2/0/1 | 40 |
+| ERY-PRO-006 | 3 | Démontage filtration | 2/3/1/2 | 80 |
+| ERY-PRO-007 | 3 | Observation flux ORION | 2/3/2/2 | 90 |
+| ERY-PRO-008 | 3 | Classification technique du soir | 1/2/0/1 | 40 |
+| ERY-PRO-009 | 4 | Étude architecture énergétique | 2/2/2/2 | 80 |
+| ERY-PRO-010 | 4 | Étude fabrication et microgravure | 2/3/3/2 | 100 |
+| ERY-PRO-011 | 4 | Étude matrices adaptatives | 2/2/3/2 | 90 |
+| ERY-PRO-012 | 5 | Démontage purificateur | 2/3/0/1 | 60 |
+| ERY-PRO-013 | 5 | Étude chambre expérimentale | 1/2/1/1 | 50 |
+| ERY-PRO-014 | 5 | Démontage chambre | 2/3/1/2 | 80 |
+| ERY-PRO-015 | 5 | Récupération propulseur | 1/2/0/1 | 40 |
+| ERY-PRO-016 | 5 | Démontage et analyse hydraulique | 2/3/2/2 | 90 |
+[[Mes aventures RPG/Aeden/99 — Archives/États de reprise/Régularisation AED-REG-J5-001.md]]

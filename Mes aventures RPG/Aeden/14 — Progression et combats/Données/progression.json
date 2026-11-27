@@ -72,6 +72,18 @@
         "niveau": 34,
         "exp": 1800
       }
+    },
+    {
+      "id": "PNJ-AED-ERYAN",
+      "branche": "principale",
+      "classe": {
+        "niveau": 22,
+        "exp": 680
+      },
+      "profession": {
+        "niveau": 46,
+        "exp": 3440
+      }
     }
   ],
   "evenements": [
@@ -101,6 +113,62 @@
       "niveau": 28,
       "statut": "attribue",
       "source": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 5 — Bilan.md"
+    },
+    {
+      "id": "ERY-PRO-J2-REG",
+      "personnage_id": "PNJ-AED-ERYAN",
+      "branche": "principale",
+      "date_univers": "1842 TC — 16 Doréal",
+      "voie": "profession",
+      "gain": 230,
+      "exp_avant": 2370,
+      "exp_apres": 2600,
+      "niveau": 46,
+      "statut": "attribue_regularisation",
+      "source": "Mes aventures RPG/Aeden/99 — Archives/États de reprise/Régularisation AED-REG-J5-001.md",
+      "regularisation_id": "AED-REG-J5-001"
+    },
+    {
+      "id": "ERY-PRO-J3-REG",
+      "personnage_id": "PNJ-AED-ERYAN",
+      "branche": "principale",
+      "date_univers": "1842 TC — 17 Doréal",
+      "voie": "profession",
+      "gain": 250,
+      "exp_avant": 2600,
+      "exp_apres": 2850,
+      "niveau": 46,
+      "statut": "attribue_regularisation",
+      "source": "Mes aventures RPG/Aeden/99 — Archives/États de reprise/Régularisation AED-REG-J5-001.md",
+      "regularisation_id": "AED-REG-J5-001"
+    },
+    {
+      "id": "ERY-PRO-J4-REG",
+      "personnage_id": "PNJ-AED-ERYAN",
+      "branche": "principale",
+      "date_univers": "1842 TC — 18 Doréal",
+      "voie": "profession",
+      "gain": 270,
+      "exp_avant": 2850,
+      "exp_apres": 3120,
+      "niveau": 46,
+      "statut": "attribue_regularisation",
+      "source": "Mes aventures RPG/Aeden/99 — Archives/États de reprise/Régularisation AED-REG-J5-001.md",
+      "regularisation_id": "AED-REG-J5-001"
+    },
+    {
+      "id": "ERY-PRO-J5-REG",
+      "personnage_id": "PNJ-AED-ERYAN",
+      "branche": "principale",
+      "date_univers": "1842 TC — 19 Doréal",
+      "voie": "profession",
+      "gain": 320,
+      "exp_avant": 3120,
+      "exp_apres": 3440,
+      "niveau": 46,
+      "statut": "attribue_regularisation",
+      "source": "Mes aventures RPG/Aeden/99 — Archives/États de reprise/Régularisation AED-REG-J5-001.md",
+      "regularisation_id": "AED-REG-J5-001"
     }
   ]
 }

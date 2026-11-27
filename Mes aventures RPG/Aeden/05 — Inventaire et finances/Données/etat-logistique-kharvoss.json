@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "branche": "principale",
+  "date_univers": "1842 TC — 19 Doréal 22:00",
+  "regularisation_id": "AED-REG-J5-001",
+  "source": "Mes aventures RPG/Aeden/99 — Archives/États de reprise/Régularisation AED-REG-J5-001.md",
+  "repas": {
+    "initial": 42,
+    "consommations": {
+      "J2": 2,
+      "J3": 6,
+      "J4": 6,
+      "J5": 6
+    },
+    "restants": 22,
+    "note": "Déjeuner J4 fixé par arbitrage 2 portions, distinct des rations personnelles."
+  },
+  "module": {
+    "rarete": "A",
+    "capacite_m3": 100,
+    "recupere_m3": 64.835,
+    "au_camp_m3": 0.135,
+    "occupe_m3": 64.7,
+    "libre_m3": 35.3,
+    "purificateur_m3": 0.832,
+    "propulseur_m3": 0.064,
+    "statut": "arbitrage_administratif_non_mesure_instrumentale"
+  }
+}

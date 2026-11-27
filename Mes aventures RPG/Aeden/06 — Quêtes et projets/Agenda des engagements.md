@@ -45,3 +45,7 @@ KH-003 transmis18:32 Victor/Mira. Prolongation +7 jours jusqu'au29 Doréal23:59 
 J6 réveil05:30, lire messages, petit-déjeuner ; départ06:15, petites salles jusqu'à09:00, énergie N2-06 jusqu'à12:30, repas jusqu'à13:15, reliquats et connexions N3 jusqu'à17:00. Préserver énergie nécessaire et éclairage ; tentative N3 uniquement si marge avant coucher du soleil, sinon reporter. Aucun accès aux ruines après coucher du soleil. Vérifier permis, second module, traductions et capacité réelle. Deux bouteilles hydromel envisagées au ravitaillement, non commandées.
 KH-004 envoyé20:23, réponses à lire J6.
 [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 5 — Bilan.md]]
+
+## AED-REG-J5-001 — état régularisé, prime sur chiffres historiques incomplets
+Vivres22 portions (3 jours complets +2 repas individuels) ; module35,300m³ libres. Second module et ravitaillement à suivre. [[Mes aventures RPG/Aeden/99 — Archives/États de reprise/Régularisation AED-REG-J5-001.md]]
+[[Mes aventures RPG/Aeden/99 — Archives/États de reprise/Régularisation AED-REG-J5-001.md]]

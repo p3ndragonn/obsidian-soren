@@ -13,5 +13,19 @@
     "date_univers": "1842 TC — 20 Doréal",
     "heure": "05:30",
     "lieu": "Campement Kharvoss"
+  },
+  "regularisation": {
+    "id": "AED-REG-J5-001",
+    "source": "Mes aventures RPG/Aeden/99 — Archives/États de reprise/Régularisation AED-REG-J5-001.md",
+    "repas_collectifs": 22,
+    "module_occupe_m3": 64.7,
+    "module_libre_m3": 35.3,
+    "eryan": {
+      "classe_niveau": 22,
+      "classe_exp": 680,
+      "profession_niveau": 46,
+      "profession_exp": 3440
+    },
+    "note": "Logistique arbitrée, non mesurée ; EXP liquidée. Temps figé."
   }
 }

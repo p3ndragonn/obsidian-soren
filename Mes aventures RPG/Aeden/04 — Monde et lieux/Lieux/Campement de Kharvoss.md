@@ -23,3 +23,8 @@ Aedan/Eryan couchés21:56, ORION au lit Aedan. Module rempli avec lots entrepris
 ## Fin J5 — 19 Doréal
 Aedan et Eryan dîner partagé et sommeil vers22:00 ; réveil prévu05:30. Six portions collectives consommées J5, stock exact inconnu faute de J4 chiffré. Module A100m³, occupation exacte à vérifier.
 [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 5 — Bilan.md]]
+
+## AED-REG-J5-001 — état régularisé, prime sur chiffres historiques incomplets
+Stock collectif : 42 portions initiales, J2 -2, J3 -6, J4 -6, J5 -6 = 22 restantes. J4 petit-déjeuner et dîner partagés documentés ; déjeuner 2 portions fixé par arbitrage administratif, pas un relevé historique retrouvé. Aedan 4 et Eryan 3 rations personnelles intactes. Hydromel non commandé.
+Volume récupéré jusqu'à J4 31,499m³ + mobiles J5 3,840 + purificateur 0,832 + chambre 6,200 + propulseur 0,064 + hydraulique22,400 =64,835m³. Encombrements des deux machines fixés administrativement par enveloppes 1,3×0,8×0,8 et0,4×0,4×0,4m ; dimensions manquantes arbitrées. Volume agrégé retenu au camp0,135m³ (coffret, contenus, documents, quatre S rangés séparément ; sans compter deux S prêtés ni objets personnels). Les machines récupérées sont comptées au module, reste des lots hors camp également, volumes des emballages/fixations inclus dans lots. Occupation comptable canonique64,700/100m³, disponible35,300m³ ; pas un relevé instrumental joué. Aucun transfert nouveau, ni ajout d'objet ni vente ; vérifier si lecture directe future diffère.
+[[Mes aventures RPG/Aeden/99 — Archives/États de reprise/Régularisation AED-REG-J5-001.md]]

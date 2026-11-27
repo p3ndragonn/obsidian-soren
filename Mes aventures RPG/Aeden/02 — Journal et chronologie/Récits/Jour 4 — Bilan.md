@@ -33,3 +33,7 @@ Jour 5 — 19 Doréal 1842 TC, 05:30, campement Kharvoss. Réveil après environ
 
 ## Limites de continuité
 Bilan établi à partir des scènes accessibles et du dernier état GitHub J3. Les détails horaires manquants, les lots exacts du jour, les quantités de rations et les débits MP ne sont pas reconstruits arbitrairement. Les totaux EXP et inventaire sont des états rapportés, pas de nouveaux crédits. Les anciennes sauvegardes restent intactes.
+
+## AED-REG-J5-001 — état régularisé, prime sur chiffres historiques incomplets
+Stock J4 réconcilié : 6 portions retenues, 28 restantes. Déjeuner J4 fixé à2 par arbitrage explicite ; pas de nouvelle scène. [[Mes aventures RPG/Aeden/99 — Archives/États de reprise/Régularisation AED-REG-J5-001.md]]
+[[Mes aventures RPG/Aeden/99 — Archives/États de reprise/Régularisation AED-REG-J5-001.md]]
