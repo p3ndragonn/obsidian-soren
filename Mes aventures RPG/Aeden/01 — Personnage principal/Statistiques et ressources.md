@@ -72,3 +72,6 @@ Classe A32 2031/2642 ; profession S28 808/2098 (+550 rapportés dont +280 non ve
 ## Fin J5 — 19 Doréal
 Permanentes inchangées, zéro libre. HP2650 base sans blessure ; MP plein au réveil J5 et aucun débit J5 confirmé,3950 prévu J6 (95/min). EP exact inconnu, équipement de nuit non détaillé.
 [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 5 — Bilan.md]]
+
+## Fin J6
+Statistiques permanentes inchangées FOR250 VIT265 END300 AGI282 SAG395 PER331, zéro libre. Réveil05:15 HP2650 MP3950 EP3000 pleins sans équipement ; coucher sans blessure, HP2650, MP3950 déduit récupération passive95/min, EP exact non mesuré, base3000. Équipement retiré. [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 6 — Bilan.md]]

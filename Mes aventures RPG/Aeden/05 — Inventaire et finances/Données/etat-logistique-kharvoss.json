@@ -1,29 +1,40 @@
 {
   "schema_version": 1,
   "branche": "principale",
-  "date_univers": "1842 TC — 19 Doréal 22:00",
+  "date_univers": "1842 TC — 20 Doréal 21:55",
   "regularisation_id": "AED-REG-J5-001",
-  "source": "Mes aventures RPG/Aeden/99 — Archives/États de reprise/Régularisation AED-REG-J5-001.md",
+  "source": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 6 — Bilan.md",
   "repas": {
     "initial": 42,
     "consommations": {
       "J2": 2,
       "J3": 6,
       "J4": 6,
-      "J5": 6
+      "J5": 6,
+      "J6": 6
     },
-    "restants": 22,
+    "restants": 16,
     "note": "Déjeuner J4 fixé par arbitrage 2 portions, distinct des rations personnelles."
   },
   "module": {
     "rarete": "A",
     "capacite_m3": 100,
-    "recupere_m3": 64.835,
+    "recupere_m3": 100.135,
     "au_camp_m3": 0.135,
-    "occupe_m3": 64.7,
-    "libre_m3": 35.3,
+    "occupe_m3": 100,
+    "libre_m3": 0,
     "purificateur_m3": 0.832,
     "propulseur_m3": 0.064,
-    "statut": "arbitrage_administratif_non_mesure_instrumentale"
+    "statut": "plein_mesure_J6",
+    "recupere_j6_m3": 35.3
+  },
+  "logistique_j7": {
+    "heure_annoncee": "10:00",
+    "heure_demandee": "17:00",
+    "confirmation": false,
+    "second_module_reserve": true,
+    "recu": false,
+    "caisses_demandees": 4,
+    "hydromel_bouteilles_demandees": 2
   }
 }

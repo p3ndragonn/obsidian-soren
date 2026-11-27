@@ -2,15 +2,15 @@
   "schema_version": 1,
   "campagne": "Aeden",
   "branche": "principale",
-  "sauvegarde_id": "AED-J5-006",
-  "ordre": 6,
-  "date_univers": "1842 TC — 19 Doréal",
-  "heure": "22:00",
+  "sauvegarde_id": "AED-J6-007",
+  "ordre": 7,
+  "date_univers": "1842 TC — 20 Doréal",
+  "heure": "21:55",
   "lieu": "Chambre Aedan, campement Kharvoss",
-  "source_scene": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 5 — Bilan.md",
+  "source_scene": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 6 — Bilan.md",
   "point_majeur": null,
   "reprise_prevue": {
-    "date_univers": "1842 TC — 20 Doréal",
+    "date_univers": "1842 TC — 21 Doréal",
     "heure": "05:30",
     "lieu": "Campement Kharvoss"
   },
@@ -27,5 +27,19 @@
       "profession_exp": 3440
     },
     "note": "Logistique arbitrée, non mesurée ; EXP liquidée. Temps figé."
+  },
+  "etat_j6": {
+    "repas_collectifs": 16,
+    "module_occupe_m3": 100,
+    "module_libre_m3": 0,
+    "eryan": {
+      "classe_niveau": 22,
+      "classe_exp": 680,
+      "profession_niveau": 46,
+      "profession_exp": 3890
+    },
+    "n3": "fermé",
+    "rapport": "KH-005",
+    "permis": "non confirmé"
   }
 }

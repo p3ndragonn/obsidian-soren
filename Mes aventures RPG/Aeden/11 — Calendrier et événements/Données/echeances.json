@@ -185,10 +185,12 @@
       "heure": "à confirmer",
       "engagement": "Traductions des quatre documents S par Mira / Académie",
       "titre": "Traductions des quatre documents S par Mira / Académie",
-      "statut": "conditionnel",
+      "statut": "realise",
       "branche": "principale",
       "ordre_creation": 4,
-      "source": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 3 — Bilan.md"
+      "source": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 3 — Bilan.md",
+      "ordre_realisation": 7,
+      "source_realisation": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 6 — Bilan.md"
     },
     {
       "id": "AED-AG-015",
@@ -251,10 +253,12 @@
       "heure": "05:30",
       "engagement": "Réveil et lecture messages",
       "titre": "Réveil et lecture messages",
-      "statut": "prevu",
+      "statut": "realise",
       "branche": "principale",
       "ordre_creation": 6,
-      "source": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 5 — Bilan.md"
+      "source": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 5 — Bilan.md",
+      "ordre_realisation": 7,
+      "source_realisation": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 6 — Bilan.md"
     },
     {
       "id": "AED-AG-020",
@@ -263,10 +267,12 @@
       "heure": "06:15",
       "engagement": "Démontages N2",
       "titre": "Démontages N2",
-      "statut": "prevu",
+      "statut": "realise",
       "branche": "principale",
       "ordre_creation": 6,
-      "source": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 5 — Bilan.md"
+      "source": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 5 — Bilan.md",
+      "ordre_realisation": 7,
+      "source_realisation": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 6 — Bilan.md"
     },
     {
       "id": "AED-AG-021",
@@ -275,7 +281,7 @@
       "heure": "17:00",
       "engagement": "N3 si marge avant coucher soleil",
       "titre": "N3 si marge avant coucher soleil",
-      "statut": "conditionnel",
+      "statut": "reporte",
       "branche": "principale",
       "ordre_creation": 6,
       "source": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 5 — Bilan.md"
@@ -299,10 +305,94 @@
       "heure": "à confirmer",
       "engagement": "Hydromel envisagé au ravitaillement, non commandé",
       "titre": "Hydromel envisagé au ravitaillement, non commandé",
-      "statut": "conditionnel",
+      "statut": "demande_non_confirme",
       "branche": "principale",
       "ordre_creation": 6,
       "source": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 5 — Bilan.md"
+    },
+    {
+      "id": "AED-AG-024",
+      "date": "21 Doréal 1842 TC",
+      "date_univers": "21 Doréal 1842 TC",
+      "heure": "05:30",
+      "engagement": "Réveil et lecture messages",
+      "titre": "Réveil et lecture messages",
+      "statut": "prevu",
+      "branche": "principale",
+      "ordre_creation": 7,
+      "source": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 6 — Bilan.md"
+    },
+    {
+      "id": "AED-AG-025",
+      "date": "21 Doréal 1842 TC",
+      "date_univers": "21 Doréal 1842 TC",
+      "heure": "06:15",
+      "engagement": "Départ, vérifier archives et ouverture N3 ensemble",
+      "titre": "Départ, vérifier archives et ouverture N3 ensemble",
+      "statut": "prevu",
+      "branche": "principale",
+      "ordre_creation": 7,
+      "source": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 6 — Bilan.md"
+    },
+    {
+      "id": "AED-AG-026",
+      "date": "21 Doréal 1842 TC",
+      "date_univers": "21 Doréal 1842 TC",
+      "heure": "17:00",
+      "engagement": "Logistique demandée (annonce initiale10:00), module et quatre caisses",
+      "titre": "Logistique demandée (annonce initiale10:00), module et quatre caisses",
+      "statut": "conditionnel",
+      "branche": "principale",
+      "ordre_creation": 7,
+      "source": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 6 — Bilan.md"
+    },
+    {
+      "id": "AED-AG-027",
+      "date": "24 Doréal 1842 TC",
+      "date_univers": "24 Doréal 1842 TC",
+      "heure": "à confirmer",
+      "engagement": "Retour annoncé Maël aux Portes d'Orion",
+      "titre": "Retour annoncé Maël aux Portes d'Orion",
+      "statut": "prevu",
+      "branche": "principale",
+      "ordre_creation": 7,
+      "source": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 6 — Bilan.md"
+    },
+    {
+      "id": "AED-AG-028",
+      "date": "3 Bruméal 1842 TC",
+      "date_univers": "3 Bruméal 1842 TC",
+      "heure": "12:00",
+      "engagement": "Déjeuner et salon privé association, réservation Maël à faire",
+      "titre": "Déjeuner et salon privé association, réservation Maël à faire",
+      "statut": "prevu",
+      "branche": "principale",
+      "ordre_creation": 7,
+      "source": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 6 — Bilan.md"
+    },
+    {
+      "id": "AED-AG-029",
+      "date": "28 Doréal 1842 TC",
+      "date_univers": "28 Doréal 1842 TC",
+      "heure": "21:29",
+      "engagement": "Échéance protocole confidentiel si absence de nouvelles",
+      "titre": "Échéance protocole confidentiel si absence de nouvelles",
+      "statut": "conditionnel",
+      "branche": "principale",
+      "ordre_creation": 7,
+      "source": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 6 — Bilan.md"
+    },
+    {
+      "id": "AED-AG-030",
+      "date": "20 Doréal 1842 TC",
+      "date_univers": "20 Doréal 1842 TC",
+      "heure": "17:43",
+      "engagement": "KH-005 transmis",
+      "titre": "KH-005 transmis",
+      "statut": "realise",
+      "branche": "principale",
+      "ordre_creation": 7,
+      "source": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 6 — Bilan.md"
     }
   ]
 }

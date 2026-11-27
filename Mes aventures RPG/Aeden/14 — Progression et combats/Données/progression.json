@@ -10,7 +10,7 @@
       },
       "profession": {
         "niveau": 28,
-        "exp": 1148
+        "exp": 1568
       }
     },
     {
@@ -82,7 +82,7 @@
       },
       "profession": {
         "niveau": 46,
-        "exp": 3440
+        "exp": 3890
       }
     }
   ],
@@ -169,6 +169,32 @@
       "statut": "attribue_regularisation",
       "source": "Mes aventures RPG/Aeden/99 — Archives/États de reprise/Régularisation AED-REG-J5-001.md",
       "regularisation_id": "AED-REG-J5-001"
+    },
+    {
+      "id": "AED-PRO-J6-BILAN",
+      "personnage_id": "PJ-AED-001",
+      "branche": "principale",
+      "date_univers": "1842 TC — 20 Doréal",
+      "voie": "profession",
+      "gain": 420,
+      "exp_avant": 1148,
+      "exp_apres": 1568,
+      "niveau": 28,
+      "statut": "attribue",
+      "source": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 6 — Bilan.md"
+    },
+    {
+      "id": "ERY-PRO-J6-BILAN",
+      "personnage_id": "PNJ-AED-ERYAN",
+      "branche": "principale",
+      "date_univers": "1842 TC — 20 Doréal",
+      "voie": "profession",
+      "gain": 450,
+      "exp_avant": 3440,
+      "exp_apres": 3890,
+      "niveau": 46,
+      "statut": "attribue",
+      "source": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 6 — Bilan.md"
     }
   ]
 }

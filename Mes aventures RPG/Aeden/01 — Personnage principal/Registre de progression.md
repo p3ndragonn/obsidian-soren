@@ -98,3 +98,6 @@ Eryan rang B, classe C22 680/1402 inchangée (aucun combat/entraînement défens
 | ERY-PRO-015 | 5 | Récupération propulseur | 1/2/0/1 | 40 |
 | ERY-PRO-016 | 5 | Démontage et analyse hydraulique | 2/3/2/2 | 90 |
 [[Mes aventures RPG/Aeden/99 — Archives/États de reprise/Régularisation AED-REG-J5-001.md]]
+
+## J6
+Profession Aedan +160 (N2-02/03/04), +80 (cartographie énergie), +110 (G2/G3), +70 (A3/A4/P3/P4) =420, 1148→1568/2098 niveau28. Eryan +180/+90/+100/+80=450, 3440→3890/5050 niveau46. Classe inchangée, aucun point. Première série agrégée, D/Q/N/A non ventilés. [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 6 — Bilan.md]]

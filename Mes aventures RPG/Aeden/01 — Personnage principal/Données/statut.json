@@ -11,7 +11,7 @@
   "profession": {
     "rarete": "S",
     "niveau": 28,
-    "exp": 1148
+    "exp": 1568
   },
   "permanentes": {
     "FOR": 250,
@@ -36,7 +36,7 @@
       "maximum": 2650
     },
     "MP": {
-      "actuelle": null,
+      "actuelle": 3950,
       "base": 3950,
       "maximum": 3950,
       "debit_confirme_j2": 390,
@@ -45,7 +45,8 @@
       "regeneration_source": "AED-FON-007",
       "reveil_j4_prevu": 3950,
       "reveil_j5_prevu": 3950,
-      "reveil_j6_prevu": 3950
+      "reveil_j6_prevu": 3950,
+      "reveil_j7_prevu": 3950
     },
     "EP": {
       "actuelle": null,
@@ -60,9 +61,9 @@
   ],
   "points_libres": 0,
   "affiliations_ref": "affiliations.json",
-  "etat_date": "1842 TC — 19 Doréal 22:00",
+  "etat_date": "1842 TC — 20 Doréal 21:55",
   "exp_j2_statut": "combat_et_profession_attribues",
-  "ressources_note": "Aucun débit MP J5 ni blessure confirmé ; équipement de nuit non détaillé, EP inconnu. MP plein prévu J6.",
+  "ressources_note": "Réveil J6 HP/MP/EP pleins confirmé ; coucher HP sans blessure et MP plein déduit récupération passive, EP non mesuré. Aucun débit Aedan quantifié J6.",
   "exp_combat_j2": {
     "gain": 53,
     "avant": 1450,
@@ -138,6 +139,18 @@
       "demontage_chambre": 100,
       "propulseur": 40,
       "hydraulique": 80
+    },
+    "classe_gain": 0
+  },
+  "exp_profession_j6": {
+    "gain": 420,
+    "avant": 1148,
+    "apres": 1568,
+    "details": {
+      "petites_salles": 160,
+      "inspection_energie": 80,
+      "generateurs": 110,
+      "accumulateurs_pupitres": 70
     },
     "classe_gain": 0
   }

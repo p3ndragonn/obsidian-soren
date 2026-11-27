@@ -35,3 +35,6 @@ J2 classe +53 ; J3 classe +528. Profession J1–J3 +1330, passage S28 et +6 poin
 
 ## J5
 Classe A32 2031/2642 ; profession S28 1148/2098 (+340), zéro libre. [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 5 — Bilan.md]]
+
+## Fin J6
+Classe A32 2031/2642 ; profession S28 1568/2098 (+420 J6). Aucun niveau ni point libre. [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 6 — Bilan.md]]

@@ -37,3 +37,6 @@ Bilan : [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 3 �
 ## Fin J5 — 19 Doréal
 19 Doréal : 05:30 réveil ; 06:15–10:35 mobiles N2 ;11:38 purificateur ;15:43 chambre ;16:19 propulseur ;19:12 hydraulique ;20:23 KH-004 transmis ; soirée cartes et confidences ;22:00 sommeil.
 [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 5 — Bilan.md]]
+
+## 20 Doréal — J6
+Démontage N2, module plein, KH-005 transmis, traductions lues, appel Maël, coucher21:55. [[ Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 6 — Bilan.md ]]

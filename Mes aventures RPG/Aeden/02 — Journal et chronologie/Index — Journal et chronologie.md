@@ -29,3 +29,5 @@ Retour : [[Mes aventures RPG/Aeden/00 — Accueil et reprise/Tableau de bord —
 - [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 4 — Bilan.md]]
 - [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 5 — Bilan.md]]
 - [[Mes aventures RPG/Aeden/99 — Archives/États de reprise/AED-J5-006.md|Dernière sauvegarde de continuité]]
+
+- [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 6 — Bilan.md]] — AED-J6-007, ordre7.
