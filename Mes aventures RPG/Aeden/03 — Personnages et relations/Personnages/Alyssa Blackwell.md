@@ -63,3 +63,7 @@ Révision initiale explicite : âge et rang modifiés avant toute scène ; long�
 ## J7 — 21 Doréal 1842 TC
 Récupère deux plaques originales J6, relevés3D J7, compléments traduction21:04 (matrice progressive, signature référence, mémoire indépendante énergie, extensions/interfaces, remplacement périphérique, préserver matrice, retour atelier pour modifications majeures).21:22 emblème commun plaqueII/châssis ORION, périphérie distincte, fabricant inconnu, restitue originaux sans frais, conserve relevés et recherche. Observe injection1000MP et conversion/initiation sensorielle, aucun démontage. Expertise indépendante future entreprise de principe, souhaite liberté clientèle, aucun tarif ni contrat. Propose expertise patrimoniale avant prêt.
 [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 7 — Bilan.md]]
+
+
+## J8 — Recherche confiée (22 Doréal, 08:10–08:18)
+Aedan autorise Alyssa à étudier anonymement les précédents de reconnaissance des constructs comme familiers et les mécanismes historiques d'éveil des Automates conscients, sans divulguer ORION ni l'identité d'Aedan. Elle a vu la notification et comparé les Identifications ; aucun résultat d'archives encore acquis. Aucun délai, rémunération ou commande externe convenu. Les découvertes seront rapportées en jeu.

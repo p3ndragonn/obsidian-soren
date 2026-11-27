@@ -47,3 +47,7 @@ Décision explicite du Fondateur, 25 novembre 2026, fin J3 21:56, temps figé : 
 ## J7 — 21 Doréal 1842 TC
 Décision J7 : clause33 officielle, tout aventurier grade Or ou supérieur sur tout nouveau site exploré peut demander soit son contenu, soit l'intégralité de sa propriété s'il est qualifié pour la récupération OU l'exploitation OU la sécurisation OU d'autres procédures garantissant la sécurité du site et du royaume. Aucun prix ou condition cumulative ajouté. Appliquée à Kharvoss. Clause07 confirmée : privilège confidentiel d'exploration et suspension des permis publics au titre du service à la Guilde/Couronne ; appliquée à Seravhen, distincte d'une propriété. Détails réservés au registre Fondateur.
 [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 7 — Bilan.md]]
+
+
+## J8 — AED-FON-AUT-001
+Le Fondateur délègue explicitement la création d'une histoire locale et de trois méthodes d'éveil des Automates conscients, destinées aux découvertes ultérieures d'Alyssa. Complément canonique réservé, sans modification du Codex ni évolution automatique d'ORION. [[Mes aventures RPG/Aeden/07 — Règles et secrets/Registre réservé au Fondateur/Automates conscients — Origines et voies d’éveil.md|Dossier confidentiel — Origines et voies d'éveil]].
