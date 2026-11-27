@@ -75,3 +75,8 @@ Permanentes inchangées, zéro libre. HP2650 base sans blessure ; MP plein au r�
 
 ## Fin J6
 Statistiques permanentes inchangées FOR250 VIT265 END300 AGI282 SAG395 PER331, zéro libre. Réveil05:15 HP2650 MP3950 EP3000 pleins sans équipement ; coucher sans blessure, HP2650, MP3950 déduit récupération passive95/min, EP exact non mesuré, base3000. Équipement retiré. [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 6 — Bilan.md]]
+
+
+## J7 — 21 Doréal 1842 TC
+Fin J7 nuit22 Doréal00:14 : FOR250 VIT265 END300 AGI282 SAG395 PER331,0 libre. Classe A32 2031/2642, profession S28 1568/2098 avant arbitrage activités J7. HP2650 sans blessure, MP3950 (95/min après injection1000, lecteur non quantifié), EP non mesuré/3000. Nu au coucher, équipement combat appartement. Aucun gain classe ni niveau.
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 7 — Bilan.md]]

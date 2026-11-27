@@ -196,5 +196,21 @@
       "statut": "attribue",
       "source": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 6 — Bilan.md"
     }
-  ]
+  ],
+  "etat_j7": {
+    "date": "21 Doréal 1842 TC",
+    "aedan": {
+      "classe_gain": 0,
+      "classe_exp": 2031,
+      "profession_exp": 1568,
+      "profession_gain_statut": "à arbitrer"
+    },
+    "eryan": {
+      "classe_gain": 0,
+      "classe_exp": 680,
+      "profession_gain": 90,
+      "profession_exp": 3980,
+      "source": "réactivation énergie N3"
+    }
+  }
 }

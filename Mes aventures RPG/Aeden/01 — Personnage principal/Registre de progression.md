@@ -101,3 +101,8 @@ Eryan rang B, classe C22 680/1402 inchangée (aucun combat/entraînement défens
 
 ## J6
 Profession Aedan +160 (N2-02/03/04), +80 (cartographie énergie), +110 (G2/G3), +70 (A3/A4/P3/P4) =420, 1148→1568/2098 niveau28. Eryan +180/+90/+100/+80=450, 3440→3890/5050 niveau46. Classe inchangée, aucun point. Première série agrégée, D/Q/N/A non ventilés. [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 6 — Bilan.md]]
+
+
+## J7 — 21 Doréal 1842 TC
+J7 aucun combat ni gain classe ; profession Aedan activités recherche/archives/ORION à arbitrer selon référentiel, aucun EXP encore crédité. Eryan +90 métier rétablissement énergie N3, B46 3890→3980/5050, classe C22 680/1402 inchangée. Ne pas recréditer.
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 7 — Bilan.md]]

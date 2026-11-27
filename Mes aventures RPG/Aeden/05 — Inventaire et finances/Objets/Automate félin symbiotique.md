@@ -23,3 +23,8 @@ Historique J1 : pont temporaire retiré, recharge interrompue, pas de liaison à
 
 ## J3
 Intact ; transfert infernal250 MP total, signature conservée temporairement, recharge ambiante continue, aucune nouvelle fonction ni rareté. Voir fiche maîtresse ORION.
+
+
+## J7 — 21 Doréal 1842 TC
+Plaques originales restituées21:22 sans frais, emblème commun, fabricant inconnu. Injection1000 MP infernaux, total1250 historique, réserve inconnue ; conversion partielle autonome ambiant→infernal et initiation transmission sensorielle confirmées, aucune autre capacité démontrée, rareté A. Voir fiche maîtresse ORION.
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 7 — Bilan.md]]

@@ -70,3 +70,8 @@ Bon état apparent, comportement ludique avec cartes et queue Aedan, repos sur g
 ## J6
 Reconnaissance N2-06 (trois passages étroits documentés avec cartographie Aedan), aucun nouveau pouvoir démontré. Présenté à Maël par terminal, Maël souhaite examiner avec permission. ORION intact, au pied du lit21:55, prévu ouverture N3 demain. Aucun coût ni EXP ajouté.
 [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 6 — Bilan.md]]
+
+
+## J7 — 21 Doréal 1842 TC
+J7 reconnaissance N3 sans menace, retour ville, intact. 21:22 emblème commun plaque II/châssis flanc gauche, fabricant non identifié. 21:22–30 injection1000 MP infernaux, cumul historique1250 (pas réserve), aucune saturation, fuite ou dommage détectés, anneau violet yeux, runes bleu/violet, redistribution active. 21:41 inspection convertisseur, mélange non exclu ;21:49 hochement oui appris, affirmatif convertisseur et module synchro, absence confirmation noyau/matrice. 22:01 conversion autonome partielle de mana ambiant vers infernal démontrée expérimentalement sans injection ; débit/rendement/capacité inconnus. Initiation volontaire transmission sensorielle vers utilisateur démontrée, acceptée Aedan22:04, vision/audition stable courte distance, aucun coût personnel détecté ; aucune synchronisation externe prouvée. Rareté A inchangée, aucun rang/EXP/bonus. Quatre artefacts jamais connectés ni activés, rendus Victor. Aedan refuse en privé accès Maël (non informé). Socialise Alyssa sur genoux avec autorisation, dort contre Aedan00:14. Forme déployée, illustrations antérieures restent références morphologiques, variations lumineuses documentées.
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 7 — Bilan.md]]

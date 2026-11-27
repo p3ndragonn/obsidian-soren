@@ -58,3 +58,8 @@ Révision initiale explicite : âge et rang modifiés avant toute scène ; long�
 
 ## Portrait officiel
 ![[Mes aventures RPG/Aeden/08 — Illustrations/Personnages/Victor Blackwell — Portrait officiel.webp]]
+
+
+## J7 — 21 Doréal 1842 TC
+KH-AV-001 signe personnel/entreprise15:24 renonciation Kharvoss, Aedan signature non jouée. Reçoit module plein15:18, quatre S22:18, stockage atelier familial23:31. Propose inspection sécurité extérieur/N1/N2 23 Doréal avec3 spécialistes et Dorgan, à confirmer demain. Mira accepte15j Eryan, devis9600 P après20% remise, payé22:23, convention tripartite demain, salaire/droits maintenus. Offre conseil aménagement, prêt, pas financement ni devis signé.
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 7 — Bilan.md]]

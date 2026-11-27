@@ -36,5 +36,19 @@
     "recu": false,
     "caisses_demandees": 4,
     "hydromel_bouteilles_demandees": 2
+  },
+  "etat_j7": {
+    "date": "21 Doréal 1842 TC",
+    "repas_collectifs": 12,
+    "module_occupe_m3": 100,
+    "module_libre_m3": 0,
+    "module_localisation": "entreprise Victor",
+    "camp": "verrouillé, outils et 2 cristaux de terre",
+    "second_module": "annulé",
+    "ravitaillement": "annulé",
+    "quatre_s": "restitués Victor",
+    "n3": "refermé, conservation active",
+    "propriete": "Aedan",
+    "note": "0,135m³ hors module localisation partielle à vérifier"
   }
 }

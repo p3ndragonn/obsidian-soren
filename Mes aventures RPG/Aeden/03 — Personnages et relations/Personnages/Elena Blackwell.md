@@ -58,3 +58,8 @@ Révision initiale explicite : âge et rang modifiés avant toute scène ; long�
 
 ## Portrait officiel
 ![[Mes aventures RPG/Aeden/08 — Illustrations/Personnages/Elena Blackwell — Portrait officiel.webp]]
+
+
+## J7 — 21 Doréal 1842 TC
+J7 reçoit Eryan pour dîner19:30, accueille chaleureusement, propose fournisseurs meubles et introduction conseiller bancaire connu de longue date, conseille propriété personnelle Kharvoss et usage contractuel par société. Chambre amis pour Eryan, soirée anecdotes, invite à revenir. Aucun achat/financement.
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 7 — Bilan.md]]

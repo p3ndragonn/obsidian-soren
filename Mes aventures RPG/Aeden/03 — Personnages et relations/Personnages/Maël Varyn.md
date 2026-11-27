@@ -43,3 +43,8 @@ Identité et relation validées ; statut, compétences et équipement ordinaire 
 ## Premier contact joué J6
 Appel21:02–21:29, rencontre à distance Eryan. Intéressé association, souhaite discuter financement, propriété intellectuelle, responsabilité et partage ; difficultés miniaturisation commande automates, souhaite examiner ORION avec permission. Retour annoncé24 Doréal Portes d'Orion ; organise déjeuner3 Bruméal12:00 et salon privé après-midi, réservation à faire. Amitié Aedan : admiration initiale puis affinité, nombreux donjons, quatre situations où au moins un risquait de ne pas revenir, Aedan dit avoir principalement protégé Maël ; anecdote vague >100 monstres/4 automates, issue inconnue. Maël rappelle repas/hygiène/loisirs à Aedan, réciproquement travail. Protocole de confiance confirmé, détails réservés, aucun accès transmis. Aucun changement stats/fortune connu.
 [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 6 — Bilan.md]]
+
+
+## J7 — 21 Doréal 1842 TC
+J7 05:08 réservation demandée3 Bruméal midi–18h, non confirmée. 17:17 message Aedan,17:24 réponse, appel17:34 confirme retour Aedan, protocole non-retour levé, aucun accès transmis. Photos N3 et titre envoyés ; enthousiasme, retour24 maintenu, souhaite visite avant3 Bruméal, propose automates sécurité/maintenance. Aucun engagement d'association. Ne sait pas qu'Aedan refuse son accès ORION.
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 7 — Bilan.md]]

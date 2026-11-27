@@ -58,3 +58,8 @@ Révision initiale explicite : âge et rang modifiés avant toute scène ; long�
 
 ## Portrait officiel
 ![[Mes aventures RPG/Aeden/08 — Illustrations/Personnages/Alyssa Blackwell — Portrait officiel.webp]]
+
+
+## J7 — 21 Doréal 1842 TC
+Récupère deux plaques originales J6, relevés3D J7, compléments traduction21:04 (matrice progressive, signature référence, mémoire indépendante énergie, extensions/interfaces, remplacement périphérique, préserver matrice, retour atelier pour modifications majeures).21:22 emblème commun plaqueII/châssis ORION, périphérie distincte, fabricant inconnu, restitue originaux sans frais, conserve relevés et recherche. Observe injection1000MP et conversion/initiation sensorielle, aucun démontage. Expertise indépendante future entreprise de principe, souhaite liberté clientèle, aucun tarif ni contrat. Propose expertise patrimoniale avant prêt.
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 7 — Bilan.md]]

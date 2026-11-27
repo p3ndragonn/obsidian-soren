@@ -33,3 +33,8 @@ Soirée : Aedan gagne première partie du Menteur ; Eryan arrête de regarder sa
 ## J6
 Confiance technique et personnelle renforcée, humour sur tenue et hygiène, discussion solitude au retour (3–4 jours avant parents), autonomie de recherche, attirance déjà exprimée mais aucun couple ni engagement sentimental. Aedan souhaite protéger Eryan, accepte ouverture ensemble après discussion, repli archives au bruit suspect. Eryan souhaite compter en tant que partenaire autonome. Premier contact Maël, bonne entente initiale ; rendez-vous trois le3 Bruméal. Confidences sensibles à part, discrétion promise. Eryan évoque Lïanna et son soutien après rupture. Aucun contrat ni don.
 [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 6 — Bilan.md]]
+
+
+## J7 — 21 Doréal 1842 TC
+J7 collaboration N3, Eryan soutient acquisition personnelle, confidence clause07 gardée, intérêt association autonome et indépendance. Visite domicile et famille, dîner, anecdotes. Eryan exprime que la compagnie d'Aedan lui manquera indépendamment du travail ; Aedan dit séjour agréable et hâte de retourner avec Eryan/Maël. Plaisanteries pudeur, expert pas salarié direct. Aucun couple, baiser ni déclaration sentimentale. Eryan dort chambre d'amis.15j mis à disposition payés par Aedan, convention en attente, ne crée pas de dépendance personnelle.
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 7 — Bilan.md]]
