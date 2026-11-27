@@ -56,3 +56,8 @@ Volume récupéré jusqu'à J4 31,499m³ + mobiles J5 3,840 + purificateur 0,832
 ## J6 — 20 Doréal
 N2-02 armoire enchantée1 (0,960m³), établi runique1 (1,440) ; N2-03 tables enchantées2 (3,200), pupitres3 (1,800), tableau gravé1 (0,080) ; N2-04 console lecture1 (0,720), racks enchantés2 (2,400). Total11 objets10,600m³. N2-06 G2 10,100m³ 2,4t, G3 8,400m³ 2,1t, A3/A4 chacun2,4m³ 620/615kg, P3 0,750m³95kg, P4 0,650m³82kg. Total17 objets35,300m³ J6, module plein100/100 mesuré16:53. Cumul minimal2435 objets hors documents +306 documents100,135m³ (0,135 au camp, convention J5). Aucune valeur supplémentaire estimée ; valeur partielle1074320–1088640 P non encaissée. Propriété entreprise sous réserves contractuelles/patrimoniales. G1/A1/A2/P1/P2/distributeur/lignes actives conservés ; A5/A6, deux armoires enchantées, palan, lignes inactives restent. Nouveau module exclusivement N3, reliquats N2 reportés.
 [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 6 — Bilan.md]]
+
+
+## J7 — 21 Doréal 1842 TC
+Aucune récupération J7 ; cumul minimal2435 objets306 docs100,135m³ dont100m³ dans module remis entreprise15:18 et0,135m³ localisation partielle à vérifier. Valeur partielle1074320–1088640 P non encaissée. Quatre S remis22:18, deux anciens prêts et deux récupérations entreprise. N3 aucun prélèvement. Propriété site restant Aedan.
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 7 — Bilan.md]]

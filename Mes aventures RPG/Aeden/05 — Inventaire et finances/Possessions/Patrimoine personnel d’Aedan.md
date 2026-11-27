@@ -31,3 +31,8 @@ sources:
 Origine validée : 200000 P épargne nette d'activités et missions + 150000 P soutien familial antérieur ; bracelet cadeau de diplôme, moto et immeuble aidés par la famille ; reste activités, fabrications et aides en nature. Pas de prix d'achat ni transactions historiques reconstituées. Patrimoine parental estimé 9180000 P après aides. Suite familiale droit d'usage uniquement, prototype académique propriété non définie exclu. Charges prévisionnelles 4000 P/mois, pas de revenu garanti, pas de société distincte. Solde et mouvements : [[Mes aventures RPG/Aeden/05 — Inventaire et finances/Comptabilité personnelle|Comptabilité personnelle]]. Objets : [[Mes aventures RPG/Aeden/05 — Inventaire et finances/Inventaire actuel|Inventaire actuel]]. Lieu : [[Mes aventures RPG/Aeden/04 — Monde et lieux/Lieux/Atelier et appartement d’Aedan Blackwell|Atelier et appartement d’Aedan Blackwell]].
 
 Fin J1 : liquidités 342 932 P ; automate acquis 32 000 P (coût d'acquisition, valeur de marché non définitivement expertisée). Patrimoine net au coût, autres postes inchangés : 2 159 932 P ; hors chocolat offert et valeurs non établies. Dette 0 P. Pas de frais d'expédition payés.
+
+
+## J7 — 21 Doréal 1842 TC
+Kharvoss propriété personnelle intégrale acquise gratuitement16:46, acte C33-KH-1842-001 ; valeur non expertisée et non incluse dans total. Seravhen exclusivité seulement, pas bien immobilier. Plaques ORION incluses prix acquisition initial, restituées sans frais. Fortune333247 P, ne pas traiter avance9600 comme achat patrimonial ; expertise et prêt envisagés non établis.
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 7 — Bilan.md]]

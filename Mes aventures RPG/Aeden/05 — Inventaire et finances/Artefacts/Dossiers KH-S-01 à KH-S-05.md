@@ -11,3 +11,8 @@ Constitués18:14–18:51, copies numériques Aedan et entreprise ; quatre artefa
 - KH-S-04 : KH-N2-001 matrice fréquentielle S disque12×3cm douze cercles cristal violet, identification partielle, valeur inconnue.
 - KH-S-05 : architecture commune et banc N3-04 documentés, compatibilité non prouvée.
 Protocole : cartographie passive3D, matériaux, fréquences, réserves, traduction, ensuite essais faibles individuels seulement si sûrs. Interconnexion, haute puissance, intégration et synchronisation reportées au retour. Pas de recherches privées ORION. KH-TR-001 lu ensuite20:07.
+
+
+## J7 — 21 Doréal 1842 TC
+Quatre S transportés camp→ville dans protections séparées ; examinés visuellement par ORION21:35–49, aucun connecté/activé. Remis Victor22:18 pour entreprise, stockés atelier privé23:31 avant transfert laboratoire. Analyses Mira prévues, pas résultats. Aucune étude privée ORION transmise à Mira.
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 7 — Bilan.md]]

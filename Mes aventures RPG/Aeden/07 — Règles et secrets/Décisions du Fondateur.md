@@ -42,3 +42,8 @@ Demande explicite du joueur, 25 novembre 2026, J3 07:08 : régulariser les monst
 
 ## AED-FON-007 — Régénération passive personnelle d’Aedan
 Décision explicite du Fondateur, 25 novembre 2026, fin J3 21:56, temps figé : « toutes les minutes Aedan recouvre passivement 95mp ». Portée exclusive Aedan, effet immédiat, toutes activités et sommeil, plafond MP effectif, aucun surplus ni restauration des autres ressources. Pas de rétroactivité chiffrée sur scènes antérieures ; au réveil J4 06:30 réserve pleine (3950 MP sans équipement, 42 min au maximum). Aucun coût, compétence ou changement racial ajouté. Le Fondateur autorise également calcul gains EXP profession en attente ; arbitrage documenté dans [[Mes aventures RPG/Aeden/01 — Personnage principal/Registre de progression.md]], non nouveau barème universel.
+
+
+## J7 — 21 Doréal 1842 TC
+Décision J7 : clause33 officielle, tout aventurier grade Or ou supérieur sur tout nouveau site exploré peut demander soit son contenu, soit l'intégralité de sa propriété s'il est qualifié pour la récupération OU l'exploitation OU la sécurisation OU d'autres procédures garantissant la sécurité du site et du royaume. Aucun prix ou condition cumulative ajouté. Appliquée à Kharvoss. Clause07 confirmée : privilège confidentiel d'exploration et suspension des permis publics au titre du service à la Guilde/Couronne ; appliquée à Seravhen, distincte d'une propriété. Détails réservés au registre Fondateur.
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 7 — Bilan.md]]

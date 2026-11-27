@@ -40,3 +40,8 @@ Volume récupéré jusqu'à J4 31,499m³ + mobiles J5 3,840 + purificateur 0,832
 ## Fin J6
 KH-005 envoyé17:43, 17 objets35,300m³ J6, module plein. N3 fermé. KH-TR-001 lu ; quatre artefacts S à transférer pour analyses passives et tests faibles individuels si sûrs, pas interconnexion. J7 ouverture ensemble, ORION, refuge archives après vérification ; exploration diurne jusqu'à17h sous réserve rendez-vous logistique. Pas de démontage N2 demain, second module exclusivement N3. Aucun nouveau permis confirmé.
 [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 6 — Bilan.md]]
+
+
+## J7 — 21 Doréal 1842 TC
+Site désormais propriété personnelle intégrale Aedan, exploitation directe puis siège entreprise envisagée, aucun transfert à future société. N3 sécurisé en journée, accès IV, conservation active, pas d'expérience. Camp extérieur verrouillé. 23 Doréal devis N1/N2/exérieur et architecte Dorgan à confirmer ; élimination/recherche sources spectrales souhaitée le soir, non commandée. Voir bilan J7 pour salles, archives, équipements, actes.
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 7 — Bilan.md]]

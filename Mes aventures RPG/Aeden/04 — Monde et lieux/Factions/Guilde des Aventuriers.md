@@ -30,3 +30,8 @@ Charte continentale, sièges nationaux et antennes locales ; autonomie interne e
 
 [[Mes aventures RPG/Aeden/04 — Monde et lieux/Grades des organisations continentales|Grades des organisations continentales]]. Grade 9 attribué exclusivement par le maître général (ou dirigeant général équivalent). Aucun titulaire identifié, siège exact ou dirigeant inventé.
 Aventuriers jamais police : exécutent seulement des contrats, port d'armes autorisé. Un contrat ne devient quête que selon conditions officielles ; pas de récompense privée sans possession et immobilisation. Un individu Rang A peut entrer Cuivre ; évaluation adaptée possible, pas de grade automatique.
+
+
+## J7 — 21 Doréal 1842 TC
+Edhran Varek, maître local Portes d'Orion, ancien aventurier Mithril, humain ~56 ans. Acte C33-KH-1842-001 signé16:46, propriété personnelle Kharvoss Aedan,0 P, permis caduc. C07-SER-1842-001 exclusivité Seravhen17:09, aucune propriété,0 P, public temporairement indisponible. Voir charte et registre confidentiel. Demande de mission élimination spectrale à venir22 Doréal, intervention souhaitée23 soir, aucun contrat.
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 7 — Bilan.md]]

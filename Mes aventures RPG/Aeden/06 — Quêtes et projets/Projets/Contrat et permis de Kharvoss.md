@@ -26,3 +26,8 @@ KH-004 transmis20:23, relance prolongation et second module. Aucun avenant, perm
 ## J6
 Victor message J5 20:51 lu05:21 : prolongation déposée, second module A100m³ et prolongations abri/premier module réservés ; équipe annoncée J7 10:00. Aedan demande17:00, ravitaillement +2 hydromels05:23, quatre caisses sécurisées et transfert quatre S17:16. Confirmation non lue, aucune livraison/avenant/paiement. Permis officiel22 Doréal23:59, cible29 conditionnelle. KH-005 transmis17:43. Conditions contractuelles inchangées.
 [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 6 — Bilan.md]]
+
+
+## J7 — 21 Doréal 1842 TC
+Prolongation officielle jusqu'au29 Doréal confirmée J7 matin, ensuite permis caduc après propriété C33 à16:46. Logistique annulée12:34 et confirmation13:49 ; aucun second module/ravitaillement reçu. KH-AV-001 à15:24 signé Victor personnellement et entreprise : fin amiable, entreprise conserve biens déjà récupérés N1/N2 ; renonce toutes revendications personnelles/professionnelles sur complexe, installations, biens restants, connaissances, revenus/profits et participation ; collaboration future nouveau contrat. Signature Aedan non jouée, à formaliser. Module plein remis15:18, quatre S rendus22:18. KH-006 non envoyé. Mise à disposition Eryan distincte, devis9600 P payé22:23, convention à signer.
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 7 — Bilan.md]]

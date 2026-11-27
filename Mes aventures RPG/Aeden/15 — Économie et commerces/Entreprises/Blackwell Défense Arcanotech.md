@@ -23,3 +23,8 @@ Trésorerie990000 P après J1 (85000 lot,25000 prestation), hors coûts non chif
 
 ## J3 Kharvoss
 Aucun flux confirmé. Engagements27000 P, solde de référence990000 P hors frais non chiffrés. Récupérations entreprise1605 objets149 docs25,019m³, estimation partielle544320–558640 P, installations non retirées328000 P, aucune vente. KH-002 transmis20:39, traduction demandée Mira.
+
+
+## J7 — 21 Doréal 1842 TC
+J7 module plein100m³ reçu15:18, quatre S remis22:18 et stockés atelier familial. Renonciation Victor/entreprise KH-AV-001 signée, signature Aedan en attente. Aucune vente. +9600 P avance Eryan15j encaissée22:23, trésorerie de référence999600 P hors dépenses non chiffrées, engagements27000 P anciens non attestés réglés. Convention à signer, début25. Devis sécurité Kharvoss à préparer.
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 7 — Bilan.md]]

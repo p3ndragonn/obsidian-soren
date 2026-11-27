@@ -81,3 +81,8 @@ Volume récupéré jusqu'à J4 31,499m³ + mobiles J5 3,840 + purificateur 0,832
 ## Fin J6
 Module A100m³ plein, quatre S protégés séparément au camp, transfert prévu mais non réalisé. Cristal accréditation III extension IV partielle gardé ; cinq dossiers et copies numériques prêts. 16 portions collectives, rations individuelles Aedan4 Eryan3 intactes. 14 cristaux initiaux éclairage/mise à terre/réserve, charges restantes inconnues. Aucun nouvel équipement personnel attribué. Récupérations entreprise voir registre J6.
 [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 6 — Bilan.md]]
+
+
+## J7 — 21 Doréal 1842 TC
+J7 quatre S sortis puis rendus Victor22:18, ne plus compter dans bracelet. Cristal accréditation,2 projecteurs,8 cristaux lumière et4 réserve dans bracelet (charges non mesurées), deux projecteurs employés puis rangés. Coffret deux plaques Seravhen restitué21:22, possession Aedan. Module100m³ plein remis entreprise ; outils et2 terre camp. Équipement combat laissé appartement personnel ; moto résidence familiale ; nu au coucher, ORION déployé intact, bracelet possédé. 12 portions au camp, rations personnelles4/3 intactes.
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 7 — Bilan.md]]
