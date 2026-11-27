@@ -22,3 +22,7 @@ Famille économique ; titre de noblesse non établi.
 
 
 Membres, patrimoine et participations non définis.
+
+## J6 — confidence biographique
+Aedan dit avoir partagé deux mois de camp avancé avec deux fils cadets de la maison pendant ses études ; noms et rangs non définis, aucune rencontre actuelle ni contact maintenu. Il les décrit peu attachés à l'étiquette hors cadre familial. Circonstances sensibles dans registre réservé.
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 6 — Bilan.md]]

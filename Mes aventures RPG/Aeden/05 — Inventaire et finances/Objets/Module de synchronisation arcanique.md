@@ -19,3 +19,7 @@ Propriété Blackwell Défense Arcanotech, prêt autorisé, non reçu. 14 × 8 �
 
 ## J2
 Prêt reçu10:46 et transporté campement. Noyau S trouvé ; compatibilité non établie, aucune nouvelle activation. [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 2 — Bilan.md]].
+
+## J6
+Dossier KH-S-02 constitué, protégé séparément, transfert demandé non réalisé. KH-TR-001 : reconnaissance individuelle, signatures mémorisées, fréquence commune ; procédure enregistrement inconnue. Toujours partiellement endommagé, aucune interconnexion.
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 6 — Bilan.md]]

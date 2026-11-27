@@ -37,3 +37,7 @@ Le joueur a validé l'existence d'un meilleur ami masculin ayant suivi les même
 
 ## Complément administratif validé (AED-FON-003)
 Les grades initialement non établis ont été définis ultérieurement par décision du Fondateur : [[Mes aventures RPG/Aeden/01 — Personnage principal/Affiliations et grades administratifs|Affiliations et grades administratifs]]. La description historique du cursus reste inchangée ; aucune mission ou promotion biographique supplémentaire inventée.
+
+## Informations biographiques établies J6
+Un an en camp avancé pendant études (50–150 aventuriers suivant mois). Le profil académique recense noms et natures des missions sans dates ni détails ; entrée du camp (nom non défini) : « Espionnage et élimination pour la Guilde et la Couronne ». Protocole de confiance enseigné par professeurs avant exploration inconnue : accès et directives confiés à personne de confiance en cas de non-retour. Détails personnels à part. Quatre situations de non-retour redouté avec Maël, circonstances détaillées non définies.
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 6 — Bilan.md]]

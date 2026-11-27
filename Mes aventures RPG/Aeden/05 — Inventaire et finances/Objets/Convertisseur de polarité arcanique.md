@@ -19,3 +19,7 @@ Propriété Blackwell Défense Arcanotech, prêt autorisé, non reçu. Hexagone 
 
 ## J2
 Prêt reçu10:46 et transporté campement. Aucune nouvelle activation. Restitution fin mission. [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 2 — Bilan.md]].
+
+## J6
+Dossier KH-S-01 constitué, protégé séparément au camp, transfert pour analyses de base demandé, non réalisé. KH-TR-001 : adaptation polarité avant liaison commune, distinction affinité hypothétique. Aucun nouvel essai.
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 6 — Bilan.md]]
