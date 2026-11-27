@@ -35,3 +35,7 @@ Aucun flux confirmé J5,342932 P personnel. Aucun achat hydromel, paiement prolo
 ## J6
 Aucune transaction personnelle confirmée ; solde Aedan342932 P, Eryan49586 P, entreprise990000 P hors dépenses non attestées ; engagements27000 P non confirmés payés. Pas de paiement pour livraison, hydromel, restaurant ou association, ni vente d'artefact. Valeur du butin non encaissée.
 [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 6 — Bilan.md]]
+
+## J8 — 14:26
+333247 -3000 -100000 -48 -9680 = 220519 P liquidités personnelles ; participation 100000 P nominal, compte société séparé ; dépenses personnelles12728 P hors apport. Aucun emprunt. [[Mes aventures RPG/Aeden/15 — Économie et commerces/Entreprises/Arche Industries.md]]
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 8 — Bilan intermédiaire.md]]

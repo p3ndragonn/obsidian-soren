@@ -30,3 +30,14 @@ Seuls les mouvements effectivement encaissés ou payés modifient la trésorerie
 ## AED-J7-008 — état actualisé
 19:08 AED-T004 −85 P, solde342847 ;22:23 AED-T005 −9600 P vers entreprise, solde333247. Eryan−60 P,49526 ; entreprise +9600 P référence999600 hors frais non chiffrés.
 [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 7 — Bilan.md]]
+
+## J8 — 22 Doréal jusqu'à14:26
+| ID | Compte | Heure | Nature | Montant P | Solde après |
+|---|---|---|---|---:|---:|
+| AED-T006 | Aedan | 11:21–29 | Frais constitution | -3000 | 330247 |
+| AED-T007 | Aedan | 12:27 | Apport capital | -100000 | 230247 |
+| AED-T007-C | Arche Industries | 12:27 | Contrepartie AED-T007 | +100000 | 100000 |
+| AED-T008 | Aedan | 13:29–34 | Déjeuner | -48 | 230199 |
+| AED-T009 | Aedan | 13:53 | Contrat spectral intégral | -9680 | 220519 |
+Transfert capital interne au périmètre patrimonial, ni charge ni chiffre d'affaires.
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 8 — Bilan intermédiaire.md]]

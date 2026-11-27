@@ -58,3 +58,7 @@ Vivres22 portions (3 jours complets +2 repas individuels) ; module35,300m³ libr
 ## AED-J7-008 — état actualisé
 22 Doréal création entreprise, demande Guilde spectres, convention Eryan, repos. 23 inspection devis conditionnelle, soir mission spectrale souhaitée non commandée.24 retour Maël,25 début Eryan,3 Bruméal12 déjeuner,9 Bruméal fin si jours calendaires. Permis caduc, protocole non-retour levé.
 [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 7 — Bilan.md]]
+
+## J8 — 14:26, état courant
+Création réalisée12:36, convention Eryan signée08:40, mission spectrale commandée/payée13:53. 23 Doréal Dorgan disponible horaire à confirmer, équipe sécurité à confirmer, devis Arvand N3 en attente ; 23 19h–24 7h spectres confirmé ; Maël retour24 ; Eryan25 Doréal–9 Bruméal inclus ; 3 Bruméal12h table3 salon jusqu'à18h réservé ; propositions Eryan14:05 non acceptées. KH-006 en attente.
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 8 — Bilan intermédiaire.md]]

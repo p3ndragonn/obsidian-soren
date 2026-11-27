@@ -47,7 +47,8 @@
       "reveil_j5_prevu": 3950,
       "reveil_j6_prevu": 3950,
       "reveil_j7_prevu": 3950,
-      "debit_confirme_j7": 1000
+      "debit_confirme_j7": 1000,
+      "debit_j8_non_quantifie": true
     },
     "EP": {
       "actuelle": null,
@@ -62,9 +63,9 @@
   ],
   "points_libres": 0,
   "affiliations_ref": "affiliations.json",
-  "etat_date": "1842 TC — 22 Doréal 00:14",
+  "etat_date": "1842 TC — 22 Doréal 14:26",
   "exp_j2_statut": "combat_et_profession_attribues",
-  "ressources_note": "HP2650, MP3950 récupération95/min après injection1000 et lecteur débit non quantifié ; EP non mesuré. Nu au coucher, aucune blessure.",
+  "ressources_note": "Tenue civile, HP2650 sans blessure, MP3950 au repos après injection matinale non mesurée et récupération95/min ; EP exact non mesuré. Aucun EXP J8 attribué, profession J7 à arbitrer.",
   "exp_combat_j2": {
     "gain": 53,
     "avant": 1450,
@@ -155,5 +156,7 @@
     },
     "classe_gain": 0
   },
-  "exp_j7_statut": "Aucun gain classe ; profession à arbitrer, non créditée"
+  "exp_j7_statut": "Aucun gain classe ; profession à arbitrer, non créditée",
+  "exp_j8_statut": "Aucun gain attribué",
+  "familier": "ORION"
 }

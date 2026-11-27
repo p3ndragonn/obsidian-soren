@@ -36,3 +36,7 @@ Fin J1 : liquidités 342 932 P ; automate acquis 32 000 P (coût d'acquisition, 
 ## J7 — 21 Doréal 1842 TC
 Kharvoss propriété personnelle intégrale acquise gratuitement16:46, acte C33-KH-1842-001 ; valeur non expertisée et non incluse dans total. Seravhen exclusivité seulement, pas bien immobilier. Plaques ORION incluses prix acquisition initial, restituées sans frais. Fortune333247 P, ne pas traiter avance9600 comme achat patrimonial ; expertise et prêt envisagés non établis.
 [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 7 — Bilan.md]]
+
+## J8 — 14:26
+220519 P de liquidités personnelles, 100% Arche Industries (capital nominal100000 P, non estimation de valeur marchande), Kharvoss reste personnel, valeur non expertisée. Compte professionnel100000 P non additionné comme liquidité personnelle. Aucun nouvel emprunt ni sûreté. [[Mes aventures RPG/Aeden/15 — Économie et commerces/Entreprises/Arche Industries.md]]
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 8 — Bilan intermédiaire.md]]

@@ -25,3 +25,7 @@ Aucune dette initiale ni contrat actif. Charges mensuelles estimatives : 1 500 P
 ## AED-J7-008 — état actualisé
 Mise à disposition Eryan 15 jours 9600 P intégralement payés AED-T005, reste0, convention à signer. Devis sécurité/architecture et prêt bancaire non engagés.
 [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 7 — Bilan.md]]
+
+## J8 — 14:26
+BDA-MAD-1842-027 signée,9600 P payés J7, reste0. KH-SP-1842-001 9680 P payés AED-T009, reste0, prestation23–24 Doréal à réaliser. Arche tenue bancaire60 P/mois non prélevée, date inconnue ; aucun emprunt ni travaux commandés. Devis Dorgan, sécurité, Arvand en attente.
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 8 — Bilan intermédiaire.md]]
