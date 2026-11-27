@@ -21,3 +21,12 @@ sources:
 | IMG-AED-009 | [[Mes aventures RPG/Aeden/08 — Illustrations/Lieux/Appartement d’Aedan — Intérieur officiel.webp|Appartement d’Aedan]] | [[Mes aventures RPG/Aeden/04 — Monde et lieux/Lieux/Atelier et appartement d’Aedan Blackwell|Appartement d’Aedan]] | Référence officielle archivée | Génération ChatGPT, 24 novembre 2026 |
 
 Conserver ici les fichiers d'images associés, les réutiliser lorsque leur identité reste inchangée. Collection initiale archivée en WebP pleine résolution. Descriptions textuelles prioritaires en cas d'écart visuel.
+
+
+## Kharvoss — entrée officielle
+- Fichier : `Kharvoss - Entrée officielle.webp`
+- Entité : [[Mes aventures RPG/Aeden/04 — Monde et lieux/Lieux/Complexe souterrain de Kharvoss]]
+- Origine : illustration originale générée par ChatGPT, 27 novembre 2026, intégration demandée par le joueur.
+- Version 1, WebP 1672 × 941 px, référence visuelle ; les faits textuels priment en cas d'écart.
+
+![Entrée de Kharvoss](Kharvoss%20-%20Entr%C3%A9e%20officielle.webp)
