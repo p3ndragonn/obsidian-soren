@@ -2,17 +2,17 @@
   "schema_version": 1,
   "campagne": "Aeden",
   "branche": "principale",
-  "sauvegarde_id": "AED-J7-008",
-  "ordre": 8,
+  "sauvegarde_id": "AED-J8-009",
+  "ordre": 9,
   "date_univers": "1842 TC — 22 Doréal",
-  "heure": "00:14",
-  "lieu": "Suite Aedan, résidence Blackwell",
-  "source_scene": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 7 — Bilan.md",
-  "point_majeur": "Acquisition Kharvoss, exclusivité Seravhen, retour",
+  "heure": "14:26",
+  "lieu": "Appartement personnel Aedan",
+  "source_scene": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 8 — Bilan intermédiaire.md",
+  "point_majeur": "Arche Industries, reprise intermédiaire",
   "reprise_prevue": {
     "date_univers": "1842 TC — 22 Doréal",
-    "heure": "réveil naturel",
-    "lieu": "Résidence Blackwell"
+    "heure": "14:26",
+    "lieu": "Appartement personnel Aedan"
   },
   "regularisation": {
     "id": "AED-REG-J5-001",
@@ -59,5 +59,16 @@
     "solde_eryan": 49526,
     "orion": "intact, conversion partielle et initiation sensorielle",
     "mission_eryan_payee": 9600
+  },
+  "etat_j8": {
+    "intermediaire": true,
+    "solde_personnel": 220519,
+    "tresorerie_arche": 100000,
+    "dette_arche": 0,
+    "orion": "familier, déployé canapé",
+    "eryan_solde": 49526,
+    "contrat_spectral": "KH-SP-1842-001 payé 9680 P",
+    "rapport": "KH-006 non envoyé",
+    "entreprise": "Mes aventures RPG/Aeden/15 — Économie et commerces/Entreprises/Arche Industries.md"
   }
 }
