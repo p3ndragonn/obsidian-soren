@@ -30,3 +30,17 @@ Domicile provisoire atelier personnel Aedan ; transfert futur à Kharvoss après
 - [[Mes aventures RPG/Aeden/03 — Personnages et relations/Personnages/Eryan Valeris.md]], [[Mes aventures RPG/Aeden/03 — Personnages et relations/Personnages/Maël Varyn.md]]
 - [[Mes aventures RPG/Aeden/06 — Quêtes et projets/Contrats/KH-SP-1842-001 — Sécurisation spectrale.md]] (contrat personnel du propriétaire, non dépense Arche).
 - [[Mes aventures RPG/Aeden/08 — Illustrations/Entreprises/Arche Industries — Logo officiel.webp]] — image fournie par le joueur, WebP 1254×1254, conversion sans recadrage ni modification graphique.
+
+## Organisation des activités et identités visuelles
+[[Mes aventures RPG/Aeden/04 — Monde et lieux/Factions/ARCHE Industries/ARCHE Industries.md]] est le portail organisationnel existant. Cinq divisions internes, sans personnalité juridique ni comptabilité séparée à ce stade, pas de personnel affecté. Logos originaux préexistants conservés et intégrés.
+
+| Division | Activité et état opérationnel | Logo original |
+|---|---|---|
+| [[Mes aventures RPG/Aeden/04 — Monde et lieux/Factions/ARCHE Industries/ARCHE Exploration.md]] | Exploration et récupération de ruines/donjons ; permis requis ; Seravhen exclusivité personnelle, aucune expédition Arche engagée. | [[Mes aventures RPG/Aeden/08 — Illustrations/Logos/ARCHE Industries/arche-exploration.png]] |
+| [[Mes aventures RPG/Aeden/04 — Monde et lieux/Factions/ARCHE Industries/ARCHE Laboratories.md]] | R&D et expertise des artefacts, matériaux, échantillons ; N3 Kharvoss futur laboratoire sous convention ; aucun transfert des quatre S de Victor. | [[Mes aventures RPG/Aeden/08 — Illustrations/Logos/ARCHE Industries/arche-laboratories.png]] |
+| [[Mes aventures RPG/Aeden/04 — Monde et lieux/Factions/ARCHE Industries/ARCHE Technologies.md]] | Ingénierie, enchantements, applications arcanotech, conception et fabrication ; aucun prototype propriété Arche ni production commandée. | [[Mes aventures RPG/Aeden/08 — Illustrations/Logos/ARCHE Industries/arche-technologies.png]] |
+| [[Mes aventures RPG/Aeden/04 — Monde et lieux/Factions/ARCHE Industries/ARCHE Restoration.md]] | Restauration et conservation, patrimoine et installations anciennes ; N3 préservation, expertise Arvand indépendante en attente, aucun travail lancé. | [[Mes aventures RPG/Aeden/08 — Illustrations/Logos/ARCHE Industries/arche-restoration.png]] |
+| [[Mes aventures RPG/Aeden/04 — Monde et lieux/Factions/ARCHE Industries/ARCHE Commerce.md]] | Commercialisation et distribution ; aucun stock commercial constitué, vente ou chiffre d'affaires ; compte central Arche. | [[Mes aventures RPG/Aeden/08 — Illustrations/Logos/ARCHE Industries/arche-commerce.png]] |
+
+![Logo principal original](../../08%20%E2%80%94%20Illustrations/Logos/ARCHE%20Industries/arche-industries.png)
+[[Mes aventures RPG/Aeden/08 — Illustrations/Logos/Index — Illustrations logos.md]].

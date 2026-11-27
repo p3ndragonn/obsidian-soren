@@ -30,3 +30,6 @@ Six logos originaux générés le 27 novembre 2026, version 1, PNG transparent 1
 | [`arche-technologies.png`](ARCHE%20Industries/arche-technologies.png) | [ARCHE Technologies](../../04%20%E2%80%94%20Monde%20et%20lieux/Factions/ARCHE%20Industries/ARCHE%20Technologies.md) | Engrenage et cristal arcanotech | Présent dans le dépôt |
 | [`arche-restoration.png`](ARCHE%20Industries/arche-restoration.png) | [ARCHE Restoration](../../04%20%E2%80%94%20Monde%20et%20lieux/Factions/ARCHE%20Industries/ARCHE%20Restoration.md) | Buste restauré et jointures dorées | Présent dans le dépôt |
 | [`arche-commerce.png`](ARCHE%20Industries/arche-commerce.png) | [ARCHE Commerce](../../04%20%E2%80%94%20Monde%20et%20lieux/Factions/ARCHE%20Industries/ARCHE%20Commerce.md) | Balance, artefacts et marchandises | Présent dans le dépôt |
+
+## Actualisation J8
+Six PNG originaux préservés ; entités reliées à [[Mes aventures RPG/Aeden/15 — Économie et commerces/Entreprises/Arche Industries.md]] et au portail [[Mes aventures RPG/Aeden/04 — Monde et lieux/Factions/ARCHE Industries/ARCHE Industries.md]]. Variante WebP plein format du logo principal : [[Mes aventures RPG/Aeden/08 — Illustrations/Entreprises/Arche Industries — Logo officiel.webp]].

@@ -53,5 +53,53 @@
     "convention": "Mes aventures RPG/Aeden/06 — Quêtes et projets/Entreprise/Arche Industries/Convention de mise à disposition de Kharvoss.md",
     "banque": "Mes aventures RPG/Aeden/06 — Quêtes et projets/Entreprise/Arche Industries/Compte professionnel et financement.md",
     "projets": "Mes aventures RPG/Aeden/06 — Quêtes et projets/Entreprise/Arche Industries/Activités, projets et gouvernance.md"
-  }
+  },
+  "logo_original": "Mes aventures RPG/Aeden/08 — Illustrations/Logos/ARCHE Industries/arche-industries.png",
+  "divisions": [
+    {
+      "nom": "ARCHE Exploration",
+      "statut": "division interne",
+      "fiche": "Mes aventures RPG/Aeden/04 — Monde et lieux/Factions/ARCHE Industries/ARCHE Exploration.md",
+      "logo": "Mes aventures RPG/Aeden/08 — Illustrations/Logos/ARCHE Industries/arche-exploration.png",
+      "activite": "Exploration et récupération de ruines/donjons ; permis requis ; Seravhen exclusivité personnelle, aucune expédition Arche engagée.",
+      "budget_affecte_P": null,
+      "personnel_affecte": []
+    },
+    {
+      "nom": "ARCHE Laboratories",
+      "statut": "division interne",
+      "fiche": "Mes aventures RPG/Aeden/04 — Monde et lieux/Factions/ARCHE Industries/ARCHE Laboratories.md",
+      "logo": "Mes aventures RPG/Aeden/08 — Illustrations/Logos/ARCHE Industries/arche-laboratories.png",
+      "activite": "R&D et expertise des artefacts, matériaux, échantillons ; N3 Kharvoss futur laboratoire sous convention ; aucun transfert des quatre S de Victor.",
+      "budget_affecte_P": null,
+      "personnel_affecte": []
+    },
+    {
+      "nom": "ARCHE Technologies",
+      "statut": "division interne",
+      "fiche": "Mes aventures RPG/Aeden/04 — Monde et lieux/Factions/ARCHE Industries/ARCHE Technologies.md",
+      "logo": "Mes aventures RPG/Aeden/08 — Illustrations/Logos/ARCHE Industries/arche-technologies.png",
+      "activite": "Ingénierie, enchantements, applications arcanotech, conception et fabrication ; aucun prototype propriété Arche ni production commandée.",
+      "budget_affecte_P": null,
+      "personnel_affecte": []
+    },
+    {
+      "nom": "ARCHE Restoration",
+      "statut": "division interne",
+      "fiche": "Mes aventures RPG/Aeden/04 — Monde et lieux/Factions/ARCHE Industries/ARCHE Restoration.md",
+      "logo": "Mes aventures RPG/Aeden/08 — Illustrations/Logos/ARCHE Industries/arche-restoration.png",
+      "activite": "Restauration et conservation, patrimoine et installations anciennes ; N3 préservation, expertise Arvand indépendante en attente, aucun travail lancé.",
+      "budget_affecte_P": null,
+      "personnel_affecte": []
+    },
+    {
+      "nom": "ARCHE Commerce",
+      "statut": "division interne",
+      "fiche": "Mes aventures RPG/Aeden/04 — Monde et lieux/Factions/ARCHE Industries/ARCHE Commerce.md",
+      "logo": "Mes aventures RPG/Aeden/08 — Illustrations/Logos/ARCHE Industries/arche-commerce.png",
+      "activite": "Commercialisation et distribution ; aucun stock commercial constitué, vente ou chiffre d'affaires ; compte central Arche.",
+      "budget_affecte_P": null,
+      "personnel_affecte": []
+    }
+  ]
 }

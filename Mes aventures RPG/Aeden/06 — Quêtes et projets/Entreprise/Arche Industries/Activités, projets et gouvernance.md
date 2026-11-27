@@ -18,3 +18,13 @@ sources: ["J8, scènes jouées 10:24–14:26"]
 - Eryan : convention personnelle signée tripartite, mission 25 Doréal–9 Bruméal ; trois propositions Guilde transmises, aucun engagement. Alyssa intéressée comme experte indépendante, pas de tarif ni contrat.
 
 [[Mes aventures RPG/Aeden/15 — Économie et commerces/Entreprises/Arche Industries.md]] ; [[Mes aventures RPG/Aeden/06 — Quêtes et projets/Entreprise/Arche Industries/Statuts constitutifs.md]] ; [[Mes aventures RPG/Aeden/06 — Quêtes et projets/Entreprise/Arche Industries/Compte professionnel et financement.md]].
+
+## Divisions existantes et rattachements
+| Division | Activités | Logo |
+|---|---|---|
+| [[Mes aventures RPG/Aeden/04 — Monde et lieux/Factions/ARCHE Industries/ARCHE Exploration.md]] | Exploration et récupération de ruines/donjons ; permis requis ; Seravhen exclusivité personnelle, aucune expédition Arche engagée. | [[Mes aventures RPG/Aeden/08 — Illustrations/Logos/ARCHE Industries/arche-exploration.png]] |
+| [[Mes aventures RPG/Aeden/04 — Monde et lieux/Factions/ARCHE Industries/ARCHE Laboratories.md]] | R&D et expertise des artefacts, matériaux, échantillons ; N3 Kharvoss futur laboratoire sous convention ; aucun transfert des quatre S de Victor. | [[Mes aventures RPG/Aeden/08 — Illustrations/Logos/ARCHE Industries/arche-laboratories.png]] |
+| [[Mes aventures RPG/Aeden/04 — Monde et lieux/Factions/ARCHE Industries/ARCHE Technologies.md]] | Ingénierie, enchantements, applications arcanotech, conception et fabrication ; aucun prototype propriété Arche ni production commandée. | [[Mes aventures RPG/Aeden/08 — Illustrations/Logos/ARCHE Industries/arche-technologies.png]] |
+| [[Mes aventures RPG/Aeden/04 — Monde et lieux/Factions/ARCHE Industries/ARCHE Restoration.md]] | Restauration et conservation, patrimoine et installations anciennes ; N3 préservation, expertise Arvand indépendante en attente, aucun travail lancé. | [[Mes aventures RPG/Aeden/08 — Illustrations/Logos/ARCHE Industries/arche-restoration.png]] |
+| [[Mes aventures RPG/Aeden/04 — Monde et lieux/Factions/ARCHE Industries/ARCHE Commerce.md]] | Commercialisation et distribution ; aucun stock commercial constitué, vente ou chiffre d'affaires ; compte central Arche. | [[Mes aventures RPG/Aeden/08 — Illustrations/Logos/ARCHE Industries/arche-commerce.png]] |
+Toutes sont rattachées à AI-1842-001 ; aucune filiale, budget par division, associé ou personnel affecté n'a été validé.

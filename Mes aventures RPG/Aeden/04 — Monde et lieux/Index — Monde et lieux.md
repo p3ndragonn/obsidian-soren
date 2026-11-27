@@ -119,3 +119,6 @@ Retour : [[Mes aventures RPG/Aeden/00 — Accueil et reprise/Tableau de bord —
 
 ## J2
 [[Mes aventures RPG/Aeden/04 — Monde et lieux/Lieux/Campement de Kharvoss]] ; complexe N1 reconnu et actualisé.
+
+## Arche Industries — J8
+[[Mes aventures RPG/Aeden/04 — Monde et lieux/Factions/ARCHE Industries/ARCHE Industries.md]] ; [[Mes aventures RPG/Aeden/15 — Économie et commerces/Entreprises/Arche Industries.md]] ; divisions et logos liés.

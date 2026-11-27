@@ -18,3 +18,6 @@ sources: []
 Étudie les artefacts, les matériaux et les échantillons issus des explorations.
 
 Division d’[ARCHE Industries](ARCHE%20Industries.md).
+
+## Rattachement J8
+Division interne d'AI-1842-001, [[Mes aventures RPG/Aeden/15 — Économie et commerces/Entreprises/Arche Industries.md]]. R&D et expertise des artefacts, matériaux, échantillons ; N3 Kharvoss futur laboratoire sous convention ; aucun transfert des quatre S de Victor. Aucun budget, personnel ou société distincte validé. [[Mes aventures RPG/Aeden/06 — Quêtes et projets/Entreprise/Arche Industries/Activités, projets et gouvernance.md]].

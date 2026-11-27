@@ -18,3 +18,6 @@ sources: []
 Conserve et restaure les artefacts et objets anciens.
 
 Division d’[ARCHE Industries](ARCHE%20Industries.md).
+
+## Rattachement J8
+Division interne d'AI-1842-001, [[Mes aventures RPG/Aeden/15 — Économie et commerces/Entreprises/Arche Industries.md]]. Restauration et conservation, patrimoine et installations anciennes ; N3 préservation, expertise Arvand indépendante en attente, aucun travail lancé. Aucun budget, personnel ou société distincte validé. [[Mes aventures RPG/Aeden/06 — Quêtes et projets/Entreprise/Arche Industries/Activités, projets et gouvernance.md]].

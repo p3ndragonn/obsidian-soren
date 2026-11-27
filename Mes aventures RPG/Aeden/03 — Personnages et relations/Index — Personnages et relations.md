@@ -72,3 +72,6 @@ Retour : [[Mes aventures RPG/Aeden/00 — Accueil et reprise/Tableau de bord —
 
 ## J2
 [[Mes aventures RPG/Aeden/03 — Personnages et relations/Personnages/Léna Arven]] — réceptionniste rencontrée ; Eryan et ORION actualisés.
+
+## J8 — nouveaux interlocuteurs
+[[Mes aventures RPG/Aeden/03 — Personnages et relations/Personnages/Helga Dornel.md]] ; [[Mes aventures RPG/Aeden/03 — Personnages et relations/Personnages/Gabriel Veldran.md]] ; [[Mes aventures RPG/Aeden/03 — Personnages et relations/Personnages/Thélian Arvand.md]] ; [[Mes aventures RPG/Aeden/03 — Personnages et relations/Personnages/Alaric Voss.md]] ; [[Mes aventures RPG/Aeden/03 — Personnages et relations/Personnages/Sylena Aelwyn.md]] ; [[Mes aventures RPG/Aeden/03 — Personnages et relations/Personnages/Brom Feracier.md]] ; [[Mes aventures RPG/Aeden/03 — Personnages et relations/Personnages/Kaëlan Thorne.md]]. [[Mes aventures RPG/Aeden/03 — Personnages et relations/Groupes/Les Veilleurs d’Argent.md]]. Arvand et les quatre aventuriers non rencontrés physiquement.
