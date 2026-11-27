@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "id": "AI-1842-001",
+  "nom": "Arche Industries",
+  "date_creation": "22 Doréal 1842 TC",
+  "heure_immatriculation": "12:36",
+  "statut": "immatriculee",
+  "forme": "SPA",
+  "president": "Aedan Blackwell",
+  "capital_P": 100000,
+  "capital_libere_P": 100000,
+  "actions": [
+    {
+      "categorie": "A",
+      "nombre": 10000,
+      "nominal_P": 10,
+      "voix_par_action": 3,
+      "proprietaire": "Aedan Blackwell"
+    }
+  ],
+  "participation_fondateur_pct": 100,
+  "compte_id": "COMPTE-ARCHE-001",
+  "tresorerie_P": 100000,
+  "dette_P": 0,
+  "chiffre_affaires_P": 0,
+  "associes_confirmes": [],
+  "salaries_confirmes": [],
+  "domicile": "Atelier personnel Aedan",
+  "siege_futur": "Kharvoss",
+  "proprietaire_kharvoss": "Aedan Blackwell",
+  "loyer_P": 0,
+  "banque": {
+    "tenue_mensuelle_P": 60,
+    "virement_international_pct": 0.05,
+    "prelevements": 0,
+    "emprunt": null
+  },
+  "logo": "Mes aventures RPG/Aeden/08 — Illustrations/Entreprises/Arche Industries — Logo officiel.webp",
+  "activites": [
+    "exploration",
+    "récupération",
+    "R&D arcanotech",
+    "enchantements",
+    "ingénierie",
+    "fabrication",
+    "restauration",
+    "commerce",
+    "expertise"
+  ],
+  "liens": {
+    "fiche": "Mes aventures RPG/Aeden/15 — Économie et commerces/Entreprises/Arche Industries.md",
+    "statuts": "Mes aventures RPG/Aeden/06 — Quêtes et projets/Entreprise/Arche Industries/Statuts constitutifs.md",
+    "convention": "Mes aventures RPG/Aeden/06 — Quêtes et projets/Entreprise/Arche Industries/Convention de mise à disposition de Kharvoss.md",
+    "banque": "Mes aventures RPG/Aeden/06 — Quêtes et projets/Entreprise/Arche Industries/Compte professionnel et financement.md",
+    "projets": "Mes aventures RPG/Aeden/06 — Quêtes et projets/Entreprise/Arche Industries/Activités, projets et gouvernance.md"
+  }
+}

@@ -37,3 +37,7 @@ Paix et complémentarité commerciale : Eldoria fournit artisanat, agriculture, 
 - [[Mes aventures RPG/Aeden/15 — Économie et commerces/Entreprises/Consortium Marélys|Consortium Marélys]]
 - [[Mes aventures RPG/Aeden/15 — Économie et commerces/Entreprises/Riverwell Gastronomie|Riverwell Gastronomie]]
 Guildes professionnelles distinctes des entreprises productrices. Millions de petits commerces, ateliers et exploitations ; pas de monopole présumé.
+
+
+## Entreprise créée J8
+[[Mes aventures RPG/Aeden/15 — Économie et commerces/Entreprises/Arche Industries.md]] — Valthéria, Portes d'Orion, société indépendante en phase de démarrage ; aucun flux commercial encore réalisé.

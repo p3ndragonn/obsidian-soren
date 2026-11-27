@@ -30,3 +30,7 @@ Retour : [[Mes aventures RPG/Aeden/00 — Accueil et reprise/Tableau de bord —
 
 ## J2
 [[Mes aventures RPG/Aeden/06 — Quêtes et projets/Projets/Contrat et permis de Kharvoss]] ; [[Mes aventures RPG/Aeden/06 — Quêtes et projets/Projets/Rapport KH-001]].
+
+
+## J8 — Arche Industries
+[[Mes aventures RPG/Aeden/15 — Économie et commerces/Entreprises/Arche Industries.md]] ; [[Mes aventures RPG/Aeden/06 — Quêtes et projets/Entreprise/Arche Industries/Activités, projets et gouvernance.md]].

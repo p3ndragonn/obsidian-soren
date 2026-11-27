@@ -28,3 +28,7 @@ Les prix observés restent locaux et datés ; barème officiel indicatif, non pr
 ## Entreprises des Blackwell
 - [[Mes aventures RPG/Aeden/15 — Économie et commerces/Entreprises/Blackwell Défense Arcanotech|Blackwell Défense Arcanotech]]
 - [[Mes aventures RPG/Aeden/15 — Économie et commerces/Entreprises/L'Écrin d'Éther|L'Écrin d'Éther]]
+
+
+## Entreprise du personnage — J8
+[[Mes aventures RPG/Aeden/15 — Économie et commerces/Entreprises/Arche Industries.md]] — société active, capital 100000 P, compte distinct, logo officiel et dossiers juridiques.

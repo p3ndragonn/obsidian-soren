@@ -25,3 +25,7 @@ Pas de nouvel engagement entrepreneurial. Eryan souhaite continuer à explorer a
 ## J7 — 21 Doréal 1842 TC
 Création prévue22 Doréal en propriétaire initial unique ; nom/statut/capital non choisis. Kharvoss personnel, usage société via contrat futur. Cinq appartements max50m² : Aedan, Eryan, Maël,4e membre, invités ; espaces communs, N1 stockage,N2 habitation,N3 recherche. Devis à venir ; prêt bancaire envisagé, aucun engagement. Alyssa expert indépendante intéressée de principe. Eryan mis à disposition15j,9600 P payés, convention à signer, début25 Doréal. Maël retour24, visite souhaitée, déjeuner3 Bruméal12, salon non confirmé. Aucun associé ni partage validés.
 [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 7 — Bilan.md]]
+
+
+## J8 — création réalisée
+Arche Industries AI-1842-001 constituée 12:36. [[Mes aventures RPG/Aeden/15 — Économie et commerces/Entreprises/Arche Industries.md]] ; [[Mes aventures RPG/Aeden/06 — Quêtes et projets/Entreprise/Arche Industries/Statuts constitutifs.md]]. Le projet historique est conservé ; voir dossiers opérationnels pour état courant.

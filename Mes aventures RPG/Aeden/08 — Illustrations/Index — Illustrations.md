@@ -37,3 +37,7 @@ Les deux références WebP sont intégrées et liées à [[Mes aventures RPG/Aed
 
 ## Eryan Valeris
 Portrait officiel v1 archivé, lié à [[Mes aventures RPG/Aeden/03 — Personnages et relations/Personnages/Eryan Valeris]] et à [[Mes aventures RPG/Aeden/08 — Illustrations/Personnages/Index — Illustrations personnages]].
+
+
+## Entreprises — Arche Industries
+[[Mes aventures RPG/Aeden/08 — Illustrations/Entreprises/Arche Industries — Logo officiel.webp]] — logo fourni par le joueur J8, WebP 1254×1254 ; [[Mes aventures RPG/Aeden/15 — Économie et commerces/Entreprises/Arche Industries.md]].
