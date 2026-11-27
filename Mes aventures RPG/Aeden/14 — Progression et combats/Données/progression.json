@@ -10,7 +10,7 @@
       },
       "profession": {
         "niveau": 28,
-        "exp": 808
+        "exp": 1148
       }
     },
     {
@@ -88,6 +88,19 @@
       "statut": "total_rapporte_deja_comptabilise",
       "source": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 4 — Bilan.md",
       "note": "270 ventilés, 280 non ventilés ; ne pas additionner à nouveau."
+    },
+    {
+      "id": "AED-PRO-J5-BILAN",
+      "personnage_id": "PJ-AED-001",
+      "branche": "principale",
+      "date_univers": "1842 TC — 19 Doréal",
+      "voie": "profession",
+      "gain": 340,
+      "exp_avant": 808,
+      "exp_apres": 1148,
+      "niveau": 28,
+      "statut": "attribue",
+      "source": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 5 — Bilan.md"
     }
   ]
 }

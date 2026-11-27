@@ -8,7 +8,7 @@
       "devise": "P",
       "solde_initial": "350000",
       "solde_actuel": "342932",
-      "date_univers": "1842 TC — 18 Doréal",
+      "date_univers": "1842 TC — 19 Doréal",
       "source": "Validation explicite du joueur ; solde initial, pas transaction",
       "branche": "principale"
     }
@@ -56,5 +56,6 @@
   ],
   "note_j2": "Aucun flux Aedan. Eryan 49586 P ; entreprise 990000 P hors coûts non quantifiés, permis 17000 et locations 10000 P engagés, règlements non confirmés.",
   "note_j3": "Aucun flux J3 ; Aedan342932 P, Eryan49586 P, entreprise990000 P hors frais non quantifiés, engagements27000 P non confirmés payés.",
-  "note_j4": "Aucun flux nouveau confirmé ; solde personnel 342932 P. Prolongation et financement futur conditionnels ; aucun achat, remboursement ou don de station comptabilisé. Eryan et entreprise : derniers soldes connus à conserver, frais non réconciliés."
+  "note_j4": "Aucun flux nouveau confirmé ; solde personnel 342932 P. Prolongation et financement futur conditionnels ; aucun achat, remboursement ou don de station comptabilisé. Eryan et entreprise : derniers soldes connus à conserver, frais non réconciliés.",
+  "note_j5": "Aucun flux ;342932 P. Hydromel non commandé, permis/second module non confirmés. Valeur récupérations entreprise non encaissée."
 }

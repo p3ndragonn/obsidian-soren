@@ -16,7 +16,7 @@ sources:
 # Aptitudes raciales et biologie
 
 - **Référence exacte dans le Codex :** pp. 47–49, 15.03 Tiefling écarlate
-- **Physiologie et besoins :** pigmentation rouge profond et nuances pourpres ; organisme vivant, nourriture, repos et soins ; température corporelle de référence individuelle ~45 °C (normale pour Aedan, non seuil universel), cornes noires recourbées vers l'arrière, queue longue et fine à pointe en flèche, pas d'ailes. Ni immunité thermique ni capacité offensive automatique ; préhension avancée non établie.
+- **Physiologie et besoins :** pigmentation rouge profond et nuances pourpres ; organisme vivant, nourriture, repos et soins ; température corporelle de référence individuelle ~45 °C (normale pour Aedan, non seuil universel), cornes noires recourbées vers l'arrière, queue longue et fine à pointe en flèche, pas d'ailes. Ni immunité thermique ni capacité offensive automatique ; préhension détaillée au J5 ci-dessous.
 - **Longévité et taille de référence :** espérance de vie approximative de 500 ans sur Elyndra (canon local ; pas de limite universelle). Taille variable ; Aedan 187 cm et 88 kg, silhouette athlétique et musclée. Maturation locale validée : 0–40 ans enfance/adolescence ; 40–80 jeune adulte ; 80–200 adulte ; 200–360 adulte mature ; 360–440 âge avancé ; 440+ vieillesse. Bornes approximatives, pas seuils mécaniques.
 - **Transformations reconnues :** aucune transformation permanente ; Manifestation infernale temporaire, forme individuelle à définir.
 Race et sous-race : [[Mes aventures RPG/Aeden/01 — Personnage principal/Fiche du personnage principal|Fiche du personnage principal]].
@@ -43,3 +43,6 @@ Race et sous-race : [[Mes aventures RPG/Aeden/01 — Personnage principal/Fiche 
 Compétences raciales : [[Mes aventures RPG/Aeden/01 — Personnage principal/Compétences/Index — Compétences|Index — Compétences]]. Ne pas cumuler deux fois aptitude et compétence couvrant le même effet. Aucun bonus racial numérique automatique.
 
 Race et sous-race confirmées : Tiefling écarlate. [[Mes aventures RPG/Aeden/01 — Personnage principal/Compétences/Socle racial Tiefling|Socle racial Tiefling]]. Physiologie individuelle validée pour les traits explicitement choisis ; effets propres de Manifestation infernale à définir ; rang minimal E, pas de Stockage racial.
+
+## J5 — précisions du joueur
+Queue Tiefling préhensile : Aedan sait écrire, tenir tasse pleine, manipule cartes. Mouvements émotionnels dont joie parfois involontaires ; contrôle appris dès enfance, maîtrise correcte >100 ans selon Aedan ; Victor presque immobile. Force/limites non chiffrées, aucun bonus. Autre confidence [[Mes aventures RPG/Aeden/07 — Règles et secrets/Registre réservé au Fondateur/Secret racial Tiefling — confidence J5.md]].

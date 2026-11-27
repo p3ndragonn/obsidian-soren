@@ -11,7 +11,7 @@
   "profession": {
     "rarete": "S",
     "niveau": 28,
-    "exp": 808
+    "exp": 1148
   },
   "permanentes": {
     "FOR": 250,
@@ -44,7 +44,8 @@
       "regeneration_passive_par_minute": 95,
       "regeneration_source": "AED-FON-007",
       "reveil_j4_prevu": 3950,
-      "reveil_j5_prevu": 3950
+      "reveil_j5_prevu": 3950,
+      "reveil_j6_prevu": 3950
     },
     "EP": {
       "actuelle": null,
@@ -59,9 +60,9 @@
   ],
   "points_libres": 0,
   "affiliations_ref": "affiliations.json",
-  "etat_date": "1842 TC — 18 Doréal 21:15",
+  "etat_date": "1842 TC — 19 Doréal 22:00",
   "exp_j2_statut": "combat_et_profession_attribues",
-  "ressources_note": "Au coucher short, équipement retiré ; HP dernière valeur sans blessure rapportée ; MP exact coucher, débit J4 et EP exact inconnus. MP plein au réveil J5.",
+  "ressources_note": "Aucun débit MP J5 ni blessure confirmé ; équipement de nuit non détaillé, EP inconnu. MP plein prévu J6.",
   "exp_combat_j2": {
     "gain": 53,
     "avant": 1450,
@@ -126,5 +127,18 @@
       "solde_non_ventile": 280
     },
     "note": "Déjà compris dans le total, ne pas recréditer."
+  },
+  "exp_profession_j5": {
+    "gain": 340,
+    "avant": 808,
+    "apres": 1148,
+    "details": {
+      "purificateur": 70,
+      "etude_chambre": 50,
+      "demontage_chambre": 100,
+      "propulseur": 40,
+      "hydraulique": 80
+    },
+    "classe_gain": 0
   }
 }

@@ -32,3 +32,6 @@ E : 99 gains par voie, raretés F/F, +198 points ; D : 99 gains par voie E/E, +3
 
 ## État courant fin J4
 J2 classe +53 ; J3 classe +528. Profession J1–J3 +1330, passage S28 et +6 points libres distribués (+5 END, +1 PER). J4 +550 rapportés dont +280 non ventilés, déjà inclus. Aucun gain classe J4 vérifié. Zéro point libre. [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 4 — Bilan.md]]
+
+## J5
+Classe A32 2031/2642 ; profession S28 1148/2098 (+340), zéro libre. [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 5 — Bilan.md]]

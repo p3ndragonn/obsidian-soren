@@ -73,3 +73,6 @@ Répartition AED-STAT-001, choix explicite du joueur fin J3 21:56 (temps figé) 
 
 ## J4 — progression professionnelle rapportée
 S28 258 → 808/2098, +550 EXP rapportés. Architecture énergétique +100, fabrication/calibration +90, matrices adaptatives +80 ; inventaire documentaire du soir +0. Différence +280 déjà incluse, ventilation non retrouvée ; ne pas recréditer. Classe A32 2031/2642 inchangée, aucun gain supplémentaire vérifié. Aucun niveau ni point libre nouveau. [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 4 — Bilan.md]]
+
+## J5 — AED-PRO-J5-BILAN
+Purificateur +70 D/Q/N/A2/3/1/1 ; étude chambre +50 1/2/1/1 ; démontage +100 3/3/2/2 ; propulseur +40 1/2/0/1 ; hydraulique +80 2/3/1/2. Total340,808→1148/2098 niveau28. Classe0, mobiles0. Ne pas recréditer. [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 5 — Bilan.md]]
