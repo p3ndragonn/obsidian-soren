@@ -74,12 +74,14 @@
       "date": "22 Doréal 1842 TC",
       "heure": "à confirmer",
       "engagement": "Retour expédition",
-      "statut": "prevu",
+      "statut": "realise",
       "branche": "principale",
       "ordre_creation": 1,
       "source": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 1 — Bilan.md",
       "titre": "Retour expédition",
-      "date_univers": "22 Doréal 1842 TC"
+      "date_univers": "22 Doréal 1842 TC",
+      "ordre_realisation": 8,
+      "source_realisation": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 7 — Bilan.md"
     },
     {
       "id": "AED-AG-007",
@@ -227,7 +229,7 @@
       "heure": "23:59",
       "engagement": "Nouvelle échéance de permis si prolongation délivrée",
       "titre": "Nouvelle échéance de permis si prolongation délivrée",
-      "statut": "conditionnel",
+      "statut": "caduc_propriete",
       "branche": "principale",
       "ordre_creation": 5,
       "source": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 4 — Bilan.md"
@@ -305,7 +307,7 @@
       "heure": "à confirmer",
       "engagement": "Hydromel envisagé au ravitaillement, non commandé",
       "titre": "Hydromel envisagé au ravitaillement, non commandé",
-      "statut": "demande_non_confirme",
+      "statut": "annule",
       "branche": "principale",
       "ordre_creation": 6,
       "source": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 5 — Bilan.md"
@@ -317,10 +319,12 @@
       "heure": "05:30",
       "engagement": "Réveil et lecture messages",
       "titre": "Réveil et lecture messages",
-      "statut": "prevu",
+      "statut": "realise",
       "branche": "principale",
       "ordre_creation": 7,
-      "source": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 6 — Bilan.md"
+      "source": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 6 — Bilan.md",
+      "ordre_realisation": 8,
+      "source_realisation": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 7 — Bilan.md"
     },
     {
       "id": "AED-AG-025",
@@ -329,10 +333,12 @@
       "heure": "06:15",
       "engagement": "Départ, vérifier archives et ouverture N3 ensemble",
       "titre": "Départ, vérifier archives et ouverture N3 ensemble",
-      "statut": "prevu",
+      "statut": "realise",
       "branche": "principale",
       "ordre_creation": 7,
-      "source": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 6 — Bilan.md"
+      "source": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 6 — Bilan.md",
+      "ordre_realisation": 8,
+      "source_realisation": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 7 — Bilan.md"
     },
     {
       "id": "AED-AG-026",
@@ -341,7 +347,7 @@
       "heure": "17:00",
       "engagement": "Logistique demandée (annonce initiale10:00), module et quatre caisses",
       "titre": "Logistique demandée (annonce initiale10:00), module et quatre caisses",
-      "statut": "conditionnel",
+      "statut": "annule",
       "branche": "principale",
       "ordre_creation": 7,
       "source": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 6 — Bilan.md"
@@ -377,7 +383,7 @@
       "heure": "21:29",
       "engagement": "Échéance protocole confidentiel si absence de nouvelles",
       "titre": "Échéance protocole confidentiel si absence de nouvelles",
-      "statut": "conditionnel",
+      "statut": "leve_retour_confirme",
       "branche": "principale",
       "ordre_creation": 7,
       "source": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 6 — Bilan.md"
@@ -393,6 +399,90 @@
       "branche": "principale",
       "ordre_creation": 7,
       "source": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 6 — Bilan.md"
+    },
+    {
+      "id": "AED-AG-31",
+      "date": "22 Doréal 1842 TC",
+      "date_univers": "22 Doréal 1842 TC",
+      "heure": "matin",
+      "titre": "Création entreprise puis repos",
+      "engagement": "Création entreprise puis repos",
+      "statut": "prevu",
+      "branche": "principale",
+      "ordre_creation": 8,
+      "source": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 7 — Bilan.md"
+    },
+    {
+      "id": "AED-AG-32",
+      "date": "22 Doréal 1842 TC",
+      "date_univers": "22 Doréal 1842 TC",
+      "heure": "à convenir",
+      "titre": "Convention tripartite Eryan (payée)",
+      "engagement": "Convention tripartite Eryan (payée)",
+      "statut": "prevu",
+      "branche": "principale",
+      "ordre_creation": 8,
+      "source": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 7 — Bilan.md"
+    },
+    {
+      "id": "AED-AG-33",
+      "date": "22 Doréal 1842 TC",
+      "date_univers": "22 Doréal 1842 TC",
+      "heure": "matin",
+      "titre": "Demande mission spectrale à Guilde",
+      "engagement": "Demande mission spectrale à Guilde",
+      "statut": "prevu",
+      "branche": "principale",
+      "ordre_creation": 8,
+      "source": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 7 — Bilan.md"
+    },
+    {
+      "id": "AED-AG-34",
+      "date": "23 Doréal 1842 TC",
+      "date_univers": "23 Doréal 1842 TC",
+      "heure": "journée",
+      "titre": "Inspection devis sécurité/aménagement avec Dorgan et équipe",
+      "engagement": "Inspection devis sécurité/aménagement avec Dorgan et équipe",
+      "statut": "conditionnel",
+      "branche": "principale",
+      "ordre_creation": 8,
+      "source": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 7 — Bilan.md"
+    },
+    {
+      "id": "AED-AG-35",
+      "date": "23 Doréal 1842 TC",
+      "date_univers": "23 Doréal 1842 TC",
+      "heure": "soir",
+      "titre": "Intervention spectrale et recherche sources",
+      "engagement": "Intervention spectrale et recherche sources",
+      "statut": "conditionnel",
+      "branche": "principale",
+      "ordre_creation": 8,
+      "source": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 7 — Bilan.md"
+    },
+    {
+      "id": "AED-AG-36",
+      "date": "25 Doréal 1842 TC",
+      "date_univers": "25 Doréal 1842 TC",
+      "heure": "à convenir",
+      "titre": "Début mission Eryan 15j",
+      "engagement": "Début mission Eryan 15j",
+      "statut": "prevu",
+      "branche": "principale",
+      "ordre_creation": 8,
+      "source": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 7 — Bilan.md"
+    },
+    {
+      "id": "AED-AG-37",
+      "date": "9 Bruméal 1842 TC",
+      "date_univers": "9 Bruméal 1842 TC",
+      "heure": "à convenir",
+      "titre": "Fin mission Eryan si jours calendaires",
+      "engagement": "Fin mission Eryan si jours calendaires",
+      "statut": "conditionnel",
+      "branche": "principale",
+      "ordre_creation": 8,
+      "source": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 7 — Bilan.md"
     }
   ]
 }

@@ -25,3 +25,8 @@ Seuls les mouvements effectivement encaissés ou payés modifient la trésorerie
 
 ## Référence numérique
 [Registre structuré des finances](Données/finances.json) : source maîtresse des montants, comptes et soldes. Enregistrer le solde résultant par compte, calculable depuis la base et les écritures, ou inconnu. La table ci-dessus est une vue narrative liée aux IDs, non un second journal indépendant.
+
+
+## AED-J7-008 — état actualisé
+19:08 AED-T004 −85 P, solde342847 ;22:23 AED-T005 −9600 P vers entreprise, solde333247. Eryan−60 P,49526 ; entreprise +9600 P référence999600 hors frais non chiffrés.
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 7 — Bilan.md]]

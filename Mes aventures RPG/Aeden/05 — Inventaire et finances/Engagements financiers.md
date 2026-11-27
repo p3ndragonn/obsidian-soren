@@ -20,3 +20,8 @@ sources:
 Une somme promise, réservée, due ou estimée n'est pas un paiement. Suivre remboursements partiels et soldes restant dus sans double comptage.
 
 Aucune dette initiale ni contrat actif. Charges mensuelles estimatives : 1 500 P vie courante, 1 000 P énergie atelier, 800 P entretien/assurances, 700 P transport ; total 4 000 P, sans échéances contractuelles précises ni écritures automatiques. Aucun revenu garanti.
+
+
+## AED-J7-008 — état actualisé
+Mise à disposition Eryan 15 jours 9600 P intégralement payés AED-T005, reste0, convention à signer. Devis sécurité/architecture et prêt bancaire non engagés.
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 7 — Bilan.md]]

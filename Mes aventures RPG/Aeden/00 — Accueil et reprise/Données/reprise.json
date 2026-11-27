@@ -2,17 +2,17 @@
   "schema_version": 1,
   "campagne": "Aeden",
   "branche": "principale",
-  "sauvegarde_id": "AED-J6-007",
-  "ordre": 7,
-  "date_univers": "1842 TC — 20 Doréal",
-  "heure": "21:55",
-  "lieu": "Chambre Aedan, campement Kharvoss",
-  "source_scene": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 6 — Bilan.md",
-  "point_majeur": null,
+  "sauvegarde_id": "AED-J7-008",
+  "ordre": 8,
+  "date_univers": "1842 TC — 22 Doréal",
+  "heure": "00:14",
+  "lieu": "Suite Aedan, résidence Blackwell",
+  "source_scene": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 7 — Bilan.md",
+  "point_majeur": "Acquisition Kharvoss, exclusivité Seravhen, retour",
   "reprise_prevue": {
-    "date_univers": "1842 TC — 21 Doréal",
-    "heure": "05:30",
-    "lieu": "Campement Kharvoss"
+    "date_univers": "1842 TC — 22 Doréal",
+    "heure": "réveil naturel",
+    "lieu": "Résidence Blackwell"
   },
   "regularisation": {
     "id": "AED-REG-J5-001",
@@ -41,5 +41,23 @@
     "n3": "fermé",
     "rapport": "KH-005",
     "permis": "non confirmé"
+  },
+  "etat_j7": {
+    "repas_collectifs": 12,
+    "module_occupe_m3": 100,
+    "module_localisation": "entreprise Victor",
+    "eryan": {
+      "classe_niveau": 22,
+      "classe_exp": 680,
+      "profession_niveau": 46,
+      "profession_exp": 3980
+    },
+    "n3": "refermé, IV Aedan, conservation active",
+    "rapport": "KH-006 non envoyé",
+    "permis": "caduc, propriété personnelle",
+    "solde_personnel": 333247,
+    "solde_eryan": 49526,
+    "orion": "intact, conversion partielle et initiation sensorielle",
+    "mission_eryan_payee": 9600
   }
 }

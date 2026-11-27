@@ -53,3 +53,8 @@ Vivres22 portions (3 jours complets +2 repas individuels) ; module35,300m³ libr
 ## Fin J6 — engagements futurs
 21 Doréal05:30 réveil, lire messages ; 06:15 départ, vérifier verrou archives et tenter ouverture N3 ensemble, ORION ; repas12:00–12:30 ; exploration diurne jusqu'à17h sous réserve trajet camp et logistique. Équipe annoncée10:00, report17:00 demandé non confirmé, quatre caisses, second module, ravitaillement +2 hydromels. 22 Doréal23:59 échéance officielle permis, 29 conditionnelle. Maël retour annoncé24 Doréal. 28 Doréal21:29 échéance protocole confidentiel si absence de nouvelles (aucun accès transmis). 3 Bruméal12:00 déjeuner à trois Portes d'Orion, salon privé après-midi à réserver par Maël. Alyssa plaques/photos3D et analyses attendues. Aucun paiement.
 [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 6 — Bilan.md]]
+
+
+## AED-J7-008 — état actualisé
+22 Doréal création entreprise, demande Guilde spectres, convention Eryan, repos. 23 inspection devis conditionnelle, soir mission spectrale souhaitée non commandée.24 retour Maël,25 début Eryan,3 Bruméal12 déjeuner,9 Bruméal fin si jours calendaires. Permis caduc, protocole non-retour levé.
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 7 — Bilan.md]]
