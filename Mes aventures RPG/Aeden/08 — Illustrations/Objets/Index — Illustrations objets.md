@@ -27,3 +27,15 @@ Conserver ici les fichiers d'images associés, les réutiliser lorsque leur iden
 | IMG-AED-ORION-02 | [[Mes aventures RPG/Aeden/08 — Illustrations/Objets/ORION - Forme compacte.webp|ORION — forme compacte]] | Même automate, pattes et oreilles repliées, queue enroulée | Officielle, WebP 1254 × 1254, v1, 427818 octets | Génération originale ChatGPT, 25 novembre 2026 |
 
 Fiche : [[Mes aventures RPG/Aeden/03 — Personnages et relations/Familiers/ORION]]. Empreintes Git vérifiées contre les fichiers WebP locaux avant intégration.
+
+
+## Résidence Nomade — trois illustrations en attente de transfert
+Intégration demandée par le joueur le 28 novembre 2026. Générations originales ChatGPT, version 1, WebP préparés localement. Fichiers binaires non encore présents dans le dépôt ; ne pas les afficher par lien brut avant vérification.
+
+| Fichier prévu dans ce dossier | Dimensions | Description |
+| --- | --- | --- |
+| Résidence Nomade - Extérieur.webp | 1672 × 941 | Habitation déployée, bois sombre, métal, runes bleues |
+| Résidence Nomade - Plan intérieur.webp | 1448 × 1086 | Plan illustratif des 100 m², non métrique |
+| Résidence Nomade - Intérieur.webp | 1448 × 1086 | Séjour et cuisine |
+
+Fiche : [[Mes aventures RPG/Aeden/05 — Inventaire et finances/Objets/Résidence Nomade]]. Les faits textuels priment ; accessoires représentés non assimilés à des achats. À réception des fichiers, vérifier leur existence, ajouter les liens relatifs dans la fiche et le présent index, puis marquer le transfert comme terminé.
