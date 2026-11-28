@@ -42,3 +42,8 @@ J7 collaboration N3, Eryan soutient acquisition personnelle, confidence clause07
 ## J8
 Amitié mutuelle explicitement affirmée, droit de tirer Aedan du travail pour sorties comme Maël ; aucun couple ni rapprochement intime établi. Eryan veut autonomie, Aedan souhaite progression avec groupes différents.14:05 trois missions transmises par Guilde « De la part d'Aeden. Progresse, et plus de M. Prudence ! » Aucun choix confirmé. [[Mes aventures RPG/Aeden/06 — Quêtes et projets/Missions/Propositions de missions — Eryan J8.md]].
 [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 8 — Bilan intermédiaire.md]]
+
+
+## Fin J8 — 22 Doréal 1842 TC
+Aedan dit à famille avoir trouvé nouvel ami gentil, intéressant, passionné, capable de l'éloigner travail, points communs non détaillés. Eryan écrit22:46 que solitude après semaine ensemble lui semble étrange, bonne nuit, rendez-vous demain. Aucun couple ni engagement intime.
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 8 — Bilan.md]]

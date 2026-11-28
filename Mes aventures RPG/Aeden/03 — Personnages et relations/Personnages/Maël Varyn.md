@@ -52,3 +52,8 @@ J7 05:08 réservation demandée3 Bruméal midi–18h, non confirmée. 17:17 mess
 ## J8
 07:02 confirme table trois le3 Bruméal12h et salon privé jusqu'à18h, restaurant et prix inconnus. Retour annoncé24 Doréal. Aucun engagement associé ni accès ORION.
 [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 8 — Bilan intermédiaire.md]]
+
+
+## Fin J8 — 22 Doréal 1842 TC
+Dossier Arche reçu, discussion apports financiers/matériels/IP, propositions3 Bruméal, localisation privée Kharvoss reçue, visite25 matin avec diagnostics, boissons envisagées. Retour24 maintenu. Aucun engagement capital ou salaire.
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 8 — Bilan.md]]

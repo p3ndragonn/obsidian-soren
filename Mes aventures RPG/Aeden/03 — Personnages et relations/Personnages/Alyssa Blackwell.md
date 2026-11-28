@@ -67,3 +67,8 @@ Récupère deux plaques originales J6, relevés3D J7, compléments traduction21:
 
 ## J8 — Recherche confiée (22 Doréal, 08:10–08:18)
 Aedan autorise Alyssa à étudier anonymement les précédents de reconnaissance des constructs comme familiers et les mécanismes historiques d'éveil des Automates conscients, sans divulguer ORION ni l'identité d'Aedan. Elle a vu la notification et comparé les Identifications ; aucun résultat d'archives encore acquis. Aucun délai, rémunération ou commande externe convenu. Les découvertes seront rapportées en jeu.
+
+
+## Fin J8 — 22 Doréal 1842 TC
+Partenariat [[Mes aventures RPG/Aeden/06 — Quêtes et projets/Contrats/AI-PART-1842-001 — Alyssa Blackwell.md]] signé, 30j à première entrée professionnelle KN3, visite familiale exclue, 5 rapports Aedan dus,0 réalisés, confidentialité renforcée, activité indépendante conservée, aucune dépense. Propose soirée quatre avec Maël/Eryan, date non fixée. Aedan décrit Eryan comme ami, sans détails intimes.
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 8 — Bilan.md]]

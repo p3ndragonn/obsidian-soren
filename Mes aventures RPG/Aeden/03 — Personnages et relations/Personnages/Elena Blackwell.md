@@ -67,3 +67,8 @@ J7 reçoit Eryan pour dîner19:30, accueille chaleureusement, propose fournisseu
 ## J8
 Petit-déjeuner Aedan/Eryan/Alyssa, informée familier ORION.11:31–38 facilite rendez-vous bancaire Gabriel Veldran qu'elle connaît depuis30 ans, conseille négocier. Aucun prêt ni garantie parentale.
 [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 8 — Bilan intermédiaire.md]]
+
+
+## Fin J8 — 22 Doréal 1842 TC
+Dîner familial, fière de création Arche, évoque canal vente Écrin d'Éther sans accord ; apprécie Eryan, invite à sortie commune. Visite famille Kharvoss semaine suivante à convenir.
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 8 — Bilan.md]]

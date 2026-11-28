@@ -67,3 +67,8 @@ KH-AV-001 signe personnel/entreprise15:24 renonciation Kharvoss, Aedan signature
 ## J8
 06:48 Dorgan disponible23, horaire à confirmer, sécurité non confirmée. Convention mise à disposition Eryan signée tripartite08:40, 9600 P encaissés J7 ; quatre S au labo Mira07:19, KH-006 demandé non envoyé. Aucun apport de Victor à Arche ni financement accordé.
 [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 8 — Bilan intermédiaire.md]]
+
+
+## Fin J8 — 22 Doréal 1842 TC
+Confirme Dorgan et3 techniciens23 09h ; reprise ancien abri après vidage Aedan/Eryan ; anciens équipements communication/relais à vérifier, don labo promis sous cession écrite après contrôle par Mira, pas livré. Invitation Mira KN3 conditionnelle pour essais4 S, collaboration résultats à négocier. Visite famille semaine prochaine. KH-006 reçu en transmission22:08, pas de réponse attestée.
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 8 — Bilan.md]]

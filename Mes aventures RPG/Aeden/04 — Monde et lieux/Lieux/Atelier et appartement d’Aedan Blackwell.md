@@ -27,3 +27,8 @@ Propriété personnelle d'Aedan aux Portes d'Orion, quartier mixte artisanal/ré
 ## J8
 Domicile provisoire Arche Industries, bâtiment reste propriété Aedan. Retour14:26, moto garage, ORION canapé. [[Mes aventures RPG/Aeden/15 — Économie et commerces/Entreprises/Arche Industries.md]].
 [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 8 — Bilan intermédiaire.md]]
+
+
+## Fin J8 — 22 Doréal 1842 TC
+Retour21:11, KH-006 rédigé et transmis, stocks personnels trois lots transférés bracelet, projets disponibles emportés, installations fixes restent. Combat préparé, moto garage. Coucher22:57, réveil05:45, rendez-vous Eryan06:20.
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 8 — Bilan.md]]

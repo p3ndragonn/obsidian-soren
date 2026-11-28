@@ -450,14 +450,14 @@
       "id": "AED-AG-34",
       "date": "23 Doréal 1842 TC",
       "date_univers": "23 Doréal 1842 TC",
-      "heure": "heure à confirmer",
+      "heure": "09:00",
       "titre": "Dorgan disponible ; équipe sécurité et horaire à confirmer",
       "engagement": "Dorgan disponible ; équipe sécurité et horaire à confirmer",
-      "statut": "conditionnel",
+      "statut": "confirme",
       "branche": "principale",
       "ordre_creation": 8,
       "source": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 7 — Bilan.md",
-      "source_actualisation": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 8 — Bilan intermédiaire.md"
+      "source_actualisation": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 8 — Bilan.md"
     },
     {
       "id": "AED-AG-35",
@@ -544,6 +544,114 @@
       "branche": "principale",
       "ordre_creation": 9,
       "source": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 8 — Bilan intermédiaire.md"
+    },
+    {
+      "id": "AED-AG-42",
+      "date": "23 Doréal 1842 TC",
+      "date_univers": "23 Doréal 1842 TC",
+      "heure": "05:45",
+      "titre": "Réveil Aedan",
+      "engagement": "Réveil Aedan",
+      "statut": "prevu",
+      "branche": "principale",
+      "ordre_creation": 10,
+      "source": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 8 — Bilan.md"
+    },
+    {
+      "id": "AED-AG-43",
+      "date": "23 Doréal 1842 TC",
+      "date_univers": "23 Doréal 1842 TC",
+      "heure": "06:20",
+      "titre": "Eryan appartement, café",
+      "engagement": "Eryan appartement, café",
+      "statut": "confirme",
+      "branche": "principale",
+      "ordre_creation": 10,
+      "source": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 8 — Bilan.md"
+    },
+    {
+      "id": "AED-AG-44",
+      "date": "23 Doréal 1842 TC",
+      "date_univers": "23 Doréal 1842 TC",
+      "heure": "06:30",
+      "titre": "Départ Kharvoss",
+      "engagement": "Départ Kharvoss",
+      "statut": "prevu",
+      "branche": "principale",
+      "ordre_creation": 10,
+      "source": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 8 — Bilan.md"
+    },
+    {
+      "id": "AED-AG-45",
+      "date": "23 Doréal 1842 TC",
+      "date_univers": "23 Doréal 1842 TC",
+      "heure": "09:00",
+      "titre": "Dorgan et trois techniciens, inspection et reprise ancien abri",
+      "engagement": "Dorgan et trois techniciens, inspection et reprise ancien abri",
+      "statut": "confirme",
+      "branche": "principale",
+      "ordre_creation": 10,
+      "source": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 8 — Bilan.md"
+    },
+    {
+      "id": "AED-AG-46",
+      "date": "23 Doréal 1842 TC",
+      "date_univers": "23 Doréal 1842 TC",
+      "heure": "fin après-midi",
+      "titre": "Retour Eryan",
+      "engagement": "Retour Eryan",
+      "statut": "prevu",
+      "branche": "principale",
+      "ordre_creation": 10,
+      "source": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 8 — Bilan.md"
+    },
+    {
+      "id": "AED-AG-47",
+      "date": "25 Doréal 1842 TC",
+      "date_univers": "25 Doréal 1842 TC",
+      "heure": "matin",
+      "titre": "Visite Maël avec diagnostics",
+      "engagement": "Visite Maël avec diagnostics",
+      "statut": "prevu",
+      "branche": "principale",
+      "ordre_creation": 10,
+      "source": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 8 — Bilan.md"
+    },
+    {
+      "id": "AED-AG-48",
+      "date": "semaine prochaine",
+      "date_univers": "semaine prochaine",
+      "heure": "à convenir",
+      "titre": "Visite familiale, hors décompte Alyssa",
+      "engagement": "Visite familiale, hors décompte Alyssa",
+      "statut": "conditionnel",
+      "branche": "principale",
+      "ordre_creation": 10,
+      "source": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 8 — Bilan.md"
+    },
+    {
+      "id": "AED-AG-49",
+      "date": "à confirmer",
+      "date_univers": "à confirmer",
+      "heure": "première entrée professionnelle",
+      "titre": "Début partenariat Alyssa 30j",
+      "engagement": "Début partenariat Alyssa 30j",
+      "statut": "conditionnel",
+      "branche": "principale",
+      "ordre_creation": 10,
+      "source": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 8 — Bilan.md"
+    },
+    {
+      "id": "AED-AG-50",
+      "date": "à confirmer",
+      "date_univers": "à confirmer",
+      "heure": "après analyses",
+      "titre": "Mira visite KN3 sous sécurité",
+      "engagement": "Mira visite KN3 sous sécurité",
+      "statut": "conditionnel",
+      "branche": "principale",
+      "ordre_creation": 10,
+      "source": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 8 — Bilan.md"
     }
   ]
 }

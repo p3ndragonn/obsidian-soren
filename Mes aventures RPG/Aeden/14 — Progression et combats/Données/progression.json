@@ -82,7 +82,7 @@
       },
       "profession": {
         "niveau": 46,
-        "exp": 3890
+        "exp": 3980
       }
     }
   ],
@@ -211,6 +211,21 @@
       "profession_gain": 90,
       "profession_exp": 3980,
       "source": "réactivation énergie N3"
+    }
+  },
+  "etat_j8": {
+    "date": "22 Doréal 1842 TC",
+    "aedan": {
+      "classe_gain": 0,
+      "classe_exp": 2031,
+      "profession_exp": 1568,
+      "profession_gain_j7": "à arbitrer",
+      "gain_j8_attribue": 0
+    },
+    "eryan": {
+      "classe_exp": 680,
+      "profession_exp": 3980,
+      "gain_j8": 0
     }
   }
 }

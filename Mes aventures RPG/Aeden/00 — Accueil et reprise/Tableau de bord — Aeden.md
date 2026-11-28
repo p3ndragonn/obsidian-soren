@@ -62,3 +62,8 @@ AED-J8-009, ordre9, sauvegarde intermédiaire, Ignis22 Doréal1842 TC 14:26, app
 
 Solde personnel220519 P, Arche Industries AI-1842-001 immatriculée12:36 capital100000 P libéré, trésorerie100000 P dette0, Aedan100%. Kharvoss personnel, usage gratuit société ; N3 fermé conservation, IV Aedan, N1/N2 éclairage, camp verrouillé12 portions. Quatre S Victor labo Mira, KH-006 non envoyé, KH-AV-001 signature Aedan non jouée. Seravhen exclusivité personnelle. Eryan convention signée08:40, 25 Doréal–9 Bruméal inclus,9600 P déjà payés J7. Demain Dorgan disponible horaire en attente, équipe sécurité à confirmer, devis Thélian Arvand N3 en attente. Spectres23 19h–24 7h payé9680 P personnel, Aedan présent pour accès. Maël retour24, déjeuner3 Bruméal12h table3 salon jusqu'à18h réservé. Eryan trois propositions missions14:05 non acceptées. Aucune directive imposée Guilde/Couronne Bruméal (Fondateur). Reprendre 14:26 sans ellipse. [[Mes aventures RPG/Aeden/15 — Économie et commerces/Entreprises/Arche Industries.md]].
 [[Mes aventures RPG/Aeden/99 — Archives/États de reprise/AED-J8-009.md]]
+
+
+## Fin J8 — 22 Doréal 1842 TC
+AED-J8-010, fin22:57, prochaine reprise23 05:45, personnel200500 P, Arche73197 P, capital100000 P, aucun prêt. Rapport KH-006 transmis. KN3, partenariat Alyssa signé délai non déclenché, Dorgan et3 techniciens23 09h, spectres19h.
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 8 — Bilan.md]]

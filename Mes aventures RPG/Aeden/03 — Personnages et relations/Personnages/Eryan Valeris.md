@@ -179,3 +179,8 @@ J7 N3 G1 réactivé, +90 EXP profession B46 3980/5050, classe C22 680/1402 incha
 ## J8 — 22 Doréal
 Repos22–24, convention tripartite signée08:40, mission25 Doréal–9 Bruméal,9600 P payés J7 par Aedan. [[Mes aventures RPG/Aeden/06 — Quêtes et projets/Contrats/BDA-MAD-1842-027 — Mise à disposition Eryan.md]]. Petit-déjeuner famille, témoin familier ORION/perception passive.09:38 quitte appartement Aedan, matériel récupéré, emprunte chemise crème/pantalon noir à rendre lavés, courses et marche prévues. Amitié affirmée, Aedan autorise à le tirer de ses recherches pour sorties comme Maël. Visite famille évoquée sans réservation, disponible demain si sollicité sans confirmation. Lïanna amie d'enfance ; pas d'association ni couple.14:05 [[Mes aventures RPG/Aeden/06 — Quêtes et projets/Missions/Propositions de missions — Eryan J8.md]] transmises par Guilde, choix libre non reçu. Grade Bronze, classe C22 680/1402, profession B46 3980/5050, solde49526 P, aucune variation J8 confirmée.
 [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 8 — Bilan intermédiaire.md]]
+
+
+## Fin J8 — 22 Doréal 1842 TC
+Appel vidéo14:34–15:24, dossier Arche reçu, propositions apports/IP à préparer3 Bruméal ; pas associé ni démission. Val-Cendre/Merath intéressants mais aucun choix. Accompagne Aedan volontairement23, rendez-vous06:20 café, départ06:30, retour fin après-midi, repos24. KH-006 reçu, confirme22:46, vêtements empruntés lavés à rendre, solitude inhabituelle après semaine ensemble. Aucun gain EXP ni dépense.
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 8 — Bilan.md]]

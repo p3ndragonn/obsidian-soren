@@ -37,3 +37,8 @@ Coucher21:55, réveil prévu05:30 J7. 16 portions collectives ; premier module p
 ## J7 — 21 Doréal 1842 TC
 J7 départ14:18, abri laissé verrouillé et protection active, outils et deux cristaux de terre restent,12 portions collectives. Module A100m³ plein emporté puis remis entreprise15:18. Second module/ravitaillement/hydromel annulés, non livrés. Statut location prolongée annoncé sans décompte nouveau ; restitution/contrat abri à clarifier. Réinstallation camp projetée avant25 Doréal.
 [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 7 — Bilan.md]]
+
+
+## Fin J8 — 22 Doréal 1842 TC
+12 portions, outils,2 cristaux terre, verrouillé. Nouvel abri B Arche et Aquaeris au bracelet non installés. Ancien abri à vider23 Aedan/Eryan puis reprise par techniciens. Ancien paiement location non réconcilié.
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 8 — Bilan.md]]
