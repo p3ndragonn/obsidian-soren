@@ -7,8 +7,8 @@
       "nature": "personnel",
       "devise": "P",
       "solde_initial": "350000",
-      "solde_actuel": "220519",
-      "date_univers": "1842 TC — 22 Doréal 14:26",
+      "solde_actuel": "200500",
+      "date_univers": "1842 TC — 22 Doréal 22:57",
       "source": "Validation explicite du joueur ; solde initial, pas transaction",
       "branche": "principale"
     },
@@ -18,8 +18,8 @@
       "nature": "professionnel",
       "devise": "P",
       "solde_initial": "0",
-      "solde_actuel": "100000",
-      "date_univers": "1842 TC — 22 Doréal 14:26",
+      "solde_actuel": "73197",
+      "date_univers": "1842 TC — 22 Doréal 22:57",
       "branche": "principale",
       "source": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 8 — Bilan intermédiaire.md"
     }
@@ -161,6 +161,76 @@
       "ordre": 9,
       "source": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 8 — Bilan intermédiaire.md",
       "solde_apres": "220519"
+    },
+    {
+      "id": "AED-T010",
+      "heure": "16:27",
+      "montant": "-17772",
+      "libelle": "Malle B, vivres et boissons",
+      "contrepartie": "Les Réserves du Voyageur",
+      "date_univers": "1842 TC — 22 Doréal",
+      "compte_id": "COMPTE-AED-001",
+      "statut": "effectue",
+      "branche": "principale",
+      "ordre": 10,
+      "source": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 8 — Bilan.md",
+      "solde_apres": "202747"
+    },
+    {
+      "id": "AED-T011",
+      "heure": "17:08",
+      "montant": "-1050",
+      "libelle": "Vêtements",
+      "contrepartie": "Le Fil de Soie",
+      "date_univers": "1842 TC — 22 Doréal",
+      "compte_id": "COMPTE-AED-001",
+      "statut": "effectue",
+      "branche": "principale",
+      "ordre": 10,
+      "source": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 8 — Bilan.md",
+      "solde_apres": "201697"
+    },
+    {
+      "id": "AED-T012",
+      "heure": "17:46",
+      "montant": "-25000",
+      "libelle": "Résidence Nomade B",
+      "contrepartie": "Les Horizons Nomades",
+      "date_univers": "1842 TC — 22 Doréal",
+      "compte_id": "COMPTE-ARCHE-001",
+      "statut": "effectue",
+      "branche": "principale",
+      "ordre": 10,
+      "source": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 8 — Bilan.md",
+      "solde_apres": "75000"
+    },
+    {
+      "id": "AED-T013",
+      "heure": "18:27",
+      "montant": "-1803",
+      "libelle": "Aquaeris B",
+      "contrepartie": "La Maison du Confort",
+      "date_univers": "1842 TC — 22 Doréal",
+      "compte_id": "COMPTE-ARCHE-001",
+      "statut": "effectue",
+      "branche": "principale",
+      "ordre": 10,
+      "source": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 8 — Bilan.md",
+      "solde_apres": "73197"
+    },
+    {
+      "id": "AED-T014",
+      "heure": "18:27",
+      "montant": "-1197",
+      "libelle": "Articles domestiques",
+      "contrepartie": "La Maison du Confort",
+      "date_univers": "1842 TC — 22 Doréal",
+      "compte_id": "COMPTE-AED-001",
+      "statut": "effectue",
+      "branche": "principale",
+      "ordre": 10,
+      "source": "Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 8 — Bilan.md",
+      "solde_apres": "200500"
     }
   ],
   "note_j2": "Aucun flux Aedan. Eryan 49586 P ; entreprise 990000 P hors coûts non quantifiés, permis 17000 et locations 10000 P engagés, règlements non confirmés.",
@@ -169,5 +239,6 @@
   "note_j5": "Aucun flux ;342932 P. Hydromel non commandé, permis/second module non confirmés. Valeur récupérations entreprise non encaissée.",
   "note_j6": "Aucun flux ; Aedan342932 P, Eryan49586 P, entreprise990000 P hors dépenses non confirmées ; engagements27000 P non attestés payés. Hydromel, caisses, second module et salon demandés ou envisagés, pas de paiement. Butin non vendu.",
   "note_j7": "Eryan−60 P pâtisseries,49526 P ; entreprise +9600 P avance encaissée, référence999600 P hors frais non chiffrés ; engagements27000 P anciens non attestés réglés. Aucun prix acquisition ni revenu butin.",
-  "note_j8": "Apport capital non charge, société distincte, frais 60 P/mois non débités ; aucune dette. Anciennes finances Victor/Eryan inchangées."
+  "note_j8": "Apport capital non charge, société distincte, frais 60 P/mois non débités ; aucune dette. Anciennes finances Victor/Eryan inchangées.",
+  "note_fin_j8": "Personnel200500, Arche73197 ; capital100000, dette0, aucun revenu ni apport supplémentaire."
 }

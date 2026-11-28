@@ -20,7 +20,7 @@
   ],
   "participation_fondateur_pct": 100,
   "compte_id": "COMPTE-ARCHE-001",
-  "tresorerie_P": 100000,
+  "tresorerie_P": 73197,
   "dette_P": 0,
   "chiffre_affaires_P": 0,
   "associes_confirmes": [],
@@ -100,6 +100,32 @@
       "activite": "Commercialisation et distribution ; aucun stock commercial constitué, vente ou chiffre d'affaires ; compte central Arche.",
       "budget_affecte_P": null,
       "personnel_affecte": []
+    }
+  ],
+  "installations": {
+    "nom_interne": "KN3",
+    "statut": "préservation, essais non autorisés"
+  },
+  "actifs_achetes": [
+    {
+      "nom": "Résidence Nomade B",
+      "prix_P": 25000
+    },
+    {
+      "nom": "Aquaeris B",
+      "prix_P": 1803
+    }
+  ],
+  "partenariats": [
+    {
+      "id": "AI-PART-1842-001",
+      "partenaire": "Alyssa Blackwell",
+      "statut": "signé, délai non déclenché",
+      "duree_j": 30,
+      "expertises_dues": 5,
+      "expertises_realisees": 0,
+      "remuneration_P": 0,
+      "visite_familiale_exclue": true
     }
   ]
 }

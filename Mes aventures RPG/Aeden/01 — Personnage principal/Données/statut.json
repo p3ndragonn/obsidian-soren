@@ -63,9 +63,9 @@
   ],
   "points_libres": 0,
   "affiliations_ref": "affiliations.json",
-  "etat_date": "1842 TC — 22 Doréal 14:26",
+  "etat_date": "1842 TC — 22 Doréal 22:57",
   "exp_j2_statut": "combat_et_profession_attribues",
-  "ressources_note": "Tenue civile, HP2650 sans blessure, MP3950 au repos après injection matinale non mesurée et récupération95/min ; EP exact non mesuré. Aucun EXP J8 attribué, profession J7 à arbitrer.",
+  "ressources_note": "Short léger, sans blessure, HP2650 MP3950 au repos, EP non mesuré ; aucun gain J8, EXP métier J7 à arbitrer.",
   "exp_combat_j2": {
     "gain": 53,
     "avant": 1450,

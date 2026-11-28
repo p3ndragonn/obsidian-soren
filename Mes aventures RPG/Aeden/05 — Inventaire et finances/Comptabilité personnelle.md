@@ -39,3 +39,8 @@ Aucune transaction personnelle confirmée ; solde Aedan342932 P, Eryan49586 P, e
 ## J8 — 14:26
 333247 -3000 -100000 -48 -9680 = 220519 P liquidités personnelles ; participation 100000 P nominal, compte société séparé ; dépenses personnelles12728 P hors apport. Aucun emprunt. [[Mes aventures RPG/Aeden/15 — Économie et commerces/Entreprises/Arche Industries.md]]
 [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 8 — Bilan intermédiaire.md]]
+
+
+## Fin J8
+Solde200500 P (220519−17772−1050−1197), hors compte Arche73197 P. Valeurs de stock non liquides, aucun nouveau revenu.
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 8 — Bilan.md]]

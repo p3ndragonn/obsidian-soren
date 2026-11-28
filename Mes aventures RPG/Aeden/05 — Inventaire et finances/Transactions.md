@@ -41,3 +41,15 @@ Seuls les mouvements effectivement encaissés ou payés modifient la trésorerie
 | AED-T009 | Aedan | 13:53 | Contrat spectral intégral | -9680 | 220519 |
 Transfert capital interne au périmètre patrimonial, ni charge ni chiffre d'affaires.
 [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 8 — Bilan intermédiaire.md]]
+
+
+## J8 — suite après14:26
+| ID | Compte | Heure | Nature | Montant P | Solde après |
+|---|---|---|---|---:|---:|
+| AED-T010 | Aedan | 16:27 | Malle B15000, vivres2457, hydromel135, bière180 | -17772 | 202747 |
+| AED-T011 | Aedan | 17:08 | Vêtements et chaussures | -1050 | 201697 |
+| AED-T012 | Arche | 17:46 | Résidence Nomade B | -25000 | 75000 |
+| AED-T013 | Arche | 18:27 | Aquaeris B | -1803 | 73197 |
+| AED-T014 | Aedan | 18:27 | Articles domestiques | -1197 | 200500 |
+Aucun autre flux. Cafétière offerte. Stocks personnels transférés, pas apport ni achat.
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 8 — Bilan.md]]

@@ -39,3 +39,7 @@ AED-J7-008 ordre8, nuit 21→22 Doréal 1842 TC 00:14, suite familiale Aedan, r�
 
 ## J8 — dernière reprise
 [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 8 — Bilan intermédiaire.md]] ; [[Mes aventures RPG/Aeden/99 — Archives/États de reprise/AED-J8-009.md]]
+
+
+- [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 8 — Bilan.md|Jour 8 — Bilan final]] — AED-J8-010, 22:57.
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 8 — Bilan.md]]
