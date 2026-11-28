@@ -62,3 +62,8 @@ Vivres22 portions (3 jours complets +2 repas individuels) ; module35,300m³ libr
 ## J8 — 14:26, état courant
 Création réalisée12:36, convention Eryan signée08:40, mission spectrale commandée/payée13:53. 23 Doréal Dorgan disponible horaire à confirmer, équipe sécurité à confirmer, devis Arvand N3 en attente ; 23 19h–24 7h spectres confirmé ; Maël retour24 ; Eryan25 Doréal–9 Bruméal inclus ; 3 Bruméal12h table3 salon jusqu'à18h réservé ; propositions Eryan14:05 non acceptées. KH-006 en attente.
 [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 8 — Bilan intermédiaire.md]]
+
+
+## Fin J8 — échéances
+23 05:45 réveil,06:20 Eryan/café,06:30 départ,07:15–30 arrivée estimée, installation résidence/condenser test,09:00 Dorgan et3 techniciens confirmés ; ancien abri vidé puis reprise, communication/relay test. Eryan retour fin après-midi, repos24. 23 19h–24 07h spectres confirmé payé. Maël retour24, visite25 matin. 25–9 Bruméal Eryan ;3 Bruméal12h réunion apports. Visite famille semaine prochaine date à définir, ne déclenche pas délai Alyssa. AI-PART-1842-001 départ première entrée professionnelle,30j. Mira analyses puis visite conditionnelle, Arvand devis en attente. KH-006 transmis22:08.
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 8 — Bilan.md]]

@@ -33,3 +33,8 @@ Référence administrative : épée au fourreau ; tenue réelle au lancement à 
 
 ## Fin J2
 Short de nuit, tenue de combat/bottes/ceinture/brassards/Vesperyx non actifs. Bracelet possédé, aucun bonus. Table = référence équipée et non état coucher. [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 2 — Bilan.md]].
+
+
+## Fin J8
+Aedan short léger noir, bracelet possédé ; équipement combat complet préparé mais non porté. Aucun bonus équipement combat au coucher.
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 8 — Bilan.md]]

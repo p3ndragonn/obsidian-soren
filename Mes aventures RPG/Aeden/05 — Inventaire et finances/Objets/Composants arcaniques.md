@@ -15,3 +15,8 @@ sources:
 # Composants arcaniques
 
 Propriétaire : Aedan Blackwell. Quantité initiale : 1 lot. Valeur estimée par unité/lot : 10000 P ; total initial 10000 P. Emplacement : Réserve atelier. Lot ; composition et quantités détaillées non définies. Rareté individuelle non définie. Aucun usage ni achat joué.
+
+
+## J8 22:26–48
+Lot personnel intégral déplacé de réserve atelier au bracelet, destination KN3, composition et quantités à inventorier. Ni achat, ni consommation, ni apport Arche.
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 8 — Bilan.md]]

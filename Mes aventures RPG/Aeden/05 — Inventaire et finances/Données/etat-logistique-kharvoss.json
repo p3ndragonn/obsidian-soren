@@ -50,5 +50,44 @@
     "n3": "refermé, conservation active",
     "propriete": "Aedan",
     "note": "0,135m³ hors module localisation partielle à vérifier"
+  },
+  "etat_j8": {
+    "date": "22 Doréal 1842 TC 22:57",
+    "repas_anciens_camp": 12,
+    "repas_nouveaux_malle": 189,
+    "repas_total": 201,
+    "eau_nouvelle_L": 120,
+    "malle": {
+      "proprietaire": "Aedan",
+      "rarete": "B",
+      "prix_P": 15000,
+      "volume_interieur_m3": 3,
+      "conservation_j": 180,
+      "compartiments": 6,
+      "localisation": "bracelet, emboîtement observé non généralisé"
+    },
+    "residence": {
+      "proprietaire": "Arche Industries",
+      "rarete": "B",
+      "prix_P": 25000,
+      "surface_interieure_m2": 100,
+      "localisation": "bracelet",
+      "installee": false
+    },
+    "condenseur": {
+      "nom": "Aquaeris",
+      "proprietaire": "Arche Industries",
+      "rarete": "B",
+      "prix_P": 1803,
+      "production_L_j": [
+        40,
+        150
+      ],
+      "reservoir_L": 60,
+      "installe": false
+    },
+    "ancien_abri": "à vider Aedan/Eryan puis reprise techniciens23",
+    "don_materiel": "promis non livré",
+    "KN3": "fermé, conservation active"
   }
 }

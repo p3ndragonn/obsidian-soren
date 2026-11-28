@@ -67,3 +67,8 @@ Situation après les récupérations et avant les travaux d’aménagement. Sch�
 ## J8 — convention et sécurisation
 Propriété Aedan maintenue, société Arche bénéficie usage gratuit, finance travaux N1/N2 et préservation N3, pas d'apport immobilier. Dorgan disponible23 horaire en attente, Arvand sollicité N3 uniquement, devis non reçu. [[Mes aventures RPG/Aeden/15 — Économie et commerces/Entreprises/Arche Industries.md]] ; [[Mes aventures RPG/Aeden/06 — Quêtes et projets/Contrats/KH-SP-1842-001 — Sécurisation spectrale.md]].
 [[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 8 — Bilan intermédiaire.md]]
+
+
+## Fin J8
+Nom officiel interne laboratoire du N3 : KN3. Pas d'ouverture nouvelle. Dorgan et3 techniciens confirmés23 09h, mission spectres19h–24 07h. Visite familiale semaine prochaine date à fixer, exclue du délai partenariat Alyssa. Invitation Mira conditionnelle après analyses ; aucun transfert/activation. Arvand devis en attente.
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 8 — Bilan.md]]

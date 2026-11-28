@@ -44,3 +44,8 @@ Domicile provisoire atelier personnel Aedan ; transfert futur à Kharvoss après
 
 ![Logo principal original](../../08%20%E2%80%94%20Illustrations/Logos/ARCHE%20Industries/arche-industries.png)
 [[Mes aventures RPG/Aeden/08 — Illustrations/Logos/Index — Illustrations logos.md]].
+
+
+## Fin J8 — 22:57
+Trésorerie73197 P, capital100000 P inchangé, dette0, CA0. Achats Résidence Nomade B25000 P, Aquaeris B1803 P (société), au bracelet Aedan, non installés. Dossier complet transmis Eryan/Maël, discussion profits après association, aucun associé ni pacte. Propositions apports et IP à préparer3 Bruméal. KN3 nom officiel interne. [[Mes aventures RPG/Aeden/06 — Quêtes et projets/Contrats/AI-PART-1842-001 — Alyssa Blackwell.md|Partenariat Alyssa]] signé, délai non déclenché, cinq rapports dus, 0 P. Mira collaboration envisagée. Don BDA matériel ancien promis non livré. Aucune charge nouvelle hors achats, pas de transfert des stocks personnels.
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 8 — Bilan.md]]

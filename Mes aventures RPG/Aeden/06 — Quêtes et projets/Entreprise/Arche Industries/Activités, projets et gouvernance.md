@@ -28,3 +28,8 @@ sources: ["J8, scènes jouées 10:24–14:26"]
 | [[Mes aventures RPG/Aeden/04 — Monde et lieux/Factions/ARCHE Industries/ARCHE Restoration.md]] | Restauration et conservation, patrimoine et installations anciennes ; N3 préservation, expertise Arvand indépendante en attente, aucun travail lancé. | [[Mes aventures RPG/Aeden/08 — Illustrations/Logos/ARCHE Industries/arche-restoration.png]] |
 | [[Mes aventures RPG/Aeden/04 — Monde et lieux/Factions/ARCHE Industries/ARCHE Commerce.md]] | Commercialisation et distribution ; aucun stock commercial constitué, vente ou chiffre d'affaires ; compte central Arche. | [[Mes aventures RPG/Aeden/08 — Illustrations/Logos/ARCHE Industries/arche-commerce.png]] |
 Toutes sont rattachées à AI-1842-001 ; aucune filiale, budget par division, associé ou personnel affecté n'a été validé.
+
+
+## Fin J8
+Dossier complet transmis Eryan/Maël ; propositions apports financiers, matériels et IP à préparer3 Bruméal. Pas de salaire souhaité après association, profits distribués uniquement ; discussion, aucune modification statutaire. Premier mois libre appropriation des installations envisagé. KN3 nom interne, partenariat Alyssa signé30j, délai non déclenché, cinq expertises personnelles Aedan, confidentialité. Mira quatre S projet conditionnel, aucun partage résultat fixé. Don BDA matériel ancien promis. Visite Eryan23, Maël25.
+[[Mes aventures RPG/Aeden/02 — Journal et chronologie/Récits/Jour 8 — Bilan.md]]
